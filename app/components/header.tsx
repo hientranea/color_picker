@@ -1,15 +1,21 @@
 import React from 'react';
+import Image from 'next/image';
 
 export default function Header() {
   return (
-    <header className="bg-white shadow-md">
+    <header className="text-white shadow-md">
       <div className="container mx-auto px-4 py-6 flex justify-between items-center">
-        <h1 className="text-2xl font-bold">Your Product Name</h1>
+        <div className="w-12 h-12">
+          <Image src="/color_picker/icApp.png" alt="Color Picker" width={60} height={60} unoptimized />
+        </div>
         <nav>
-          <ul className="flex space-x-4">
-            <li><a href="#features" className="text-gray-600 hover:text-gray-900">Features</a></li>
-            <li><a href="#pricing" className="text-gray-600 hover:text-gray-900">Pricing</a></li>
-            <li><a href="#contact" className="text-gray-600 hover:text-gray-900">Contact</a></li>
+          <ul className="flex space-x-6">
+            <li><a href="#features" className="hover:text-gray-900">Features</a></li>
+            <li>
+              <a href="https://github.com/hientranea/colorpicker" className="hover:text-gray-900 flex">
+                <Image src="/color_picker/icGithub.svg" alt="Github" width={25} height={25} unoptimized />
+              </a>
+            </li>
           </ul>
         </nav>
       </div>
