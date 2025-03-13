@@ -1,7 +1,6 @@
-// app/components/GradientBackground.tsx
-'use client';
+"use client";
 
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef } from "react";
 
 const GradientBackground: React.FC = () => {
   const gradientRef = useRef<HTMLDivElement>(null);
@@ -13,7 +12,7 @@ const GradientBackground: React.FC = () => {
       [255, 35, 98],
       [45, 175, 230],
       [255, 0, 255],
-      [255, 128, 0]
+      [255, 128, 0],
     ];
 
     let step = 0;
@@ -47,8 +46,14 @@ const GradientBackground: React.FC = () => {
         colorIndices[0] = colorIndices[1];
         colorIndices[2] = colorIndices[3];
 
-        colorIndices[1] = (colorIndices[1] + Math.floor(1 + Math.random() * (colors.length - 1))) % colors.length;
-        colorIndices[3] = (colorIndices[3] + Math.floor(1 + Math.random() * (colors.length - 1))) % colors.length;
+        colorIndices[1] =
+          (colorIndices[1] +
+            Math.floor(1 + Math.random() * (colors.length - 1))) %
+          colors.length;
+        colorIndices[3] =
+          (colorIndices[3] +
+            Math.floor(1 + Math.random() * (colors.length - 1))) %
+          colors.length;
       }
     };
 
