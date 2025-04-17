@@ -3,7 +3,21 @@
 import React from "react";
 import { FaQuoteLeft, FaStar } from "react-icons/fa";
 
-const TestimonialCard = ({ quote, name, role, company, stars }) => {
+interface Testimonial {
+  quote: string;
+  name: string;
+  role: string;
+  company: string;
+  stars: number;
+}
+
+const TestimonialCard = ({
+  quote,
+  name,
+  role,
+  company,
+  stars,
+}: Testimonial) => {
   return (
     <div className="bg-white p-8 rounded-lg shadow-lg relative">
       <FaQuoteLeft className="text-purple-200 text-4xl absolute top-4 left-4" />

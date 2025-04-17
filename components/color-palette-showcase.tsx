@@ -1,12 +1,24 @@
 "use client";
 
-import React from 'react';
+import React from "react";
 
-const ColorSwatch = ({ color, name, hex }) => {
+interface Color {
+  name: string;
+  hex: string;
+  color: string;
+}
+
+interface Palette {
+  name: string;
+  description: string;
+  colors: Color[];
+}
+
+const ColorSwatch = ({ name, hex }: Color) => {
   return (
     <div className="flex flex-col items-center">
-      <div 
-        className="w-16 h-16 rounded-full mb-2 shadow-md" 
+      <div
+        className="w-16 h-16 rounded-full mb-2 shadow-md"
         style={{ backgroundColor: hex }}
       ></div>
       <span className="text-sm font-medium">{name}</span>
@@ -15,14 +27,19 @@ const ColorSwatch = ({ color, name, hex }) => {
   );
 };
 
-const Palette = ({ name, description, colors }) => {
+const Palette = ({ name, description, colors }: Palette) => {
   return (
     <div className="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
       <h3 className="text-xl font-bold mb-2">{name}</h3>
       <p className="text-gray-600 mb-4">{description}</p>
       <div className="flex justify-between items-center">
         {colors.map((color, index) => (
-          <ColorSwatch key={index} color={color.color} name={color.name} hex={color.hex} />
+          <ColorSwatch
+            key={index}
+            color={color.color}
+            name={color.name}
+            hex={color.hex}
+          />
         ))}
       </div>
     </div>
@@ -39,8 +56,8 @@ export default function ColorPaletteShowcase() {
         { name: "Teal Wave", hex: "#2E8B98", color: "teal" },
         { name: "Seafoam", hex: "#A4D9D6", color: "light-teal" },
         { name: "Sandy Shore", hex: "#F2D0A7", color: "beige" },
-        { name: "Sunset", hex: "#F28D8D", color: "coral" }
-      ]
+        { name: "Sunset", hex: "#F28D8D", color: "coral" },
+      ],
     },
     {
       name: "Forest Hike",
@@ -50,8 +67,8 @@ export default function ColorPaletteShowcase() {
         { name: "Moss", hex: "#6A994E", color: "green" },
         { name: "Sunlit Leaf", hex: "#A7C957", color: "light-green" },
         { name: "Bark", hex: "#BC6C25", color: "brown" },
-        { name: "Earth", hex: "#DDA15E", color: "tan" }
-      ]
+        { name: "Earth", hex: "#DDA15E", color: "tan" },
+      ],
     },
     {
       name: "Berry Smoothie",
@@ -61,20 +78,24 @@ export default function ColorPaletteShowcase() {
         { name: "Grape", hex: "#5A189A", color: "purple" },
         { name: "Raspberry", hex: "#9D4EDD", color: "light-purple" },
         { name: "Strawberry", hex: "#FF5D8F", color: "pink" },
-        { name: "Cream", hex: "#FFC8DD", color: "light-pink" }
-      ]
-    }
+        { name: "Cream", hex: "#FFC8DD", color: "light-pink" },
+      ],
+    },
   ];
 
   return (
     <section className="py-20 bg-gray-50">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl font-bold text-center mb-4">Beautiful Color Palettes</h2>
-        <p className="text-xl text-center text-gray-600 mb-12">Create and organize stunning color combinations with ColorOne</p>
-        
+        <h2 className="text-4xl font-bold text-center mb-4">
+          Beautiful Color Palettes
+        </h2>
+        <p className="text-xl text-center text-gray-600 mb-12">
+          Create and organize stunning color combinations with ColorOne
+        </p>
+
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {palettes.map((palette, index) => (
-            <Palette 
+            <Palette
               key={index}
               name={palette.name}
               description={palette.description}
@@ -82,11 +103,16 @@ export default function ColorPaletteShowcase() {
             />
           ))}
         </div>
-        
+
         <div className="mt-16 text-center">
-          <h3 className="text-2xl font-bold mb-4">Extract Colors from Images</h3>
-          <p className="text-lg text-gray-600 mb-8">ColorOne can automatically generate palettes from your favorite images</p>
-          
+          <h3 className="text-2xl font-bold mb-4">
+            Extract Colors from Images
+          </h3>
+          <p className="text-lg text-gray-600 mb-8">
+            ColorOne can automatically generate palettes from your favorite
+            images
+          </p>
+
           <div className="relative max-w-2xl mx-auto">
             <div className="bg-white p-4 rounded-lg shadow-lg">
               <div className="aspect-w-16 aspect-h-9 bg-gray-200 rounded-lg mb-4">
