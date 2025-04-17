@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import Image from "next/image";
 
@@ -5,20 +7,27 @@ export default function Header() {
   return (
     <header className="text-white shadow-md">
       <div className="container mx-auto px-4 py-6 flex justify-between items-center">
-        <div className="w-12 h-12">
+        <div className="flex items-center">
           <Image
-            src="/color_picker/icApp.png"
-            alt="Color Picker"
-            width={60}
-            height={60}
+            src="/color_picker/64.png"
+            alt="ColorOne"
+            width={48}
+            height={48}
+            className="mr-3 rounded-xl"
             unoptimized
           />
+          <span className="text-xl font-bold">ColorOne</span>
         </div>
         <nav>
           <ul className="flex space-x-6">
             <li>
               <a href="#features" className="hover:text-gray-900">
                 Features
+              </a>
+            </li>
+            <li>
+              <a href="#pricing" className="hover:text-gray-900">
+                Pricing
               </a>
             </li>
             <li>
