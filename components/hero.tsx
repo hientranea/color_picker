@@ -40,11 +40,14 @@ export default function Hero() {
                 <FaDownload className="text-xl" />
               </span>
             </a>
-            <button className="group relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white border-2 border-white rounded-full overflow-hidden transition-all duration-300 ease-out hover:bg-white hover:text-purple-600">
+            <a
+              href="https://apps.apple.com/vn/app/colorone-canvas-creative/id6670270632?mt=12"
+              className="group relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white border-2 border-white rounded-full overflow-hidden transition-all duration-300 ease-out hover:bg-white hover:text-purple-600"
+            >
               <span className="relative flex items-center">
                 Unlock Premium Features
               </span>
-            </button>
+            </a>
           </div>
           <p className="mt-4 text-sm text-gray-300">
             Compatible with macOS 10.15 and later • Free to download

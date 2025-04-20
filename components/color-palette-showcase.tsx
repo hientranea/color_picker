@@ -29,7 +29,7 @@ const ColorSwatch = ({ name, hex }: Color) => {
 
 const Palette = ({ name, description, colors }: Palette) => {
   return (
-    <div className="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
+    <div className="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 z-10">
       <h3 className="text-xl font-bold mb-2">{name}</h3>
       <p className="text-gray-600 mb-4">{description}</p>
       <div className="flex justify-between items-center">
@@ -93,7 +93,7 @@ export default function ColorPaletteShowcase() {
           Create and organize stunning color combinations with ColorOne
         </p>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 z-10">
           {palettes.map((palette, index) => (
             <Palette
               key={index}

@@ -50,17 +50,17 @@ export default function Features() {
       description:
         "Run in the background with system tray access for quick color picking whenever inspiration strikes.",
     },
-    // {
-    //   icon: <FaRobot className="text-4xl text-purple-600 mb-4" />,
-    //   title: "AI-Assisted Generation",
-    //   description:
-    //     "Premium feature that uses AI to suggest complementary colors and generate complete palettes based on your preferences.",
-    // },
     {
       icon: <FaSync className="text-4xl text-purple-600 mb-4" />,
       title: "Cross-Platform Support",
       description:
         "Available primarily on macOS with support for other platforms coming soon. Work seamlessly across your devices.",
+    },
+    {
+      icon: <FaRobot className="text-4xl text-purple-600 mb-4" />,
+      title: "AI-Assisted Generation",
+      description:
+        "Premium feature that uses AI to suggest complementary colors and generate complete palettes based on your preferences.",
     },
   ];
 
@@ -73,11 +73,11 @@ export default function Features() {
         <p className="text-xl text-center text-gray-600 mb-12">
           Everything you need for professional color management
         </p>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 items-center">
           {features.map((feature, index) => (
             <div
               key={index}
-              className="bg-gray-50 p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 flex flex-col items-center text-center"
+              className="bg-gray-50 p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 flex flex-col items-center text-center z-10"
             >
               {feature.icon}
               <h3 className="text-xl font-semibold mb-2">{feature.title}</h3>

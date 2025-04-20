@@ -16,19 +16,25 @@ export default function CallToAction() {
         </p>
 
         <div className="flex flex-col sm:flex-row justify-center gap-4 mb-8">
-          <button className="group relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-purple-600 bg-white rounded-full overflow-hidden shadow-lg transition-all duration-300 ease-out hover:scale-105 hover:shadow-xl">
+          <a
+            href="https://apps.apple.com/vn/app/colorone-canvas-creative/id6670270632?mt=12"
+            className="group relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-purple-600 bg-white rounded-full overflow-hidden shadow-lg transition-all duration-300 ease-out hover:scale-105 hover:shadow-xl"
+          >
             <span className="relative flex items-center">
               <FaApple className="mr-2 text-2xl" />
               <span className="mr-2">Download Free</span>
               <FaDownload className="text-xl" />
             </span>
-          </button>
-          <button className="group relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white border-2 border-white rounded-full overflow-hidden transition-all duration-300 ease-out hover:bg-white/10">
+          </a>
+          <a
+            href="https://apps.apple.com/vn/app/colorone-canvas-creative/id6670270632?mt=12"
+            className="group relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white border-2 border-white rounded-full overflow-hidden transition-all duration-300 ease-out hover:bg-white/10"
+          >
             <span className="relative flex items-center">
               <span className="mr-2">Unlock Premium Features</span>
               <FaArrowRight className="text-xl" />
             </span>
-          </button>
+          </a>
         </div>
 
         <p className="text-white/80">

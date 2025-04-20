@@ -36,7 +36,7 @@ export default function Pricing() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {/* Free Plan */}
-          <div className="bg-white rounded-lg shadow-lg overflow-hidden border border-gray-200 transition-transform duration-300 hover:transform hover:scale-105">
+          <div className="bg-white rounded-lg shadow-lg overflow-hidden border border-gray-200 transition-transform duration-300 hover:transform hover:scale-105 z-10">
             <div className="p-8 bg-gray-50 border-b border-gray-200">
               <h3 className="text-2xl font-bold text-center">Free</h3>
               <div className="mt-4 text-center">
