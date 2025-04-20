@@ -102,44 +102,6 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold mb-4">Company</h3>
-            <ul className="space-y-2">
-              <li>
-                <a
-                  href="#"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  About Us
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  Blog
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  Careers
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  Contact
-                </a>
-              </li>
-            </ul>
-          </div>
-
-          <div>
             <h3 className="text-lg font-bold mb-4">Legal</h3>
             <ul className="space-y-2">
               <li>
@@ -158,50 +120,14 @@ export default function Footer() {
                   Terms of Service
                 </a>
               </li>
-              <li>
-                <a
-                  href="#"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  Cookie Policy
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  GDPR
-                </a>
-              </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 text-sm mb-4 md:mb-0">
+          <p className="text-gray-400 text-sm mb-4 md:mb-0 m-auto">
             © {new Date().getFullYear()} ColorOne. All rights reserved.
           </p>
-          <div className="flex space-x-6">
-            <a
-              href="#"
-              className="text-gray-400 hover:text-white transition-colors text-sm"
-            >
-              Status
-            </a>
-            <a
-              href="#"
-              className="text-gray-400 hover:text-white transition-colors text-sm"
-            >
-              Help Center
-            </a>
-            <a
-              href="#"
-              className="text-gray-400 hover:text-white transition-colors text-sm"
-            >
-              Support
-            </a>
-          </div>
         </div>
       </div>
     </footer>

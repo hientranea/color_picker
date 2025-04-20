@@ -57,57 +57,7 @@ export default function Hero() {
           <div className="absolute inset-0 bg-gradient-to-r from-purple-800/20 to-blue-800/20 backdrop-blur-sm"></div>
           <div className="relative z-10 h-full flex items-center justify-center">
             <div className="text-center p-6 bg-black/40 rounded-lg backdrop-blur-md">
-              <Image
-                src="/color_picker/256.png"
-                alt="ColorOne App"
-                width={120}
-                height={120}
-                className="mx-auto mb-4 rounded-3xl"
-                unoptimized
-              />
-              <h3 className="text-2xl font-bold mb-4">App Interface Demo</h3>
-              <p className="mb-4">
-                See ColorOne in action with our precision eyedropper tool
-              </p>
-              <div className="inline-block border-2 border-white/50 rounded-lg p-2">
-                <svg className="w-64 h-64" viewBox="0 0 200 200">
-                  <defs>
-                    <linearGradient
-                      id="colorWheel"
-                      x1="0%"
-                      y1="0%"
-                      x2="100%"
-                      y2="100%"
-                    >
-                      <stop offset="0%" stopColor="#FF0000" />
-                      <stop offset="16.67%" stopColor="#FF00FF" />
-                      <stop offset="33.33%" stopColor="#0000FF" />
-                      <stop offset="50%" stopColor="#00FFFF" />
-                      <stop offset="66.67%" stopColor="#00FF00" />
-                      <stop offset="83.33%" stopColor="#FFFF00" />
-                      <stop offset="100%" stopColor="#FF0000" />
-                    </linearGradient>
-                  </defs>
-                  <circle cx="100" cy="100" r="80" fill="url(#colorWheel)" />
-                  <circle
-                    cx="100"
-                    cy="100"
-                    r="30"
-                    fill="white"
-                    stroke="#333"
-                    strokeWidth="2"
-                  />
-                  <line
-                    x1="100"
-                    y1="100"
-                    x2="150"
-                    y2="150"
-                    stroke="#333"
-                    strokeWidth="2"
-                  />
-                  <circle cx="150" cy="150" r="10" fill="#333" />
-                </svg>
-              </div>
+              <h3 className="text-2xl font-bold mb-4">Coming soon...</h3>
             </div>
           </div>
         </div>
