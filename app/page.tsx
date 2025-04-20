@@ -9,12 +9,14 @@ import FAQ from "@/components/faq";
 import FounderNote from "@/components/founder-note";
 import CallToAction from "@/components/call-to-action";
 import Footer from "@/components/footer";
+import FluidCursor from "@/components/fluid-cursor";
 import GradientBackground from "@/components/gradient_background";
 
 export default function LandingPage() {
   return (
     <div className="min-h-screen">
       <GradientBackground />
+      <FluidCursor />
       <Header />
       <Hero />
       <Features />
