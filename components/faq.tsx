@@ -34,7 +34,7 @@ export default function FAQ() {
     {
       question: "What platforms does ColorOne support?",
       answer:
-        "ColorOne is primarily designed for macOS (10.12 and later). We're actively working on versions for Windows and Linux that will be released in the future. Our cloud synchronization feature will allow seamless work across all platforms once they're available.",
+        "ColorOne is primarily designed for macOS (10.15 and later). We're actively working on versions for Windows and Linux that will be released in the future. Our cloud synchronization feature will allow seamless work across all platforms once they're available.",
     },
     {
       question: "Is ColorOne really free to use?",

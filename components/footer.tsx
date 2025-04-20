@@ -17,7 +17,7 @@ export default function Footer() {
                   alt="ColorOne"
                   width={40}
                   height={40}
-                  className="rounded-xl"
+                  className="rounded-lg"
                   unoptimized
                 />
               </div>

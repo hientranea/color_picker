@@ -32,8 +32,7 @@ export default function CallToAction() {
         </div>
 
         <p className="text-white/80">
-          Compatible with macOS 10.12 and later • Always free to start • No
-          credit card required
+          Compatible with macOS 10.15 and later • Always free to start
         </p>
 
         <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">

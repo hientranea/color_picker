@@ -39,18 +39,6 @@ export default function Features() {
         "Generate color harmonies, variations, check contrast for accessibility, and extract colors from images with ease.",
     },
     {
-      icon: <FaSync className="text-4xl text-purple-600 mb-4" />,
-      title: "Cross-Platform Support",
-      description:
-        "Available primarily on macOS with support for other platforms coming soon. Work seamlessly across your devices.",
-    },
-    {
-      icon: <FaRobot className="text-4xl text-purple-600 mb-4" />,
-      title: "AI-Assisted Generation",
-      description:
-        "Premium feature that uses AI to suggest complementary colors and generate complete palettes based on your preferences.",
-    },
-    {
       icon: <FaCloud className="text-4xl text-purple-600 mb-4" />,
       title: "Cloud Synchronization",
       description:
@@ -61,6 +49,18 @@ export default function Features() {
       title: "System Integration",
       description:
         "Run in the background with system tray access for quick color picking whenever inspiration strikes.",
+    },
+    // {
+    //   icon: <FaRobot className="text-4xl text-purple-600 mb-4" />,
+    //   title: "AI-Assisted Generation",
+    //   description:
+    //     "Premium feature that uses AI to suggest complementary colors and generate complete palettes based on your preferences.",
+    // },
+    {
+      icon: <FaSync className="text-4xl text-purple-600 mb-4" />,
+      title: "Cross-Platform Support",
+      description:
+        "Available primarily on macOS with support for other platforms coming soon. Work seamlessly across your devices.",
     },
   ];
 

@@ -13,7 +13,7 @@ export default function Header() {
             alt="ColorOne"
             width={48}
             height={48}
-            className="mr-3 rounded-xl"
+            className="mr-3 rounded-lg"
             unoptimized
           />
           <span className="text-xl font-bold">ColorOne</span>

@@ -21,7 +21,7 @@ const TestimonialCard = ({
   return (
     <div className="bg-white p-8 rounded-lg shadow-lg relative">
       <FaQuoteLeft className="text-purple-200 text-4xl absolute top-4 left-4" />
-      <div className="flex mb-4">
+      <div className="flex mb-4 ml-7">
         {[...Array(stars)].map((_, i) => (
           <FaStar key={i} className="text-yellow-400" />
         ))}

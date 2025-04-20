@@ -62,10 +62,10 @@ export default function Pricing() {
                 text="Basic color harmony generation"
               />
               <PricingFeature included={true} text="Recent colors history" />
-              <PricingFeature
+              {/* <PricingFeature
                 included={false}
                 text="AI-assisted palette generation"
-              />
+              /> */}
               <PricingFeature included={false} text="Cloud synchronization" />
               <PricingFeature included={false} text="Advanced color tools" />
               <PricingFeature included={false} text="Image color extraction" />
@@ -80,12 +80,12 @@ export default function Pricing() {
           {/* Premium Plan */}
           <div className="bg-white rounded-lg shadow-xl overflow-hidden border-2 border-purple-500 transform scale-105 z-10">
             <div className="p-8 bg-purple-50 border-b border-purple-100 relative">
-              <div className="absolute top-0 right-0 bg-purple-500 text-white text-xs font-bold px-3 py-1 transform translate-y-2 rotate-45 origin-bottom-right">
+              <div className="absolute top-0 right-0 bg-purple-500 text-white text-xs font-bold px-[1.5rem] pt-[2.7rem] pb-2 transform translate-y-2 rotate-45 origin-bottom-right">
                 POPULAR
               </div>
               <h3 className="text-2xl font-bold text-center">Premium</h3>
               <div className="mt-4 text-center">
-                <span className="text-5xl font-bold">$4.99</span>
+                <span className="text-5xl font-bold">$2.99</span>
                 <span className="text-gray-600 ml-1">/month</span>
               </div>
               <p className="mt-4 text-center text-gray-600">
@@ -95,10 +95,6 @@ export default function Pricing() {
             <div className="p-8">
               <PricingFeature included={true} text="Everything in Free plan" />
               <PricingFeature included={true} text="Unlimited color palettes" />
-              <PricingFeature
-                included={true}
-                text="AI-assisted palette generation"
-              />
               <PricingFeature
                 included={true}
                 text="Cloud synchronization across devices"
@@ -118,7 +114,10 @@ export default function Pricing() {
                 text="Export in multiple formats"
               />
               <PricingFeature included={true} text="Priority support" />
-
+              {/* <PricingFeature
+                included={true}
+                text="AI-assisted palette generation"
+              /> */}
               <button className="mt-8 w-full py-3 px-6 text-white font-bold bg-gradient-to-r from-purple-600 to-blue-500 rounded-lg hover:from-purple-700 hover:to-blue-600 transition-colors duration-300 shadow-md">
                 Upgrade to Premium
               </button>
@@ -127,8 +126,7 @@ export default function Pricing() {
         </div>
 
         <p className="text-center text-gray-500 mt-8">
-          Start with the free version and upgrade anytime. No credit card
-          required to get started.
+          Start with the free version and upgrade anytime.
         </p>
       </div>
     </section>
