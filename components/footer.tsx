@@ -13,7 +13,7 @@ export default function Footer() {
             <div className="flex items-center mb-4">
               <div className="mr-3">
                 <Image
-                  src="/color_picker/64.png"
+                  src="/64.png"
                   alt="ColorOne"
                   width={40}
                   height={40}

@@ -28,7 +28,7 @@ export default function Header() {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center">
           <Image
-            src="/color_picker/64.png"
+            src="/64.png"
             alt="ColorOne"
             width={48}
             height={48}

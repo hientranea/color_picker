@@ -11,7 +11,7 @@ export default function Hero() {
         <div className="text-left">
           <div className="flex items-center mb-6">
             <Image
-              src="/color_picker/128.png"
+              src="/128.png"
               alt="ColorOne"
               width={80}
               height={80}

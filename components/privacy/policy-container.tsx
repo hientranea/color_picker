@@ -187,7 +187,7 @@ const PrivacyPolicy: React.FC = () => {
           <br />
           Email: tranphuochien00@gmail.com
           <br />
-          Website: https://hientranea.github.io/color_picker/
+          Website: https://colorone.site
         </p>
         <p>
           We will respond to your inquiry in a timely manner and in accordance
