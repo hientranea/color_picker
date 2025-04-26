@@ -61,12 +61,12 @@ export default function Header() {
             </li>
             <li>
               <a
-                href="privacy-policy"
+                href="#download"
                 className={`${
                   scrolled ? "hover:text-white-900" : "hover:text-gray-900"
                 }`}
               >
-                Privacy Policy
+                Download
               </a>
             </li>
           </ul>

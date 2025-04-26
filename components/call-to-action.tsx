@@ -5,7 +5,10 @@ import { FaApple, FaDownload, FaArrowRight } from "react-icons/fa";
 
 export default function CallToAction() {
   return (
-    <section className="py-20 bg-gradient-to-r from-purple-600 to-blue-500 text-white">
+    <section
+      id="download"
+      className="py-20 bg-gradient-to-r from-purple-600 to-blue-500 text-white"
+    >
       <div className="container mx-auto px-4 text-center">
         <h2 className="text-4xl font-bold mb-4">
           Experience the easiest way to pick, organize, and name colors

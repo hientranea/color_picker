@@ -27,35 +27,9 @@ export default function Footer() {
               Professional color picking and palette management for creative
               professionals.
             </p>
-            <div className="flex space-x-4">
-              <a
-                href="#"
-                className="text-gray-400 hover:text-white transition-colors"
-              >
-                <FaTwitter />
-              </a>
-              <a
-                href="https://github.com/hientranea/colorpicker"
-                className="text-gray-400 hover:text-white transition-colors"
-              >
-                <FaGithub />
-              </a>
-              <a
-                href="#"
-                className="text-gray-400 hover:text-white transition-colors"
-              >
-                <FaLinkedin />
-              </a>
-              <a
-                href="#"
-                className="text-gray-400 hover:text-white transition-colors"
-              >
-                <FaInstagram />
-              </a>
-            </div>
           </div>
 
-          <div>
+          <div className="relative z-10">
             <h3 className="text-lg font-bold mb-4">Product</h3>
             <ul className="space-y-2">
               <li>
@@ -76,32 +50,16 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="#download"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
                   Download
                 </a>
               </li>
-              <li>
-                <a
-                  href="#"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  Updates
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#faq"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  FAQ
-                </a>
-              </li>
             </ul>
           </div>
 
-          <div>
+          <div className="relative z-10">
             <h3 className="text-lg font-bold mb-4">Legal</h3>
             <ul className="space-y-2">
               <li>
