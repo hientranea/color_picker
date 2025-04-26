@@ -185,7 +185,7 @@ const PrivacyPolicy: React.FC = () => {
         <p className={styles.contactInfo}>
           <strong>ColorOne Support</strong>
           <br />
-          Email: tranphuochien00@gmail.com
+          Email: contact@colorone.site
           <br />
           Website: https://colorone.site
         </p>
