@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/supabase-js": "^2.49.4",
+    "@tanstack/react-query": "^5.74.4",
+    "@tanstack/react-query-devtools": "^5.74.6",
     "clsx": "^2.1.1",
     "framer-motion": "^12.7.4",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.2.1",
+    "supabase": "link:@/types/supabase",
     "tailwind-merge": "^3.2.0"
   },
   "devDependencies": {
