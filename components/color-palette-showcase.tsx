@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useRef } from "react";
 
 interface Color {
@@ -125,7 +126,10 @@ export default function EndlessScrollingPalettes() {
   ];
 
   return (
-    <div className="py-12 bg-gradient-to-r from-gray-50 to-gray-100">
+    <div
+      id="palettes"
+      className="py-12 bg-gradient-to-r from-gray-50 to-gray-100"
+    >
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-2">
           Explore Beautiful Color Palettes
@@ -164,10 +168,16 @@ export default function EndlessScrollingPalettes() {
             images
           </p>
 
-          <div>Placeholder</div>
+          <Image
+            src="/image_extraction.png"
+            alt="Image extraction"
+            width={692}
+            height={512}
+            className="mx-auto rounded-lg"
+          />
         </div>
 
-        <div className="mt-16 text-center relative">
+        <div className="text-center relative">
           <a
             href="/palettes"
             className="px-6 py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-all duration-300 shadow-md hover:shadow-lg transform hover:-translate-y-1 z-10"
