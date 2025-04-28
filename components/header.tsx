@@ -64,6 +64,16 @@ export default function Header() {
             </li>
             <li>
               <Link
+                href={isHomePage ? "#palettes" : "/#palettes"}
+                className={`${
+                  scrolled ? "hover:text-white-900" : "hover:text-gray-900"
+                }`}
+              >
+                Palettes
+              </Link>
+            </li>
+            <li>
+              <Link
                 href={isHomePage ? "#pricing" : "/#pricing"}
                 className={`${
                   scrolled ? "hover:text-white-900" : "hover:text-gray-900"
