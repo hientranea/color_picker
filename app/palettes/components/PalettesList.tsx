@@ -114,13 +114,11 @@ export default function PalettesList({ colorSchemes }: PalettesListProps) {
   }, [filteredSchemes]);
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8">
+    <div className="max-w-7xl mx-auto px-4 py-8 mt-[80px]">
       {/* Header, sorting & filter controls */}
       <div className="mb-8">
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-            Color Palette Explorer
-          </h1>
+          <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent"></h1>
           <div className="flex gap-2">
             <button
               onClick={() => setSortBy("popular")}
@@ -268,10 +266,6 @@ export default function PalettesList({ colorSchemes }: PalettesListProps) {
                         {scheme.likes + (likedPalettes.has(scheme.id) ? 1 : 0)}
                       </span>
                     </button>
-
-                    <span className="text-xs text-gray-400">
-                      {formatDate(scheme.created_at)}
-                    </span>
                   </div>
 
                   <button
