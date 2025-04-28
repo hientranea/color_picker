@@ -74,8 +74,8 @@ export default function FAQ() {
   ];
 
   return (
-  <section id="faq" className="block py-20 bg-white relative z-20">
-  <div className="container mx-auto px-4 max-w-4xl relative">
+    <section id="faq" className="block py-20 bg-white relative z-20">
+      <div className="container mx-auto px-4 max-w-4xl relative">
         <h2 className="text-4xl font-bold text-center mb-4">
           Frequently Asked Questions
         </h2>
@@ -93,10 +93,10 @@ export default function FAQ() {
           <p className="text-gray-600">
             Still have questions? Contact us at{" "}
             <a
-              href="mailto:support@colorone.app"
+              href="mailto:contact@colorone.site"
               className="text-purple-600 font-medium hover:underline"
             >
-              support@colorone.app
+              contact@colorone.site
             </a>
           </p>
         </div>
