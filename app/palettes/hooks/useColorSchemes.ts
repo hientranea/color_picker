@@ -20,35 +20,7 @@ export type ColorScheme = {
 };
 
 async function fetchColorSchemes() {
-  const supabase = createSupabaseClient();
-
-  // Single query with nested joins
-  // const { data, error } = await supabase
-  //   .from("color_schemes")
-  //   .select(
-  //     `
-  //     id,
-  //     code,
-  //     likes,
-  //     created_at,
-  //     colors:color_scheme_colors!color_scheme_id(
-  //       position,
-  //       color:color_id(
-  //         id,
-  //         hex_code
-  //       )
-  //     ),
-  //     categories:color_scheme_categories!color_scheme_id(
-  //       category:category_id(
-  //         id,
-  //         name
-  //       )
-  //     )
-  //   `
-  //   )
-  //   .order("created_at", { ascending: false });
   var { data, error } = { data: SCHEME_FIXTURES, error: undefined };
-  data = data.slice(0, 10);
 
   if (error) throw error;
 
@@ -80,6 +52,41 @@ async function fetchColorSchemes() {
   });
 
   return processedSchemes;
+}
+
+async function fetchPalettes() {
+  const supabase = createSupabaseClient();
+
+  // Single query with nested joins
+  const { data, error } = await supabase
+    .from("color_schemes")
+    .select(
+      `
+      id,
+      code,
+      likes,
+      created_at,
+      colors:color_scheme_colors!color_scheme_id(
+        position,
+        color:color_id(
+          id,
+          hex_code
+        )
+      ),
+      categories:color_scheme_categories!color_scheme_id(
+        category:category_id(
+          id,
+          name
+        )
+      )
+    `
+    )
+    .order("created_at", { ascending: false });
+
+  return {
+    data,
+    error,
+  };
 }
 
 export function useColorSchemes() {
