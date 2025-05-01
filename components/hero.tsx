@@ -1,10 +1,57 @@
 "use client";
 
-import React from "react";
-import { FaApple, FaDownload } from "react-icons/fa";
+import React, { useState, useEffect, useCallback } from "react";
+import {
+  FaApple,
+  FaDownload,
+  FaChevronLeft,
+  FaChevronRight,
+} from "react-icons/fa";
 import Image from "next/image";
 
 export default function Hero() {
+  const [currentSlide, setCurrentSlide] = useState(0);
+
+  // Images for the slider - add your actual images here
+  const sliderImages = [
+    { src: "/hero-tool.png", alt: "ColorOne Color Picker Feature" },
+    { src: "/hero-advance-contrast.png", alt: "ColorOne Palette Management" },
+    {
+      src: "/hero-advance-harmony.png",
+      alt: "ColorOne Screen Color Extraction",
+    },
+    { src: "/hero-advance-variations.png", alt: "ColorOne Color Organization" },
+    { src: "/hero-settings-format.png", alt: "ColorOne Color Organization" },
+  ];
+
+  // Auto-advance slides
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentSlide((prev) =>
+        prev === sliderImages.length - 1 ? 0 : prev + 1
+      );
+    }, 5000);
+
+    return () => clearInterval(interval);
+  }, [sliderImages.length]);
+
+  // Navigation functions
+  const goToSlide = useCallback((index: number) => {
+    setCurrentSlide(index);
+  }, []);
+
+  const nextSlide = useCallback(() => {
+    setCurrentSlide((prev) =>
+      prev === sliderImages.length - 1 ? 0 : prev + 1
+    );
+  }, [sliderImages.length]);
+
+  const prevSlide = useCallback(() => {
+    setCurrentSlide((prev) =>
+      prev === 0 ? sliderImages.length - 1 : prev - 1
+    );
+  }, [sliderImages.length]);
+
   return (
     <section className="text-white py-20 flex items-center justify-center min-h-[calc(100vh-80px)]">
       <div className="container mx-auto px-4 grid md:grid-cols-2 gap-12 items-center">
@@ -53,11 +100,51 @@ export default function Hero() {
             Compatible with macOS 10.15 and later • Free to download
           </p>
         </div>
-        <div className="relative h-[400px] rounded-lg overflow-hidden shadow-2xl">
-          <div className="absolute inset-0 bg-gradient-to-r from-purple-800/20 to-blue-800/20 backdrop-blur-sm"></div>
-          <div className="relative z-10 h-full flex items-center justify-center">
-            <div className="text-center p-6 bg-black/40 rounded-lg backdrop-blur-md">
-              <h3 className="text-2xl font-bold mb-4">Coming soon...</h3>
+
+        {/* Image Slider */}
+        <div className="relative overflow-hidden">
+          <div className="relative w-full h-0 pb-[75%] overflow-hidden">
+            {" "}
+            {/* 4:3 aspect ratio */}
+            {/* Slider container */}
+            <div className="absolute inset-0 z-10">
+              <div className="relative w-full h-full">
+                {sliderImages.map((image, index) => (
+                  <div
+                    key={index}
+                    className={`absolute inset-0 transition-opacity duration-500 ${
+                      index === currentSlide
+                        ? "opacity-100"
+                        : "opacity-0 pointer-events-none"
+                    }`}
+                  >
+                    <Image
+                      src={image.src}
+                      alt={image.alt}
+                      fill
+                      sizes="(max-width: 768px) 100vw, 50vw"
+                      className="object-contain" // Changed to contain instead of cover
+                      priority={index === 0}
+                    />
+                  </div>
+                ))}
+              </div>
+
+              <div className="absolute bottom-4 left-0 right-0 z-20 flex justify-center space-x-2">
+                {sliderImages.map((_, index) => (
+                  <button
+                    key={index}
+                    onClick={() => goToSlide(index)}
+                    className={`w-2 h-2 rounded-full transition-all ${
+                      index === currentSlide
+                        ? "bg-white w-6"
+                        : "bg-white/50 hover:bg-white/80"
+                    }`}
+                    aria-label={`Go to slide ${index + 1}`}
+                    aria-current={index === currentSlide ? "true" : "false"}
+                  />
+                ))}
+              </div>
             </div>
           </div>
         </div>
