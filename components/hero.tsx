@@ -12,16 +12,27 @@ import Image from "next/image";
 export default function Hero() {
   const [currentSlide, setCurrentSlide] = useState(0);
 
-  // Images for the slider - add your actual images here
   const sliderImages = [
-    { src: "/hero-tool.png", alt: "ColorOne Color Picker Feature" },
-    { src: "/hero-advance-contrast.png", alt: "ColorOne Palette Management" },
+    {
+      src: "/hero-tool.png",
+      alt: "ColorOne Professional Color Picker Tool Interface with eyedropper and color selection panel",
+    },
+    {
+      src: "/hero-advance-contrast.png",
+      alt: "ColorOne Advanced Contrast Analysis for accessible color combinations in web design",
+    },
     {
       src: "/hero-advance-harmony.png",
-      alt: "ColorOne Screen Color Extraction",
+      alt: "ColorOne Color Harmony Generator creating balanced color schemes for professional design",
     },
-    { src: "/hero-advance-variations.png", alt: "ColorOne Color Organization" },
-    { src: "/hero-settings-format.png", alt: "ColorOne Color Organization" },
+    {
+      src: "/hero-advance-variations.png",
+      alt: "ColorOne Color Variation Tool showing tints, shades and tones for comprehensive palette creation",
+    },
+    {
+      src: "/hero-settings-format.png",
+      alt: "ColorOne Format Settings for exporting colors in HEX, RGB, HSL and other developer-friendly formats",
+    },
   ];
 
   // Auto-advance slides

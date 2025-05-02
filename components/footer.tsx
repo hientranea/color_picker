@@ -14,11 +14,11 @@ export default function Footer() {
               <div className="mr-3">
                 <Image
                   src="/64.png"
-                  alt="ColorOne"
+                  alt="ColorOne Logo"
                   width={40}
                   height={40}
                   className="rounded-lg"
-                  unoptimized
+                  loading="lazy"
                 />
               </div>
               <span className="text-xl font-bold">ColorOne</span>
@@ -36,6 +36,7 @@ export default function Footer() {
                 <a
                   href="#features"
                   className="text-gray-400 hover:text-white transition-colors"
+                  aria-label="ColorOne Features"
                 >
                   Features
                 </a>
@@ -44,6 +45,7 @@ export default function Footer() {
                 <a
                   href="#pricing"
                   className="text-gray-400 hover:text-white transition-colors"
+                  aria-label="ColorOne Pricing Plans"
                 >
                   Pricing
                 </a>
@@ -52,6 +54,7 @@ export default function Footer() {
                 <a
                   href="#download"
                   className="text-gray-400 hover:text-white transition-colors"
+                  aria-label="Download ColorOne App"
                 >
                   Download
                 </a>

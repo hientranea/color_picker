@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://colorone.site/</loc>
+    <lastmod>2025-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://colorone.site/hero-tool.png</image:loc>
+      <image:title>ColorOne Professional Color Picker Tool Interface</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://colorone.site/hero-advance-harmony.png</image:loc>
+      <image:title>ColorOne Color Harmony Generator</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://colorone.site/palettes</loc>
+    <lastmod>2025-05-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://colorone.site/hero-advance-variations.png</image:loc>
+      <image:title>ColorOne Color Variation Tool</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://colorone.site/privacy-policy</loc>
+    <lastmod>2025-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

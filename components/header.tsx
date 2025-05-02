@@ -36,18 +36,18 @@ export default function Header() {
       {/* Rest of your component remains the same */}
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center">
-          <Link href="/">
+          <Link href="/" aria-label="ColorOne Home">
             <Image
               src="/64.png"
-              alt="ColorOne"
+              alt="ColorOne Logo"
               width={48}
               height={48}
               className="mr-3 rounded-lg"
-              unoptimized
+              priority
             />
           </Link>
-          <Link href="/" className="text-xl font-bold">
-            ColorOne
+          <Link href="/" className="text-xl font-bold" aria-label="ColorOne Home">
+            <span itemProp="name">ColorOne</span>
           </Link>
         </div>
         <nav>
