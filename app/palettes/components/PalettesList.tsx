@@ -1,7 +1,15 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import { Heart, Copy, Check, Filter, LogIn } from "lucide-react";
+import {
+  Heart,
+  Copy,
+  Check,
+  Filter,
+  LogIn,
+  Twitter,
+  Share2,
+} from "lucide-react";
 
 type ColorScheme = {
   id: string;
@@ -21,10 +29,15 @@ type ColorScheme = {
 
 type PalettesListProps = {
   colorSchemes: ColorScheme[];
+  selectedCategory: string | null;
+  setSelectedCategory: (category: string | null) => void;
 };
 
-export default function PalettesList({ colorSchemes }: PalettesListProps) {
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+export default function PalettesList({
+  colorSchemes,
+  selectedCategory,
+  setSelectedCategory,
+}: PalettesListProps) {
   const [copiedId, setCopiedId] = useState<string | null>(null);
   const [showFilters, setShowFilters] = useState(false);
   const [likedPalettes, setLikedPalettes] = useState<Set<string>>(new Set());
@@ -114,7 +127,7 @@ export default function PalettesList({ colorSchemes }: PalettesListProps) {
   }, [filteredSchemes]);
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8 mt-[80px]">
+    <div className="max-w-7xl mx-auto px-4 py-8">
       {/* Header, sorting & filter controls */}
       <div className="mb-8">
         <div className="flex justify-between items-center mb-6">
@@ -161,8 +174,11 @@ export default function PalettesList({ colorSchemes }: PalettesListProps) {
                     ? "bg-indigo-500 text-white shadow-sm"
                     : "bg-white text-gray-700 border border-gray-200 hover:border-indigo-300"
                 }`}
-                onClick={() => setSelectedCategory(null)}
+                onClick={() => {
+                  setSelectedCategory(null);
+                }}
               >
+                {" "}
                 All Palettes
               </button>
 
@@ -174,7 +190,9 @@ export default function PalettesList({ colorSchemes }: PalettesListProps) {
                       ? "bg-indigo-500 text-white shadow-sm"
                       : "bg-white text-gray-700 border border-gray-200 hover:border-indigo-300"
                   }`}
-                  onClick={() => setSelectedCategory(category)}
+                  onClick={() => {
+                    setSelectedCategory(category);
+                  }}
                 >
                   {category}
                 </button>
@@ -198,111 +216,144 @@ export default function PalettesList({ colorSchemes }: PalettesListProps) {
           </p>
         </div>
       ) : (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {filteredSchemes.map((scheme) => (
-            <div
-              key={scheme.id}
-              className="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300 group"
-            >
-              {/* Color Preview with expand/shrink on hover */}
-              <div className="flex h-24 w-full">
-                {scheme.colors.map((color) => {
-                  const isHovered = hoveredColorId === color.id;
+        <section aria-labelledby="palettes-heading">
+          <h2 id="palettes-heading" className="sr-only">
+            Color Palettes Collection
+          </h2>
 
-                  return (
-                    <div
-                      key={color.id}
-                      onMouseEnter={() => setHoveredColorId(color.id)}
-                      onMouseLeave={() => setHoveredColorId(null)}
-                      className="relative transition-all duration-300 group"
-                      style={{
-                        backgroundColor: `#${color.hex_code}`,
-                        flexGrow: isHovered ? 2 : 1,
-                      }}
-                    >
-                      <div className="absolute inset-0 opacity-0 group-hover:opacity-100 flex items-center justify-center bg-black/20 transition-opacity duration-300">
-                        <span className="bg-white/90 text-xs font-mono px-2 py-1 rounded shadow-sm transform scale-95 group-hover:scale-100 transition-transform duration-300">
-                          #{color.hex_code}
-                        </span>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {filteredSchemes.map((scheme) => (
+              <article
+                key={scheme.id}
+                className="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300 group"
+              >
+                {/* Color Preview with expand/shrink on hover */}
+                <div className="flex h-24 w-full">
+                  {scheme.colors.map((color) => {
+                    const isHovered = hoveredColorId === color.id;
+
+                    return (
+                      <div
+                        key={color.id}
+                        onMouseEnter={() => setHoveredColorId(color.id)}
+                        onMouseLeave={() => setHoveredColorId(null)}
+                        className="relative transition-all duration-300 group"
+                        style={{
+                          backgroundColor: `#${color.hex_code}`,
+                          flexGrow: isHovered ? 2 : 1,
+                        }}
+                        aria-label={`Color ${color.hex_code}`}
+                        title={`#${color.hex_code}`}
+                      >
+                        <div className="absolute inset-0 opacity-0 group-hover:opacity-100 flex items-center justify-center bg-black/20 transition-opacity duration-300">
+                          <span className="bg-white/90 text-xs font-mono px-2 py-1 rounded shadow-sm transform scale-95 group-hover:scale-100 transition-transform duration-300">
+                            #{color.hex_code}
+                          </span>
+                        </div>
                       </div>
-                    </div>
-                  );
-                })}
-              </div>
-
-              <div className="p-5">
-                {/* Categories */}
-                <div className="flex flex-wrap gap-1.5 mb-3">
-                  {scheme.categories.map((category) => (
-                    <span
-                      key={category.id}
-                      className="px-2 py-0.5 bg-gray-100 text-xs font-medium text-gray-600 rounded-full"
-                    >
-                      {category.name}
-                    </span>
-                  ))}
+                    );
+                  })}
                 </div>
 
-                {/* Metadata and Actions */}
-                <div className="flex justify-between items-center">
-                  <div className="flex items-center gap-2">
-                    <button
-                      onClick={() => toggleLike(scheme.id)}
-                      className={`flex items-center gap-1 text-sm font-medium rounded-full px-3 py-1.5 transition-all duration-300 ${
-                        likedPalettes.has(scheme.id)
-                          ? "text-rose-600 bg-rose-50"
-                          : "text-gray-500 hover:text-rose-500 bg-gray-50 hover:bg-rose-50"
-                      }`}
-                    >
-                      <Heart
-                        size={16}
-                        className={`transition-transform duration-300 ${
-                          likedPalettes.has(scheme.id)
-                            ? "fill-rose-500 scale-110"
-                            : "scale-100 hover:scale-110"
-                        }`}
-                      />
-                      <span>
-                        {scheme.likes + (likedPalettes.has(scheme.id) ? 1 : 0)}
-                      </span>
-                    </button>
+                <div className="p-5">
+                  {/* Categories */}
+                  <div className="flex flex-wrap gap-1.5 mb-3">
+                    {scheme.categories.map((category) => (
+                      <button
+                        key={category.id}
+                        onClick={() => {
+                          setSelectedCategory(category.name);
+                          router.push(
+                            `/palettes?category=${encodeURIComponent(
+                              category.name
+                            )}`
+                          );
+                        }}
+                        className="px-2 py-0.5 bg-gray-100 text-xs font-medium text-gray-600 rounded-full hover:bg-indigo-100 hover:text-indigo-700 transition-all"
+                      >
+                        {category.name}
+                      </button>
+                    ))}
                   </div>
 
-                  <button
-                    className={`flex items-center gap-1 text-sm font-medium rounded-full px-3 py-1.5 transition-all duration-300 ${
-                      copiedId === scheme.id
-                        ? "bg-green-50 text-green-600"
-                        : "bg-gray-50 text-gray-500 hover:bg-indigo-50 hover:text-indigo-600"
-                    }`}
-                    onClick={() => handleCopyColors(scheme)}
-                  >
-                    {copiedId === scheme.id ? (
-                      <>
-                        <Check size={16} className="animate-bounce" />
-                        <span>Copied!</span>
-                      </>
-                    ) : (
-                      <>
-                        <Copy
+                  {/* Metadata and Actions */}
+                  <div className="flex justify-between items-center">
+                    <div className="flex items-center gap-2">
+                      <button
+                        onClick={() => toggleLike(scheme.id)}
+                        className={`flex items-center gap-1 text-sm font-medium rounded-full px-3 py-1.5 transition-all duration-300 ${
+                          likedPalettes.has(scheme.id)
+                            ? "text-rose-600 bg-rose-50"
+                            : "text-gray-500 hover:text-rose-500 bg-gray-50 hover:bg-rose-50"
+                        }`}
+                      >
+                        <Heart
                           size={16}
-                          className="transform transition-transform duration-300 group-hover:scale-110"
+                          className={`transition-transform duration-300 ${
+                            likedPalettes.has(scheme.id)
+                              ? "fill-rose-500 scale-110"
+                              : "scale-100 hover:scale-110"
+                          }`}
                         />
-                        <span>Copy</span>
-                      </>
-                    )}
-                  </button>
+                        <span>
+                          {scheme.likes +
+                            (likedPalettes.has(scheme.id) ? 1 : 0)}
+                        </span>
+                      </button>
+                    </div>
+
+                    <div className="flex items-center gap-2">
+                      <button
+                        className={`flex items-center gap-1 text-sm font-medium rounded-full px-3 py-1.5 transition-all duration-300 ${
+                          copiedId === scheme.id
+                            ? "bg-green-50 text-green-600"
+                            : "bg-gray-50 text-gray-500 hover:bg-indigo-50 hover:text-indigo-600"
+                        }`}
+                        onClick={() => handleCopyColors(scheme)}
+                      >
+                        {copiedId === scheme.id ? (
+                          <>
+                            <Check size={16} className="animate-bounce" />
+                            <span>Copied!</span>
+                          </>
+                        ) : (
+                          <>
+                            <Copy
+                              size={16}
+                              className="transform transition-transform duration-300 group-hover:scale-110"
+                            />
+                            <span>Copy</span>
+                          </>
+                        )}
+                      </button>
+                      <button
+                        onClick={() =>
+                          window.open(
+                            `https://twitter.com/intent/tweet?text=Check out this amazing color palette on ColorOne&url=${encodeURIComponent(
+                              window.location.href
+                            )}`,
+                            "_blank"
+                          )
+                        }
+                        aria-label="Share on Twitter"
+                        className="w-8 h-8 flex items-center justify-center rounded-full bg-gray-100 hover:bg-blue-100 text-gray-600 hover:text-blue-500 transition-all"
+                      >
+                        <Twitter size={16} />
+                      </button>
+                    </div>
+                  </div>
                 </div>
-              </div>
-            </div>
-          ))}
-        </div>
+              </article>
+            ))}
+          </div>
+        </section>
       )}
 
       {/* Reference for intersection observer */}
       <div ref={listEndRef} className="h-4 mt-8"></div>
 
       {/* Login CTA */}
-      {showLoginCTA && (
+      {false && showLoginCTA && (
         <div className="fixed bottom-8 left-1/2 transform -translate-x-1/2 bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-6 py-4 rounded-xl shadow-lg flex items-center gap-3 animate-fadeIn z-10">
           <div>
             <h3 className="font-bold text-lg">Want to see more palettes?</h3>
@@ -323,28 +374,49 @@ export default function PalettesList({ colorSchemes }: PalettesListProps) {
         </div>
       )}
 
-      {/* Pagination placeholder */}
-      {/* {filteredSchemes.length > 0 && (
+      {/* Pagination with SEO attributes */}
+      {filteredSchemes.length > 0 && (
         <div className="mt-12 flex justify-center">
-          <nav className="flex items-center gap-1">
-            <button className="px-3 py-1.5 rounded-md bg-white border border-gray-200 text-gray-400 transition-all duration-300">
+          <nav
+            className="flex items-center gap-1"
+            aria-label="Color palette pagination"
+          >
+            <a
+              href="/palettes?page=1"
+              className="px-3 py-1.5 rounded-md bg-white border border-gray-200 text-gray-400 transition-all duration-300"
+              rel="prev"
+            >
               Previous
-            </button>
-            <button className="px-3 py-1.5 rounded-md bg-indigo-50 border border-indigo-100 text-indigo-600 font-medium transition-all duration-300">
+            </a>
+            <a
+              href="/palettes?page=1"
+              className="px-3 py-1.5 rounded-md bg-indigo-50 border border-indigo-100 text-indigo-600 font-medium transition-all duration-300"
+              aria-current="page"
+            >
               1
-            </button>
-            <button className="px-3 py-1.5 rounded-md bg-white border border-gray-200 hover:border-indigo-300 text-gray-600 transition-all duration-300">
+            </a>
+            <a
+              href="/palettes?page=2"
+              className="px-3 py-1.5 rounded-md bg-white border border-gray-200 hover:border-indigo-300 text-gray-600 transition-all duration-300"
+            >
               2
-            </button>
-            <button className="px-3 py-1.5 rounded-md bg-white border border-gray-200 hover:border-indigo-300 text-gray-600 transition-all duration-300">
+            </a>
+            <a
+              href="/palettes?page=3"
+              className="px-3 py-1.5 rounded-md bg-white border border-gray-200 hover:border-indigo-300 text-gray-600 transition-all duration-300"
+            >
               3
-            </button>
-            <button className="px-3 py-1.5 rounded-md bg-white border border-gray-200 hover:border-indigo-300 text-gray-600 transition-all duration-300">
+            </a>
+            <a
+              href="/palettes?page=2"
+              className="px-3 py-1.5 rounded-md bg-white border border-gray-200 hover:border-indigo-300 text-gray-600 transition-all duration-300"
+              rel="next"
+            >
               Next
-            </button>
+            </a>
           </nav>
         </div>
-      )} */}
+      )}
     </div>
   );
 }

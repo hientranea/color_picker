@@ -3,9 +3,27 @@ import PalettesList from "./components/PalettesList";
 import { useColorSchemes } from "./hooks/useColorSchemes";
 import Header from "@/components/header";
 import { Filter } from "lucide-react";
+import PalettesStructuredData from "./components/PalettesStructuredData";
+import PalettesFAQ from "./components/PalettesFAQ";
+import RelatedColorTools from "./components/RelatedColorTools";
+import { getCategoryDescription } from "./utils/categoryDescriptions";
+import { useState, useEffect } from "react";
+import { useSearchParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 
 export default function PalettesPage() {
   const { data: colorSchemes, isLoading, error } = useColorSchemes();
+  const searchParams = useSearchParams();
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const router = useRouter();
+
+  // Set the initial category from URL query parameter
+  useEffect(() => {
+    const categoryParam = searchParams.get("category");
+    if (categoryParam) {
+      setSelectedCategory(categoryParam);
+    }
+  }, [searchParams]);
 
   if (isLoading) {
     return (
@@ -89,7 +107,51 @@ export default function PalettesPage() {
   return (
     <div className="p-8">
       <Header />
-      <PalettesList colorSchemes={colorSchemes} />
+
+      <div className="max-w-7xl mx-auto px-4 py-8 mt-[80px]">
+        <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-4">
+          Professional Color Palettes & Schemes
+        </h1>
+        <p className="text-gray-600 mt-2 mb-6">
+          Browse our collection of professionally designed color palettes for
+          your web, UI/UX, and graphic design projects. Find the perfect color
+          combinations, organized by style and mood. Copy color codes instantly
+          and save your favorites.
+        </p>
+
+        {selectedCategory && (
+          <div className="mb-6 bg-gray-50 p-4 rounded-lg">
+            <h2 className="font-medium text-lg text-gray-800 mb-1">
+              {selectedCategory} Color Palettes
+            </h2>
+            <p className="text-gray-600">
+              {getCategoryDescription(selectedCategory)}
+            </p>
+          </div>
+        )}
+      </div>
+
+      <PalettesList
+        colorSchemes={colorSchemes}
+        selectedCategory={selectedCategory}
+        setSelectedCategory={(category) => {
+          setSelectedCategory(category);
+          if (category) {
+            router.push(`/palettes?category=${encodeURIComponent(category)}`);
+          } else {
+            router.push("/palettes");
+          }
+        }}
+      />
+
+      {/* Add SEO-enhancing components */}
+      <div className="max-w-7xl mx-auto px-4">
+        <PalettesFAQ />
+        <RelatedColorTools />
+      </div>
+
+      {/* Add structured data */}
+      {colorSchemes && <PalettesStructuredData colorSchemes={colorSchemes} />}
     </div>
   );
 }

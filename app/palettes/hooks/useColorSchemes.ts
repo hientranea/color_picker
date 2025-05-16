@@ -16,6 +16,7 @@ export type ColorScheme = {
   categories: {
     id: string;
     name: string;
+    description: string;
   }[];
 };
 
@@ -39,6 +40,7 @@ async function fetchColorSchemes() {
     const categories = scheme.categories.map((item) => ({
       id: item.category.id,
       name: item.category.name,
+      description: item.category.description,
     }));
 
     return {
