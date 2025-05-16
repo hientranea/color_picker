@@ -263,11 +263,6 @@ export default function PalettesList({
                         key={category.id}
                         onClick={() => {
                           setSelectedCategory(category.name);
-                          router.push(
-                            `/palettes?category=${encodeURIComponent(
-                              category.name
-                            )}`
-                          );
                         }}
                         className="px-2 py-0.5 bg-gray-100 text-xs font-medium text-gray-600 rounded-full hover:bg-indigo-100 hover:text-indigo-700 transition-all"
                       >

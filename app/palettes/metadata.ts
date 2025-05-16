@@ -1,6 +1,8 @@
 import { Metadata } from "next";
+import { siteConfig } from "../config";
 
 export const metadata: Metadata = {
+  metadataBase: siteConfig.metadataBase,
   title: "Professional Color Palettes & Schemes | ColorOne - Find Perfect Color Combinations",
   description:
     "Discover thousands of curated color palettes and schemes for web design, UI/UX, and graphic design projects. Browse by category, save favorites, and copy color codes instantly with ColorOne.",
@@ -25,6 +27,6 @@ export const metadata: Metadata = {
     images: ["/hero-advance-harmony.png"],
   },
   alternates: {
-    canonical: "https://colorone.site/palettes",
+    canonical: `${siteConfig.url}/palettes`,
   },
 };

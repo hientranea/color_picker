@@ -3,10 +3,12 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Providers from "./providers";
 import StructuredData from "@/components/structured-data";
+import { siteConfig } from "./config";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  metadataBase: siteConfig.metadataBase,
   title: "ColorOne - Canvas Creative",
   description:
     "Professional color picking and palette management for creative professionals. Extract colors from your screen, generate harmonious palettes, and organize your color collections with precision.",
@@ -29,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://colorone.site",
+    url: siteConfig.url,
     siteName: "ColorOne",
     title: "ColorOne - Canvas Creative",
     description:
@@ -62,7 +64,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://colorone.site",
+    canonical: siteConfig.url,
   },
 };
 

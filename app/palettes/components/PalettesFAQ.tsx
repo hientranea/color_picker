@@ -28,7 +28,7 @@ export default function PalettesFAQ() {
             Colors that work well together often follow color harmony principles
             like complementary (opposite on the color wheel), analogous
             (adjacent on the color wheel), or monochromatic (variations of one
-            color). ColorOne's palette tools help you create harmonious
+            color). ColorOne&apos;s palette tools help you create harmonious
             combinations automatically.
           </p>
         </div>
@@ -41,8 +41,8 @@ export default function PalettesFAQ() {
             Trending color schemes in 2025 include earth-toned palettes with
             sustainable greens and browns, digital pastels for tech interfaces,
             and nostalgic color combinations that evoke comfort and familiarity.
-            Browse our 'Trending' category to see the latest popular color
-            schemes.
+            Browse our &quot;Trending&quot; category to see the latest popular
+            color schemes.
           </p>
         </div>
 
@@ -60,7 +60,7 @@ export default function PalettesFAQ() {
 
         <div>
           <h3 className="font-medium text-lg mb-2">
-            What's the difference between RGB, HEX, and HSL color codes?
+            What&apos;s the difference between RGB, HEX, and HSL color codes?
           </h3>
           <p className="text-gray-600">
             RGB (Red, Green, Blue) uses values from 0-255 for each channel. HEX
@@ -76,7 +76,7 @@ export default function PalettesFAQ() {
             How can I create a color palette from an image?
           </h3>
           <p className="text-gray-600">
-            To create a color palette from an image, you can use ColorOne's
+            To create a color palette from an image, you can use ColorOne&apos;s
             color extraction tool that analyzes the image and identifies
             dominant and accent colors. This is perfect for creating brand
             palettes from logos or inspiration photos for your design projects.

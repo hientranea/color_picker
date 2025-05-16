@@ -7,11 +7,12 @@ import PalettesStructuredData from "./components/PalettesStructuredData";
 import PalettesFAQ from "./components/PalettesFAQ";
 import RelatedColorTools from "./components/RelatedColorTools";
 import { getCategoryDescription } from "./utils/categoryDescriptions";
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { useRouter } from "next/navigation";
 
-export default function PalettesPage() {
+// Component that uses useSearchParams needs to be wrapped in Suspense
+function PalettesContent() {
   const { data: colorSchemes, isLoading, error } = useColorSchemes();
   const searchParams = useSearchParams();
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
@@ -153,10 +154,43 @@ export default function PalettesPage() {
       {/* Add structured data */}
       {colorSchemes && <PalettesStructuredData colorSchemes={colorSchemes} />}
     </div>
-  );
-}
-
-// Skeleton component for loading state that matches the actual palette card design
+    );
+  }
+  
+  // Main page component that wraps the content in a Suspense boundary
+  export default function PalettesPage() {
+    return (
+      <Suspense fallback={
+        <div className="p-8">
+          <Header />
+          <div className="max-w-7xl mx-auto px-4 py-8 mt-[80px]">
+            {/* Skeleton for header controls */}
+            <div className="mb-8">
+              <div className="flex justify-between items-center mb-6">
+                <div className="h-8 w-48 bg-gray-200 rounded-md animate-pulse"></div>
+                <div className="flex gap-2">
+                  <div className="h-10 w-32 bg-gray-200 rounded-md animate-pulse"></div>
+                  <div className="h-10 w-24 bg-gray-200 rounded-md animate-pulse"></div>
+                  <div className="h-10 w-24 bg-gray-200 rounded-md animate-pulse"></div>
+                </div>
+              </div>
+            </div>
+  
+            {/* Skeleton palette grid */}
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {[...Array(9)].map((_, index) => (
+                <SkeletonPaletteCard key={index} delay={index * 150} />
+              ))}
+            </div>
+          </div>
+        </div>
+      }>
+        <PalettesContent />
+      </Suspense>
+    );
+  }
+  
+  // Skeleton component for loading state that matches the actual palette card design
 function SkeletonPaletteCard({ delay = 0 }) {
   return (
     <div

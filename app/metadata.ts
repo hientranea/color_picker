@@ -1,6 +1,8 @@
 import { Metadata } from "next";
+import { siteConfig } from "./config";
 
 export const metadata: Metadata = {
+  metadataBase: siteConfig.metadataBase,
   title: "ColorOne - Canvas Creative",
   description:
     "Professional color picking and palette management for creative professionals. Extract colors from your screen, generate harmonious palettes, and organize your color collections with precision.",
