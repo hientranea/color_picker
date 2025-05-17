@@ -1,0 +1,56 @@
+{
+  "color_name": "Emerald Green",
+  "hex_code": "#50C878",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Emerald Green, a rich and vibrant green hue, symbolizes growth, renewal, and abundance. It combines the freshness of nature with a sense of luxury and prosperity. This color evokes feelings of balance and harmony while promoting a sense of well-being and healing.",
+  "emotional_associations": ["growth", "harmony", "prosperity", "renewal"],
+  "complementary_colors": ["#C85078", "#FF5A8C"],
+  "suggested_palettes": [
+    {
+      "name": "Natural Elegance",
+      "swatches": ["#50C878", "#F5F5DC", "#8A795D"]
+    },
+    {
+      "name": "Tropical Paradise",
+      "swatches": ["#50C878", "#00A4CC", "#FFF07C"]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": ["Eco-friendly applications", "Health tracking apps"],
+    "food_beverage": ["Organic product packaging", "Health food branding"],
+    "wellness": ["Spa and wellness centers", "Natural health products"],
+    "fashion": ["Luxury accessories", "Spring collections"]
+  },
+  "real_world_examples": [
+    {
+      "title": "Whole Foods Market",
+      "description": "Symbolizing freshness and natural products in their branding.",
+      "image_url": "https://example.com/wholefoods.jpg"
+    },
+    {
+      "title": "Rolex (select models)",
+      "description": "Representing luxury and timeless elegance.",
+      "image_url": "https://example.com/rolex.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural, grounded look",
+    "Use with cream or beige for elegant sophistication",
+    "Combine with blues for a fresh, coastal aesthetic"
+  ],
+  "downloadable_assets": [
+    {
+      "type": "Figma swatch",
+      "url": "https://example.com/emerald-green.fig"
+    },
+    {
+      "type": "Adobe Swatch Exchange",
+      "url": "https://example.com/emerald-green.ase"
+    }
+  ],
+  "call_to_action": "Bring the refreshing energy of Emerald Green into your designs with our color palette generator!",
+  "seo_meta": {
+    "title": "Emerald Green: Meaning, Psychology, and Design Applications",
+    "description": "Discover the meaning and psychology of Emerald Green, learn how to use it effectively in design, and explore harmonious color combinations."
+  }
+}

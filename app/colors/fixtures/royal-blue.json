@@ -1,0 +1,56 @@
+{
+  "color_name": "Royal Blue",
+  "hex_code": "#4169E1",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Royal Blue, a rich and deep blue hue, conveys trust, loyalty, and stability. It has historical connections to royalty and nobility, lending an air of authority and professionalism. This color can create feelings of calmness and security while also inspiring confidence and dependability.",
+  "emotional_associations": ["trust", "loyalty", "stability", "confidence"],
+  "complementary_colors": ["#E17041", "#FF8C52"],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depths",
+      "swatches": ["#4169E1", "#1E3A8A", "#7DD3FC"]
+    },
+    {
+      "name": "Royal Elegance",
+      "swatches": ["#4169E1", "#FFD700", "#8A2BE2"]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": ["Corporate websites", "Security applications"],
+    "food_beverage": ["Water packaging", "Dairy products"],
+    "wellness": ["Medical services", "Health insurance"],
+    "fashion": ["Business attire", "Formal accessories"]
+  },
+  "real_world_examples": [
+    {
+      "title": "Facebook Logo",
+      "description": "Trust and reliability in social networking.",
+      "image_url": "https://example.com/facebook.jpg"
+    },
+    {
+      "title": "Samsung (select)",
+      "description": "Technology innovation and dependability.",
+      "image_url": "https://example.com/samsung.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold or yellow for a regal look",
+    "Use with white or light gray for a clean, professional appearance",
+    "Combine with other blues for a calming gradient effect"
+  ],
+  "downloadable_assets": [
+    {
+      "type": "Figma swatch",
+      "url": "https://example.com/royal-blue.fig"
+    },
+    {
+      "type": "Adobe Swatch Exchange",
+      "url": "https://example.com/royal-blue.ase"
+    }
+  ],
+  "call_to_action": "Discover the power of Royal Blue with our color palette generator!",
+  "seo_meta": {
+    "title": "Royal Blue: Meaning, Psychology, and Design Applications",
+    "description": "Learn about Royal Blue's meaning, psychological effects, and how to use it effectively in your designs."
+  }
+}

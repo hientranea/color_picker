@@ -74,6 +74,16 @@ export default function Header() {
             </li>
             <li>
               <Link
+                href="/colors"
+                className={`${
+                  scrolled ? "hover:text-white-900" : "hover:text-gray-900"
+                }`}
+              >
+                Color Meanings
+              </Link>
+            </li>
+            <li>
+              <Link
                 href={isHomePage ? "#pricing" : "/#pricing"}
                 className={`${
                   scrolled ? "hover:text-white-900" : "hover:text-gray-900"

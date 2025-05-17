@@ -1,0 +1,46 @@
+{
+  "color_name": "Web Orange",
+  "hex_code": "#FFA500",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Web Orange, a vibrant and energetic hue, combines the cheerfulness of yellow with the boldness of red. It is often associated with enthusiasm, creativity, and stimulation. This color can evoke feelings of warmth and happiness, while also grabbing attention and signaling action.",
+  "emotional_associations": ["energy", "warmth", "enthusiasm", "creativity"],
+  "complementary_colors": ["#005AFF", "#0066FF"],
+  "suggested_palettes": [
+    {
+      "name": "Citrus Burst",
+      "swatches": ["#FFA500", "#FFD700", "#FF4500"]
+    },
+    {
+      "name": "Autumn Harvest",
+      "swatches": ["#FFA500", "#8B4513", "#A0522D"]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": ["Call-to-action buttons", "Navigation highlights"],
+    "food_beverage": ["Packaging for citrus fruits", "Energy drink branding"],
+    "wellness": [],
+    "fashion": ["Statement accessories", "Sportswear accents"]
+  },
+  "real_world_examples": [
+    {
+      "title": "Nickelodeon Logo",
+      "description": "Playful and attention-grabbing orange for a children's channel.",
+      "image_url": "https://example.com/nickelodeon.jpg"
+    },
+    {
+      "title": "Harley-Davidson (select)",
+      "description": "Strength and visibility on their motorcycles",
+      "image_url": "https://example.com/harley.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with blues or teals for a vibrant contrast",
+    "Use with neutrals like gray or white for a balanced look",
+    "Combine with other warm colors for a cohesive palette"
+  ],
+  "call_to_action": "Explore the possibilities of Web Orange with our color palette generator!",
+  "seo_meta": {
+    "title": "Web Orange: Meaning, Psychology, and Design Tips",
+    "description": "Uncover the meaning and psychology behind Web Orange, explore design tips, and find inspiring color palettes."
+  }
+}

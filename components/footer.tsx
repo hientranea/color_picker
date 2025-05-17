@@ -43,6 +43,15 @@ export default function Footer() {
               </li>
               <li>
                 <a
+                  href="/colors"
+                  className="text-gray-400 hover:text-white transition-colors"
+                  aria-label="Color Meanings and Psychology"
+                >
+                  Color Meanings
+                </a>
+              </li>
+              <li>
+                <a
                   href="#pricing"
                   className="text-gray-400 hover:text-white transition-colors"
                   aria-label="ColorOne Pricing Plans"
