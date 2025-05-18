@@ -104,7 +104,7 @@ export default async function ColorsIndexPage() {
                                 color: color.data.hex_code,
                               }}
                             >
-                              {emotion}_{idx}
+                              {emotion}
                             </span>
                           )
                         )}
