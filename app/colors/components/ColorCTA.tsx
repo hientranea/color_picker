@@ -51,7 +51,7 @@ const ColorCTA: React.FC<ColorCTAProps> = ({ colorData }) => {
               </a>
 
               <a
-                href="/"
+                href="/colors"
                 className="px-6 py-3 rounded-lg font-medium bg-white text-gray-800 shadow-md hover:shadow-lg transition-all"
               >
                 Explore More Colors

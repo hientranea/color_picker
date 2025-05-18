@@ -1,7 +1,5 @@
-"use client";
-
 import { notFound } from "next/navigation";
-import { getColorBySlug, getAllColorSlugs } from "../utils/colorData";
+import { getColorBySlug, getAllColorSlugs } from "../utils/colorDataService";
 
 // Components
 import ColorHeader from "../components/ColorHeader";
@@ -12,11 +10,11 @@ import HowToPair from "../components/HowToPair";
 import ColorCTA from "../components/ColorCTA";
 import ColorStructuredData from "../components/ColorStructuredData";
 
-// Generate static paths for all colors
-// export async function generateStaticParams() {
-//   const colorSlugs = getAllColorSlugs();
-//   return colorSlugs.map((slug) => ({ color_name: slug }));
-// }
+// Generate static paths for all colors at build time
+export async function generateStaticParams() {
+  const colorSlugs = await getAllColorSlugs();
+  return colorSlugs.map((slug) => ({ color_name: slug }));
+}
 
 interface ColorPageProps {
   params: {
@@ -24,9 +22,10 @@ interface ColorPageProps {
   };
 }
 
-export default function ColorPage({ params }: ColorPageProps) {
+// This is now a server component with async data fetching
+export default async function ColorPage({ params }: ColorPageProps) {
   const colorSlug = params.color_name;
-  const colorInfo = getColorBySlug(colorSlug);
+  const colorInfo = await getColorBySlug(colorSlug);
 
   // If color not found, return 404
   if (!colorInfo) {
@@ -53,7 +52,7 @@ export default function ColorPage({ params }: ColorPageProps) {
       <IndustryUseCases colorData={colorData} />
 
       {/* Real-world examples section */}
-      <RealWorldExamples colorData={colorData} />
+      {/* <RealWorldExamples colorData={colorData} /> */}
 
       {/* How to pair section */}
       <HowToPair colorData={colorData} />

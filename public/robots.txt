@@ -1,16 +1,12 @@
-# Allow all web crawlers to access all content
+# Allow all crawlers
 User-agent: *
 Allow: /
 
-# Sitemap location
-Sitemap: https://colorone.site/sitemap.xml
-
-# Disallow access to API routes
+# Protect API routes from crawling
 Disallow: /api/
 
-# Crawl delay for heavy crawlers
-User-agent: AhrefsBot
-Crawl-delay: 10
+# Crawl delay to prevent overloading the server
+Crawl-delay: 5
 
-User-agent: SemrushBot
-Crawl-delay: 10
+# Sitemap location
+Sitemap: https://colorpicker.com/sitemap.xml

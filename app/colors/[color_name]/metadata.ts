@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import { getColorBySlug } from "../utils/colorData";
+import { getColorBySlug } from "../utils/colorDataService";
 
 interface MetadataProps {
   params: {
@@ -11,7 +11,7 @@ export async function generateMetadata({
   params,
 }: MetadataProps): Promise<Metadata> {
   const colorSlug = params.color_name;
-  const colorInfo = getColorBySlug(colorSlug);
+  const colorInfo = await getColorBySlug(colorSlug);
 
   if (!colorInfo) {
     return {
