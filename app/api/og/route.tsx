@@ -11,11 +11,6 @@ export async function GET(req: NextRequest) {
     const color = searchParams.get("color") || "#000000";
     const name = searchParams.get("name") || "Color";
 
-    // Font settings
-    const fontData = await fetch(
-      new URL("../../fonts/inter-bold.ttf", import.meta.url)
-    ).then((res) => res.arrayBuffer());
-
     return new ImageResponse(
       (
         <div
@@ -88,14 +83,6 @@ export async function GET(req: NextRequest) {
       {
         width: 1200,
         height: 630,
-        fonts: [
-          {
-            name: "Inter",
-            data: fontData,
-            style: "normal",
-            weight: 700,
-          },
-        ],
       }
     );
   } catch (e) {

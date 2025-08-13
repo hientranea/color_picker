@@ -10,13 +10,13 @@ import ColorCTA from "../components/ColorCTA";
 import ColorStructuredData from "../components/ColorStructuredData";
 import ColorNavigation from "../components/ColorNavigation";
 import RelatedColors from "../components/RelatedColors";
-import ColorFluidCursor from "../components/ColorFluidCursor";
 
 // Generate static paths for all colors at build time
-export async function generateStaticParams() {
-  const colorSlugs = await getAllColorSlugs();
-  return colorSlugs.map((slug) => ({ color_name: slug }));
-}
+export const dynamic = "force-dynamic";
+// export async function generateStaticParams() {
+//   const colorSlugs = await getAllColorSlugs();
+//   return colorSlugs.map((slug) => ({ color_name: slug }));
+// }
 
 interface ColorPageProps {
   params: {

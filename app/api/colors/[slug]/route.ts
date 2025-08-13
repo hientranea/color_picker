@@ -29,11 +29,11 @@ export async function GET(
   // Get client IP for rate limiting
   const ip = request.headers.get("x-forwarded-for") || "unknown";
   const now = Date.now();
-  
+
   // Rate limiting logic
   const tokenKey = `${ip}:${Math.floor(now / rateLimit.interval)}`;
   const tokenCount = rateLimit.tokenCache.get(tokenKey) || 0;
-  
+
   // Check if rate limit exceeded
   if (tokenCount >= rateLimit.tokensPerInterval) {
     return NextResponse.json(
@@ -41,19 +41,22 @@ export async function GET(
       { status: 429, headers }
     );
   }
-  
+
   // Update rate limit counter
   rateLimit.tokenCache.set(tokenKey, tokenCount + 1);
-  
+
   // Clean up old entries
-  for (const [key, timestamp] of rateLimit.tokenCache.entries()) {
-    if (now - parseInt(key.split(":")[1]) * rateLimit.interval > rateLimit.interval) {
+  rateLimit.tokenCache.forEach((key, timestamp) => {
+    if (
+      now - parseInt(key.split(":")[1]) * rateLimit.interval >
+      rateLimit.interval
+    ) {
       rateLimit.tokenCache.delete(key);
     }
-  }
+  });
 
   const { slug } = params;
-  
+
   // Check cache first
   const cacheKey = `color:${slug}`;
   if (cache.has(cacheKey)) {
@@ -66,20 +69,20 @@ export async function GET(
       .split("-")
       .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
       .join(" ");
-    
+
     const { data, error } = await supabase
       .from("color_psychology_data")
       .select("*")
       .eq("color_name", colorName)
       .single();
-    
+
     if (error || !data) {
       return NextResponse.json(
         { error: "Color not found" },
         { status: 404, headers }
       );
     }
-    
+
     // Parse JSONB fields and add slug to response
     const response = {
       ...data,
@@ -88,13 +91,12 @@ export async function GET(
       industry_use_cases: ensureObject(data.industry_use_cases),
       real_world_examples: ensureObject(data.real_world_examples),
       downloadable_assets: ensureObject(data.downloadable_assets),
-      seo_meta: ensureObject(data.seo_meta)
+      seo_meta: ensureObject(data.seo_meta),
     };
-    
+
     // Cache the result
     cache.set(cacheKey, response);
     return NextResponse.json(response, { headers });
-    
   } catch (error) {
     console.error("API error:", error);
     return NextResponse.json(
@@ -106,13 +108,16 @@ export async function GET(
 
 // Handle OPTIONS requests for CORS preflight
 export async function OPTIONS() {
-  return NextResponse.json({}, {
-    headers: {
-      "Access-Control-Allow-Origin": process.env.NEXT_PUBLIC_SITE_URL || "*",
-      "Access-Control-Allow-Methods": "GET",
-      "Access-Control-Allow-Headers": "Content-Type, Authorization",
-    },
-  });
+  return NextResponse.json(
+    {},
+    {
+      headers: {
+        "Access-Control-Allow-Origin": process.env.NEXT_PUBLIC_SITE_URL || "*",
+        "Access-Control-Allow-Methods": "GET",
+        "Access-Control-Allow-Headers": "Content-Type, Authorization",
+      },
+    }
+  );
 }
 
 // Helper function to ensure JSONB fields are properly parsed
@@ -121,11 +126,11 @@ function ensureObject(value: any): any {
     return {};
   }
 
-  if (typeof value === 'string') {
+  if (typeof value === "string") {
     try {
       return JSON.parse(value);
     } catch (e) {
-      console.error('Error parsing JSON string:', e);
+      console.error("Error parsing JSON string:", e);
       return {};
     }
   }
