@@ -7,8 +7,8 @@ interface IndustryUseCasesProps {
 
 const IndustryUseCases: React.FC<IndustryUseCasesProps> = ({ colorData }) => {
   // Filter out industries with empty arrays
-  const industries = Object.entries(colorData.industry_use_cases).filter(
-    ([_, useCases]) => useCases.length > 0
+  const industries = Object.entries(colorData.industry_use_cases || {}).filter(
+    ([_, useCases]) => Array.isArray(useCases) && useCases.length > 0
   );
 
   if (industries.length === 0) {

@@ -8,7 +8,12 @@ export interface ColorInfo {
 
 // Convert color name to slug
 export function colorNameToSlug(colorName: string): string {
-  return colorName.toLowerCase().replace(/\s+/g, "-");
+  return colorName
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, "") // Remove special characters except word chars, spaces, and hyphens
+    .replace(/\s+/g, "-") // Replace spaces with hyphens
+    .replace(/-+/g, "-") // Replace multiple hyphens with single hyphen
+    .replace(/^-|-$/g, ""); // Remove leading/trailing hyphens
 }
 
 // Convert slug to color name
@@ -37,6 +42,25 @@ function ensureObject(value: any): any {
   return value;
 }
 
+// Helper function to ensure array fields return empty arrays when null
+function ensureArray(value: any): any[] {
+  if (value === null || value === undefined) {
+    return [];
+  }
+
+  if (typeof value === "string") {
+    try {
+      const parsed = JSON.parse(value);
+      return Array.isArray(parsed) ? parsed : [];
+    } catch (e) {
+      console.error("Error parsing JSON string:", e);
+      return [];
+    }
+  }
+
+  return Array.isArray(value) ? value : [];
+}
+
 // Get all colors from Supabase
 export async function getAllColors(): Promise<ColorInfo[]> {
   const supabase = createSupabaseServerClient();
@@ -54,10 +78,12 @@ export async function getAllColors(): Promise<ColorInfo[]> {
     slug: colorNameToSlug(color.color_name),
     data: {
       ...color,
-      suggested_palettes: ensureObject(color.suggested_palettes),
+      emotional_associations: ensureArray(color.emotional_associations),
+      complementary_colors: ensureArray(color.complementary_colors),
+      suggested_palettes: ensureArray(color.suggested_palettes),
       industry_use_cases: ensureObject(color.industry_use_cases),
-      real_world_examples: ensureObject(color.real_world_examples),
-      downloadable_assets: ensureObject(color.downloadable_assets),
+      real_world_examples: ensureArray(color.real_world_examples),
+      how_to_pair: ensureArray(color.how_to_pair),
       seo_meta: ensureObject(color.seo_meta),
     },
   }));
@@ -66,7 +92,9 @@ export async function getAllColors(): Promise<ColorInfo[]> {
 // Get a specific color by slug
 export async function getColorBySlug(slug: string): Promise<ColorInfo | null> {
   const supabase = createSupabaseServerClient();
-  const colorName = slugToColorName(slug);
+  // Decode URL-encoded slug before converting to color name
+  const decodedSlug = decodeURIComponent(slug);
+  const colorName = slugToColorName(decodedSlug);
 
   const { data, error } = await supabase
     .from("color_psychology_data")
@@ -82,23 +110,35 @@ export async function getColorBySlug(slug: string): Promise<ColorInfo | null> {
   // Parse JSONB fields to ensure they're proper JavaScript objects
   const parsedData = {
     ...data,
-    suggested_palettes: ensureObject(data.suggested_palettes),
+    emotional_associations: ensureArray(data.emotional_associations),
+    complementary_colors: ensureArray(data.complementary_colors),
+    suggested_palettes: ensureArray(data.suggested_palettes),
     industry_use_cases: ensureObject(data.industry_use_cases),
-    real_world_examples: ensureObject(data.real_world_examples),
-    downloadable_assets: ensureObject(data.downloadable_assets),
+    real_world_examples: ensureArray(data.real_world_examples),
+    how_to_pair: ensureArray(data.how_to_pair),
     seo_meta: ensureObject(data.seo_meta),
   };
 
   return {
-    slug,
+    slug: decodedSlug,
     data: parsedData,
   };
 }
 
 // Get a list of all color slugs for static generation
 export async function getAllColorSlugs(): Promise<string[]> {
-  const colors = await getAllColors();
-  return colors.map((color) => color.slug);
+  const supabase = createSupabaseServerClient();
+
+  const { data, error } = await supabase
+    .from("color_psychology_data")
+    .select("color_name");
+
+  if (error) {
+    console.error("Error fetching color names:", error);
+    return [];
+  }
+
+  return data.map((color) => colorNameToSlug(color.color_name));
 }
 
 // Get a list of all color names

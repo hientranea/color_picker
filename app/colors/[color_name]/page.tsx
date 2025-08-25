@@ -11,12 +11,14 @@ import ColorStructuredData from "../components/ColorStructuredData";
 import ColorNavigation from "../components/ColorNavigation";
 import RelatedColors from "../components/RelatedColors";
 
-// Generate static paths for all colors at build time
-export const dynamic = "force-dynamic";
-// export async function generateStaticParams() {
-//   const colorSlugs = await getAllColorSlugs();
-//   return colorSlugs.map((slug) => ({ color_name: slug }));
-// }
+// ISR: Revalidate every hour for fresh content
+export const revalidate = 3600;
+
+// Don't pre-generate all color pages at build time to avoid build timeouts
+// Pages will be generated on-demand and cached with ISR
+export async function generateStaticParams() {
+  return [];
+}
 
 interface ColorPageProps {
   params: {
@@ -35,6 +37,9 @@ export default async function ColorPage({ params }: ColorPageProps) {
     notFound();
   }
 
+  // Ensure allColors is always an array
+  const safeAllColors = Array.isArray(allColors) ? allColors : [];
+
   const { data: colorData } = colorInfo;
   const pageUrl = `${
     process.env.NEXT_PUBLIC_SITE_URL || "https://colorpicker.com"
@@ -49,7 +54,7 @@ export default async function ColorPage({ params }: ColorPageProps) {
       <ColorNavigation
         currentColor={colorData}
         currentSlug={colorSlug}
-        allColorSlugs={allColors}
+        allColorSlugs={safeAllColors}
       />
 
       {/* Color header section with enhanced animations */}
@@ -82,7 +87,7 @@ export default async function ColorPage({ params }: ColorPageProps) {
         <RelatedColors
           currentColor={colorData}
           currentSlug={colorSlug}
-          allColorSlugs={allColors}
+          allColorSlugs={safeAllColors}
         />
       </section>
 

@@ -43,7 +43,7 @@ const HowToPair: React.FC<HowToPairProps> = ({ colorData }) => {
         <div className="flex flex-col lg:flex-row gap-10">
           <div className="lg:w-1/2">
             <ul className="space-y-6">
-              {colorData.how_to_pair.map((tip, index) => (
+              {(colorData.how_to_pair || []).map((tip, index) => (
                 <li
                   key={index}
                   className={`flex items-start gap-4 p-4 rounded-xl transition-all duration-300 ${

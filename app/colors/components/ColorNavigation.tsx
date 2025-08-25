@@ -20,10 +20,10 @@ const ColorNavigation: React.FC<ColorNavigationProps> = ({
   const [copied, setCopied] = useState(false);
 
   // Find previous and next colors
-  const currentIndex = allColorSlugs.indexOf(currentSlug);
+  const currentIndex = Array.isArray(allColorSlugs) ? allColorSlugs.indexOf(currentSlug) : -1;
   const prevSlug = currentIndex > 0 ? allColorSlugs[currentIndex - 1] : null;
   const nextSlug =
-    currentIndex < allColorSlugs.length - 1
+    Array.isArray(allColorSlugs) && currentIndex < allColorSlugs.length - 1
       ? allColorSlugs[currentIndex + 1]
       : null;
 

@@ -84,7 +84,7 @@ const ColorPalettes: React.FC<ColorPalettesProps> = ({ colorData }) => {
               {/* Complementary colors display */}
               <div className="md:w-2/3">
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                  {colorData.complementary_colors.map((color, index) => (
+                  {(colorData.complementary_colors || []).map((color, index) => (
                     <div key={index} className="group">
                       <div
                         className="h-32 w-full rounded-lg shadow-sm mb-2 transition-all duration-300 group-hover:shadow-md transform group-hover:scale-105"
@@ -112,14 +112,14 @@ const ColorPalettes: React.FC<ColorPalettesProps> = ({ colorData }) => {
         {/* Suggested palettes panel */}
         {activeTab === "suggested" && (
           <div className="space-y-6 animate-fade-in">
-            {colorData.suggested_palettes.map((palette, index) => (
+            {(colorData.suggested_palettes || []).map((palette, index) => (
               <article
                 key={index}
                 className="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300 group"
               >
                 {/* Color Preview with expand/shrink on hover */}
                 <div className="flex h-32 w-full">
-                  {palette.swatches.map((swatch, swatchIndex) => {
+                  {(palette.swatches || []).map((swatch, swatchIndex) => {
                     const colorId = `palette-${index}-color-${swatchIndex}`;
                     const isHovered = hoveredColorId === colorId;
 
@@ -170,7 +170,7 @@ const ColorPalettes: React.FC<ColorPalettesProps> = ({ colorData }) => {
                   </div>
 
                   <div className="flex flex-wrap gap-2 mb-4">
-                    {palette.swatches.map((swatch, i) => (
+                    {(palette.swatches || []).map((swatch, i) => (
                       <span
                         key={i}
                         className="inline-block w-6 h-6 rounded-full border border-gray-200"

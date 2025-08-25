@@ -28,6 +28,7 @@ const RelatedColors: React.FC<RelatedColorsProps> = ({
   // Get a subset of colors to display as related
   // In a real app, this would be based on color similarity or categories
   const getRelatedColors = () => {
+    if (!Array.isArray(allColorSlugs)) return [];
     const otherColors = allColorSlugs.filter((slug) => slug !== currentSlug);
     // Shuffle and take up to 6 colors
     return otherColors
@@ -75,7 +76,7 @@ const RelatedColors: React.FC<RelatedColorsProps> = ({
 
         {/* CSS variables for color swatches */}
         <style jsx global>{`
-          ${allColorSlugs
+          ${Array.isArray(allColorSlugs) ? allColorSlugs
             .map(
               (slug) => `
             --color-emerald-green: #50C878;
@@ -83,7 +84,7 @@ const RelatedColors: React.FC<RelatedColorsProps> = ({
             --color-web-orange: #FFA500;
           `
             )
-            .join("\n")}
+            .join("\n") : ''}
         `}</style>
       </div>
     </section>

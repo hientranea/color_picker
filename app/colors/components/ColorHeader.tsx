@@ -195,7 +195,7 @@ const ColorHeader: React.FC<ColorHeaderProps> = ({ colorData }) => {
             </p>
 
             <div className="flex flex-wrap gap-2 mb-6">
-              {colorData.emotional_associations.map((emotion, index) => (
+              {(colorData.emotional_associations || []).map((emotion, index) => (
                 <span
                   key={index}
                   className="px-3 py-1.5 rounded-full text-sm font-medium transition-all duration-300 hover:scale-105"
