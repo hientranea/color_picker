@@ -1,0 +1,60 @@
+{
+  "planPath": "docs/superpowers/plans/2026-05-24-static-colors-deploy.md",
+  "tasks": [
+    {
+      "id": 9,
+      "subject": "Task 1: Env-driven Supabase server client",
+      "status": "pending",
+      "description": "**Goal:** Replace the hardcoded Supabase URL+key in `utils/supabase.ts` with reads from environment variables.\n\n**Files:**\n- Modify: `utils/supabase.ts`\n\n**Acceptance Criteria:**\n- No hardcoded Supabase URL or JWT in utils/supabase.ts\n- createSupabaseServerClient reads from process.env at call time\n- Missing env var throws Error naming the variable\n- pnpm next build exits 0\n\n**Verify:** `cd /Users/hientran/code/color_picker && pnpm next build && grep -E '(supabase\\.co|eyJ[A-Za-z0-9_-]+)' utils/supabase.ts && echo FAIL || echo OK`\n\n```json:metadata\n{\"files\": [\"utils/supabase.ts\"], \"verifyCommand\": \"cd /Users/hientran/code/color_picker && pnpm next build && grep -E '(supabase\\\\.co|eyJ[A-Za-z0-9_-]+)' utils/supabase.ts && echo FAIL || echo OK\", \"acceptanceCriteria\": [\"No hardcoded credentials\", \"Env reads at call time\", \"Throws on missing env\", \"Build passes\"]}\n```"
+    },
+    {
+      "id": 10,
+      "subject": "Task 2: Snapshot script + initial committed snapshot",
+      "status": "pending",
+      "blockedBy": [9],
+      "description": "**Goal:** Author Node script to snapshot color_psychology_data into JSON files; run it; commit results. Append ColorPsychologyData interface to types/supabase.ts.\n\n**Files:**\n- Create: `scripts/snapshot-colors.mjs`\n- Create: `app/colors/data/colors.snapshot.json`\n- Create: `public/api/colors.json`\n- Create: `public/api/colors/<slug>.json`\n- Modify: `types/supabase.ts`\n\n**Acceptance Criteria:**\n- Script is ESM with only node: built-ins + @supabase/supabase-js\n- Run exits 0; writes three artifact groups\n- Snapshot has colors.length > 0\n- Offline fallback: missing env + existing snapshot exits 0 with warning\n- ColorPsychologyData interface in types/supabase.ts\n\n**Verify:** `cd /Users/hientran/code/color_picker && node scripts/snapshot-colors.mjs && jq '.colors | length' app/colors/data/colors.snapshot.json && jq '. | length' public/api/colors.json`\n\n```json:metadata\n{\"files\": [\"scripts/snapshot-colors.mjs\", \"app/colors/data/colors.snapshot.json\", \"public/api/colors.json\", \"public/api/colors\", \"types/supabase.ts\"], \"verifyCommand\": \"cd /Users/hientran/code/color_picker && node scripts/snapshot-colors.mjs && jq '.colors | length' app/colors/data/colors.snapshot.json\", \"acceptanceCriteria\": [\"ESM script\", \"Runs against live Supabase\", \"Snapshot non-empty\", \"List + per-color JSON written\", \"Offline fallback works\", \"Interface added\"]}\n```"
+    },
+    {
+      "id": 11,
+      "subject": "Task 3: Port /colors files from meaning (mechanical)",
+      "status": "pending",
+      "description": "**Goal:** Bring app/colors/* tree from origin/meaning unchanged. App/api/ NOT ported.\n\n**Files:**\n- Port from origin/meaning: everything under `app/colors/`\n\n**Acceptance Criteria:**\n- All listed files exist on the working tree\n- app/api/ does not exist\n- npx tsc --noEmit completes with no type errors\n\n**Verify:** `cd /Users/hientran/code/color_picker && ls -la app/colors/[color_name]/page.tsx app/colors/utils/colorDataService.ts app/colors/components/ColorHeader.tsx && test ! -d app/api && npx tsc --noEmit`\n\n```json:metadata\n{\"files\": [\"app/colors/\"], \"verifyCommand\": \"cd /Users/hientran/code/color_picker && test -f app/colors/[color_name]/page.tsx && test ! -d app/api && npx tsc --noEmit\", \"acceptanceCriteria\": [\"All /colors files present\", \"No /api dir\", \"Typecheck passes\"]}\n```"
+    },
+    {
+      "id": 12,
+      "subject": "Task 4: Make /colors statically renderable",
+      "status": "pending",
+      "blockedBy": [10, 11],
+      "description": "**Goal:** Rewrite colorDataService.ts to read snapshot; collapse colorData.ts to type alias; configure [color_name]/page.tsx for static gen; switch metadata to static OG; delete partial fixtures.\n\n**Files:**\n- Modify: app/colors/utils/colorDataService.ts\n- Modify: app/colors/utils/colorData.ts\n- Modify: app/colors/[color_name]/page.tsx\n- Modify: app/colors/[color_name]/metadata.ts\n- Delete: app/colors/fixtures/*.json + dir\n\n**Acceptance Criteria:**\n- colorDataService.ts has no Supabase imports/calls\n- Data functions sourced from snapshot\n- page.tsx has dynamicParams=false, full generateStaticParams, no revalidate\n- metadata.ts uses /hero-advance-harmony.png not /api/og\n- app/colors/fixtures/ removed\n- tsc --noEmit passes\n\n**Verify:** Multiple grep guardrails + tsc --noEmit (see plan doc).\n\n```json:metadata\n{\"files\": [\"app/colors/utils/colorDataService.ts\", \"app/colors/utils/colorData.ts\", \"app/colors/[color_name]/page.tsx\", \"app/colors/[color_name]/metadata.ts\"], \"verifyCommand\": \"cd /Users/hientran/code/color_picker && grep -E '(createSupabaseServerClient|supabase\\\\.from)' app/colors/utils/colorDataService.ts && echo FAIL || echo OK; grep -E 'export const dynamicParams = false' app/colors/\\\\[color_name\\\\]/page.tsx && echo OK || echo FAIL; npx tsc --noEmit\", \"acceptanceCriteria\": [\"No Supabase refs in colorDataService\", \"dynamicParams=false present\", \"No revalidate\", \"Static OG image used\", \"Fixtures removed\", \"Typecheck passes\"]}\n```"
+    },
+    {
+      "id": 13,
+      "subject": "Task 5: Enable Next.js static export + wire build scripts",
+      "status": "pending",
+      "blockedBy": [12],
+      "description": "**Goal:** Set output: 'export' + images.unoptimized in next.config.mjs; add snapshot:colors + prebuild scripts to package.json.\n\n**Files:**\n- Modify: next.config.mjs\n- Modify: package.json\n\n**Acceptance Criteria:**\n- output: 'export' and images.unoptimized: true set\n- distDir: 'out' removed\n- npm scripts wired\n- pnpm build from clean state exits 0; out/colors/<slug>/index.html count matches snapshot color count\n- out/api/colors.json + out/api/colors/<slug>.json present\n\n**Verify:** Clean rebuild + slug count comparison (see plan doc).\n\n```json:metadata\n{\"files\": [\"next.config.mjs\", \"package.json\"], \"verifyCommand\": \"cd /Users/hientran/code/color_picker && rm -rf out .next && pnpm build && test -f out/index.html && test -d out/colors && test -f out/api/colors.json\", \"acceptanceCriteria\": [\"Static export configured\", \"Build scripts wired\", \"pnpm build exits 0\", \"out/ artifacts match snapshot\"]}\n```"
+    },
+    {
+      "id": 14,
+      "subject": "Task 6: Update GitHub Actions workflow for env + feature-branch trigger",
+      "status": "pending",
+      "blockedBy": [13],
+      "description": "**Goal:** Pass Supabase env from secrets to Build step; add feature branch to push trigger; change run command to pnpm build.\n\n**Files:**\n- Modify: .github/workflows/publish.yml\n\n**Acceptance Criteria:**\n- env block exposes both secrets in Build step\n- feature/colors-static-export listed in push branches\n- workflow_dispatch retained\n- YAML parses cleanly\n\n**Verify:** Greps + python yaml parse.\n\n```json:metadata\n{\"files\": [\".github/workflows/publish.yml\"], \"verifyCommand\": \"cd /Users/hientran/code/color_picker && grep -E 'NEXT_PUBLIC_SUPABASE_URL:' .github/workflows/publish.yml && grep -E 'feature/colors-static-export' .github/workflows/publish.yml && python3 -c \\\"import yaml; yaml.safe_load(open('.github/workflows/publish.yml'))\\\" && echo OK\", \"acceptanceCriteria\": [\"Secrets exposed\", \"Feature branch in trigger\", \"workflow_dispatch present\", \"Valid YAML\"]}\n```"
+    },
+    {
+      "id": 15,
+      "subject": "Task 7: Local end-to-end smoke test",
+      "status": "pending",
+      "blockedBy": [13, 14],
+      "description": "**Goal:** Clean rebuild; serve out/ locally; curl 5 routes; capture status+size as evidence; push branch.\n\n**Files:** None modified.\n\n**Acceptance Criteria:**\n- Clean pnpm build exits 0\n- All key out/ HTML files exist\n- Sample color HTML contains color name in plain text (proving SSG)\n- out/api/colors.json valid JSON with length > 0\n- All 5 routes return HTTP 200 via npx serve with non-empty body\n- Feature branch pushed to origin\n\n**Verify:** Full curl loop + push.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"cd /Users/hientran/code/color_picker && rm -rf out .next && pnpm build && test -f out/index.html && test -f out/colors/index.html && test -f out/api/colors.json\", \"acceptanceCriteria\": [\"Clean build passes\", \"Static HTML contains color content\", \"Local serve smoke-tests OK\", \"Branch pushed\"]}\n```"
+    },
+    {
+      "id": 16,
+      "subject": "Task 8: Hand off to user for manual review and merge (USER GATE)",
+      "status": "pending",
+      "blockedBy": [15],
+      "description": "**Goal:** Push branch; post hand-off summary; wait for explicit user approval.\n\n> **USER-ORDERED GATE — NON-SKIPPABLE.** This task was requested by the user in the current conversation. It MUST NOT be closed by walking around it, by declaring it 'verified inline', or by substituting a cheaper check. Close only after every item in acceptanceCriteria has been re-validated independently, with output captured.\n\n**Files:** None modified.\n\n**Acceptance Criteria:**\n- feature/colors-static-export pushed to origin\n- Task 7 smoke test evidence captured in conversation\n- Hand-off summary posted (branch, change-list, USER ACTION REQUIRED for CI secrets)\n- User has explicitly stated approval in this conversation\n\n**Verify:** Natural-language user approval (no automated command).\n\n```json:metadata\n{\"files\": [], \"userGate\": true, \"tags\": [\"user-gate\"], \"requiresUserSpecification\": false, \"verifyCommand\": \"\", \"acceptanceCriteria\": [\"Branch pushed\", \"Evidence in conversation\", \"Summary posted\", \"User approved explicitly\"]}\n```"
+    }
+  ],
+  "lastUpdated": "2026-05-24T00:00:00.000Z"
+}
