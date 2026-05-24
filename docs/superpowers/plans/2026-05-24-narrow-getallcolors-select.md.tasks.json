@@ -1,0 +1,12 @@
+{
+  "planPath": "docs/superpowers/plans/2026-05-24-narrow-getallcolors-select.md",
+  "tasks": [
+    {
+      "id": 1,
+      "subject": "Task 1: Narrow getAllColors to list-page columns and introduce ColorListItem",
+      "status": "completed",
+      "description": "**Goal:** Reduce the `getAllColors` payload below the Next.js 2 MB fetch-cache limit so the \"Failed to set fetch cache\" warning stops, while keeping the `/colors` page rendering exactly as before.\n\n**Files:**\n- Modify: `app/colors/utils/colorDataService.ts`\n- Modify: `app/colors/page.tsx`\n\n**Acceptance Criteria:**\n- ColorListItem interface exported with slug/color_name/hex_code/emotional_associations\n- getAllColors returns Promise<ColorListItem[]> with select(\"color_name, hex_code, emotional_associations\")\n- ensureArray still applied to emotional_associations\n- getColorBySlug, getAllColorSlugs, getAllColorNames, ColorInfo unchanged\n- page.tsx reads color.color_name/hex_code/emotional_associations (flat shape)\n- npx tsc --noEmit exits 0\n- pnpm lint exits 0 with no new warnings\n- grep -c 'Failed to set fetch cache' /tmp/nextdev.log returns 0 after visiting /colors\n\n**Verify:** `npx tsc --noEmit && pnpm lint && : > /tmp/nextdev.log && curl -s -o /dev/null http://localhost:3000/colors && test \"$(grep -c 'Failed to set fetch cache' /tmp/nextdev.log)\" = '0'`\n\n```json:metadata\n{\"files\": [\"app/colors/utils/colorDataService.ts\", \"app/colors/page.tsx\"], \"verifyCommand\": \"npx tsc --noEmit && pnpm lint && : > /tmp/nextdev.log && curl -s -o /dev/null http://localhost:3000/colors && test \\\"$(grep -c 'Failed to set fetch cache' /tmp/nextdev.log)\\\" = '0'\", \"acceptanceCriteria\": [\"ColorListItem interface exported\", \"getAllColors returns Promise<ColorListItem[]> with narrowed select\", \"ensureArray applied to emotional_associations\", \"other exports unchanged\", \"page.tsx uses flat shape\", \"tsc clean\", \"lint clean\", \"no cache warning after visiting /colors\"]}\n```"
+    }
+  ],
+  "lastUpdated": "2026-05-24T09:15:00Z"
+}
