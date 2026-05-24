@@ -44,9 +44,7 @@ export async function generateMetadata({
       description: data.seo_meta.description,
       images: [
         {
-          url: `/api/og?color=${encodeURIComponent(
-            data.hex_code
-          )}&name=${encodeURIComponent(data.color_name)}`,
+          url: "/hero-advance-harmony.png",
           width: 1200,
           height: 630,
           alt: `${data.color_name} color swatch`,
@@ -58,11 +56,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: data.seo_meta.title,
       description: data.seo_meta.description,
-      images: [
-        `/api/og?color=${encodeURIComponent(
-          data.hex_code
-        )}&name=${encodeURIComponent(data.color_name)}`,
-      ],
+      images: ["/hero-advance-harmony.png"],
     },
   };
 }

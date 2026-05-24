@@ -11,13 +11,11 @@ import ColorStructuredData from "../components/ColorStructuredData";
 import ColorNavigation from "../components/ColorNavigation";
 import RelatedColors from "../components/RelatedColors";
 
-// ISR: Revalidate every hour for fresh content
-export const revalidate = 3600;
+// Static export: pre-generate one HTML file per color from the build-time snapshot.
+export const dynamicParams = false;
 
-// Don't pre-generate all color pages at build time to avoid build timeouts
-// Pages will be generated on-demand and cached with ISR
 export async function generateStaticParams() {
-  return [];
+  return getAllColorSlugs().map((slug) => ({ color_name: slug }));
 }
 
 interface ColorPageProps {
