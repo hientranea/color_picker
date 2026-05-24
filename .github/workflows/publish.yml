@@ -2,7 +2,7 @@ name: Deploy site to Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "feature/colors-static-export"]
   workflow_dispatch:
 
 permissions:
@@ -51,7 +51,10 @@ jobs:
         run: pnpm install
 
       - name: Build with Next.js
-        run: pnpm next build
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY }}
+        run: pnpm build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
