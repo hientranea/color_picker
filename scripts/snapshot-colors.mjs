@@ -32,7 +32,7 @@ if (existsSync(envPath)) {
   for (const line of content.split("\n")) {
     const m = line.match(/^([A-Z_][A-Z0-9_]*)=(.*)$/);
     if (m && !process.env[m[1]]) {
-      process.env[m[1]] = m[2].trim();
+      process.env[m[1]] = m[2].trim().replace(/^(['"])(.*)\1$/, "$2");
     }
   }
 }
@@ -107,17 +107,31 @@ async function main() {
     process.exit(1);
   }
 
-  const colors = data.map((row) => ({
-    ...row,
-    slug: colorNameToSlug(row.color_name),
-    emotional_associations: ensureArray(row.emotional_associations),
-    complementary_colors: ensureArray(row.complementary_colors),
-    suggested_palettes: ensureArray(row.suggested_palettes),
-    industry_use_cases: ensureObject(row.industry_use_cases),
-    real_world_examples: ensureArray(row.real_world_examples),
-    how_to_pair: ensureArray(row.how_to_pair),
-    seo_meta: ensureObject(row.seo_meta),
-  }));
+  const colors = [];
+  for (const row of data) {
+    const slug = colorNameToSlug(row.color_name);
+    if (!slug) {
+      console.warn(
+        `[snapshot-colors] Skipping row id=${row.id}: empty slug derived from color_name="${row.color_name}"`
+      );
+      continue;
+    }
+    colors.push({
+      ...row,
+      slug,
+      emotional_associations: ensureArray(row.emotional_associations),
+      complementary_colors: ensureArray(row.complementary_colors),
+      suggested_palettes: ensureArray(row.suggested_palettes),
+      industry_use_cases: ensureObject(row.industry_use_cases),
+      real_world_examples: ensureArray(row.real_world_examples),
+      how_to_pair: ensureArray(row.how_to_pair),
+      seo_meta: ensureObject(row.seo_meta),
+    });
+  }
+  if (colors.length === 0) {
+    console.error("[snapshot-colors] All rows had empty slugs. Aborting.");
+    process.exit(1);
+  }
 
   await mkdir(path.dirname(snapshotPath), { recursive: true });
   await writeFile(
