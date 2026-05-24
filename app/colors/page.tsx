@@ -2,6 +2,8 @@ import Link from "next/link";
 import { getAllColors } from "./utils/colorDataService";
 import Header from "@/components/header";
 
+export { metadata } from "./metadata";
+
 export default async function ColorsIndexPage() {
   const allColors = await getAllColors();
 

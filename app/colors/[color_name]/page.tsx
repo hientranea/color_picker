@@ -11,6 +11,8 @@ import ColorStructuredData from "../components/ColorStructuredData";
 import ColorNavigation from "../components/ColorNavigation";
 import RelatedColors from "../components/RelatedColors";
 
+export { generateMetadata } from "./metadata";
+
 // Static export: pre-generate one HTML file per color from the build-time snapshot.
 export const dynamicParams = false;
 
