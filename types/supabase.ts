@@ -10,6 +10,7 @@ export interface ColorPsychologyData {
   id: string;
   color_name: string;
   hex_code: string;
+  slug: string;
   wheel_position: string;
   psychological_meaning: string;
   emotional_associations: string[];
@@ -28,6 +29,7 @@ export interface ColorPsychologyData {
   }[];
   how_to_pair: string[];
   call_to_action: string;
+  downloadable_assets: unknown[];
   seo_meta: {
     title: string;
     description: string;
