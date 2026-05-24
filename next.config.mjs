@@ -1,7 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   basePath: "",
-  distDir: "out",
+  output: "export",
+  images: {
+    unoptimized: true,
+  },
   reactStrictMode: true,
 };
 
