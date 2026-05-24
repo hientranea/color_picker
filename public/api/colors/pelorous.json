@@ -1,0 +1,81 @@
+{
+  "id": "10e34a1b-b180-47e3-8b5c-4cd38ef6f9cd",
+  "color_name": "Pelorous",
+  "hex_code": "#3EABBF",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pelorous, a serene and refreshing blue-green, evokes feelings of tranquility and clarity. It is associated with open communication, trust, and a sense of calm. This color promotes balance and harmony, making it conducive to creativity and introspection. Its connection to water elements inspires a sense of fluidity and adaptability.",
+  "emotional_associations": [
+    "tranquility",
+    "clarity",
+    "communication",
+    "trust",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#BF403E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#3EABBF",
+        "#D4E9E7",
+        "#7DB9B3",
+        "#2A6F6E"
+      ]
+    },
+    {
+      "name": "Serene Sands",
+      "swatches": [
+        "#3EABBF",
+        "#F2E7D5",
+        "#A68DAD",
+        "#594A4E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Collaboration tools",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Acupuncture studios"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Casual wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Living Room",
+      "description": "A living room designed with Pelorous walls, creating a serene and inviting space reminiscent of the ocean.",
+      "image_url": "https://example.com/coastal_living_room.jpg"
+    },
+    {
+      "title": "Pelorous Business Cards",
+      "description": "Business cards featuring the color Pelorous to convey professionalism and trustworthiness.",
+      "image_url": "https://example.com/pelorous_business_cards.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a calming effect.",
+    "Combine with coral or peach for a vibrant contrast.",
+    "Use with darker blues for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to create stunning color schemes with Pelorous!",
+  "seo_meta": {
+    "title": "Pelorous Color Meaning: Discover the Psychology and Uses of #3EABBF",
+    "description": "Uncover the meaning, associations, and best uses of Pelorous (#3EABBF), a refreshing blue-green color. Explore complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T15:09:35.07548+00:00",
+  "updated_at": "2025-06-01T15:09:35.07548+00:00",
+  "slug": "pelorous"
+}

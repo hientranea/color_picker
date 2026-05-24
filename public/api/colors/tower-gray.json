@@ -1,0 +1,77 @@
+{
+  "id": "c03a8064-956a-4d76-9d12-86d1488cd293",
+  "color_name": "Tower Gray",
+  "hex_code": "#A9BDBF",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Tower Gray evokes feelings of sophistication, neutrality, and calm. It can represent stability and reliability, but also detachment and a sense of formality. This color is often associated with professionalism and can create a sense of understated elegance.",
+  "emotional_associations": [
+    "Sophistication",
+    "Neutrality",
+    "Calm",
+    "Stability",
+    "Detachment"
+  ],
+  "complementary_colors": [
+    "#BFA7A9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#A9BDBF",
+        "#889799",
+        "#CBCBCB"
+      ]
+    },
+    {
+      "name": "Cool Neutrals",
+      "swatches": [
+        "#A9BDBF",
+        "#D3D8DA",
+        "#606C71"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Icons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Tower Gray walls, creating a sophisticated and calming environment.",
+      "image_url": "https://example.com/tower_gray_apartment.jpg"
+    },
+    {
+      "title": "Tower Gray Business Suit",
+      "description": "A sharply tailored business suit in Tower Gray conveys professionalism and understated elegance.",
+      "image_url": "https://example.com/tower_gray_suit.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, minimalist look.",
+    "Combine with blues for a calming, sophisticated palette.",
+    "Accent with metallic tones for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades to complement Tower Gray!",
+  "seo_meta": {
+    "title": "Tower Gray Color Meaning: Understanding the Psychology of #A9BDBF",
+    "description": "Discover the meaning, associations, and best uses of Tower Gray (#A9BDBF). Learn how to incorporate this sophisticated neutral color into your designs."
+  },
+  "created_at": "2025-06-01T16:08:35.713743+00:00",
+  "updated_at": "2025-06-01T16:08:35.713743+00:00",
+  "slug": "tower-gray"
+}

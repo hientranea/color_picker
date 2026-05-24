@@ -1,0 +1,83 @@
+{
+  "id": "b0514593-31b1-49df-be1e-da8a78fa6e50",
+  "color_name": "Cherrywood",
+  "hex_code": "#651A14",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Cherrywood evokes feelings of warmth, sophistication, and stability. It is associated with maturity, comfort, and a sense of groundedness. This color promotes feelings of security and can also suggest elegance and refinement, making it suitable for creating a welcoming and trustworthy environment.",
+  "emotional_associations": [
+    "warmth",
+    "sophistication",
+    "stability",
+    "comfort",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#14656B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#651A14",
+        "#A0522D",
+        "#D2B48C",
+        "#228B22",
+        "#468499"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#651A14",
+        "#8B4513",
+        "#CD853F",
+        "#F0E68C",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Coffee branding",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation rooms"
+    ],
+    "fashion": [
+      "Winter coats",
+      "Leather accessories",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cherrywood Dining Table",
+      "description": "A classic cherrywood dining table adds warmth and sophistication to any dining room.",
+      "image_url": "https://example.com/cherrywood_table.jpg"
+    },
+    {
+      "title": "Cherrywood Leather Sofa",
+      "description": "A luxurious cherrywood leather sofa provides comfort and style to a living space.",
+      "image_url": "https://example.com/cherrywood_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for an earthy feel.",
+    "Use with golds for added elegance.",
+    "Contrast with teals for a modern twist."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool today!",
+  "seo_meta": {
+    "title": "Cherrywood Color Meaning: Understanding #651A14",
+    "description": "Discover the meaning, psychology, and uses of the cherrywood color (#651A14) along with palette ideas and design inspiration."
+  },
+  "created_at": "2025-06-01T15:28:51.704604+00:00",
+  "updated_at": "2025-06-01T15:28:51.704604+00:00",
+  "slug": "cherrywood"
+}

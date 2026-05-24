@@ -1,0 +1,78 @@
+{
+  "id": "fd6664c8-0e0b-41f5-93db-48681cd4e462",
+  "color_name": "Green Pea",
+  "hex_code": "#1D6142",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Green Pea, a muted and natural green, evokes feelings of growth, tranquility, and connection to nature. It suggests stability, endurance, and a sense of calm groundedness. It is often associated with health, well-being, and environmental consciousness, promoting a feeling of balance and harmony.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "calm",
+    "stability",
+    "health"
+  ],
+  "complementary_colors": [
+    "#611D41"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#1D6142",
+        "#A7D1AB",
+        "#E5EFC1",
+        "#735F32"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#1D6142",
+        "#F2E7D5",
+        "#9AD0EC",
+        "#5C8D89"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy snack branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Brand Packaging",
+      "description": "Eco-friendly packaging using Green Pea to convey natural and sustainable qualities.",
+      "image_url": "https://example.com/green_pea_packaging.jpg"
+    },
+    {
+      "title": "Botanical Garden Signage",
+      "description": "Signage in a botanical garden uses Green Pea for a calming and nature-inspired aesthetic.",
+      "image_url": "https://example.com/green_pea_signage.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural palette.",
+    "Use with light blues for a refreshing contrast.",
+    "Combine with browns and greys for an earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your own palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Green Pea Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Green Pea color, its psychological associations, and find inspiring color palettes and combinations to use in your designs."
+  },
+  "created_at": "2025-06-01T14:53:01.859018+00:00",
+  "updated_at": "2025-06-01T14:53:01.859018+00:00",
+  "slug": "green-pea"
+}

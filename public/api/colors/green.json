@@ -1,0 +1,84 @@
+{
+  "id": "d73d64d9-fb73-4410-bc7f-8ee239b4143a",
+  "color_name": "Green",
+  "hex_code": "#00FF00",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Green is strongly associated with nature, growth, and renewal. It often represents balance, harmony, and stability. Emotionally, green can evoke feelings of peace, tranquility, and hope. It is also connected to health, prosperity, and generosity, signifying abundance and well-being.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "harmony",
+    "peace",
+    "health",
+    "prosperity"
+  ],
+  "complementary_colors": [
+    "#FF00FF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#00FF00",
+        "#8FBC8F",
+        "#2E8B57",
+        "#3CB371",
+        "#F0FFF0"
+      ]
+    },
+    {
+      "name": "Vibrant Growth",
+      "swatches": [
+        "#00FF00",
+        "#ADFF2F",
+        "#7FFF00",
+        "#00CD66",
+        "#90EE90"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Health tracking dashboards"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Vegetable product branding"
+    ],
+    "wellness": [
+      "Spa websites",
+      "Yoga studio marketing"
+    ],
+    "fashion": [
+      "Sustainable clothing brands",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amazon Rainforest",
+      "description": "The lush green canopy of the Amazon rainforest represents biodiversity and environmental health.",
+      "image_url": "https://example.com/amazon.jpg"
+    },
+    {
+      "title": "Emerald Gemstone",
+      "description": "Emeralds are prized for their rich green color, symbolizing luxury and renewal.",
+      "image_url": "https://example.com/emerald.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones for a balanced look.",
+    "Combine with blues and browns for a natural palette.",
+    "Use with complementary colors like magenta for high contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of green and find the perfect hue for your next project with our color picker tool.",
+  "seo_meta": {
+    "title": "Green Color Meaning: Symbolism, Psychology, and Design Tips",
+    "description": "Discover the meaning of the color green, its psychological effects, and how to use it effectively in design and branding."
+  },
+  "created_at": "2025-06-01T14:39:17.326757+00:00",
+  "updated_at": "2025-06-01T14:39:17.326757+00:00",
+  "slug": "green"
+}

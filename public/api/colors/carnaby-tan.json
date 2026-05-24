@@ -1,0 +1,78 @@
+{
+  "id": "20741f7e-77be-4322-b61f-14e83b01abb3",
+  "color_name": "Carnaby Tan",
+  "hex_code": "#5C2E01",
+  "wheel_position": "earth tone",
+  "psychological_meaning": "Carnaby Tan evokes feelings of stability, warmth, and earthiness. It's associated with reliability and comfort, suggesting a grounded and secure presence. This color can also represent tradition and heritage, providing a sense of connection to the past.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "earthiness",
+    "comfort",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#01595A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#5C2E01",
+        "#A37B45",
+        "#E6D58F",
+        "#7A9D96"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#5C2E01",
+        "#8B4513",
+        "#D2B48C",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "coffee branding",
+      "chocolate packaging"
+    ],
+    "wellness": [
+      "spa decor",
+      "yoga studios"
+    ],
+    "fashion": [
+      "leather goods",
+      "outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in Carnaby Tan brings a sense of timeless elegance to any living space.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a cozy wooden cabin, stained in a Carnaby Tan hue, blends harmoniously with the surrounding forest.",
+      "image_url": "https://example.com/cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a soft, neutral palette.",
+    "Combine with deep greens for an earthy feel.",
+    "Accent with gold or bronze for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar earthy tones and create your perfect color palette using our color picker tool!",
+  "seo_meta": {
+    "title": "Carnaby Tan Color Meaning: Psychology, Palettes & Pairing",
+    "description": "Discover the meaning of Carnaby Tan (#5C2E01), its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:24:23.634277+00:00",
+  "updated_at": "2025-06-01T15:24:23.634277+00:00",
+  "slug": "carnaby-tan"
+}

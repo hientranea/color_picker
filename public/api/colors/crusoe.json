@@ -1,0 +1,79 @@
+{
+  "id": "1225bbc3-12f1-4820-9dd9-8610b3c738ea",
+  "color_name": "Crusoe",
+  "hex_code": "#004816",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Crusoe, a deep shade of green, evokes feelings of tranquility, growth, and stability. It is often associated with nature, health, and renewal. This color promotes a sense of calm and balance, making it suitable for environments where relaxation and rejuvenation are desired.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "stability",
+    "nature",
+    "health",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#801469"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#004816",
+        "#A3C4BC",
+        "#E5EFC1",
+        "#774F38"
+      ]
+    },
+    {
+      "name": "Forest Retreat",
+      "swatches": [
+        "#004816",
+        "#2A6F36",
+        "#4E8958",
+        "#74B37D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant decor emphasizing natural ingredients"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The lush green canopy of a dense forest, representing life and abundance.",
+      "image_url": "url_to_forest_image.jpg"
+    },
+    {
+      "title": "Emerald Jewelry",
+      "description": "A stunning emerald gemstone, symbolizing luxury and sophistication.",
+      "image_url": "url_to_emerald_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones for a natural feel.",
+    "Combine with gold accents for elegance.",
+    "Use with creams and whites for a serene atmosphere."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades for your next project!",
+  "seo_meta": {
+    "title": "Crusoe Color Meaning: Discover the Psychology of #004816",
+    "description": "Explore the meaning and associations of Crusoe (#004816). Learn about its psychology, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T14:37:09.430135+00:00",
+  "updated_at": "2025-06-01T14:37:09.430135+00:00",
+  "slug": "crusoe"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "328cd38c-55a1-410c-be3a-719da802d3ff",
+  "color_name": "Jordy Blue",
+  "hex_code": "#8AB9F1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jordy Blue evokes feelings of tranquility, openness, and clarity. It's associated with communication, trust, and efficiency. This calming hue promotes a sense of peace and encourages introspection, making it ideal for spaces designed for relaxation and focus.",
+  "emotional_associations": [
+    "calm",
+    "trust",
+    "clarity",
+    "openness"
+  ],
+  "complementary_colors": [
+    "#F1A28A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Escape",
+      "swatches": [
+        "#8AB9F1",
+        "#D3E2F8",
+        "#A7D1AB",
+        "#E8E2DA"
+      ]
+    },
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#8AB9F1",
+        "#FFFFFF",
+        "#77B5FE",
+        "#2E9AFE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization",
+      "Call-to-action buttons",
+      "Progress bars"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa and relaxation centers",
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Swimwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cloudy Sky",
+      "description": "The soft blue of a partly cloudy sky reflecting a sense of peace and openness.",
+      "image_url": "https://example.com/cloudy_sky.jpg"
+    },
+    {
+      "title": "Tranquil Ocean",
+      "description": "The calming blue shades of the ocean on a still day inspire serenity and contemplation.",
+      "image_url": "https://example.com/tranquil_ocean.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with neutrals for a classic look.",
+    "Use with white to enhance its airy quality.",
+    "Pair with its complement for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious colors with our interactive color picker tool!",
+  "seo_meta": {
+    "title": "Jordy Blue Color Meaning: Psychology, Combinations, and Design Tips",
+    "description": "Explore the meaning of Jordy Blue, its psychological associations, complementary colors, and how to use it in your design projects."
+  },
+  "created_at": "2025-06-01T15:52:05.118994+00:00",
+  "updated_at": "2025-06-01T15:52:05.118994+00:00",
+  "slug": "jordy-blue"
+}

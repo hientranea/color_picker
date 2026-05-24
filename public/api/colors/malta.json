@@ -1,0 +1,81 @@
+{
+  "id": "ac3d8017-e0e9-493b-9e5f-ef6722607d90",
+  "color_name": "Malta",
+  "hex_code": "#BDB2A1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Malta, a muted and sophisticated neutral, evokes a sense of calm and understated elegance. It suggests stability, reliability, and a connection to the natural world, like the earth or stone. This color promotes feelings of peace and can be perceived as grounding and trustworthy.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "reliability",
+    "grounding",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#A1BDB2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#BDB2A1",
+        "#736962",
+        "#D5CDBB",
+        "#A69D94"
+      ]
+    },
+    {
+      "name": "Modern Neutrals",
+      "swatches": [
+        "#BDB2A1",
+        "#FFFFFF",
+        "#333333",
+        "#EBEBEB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Neutral color for data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant interior design to create a relaxing atmosphere"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interface"
+    ],
+    "fashion": [
+      "Clothing for minimalist styles",
+      "Accessories such as scarves or bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Wall",
+      "description": "A weathered stone wall in a countryside village, showcasing the color's natural appeal.",
+      "image_url": "https://example.com/stone_wall.jpg"
+    },
+    {
+      "title": "Minimalist Interior",
+      "description": "A living room featuring Malta-colored walls, creating a serene and uncluttered space.",
+      "image_url": "https://example.com/minimalist_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with whites for a clean look.",
+    "Combine with darker grays for sophistication.",
+    "Use with natural wood tones for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Malta Color Meaning: Understanding #BDB2A1",
+    "description": "Discover the meaning, psychology, and best uses of the Malta color (#BDB2A1) in design and branding. Explore complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T16:22:14.313123+00:00",
+  "updated_at": "2025-06-01T16:22:14.313123+00:00",
+  "slug": "malta"
+}

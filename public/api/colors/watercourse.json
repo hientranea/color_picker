@@ -1,0 +1,82 @@
+{
+  "id": "b88a2554-0371-427d-89aa-687b3352fde0",
+  "color_name": "Watercourse",
+  "hex_code": "#056F57",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Watercourse embodies tranquility, growth, and harmony. It encourages reflection and rejuvenation, fostering a sense of balance and connection with nature. This color promotes feelings of stability and endurance, reminiscent of flowing water and lush landscapes.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "harmony",
+    "balance",
+    "nature",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#F02038"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#056F57",
+        "#A0D1AB",
+        "#E6E2D3",
+        "#4A4A4A"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "swatches": [
+        "#056F57",
+        "#22453E",
+        "#708238",
+        "#D0B474"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "data visualization",
+      "eco-friendly apps"
+    ],
+    "food_beverage": [
+      "organic food packaging",
+      "tea branding"
+    ],
+    "wellness": [
+      "meditation apps",
+      "yoga studios"
+    ],
+    "fashion": [
+      "outdoor apparel",
+      "sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Evergreen Forest",
+      "description": "A dense forest of evergreen trees, showcasing Watercourse in its natural habitat.",
+      "image_url": "https://example.com/evergreen_forest.jpg"
+    },
+    {
+      "title": "Tranquil River",
+      "description": "A slow-moving river reflecting the surrounding greenery, exemplifying Watercourse's calming effect.",
+      "image_url": "https://example.com/tranquil_river.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with brighter colors for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Watercourse Color Meaning: Discover the Psychology of #056F57",
+    "description": "Uncover the meaning of Watercourse (#056F57), its emotional associations, and how to use it in design. Explore complementary colors and industry applications."
+  },
+  "created_at": "2025-06-01T14:43:32.149591+00:00",
+  "updated_at": "2025-06-01T14:43:32.149591+00:00",
+  "slug": "watercourse"
+}

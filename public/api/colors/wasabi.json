@@ -1,0 +1,79 @@
+{
+  "id": "99c7f2d8-b1aa-4577-b2ed-0ea389c69d87",
+  "color_name": "Wasabi",
+  "hex_code": "#788A25",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Wasabi green evokes feelings of freshness, naturalness, and a subtle spiciness, akin to the condiment itself. It represents a balance between energy and tranquility, suggesting growth, health, and a connection to the earth. It can also imply a unique and somewhat unconventional perspective.",
+  "emotional_associations": [
+    "freshness",
+    "natural",
+    "health",
+    "unconventional",
+    "energy"
+  ],
+  "complementary_colors": [
+    "#8A7825",
+    "#258A78"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#788A25",
+        "#A3B18A",
+        "#D1DAB0",
+        "#6B8E23",
+        "#3D5417"
+      ]
+    },
+    {
+      "name": "Spiced Citrus",
+      "swatches": [
+        "#788A25",
+        "#FFA500",
+        "#F0E68C",
+        "#B8860B",
+        "#A0522D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant branding for Asian cuisine",
+      "Labels for healthy snacks"
+    ],
+    "wellness": [
+      "Branding for holistic health centers",
+      "Yoga studio design",
+      "Spa treatments focused on natural ingredients"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wasabi Paste Packaging",
+      "description": "The distinct green hue of wasabi is instantly recognizable and often used in the packaging to convey authenticity and flavor.",
+      "image_url": "url_to_wasabi_packaging_image.jpg"
+    },
+    {
+      "title": "Modern Japanese Restaurant Interior",
+      "description": "Wasabi green accents can create a calming yet stimulating atmosphere in a modern Japanese restaurant.",
+      "image_url": "url_to_japanese_restaurant_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, natural palette.",
+    "Use with dark browns or blacks for a grounding contrast.",
+    "Combine with citrus tones for a vibrant, energetic feel.",
+    "Accent with golds for a luxurious touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades that complement Wasabi!",
+  "seo_meta": {
+    "title": "Wasabi Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Wasabi green, its emotional associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:40:44.258447+00:00",
+  "updated_at": "2025-06-01T15:40:44.258447+00:00",
+  "slug": "wasabi"
+}

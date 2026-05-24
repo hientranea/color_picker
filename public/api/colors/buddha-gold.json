@@ -1,0 +1,84 @@
+{
+  "id": "8ae3f751-b8a2-4cab-99ae-3dac402790ff",
+  "color_name": "Buddha Gold",
+  "hex_code": "#C1A004",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Buddha Gold evokes feelings of wisdom, enlightenment, and spiritual wealth. It represents a deep understanding and inner peace, reminiscent of ancient teachings and treasured knowledge. It’s associated with stability, tradition, and a reverence for the past, while also suggesting a sense of hope and prosperity.",
+  "emotional_associations": [
+    "wisdom",
+    "enlightenment",
+    "stability",
+    "tradition",
+    "hope",
+    "prosperity"
+  ],
+  "complementary_colors": [
+    "#0425C1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ancient Wisdom",
+      "swatches": [
+        "#C1A004",
+        "#7A6403",
+        "#E6D05D",
+        "#403202",
+        "#F2E6B3"
+      ]
+    },
+    {
+      "name": "Golden Harvest",
+      "swatches": [
+        "#C1A004",
+        "#A68A00",
+        "#E6C880",
+        "#806A00",
+        "#FFE6B3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Gourmet Foods",
+      "Whiskey Branding",
+      "Honey Packaging"
+    ],
+    "wellness": [
+      "Meditation Apps",
+      "Yoga Studios",
+      "Spiritual Retreats"
+    ],
+    "fashion": [
+      "Luxury Accessories",
+      "Evening Wear",
+      "Traditional Clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Buddhist Temple Decoration",
+      "description": "Often used in the gilding and ornamentation of Buddhist temples, symbolizing enlightenment and spiritual richness.",
+      "image_url": "https://example.com/buddha_temple.jpg"
+    },
+    {
+      "title": "Antique Jewelry",
+      "description": "Frequently found in antique jewelry pieces, representing a connection to history and enduring value.",
+      "image_url": "https://example.com/antique_jewelry.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep blues for a classic contrast.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with creams and whites for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Buddha Gold!",
+  "seo_meta": {
+    "title": "Buddha Gold Color Meaning: Symbolism and Design Ideas",
+    "description": "Discover the meaning of Buddha Gold, its psychological effects, and how to use it in your designs. Explore palettes and pairings for this golden hue."
+  },
+  "created_at": "2025-06-01T16:25:01.253688+00:00",
+  "updated_at": "2025-06-01T16:25:01.253688+00:00",
+  "slug": "buddha-gold"
+}

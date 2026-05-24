@@ -1,0 +1,83 @@
+{
+  "id": "ea543586-fa25-4ed5-81bd-b5b8aa7e58a4",
+  "color_name": "Lilac",
+  "hex_code": "#C8A2C8",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lilac is often associated with tranquility, peace, and grace. It can evoke feelings of serenity and nostalgia, reminiscent of springtime and renewal. The color is also linked to creativity and intuition, fostering a sense of inspiration and introspection.",
+  "emotional_associations": [
+    "tranquility",
+    "peace",
+    "grace",
+    "serenity",
+    "nostalgia",
+    "creativity",
+    "intuition"
+  ],
+  "complementary_colors": [
+    "#A2C8A2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dreams",
+      "swatches": [
+        "#C8A2C8",
+        "#E6B8AF",
+        "#D3CEDF",
+        "#F5E6E6"
+      ]
+    },
+    {
+      "name": "Ethereal Glow",
+      "swatches": [
+        "#C8A2C8",
+        "#FAF0E6",
+        "#A9A9A9",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Relaxation apps"
+    ],
+    "food_beverage": [
+      "Lavender-flavored products",
+      "Floral teas"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Spring dresses",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lilac Fields",
+      "description": "Vast fields of lilac flowers blooming in the spring, creating a stunning visual display.",
+      "image_url": "https://example.com/lilac_fields.jpg"
+    },
+    {
+      "title": "Lilac Dress",
+      "description": "A flowing lilac dress, symbolizing elegance and grace.",
+      "image_url": "https://example.com/lilac_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with soft neutrals like beige or gray.",
+    "Pair with complementary greens for a balanced look.",
+    "Use with other pastels for a dreamy aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Lilac Color Meaning: Symbolism, Associations, and Design Ideas",
+    "description": "Discover the meaning of lilac, its psychological effects, and how to use it in your designs for a calming and elegant aesthetic."
+  },
+  "created_at": "2025-06-01T16:30:59.614355+00:00",
+  "updated_at": "2025-06-01T16:30:59.614355+00:00",
+  "slug": "lilac"
+}

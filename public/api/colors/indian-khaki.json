@@ -1,0 +1,80 @@
+{
+  "id": "f807813a-06c2-4966-a135-01e17ba4d5c2",
+  "color_name": "Indian Khaki",
+  "hex_code": "#C3B091",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Indian Khaki evokes feelings of stability, neutrality, and reliability. It is often associated with nature and earthiness, providing a sense of groundedness and calm. This color suggests practicality and dependability, making it suitable for environments where trust and reassurance are valued.",
+  "emotional_associations": [
+    "neutrality",
+    "reliability",
+    "earthiness",
+    "calm",
+    "practicality"
+  ],
+  "complementary_colors": [
+    "#91A4C3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#C3B091",
+        "#A69374",
+        "#D1C2A6",
+        "#8A795D",
+        "#E9DCC3"
+      ]
+    },
+    {
+      "name": "Neutral Harmony",
+      "swatches": [
+        "#C3B091",
+        "#E5D8C2",
+        "#A8A19A",
+        "#D4CEC6",
+        "#807973"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Yoga studios",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Casual wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Khaki Trousers",
+      "description": "Classic khaki trousers, versatile for various occasions.",
+      "image_url": "https://example.com/khaki_trousers.jpg"
+    },
+    {
+      "title": "Desert Landscape",
+      "description": "A vast desert landscape showcasing the earthy tones of khaki.",
+      "image_url": "https://example.com/desert_landscape.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues for a calming effect.",
+    "Combine with greens to enhance the earthy feel.",
+    "Use with creams and whites for a neutral palette.",
+    "Accent with metallic tones for sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Indian Khaki Color Meaning: Psychology, Combinations, and Use Cases",
+    "description": "Discover the meaning of Indian Khaki (#C3B091), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:26:19.241534+00:00",
+  "updated_at": "2025-06-01T16:26:19.241534+00:00",
+  "slug": "indian-khaki"
+}

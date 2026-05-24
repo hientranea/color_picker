@@ -1,0 +1,81 @@
+{
+  "id": "b18cdfe7-94af-4a56-826f-d666973a3042",
+  "color_name": "Deep Cerulean",
+  "hex_code": "#007BA7",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Deep Cerulean evokes feelings of tranquility, stability, and sophistication. It's often associated with trustworthiness, reliability, and clear communication, making it a popular choice for brands aiming to project confidence and competence. The color also carries a sense of calmness and serenity, reminiscent of deep ocean waters and clear skies.",
+  "emotional_associations": [
+    "Trust",
+    "Stability",
+    "Serenity",
+    "Sophistication",
+    "Reliability"
+  ],
+  "complementary_colors": [
+    "#A72E00"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#007BA7",
+        "#B0E2FF",
+        "#E0FFFF",
+        "#778899"
+      ]
+    },
+    {
+      "name": "Corporate Calm",
+      "swatches": [
+        "#007BA7",
+        "#FFFFFF",
+        "#696969",
+        "#ADD8E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Mobile app design"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Accessories",
+      "Swimwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Medical Institution Logo",
+      "description": "A hospital uses deep cerulean in its logo to convey trust and reliability.",
+      "image_url": "url_to_medical_logo.jpg"
+    },
+    {
+      "title": "Banking App Interface",
+      "description": "A banking app utilizes deep cerulean as a primary color to inspire confidence and security in users.",
+      "image_url": "url_to_banking_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or white for a professional look.",
+    "Combine with teal and turquoise for an aquatic theme.",
+    "Use with a contrasting warm color like coral for a vibrant pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and hues with our color picker tool to find your perfect Deep Cerulean combination!",
+  "seo_meta": {
+    "title": "Deep Cerulean Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning, psychology, and best uses of Deep Cerulean (#007BA7). Explore color palettes, combinations, and real-world examples."
+  },
+  "created_at": "2025-06-01T14:38:06.434462+00:00",
+  "updated_at": "2025-06-01T14:38:06.434462+00:00",
+  "slug": "deep-cerulean"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "bc4d4783-0537-4d87-8ec5-9bc0843e9552",
+  "color_name": "Purple",
+  "hex_code": "#660099",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Purple is often associated with royalty, luxury, and sophistication. It can also represent creativity, wisdom, dignity, and independence. In some contexts, purple can evoke feelings of mystery, spirituality, and magic, but overuse can sometimes lead to feelings of artificiality or moodiness.",
+  "emotional_associations": [
+    "royalty",
+    "luxury",
+    "creativity",
+    "wisdom",
+    "spirituality"
+  ],
+  "complementary_colors": [
+    "#996600"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Dusk",
+      "swatches": [
+        "#660099",
+        "#330066",
+        "#9933CC",
+        "#C6A3D9",
+        "#E6CCFF"
+      ]
+    },
+    {
+      "name": "Mystic Dawn",
+      "swatches": [
+        "#660099",
+        "#006666",
+        "#339999",
+        "#66CCCC",
+        "#99FFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Premium apps",
+      "Luxury services"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Exotic fruit packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cadbury Chocolate",
+      "description": "The iconic purple packaging of Cadbury chocolate is instantly recognizable and associated with quality and indulgence.",
+      "image_url": "https://example.com/cadbury.jpg"
+    },
+    {
+      "title": "Royal Robes",
+      "description": "Historically, purple dye was expensive and rare, making it a color associated with royalty and power, as seen in royal robes.",
+      "image_url": "https://example.com/royalrobes.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with greens for a natural and balanced look.",
+    "Use with grays for a modern and sophisticated aesthetic.",
+    "Consider white or cream for a clean and elegant palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of purple and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Purple Color Meaning: Symbolism, Psychology & Combinations",
+    "description": "Discover the meaning of purple, its psychological effects, and how to use it in design. Explore purple color palettes and find inspiration for your next project."
+  },
+  "created_at": "2025-06-01T15:29:34.495363+00:00",
+  "updated_at": "2025-06-01T15:29:34.495363+00:00",
+  "slug": "purple"
+}

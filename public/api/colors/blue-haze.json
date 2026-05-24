@@ -1,0 +1,78 @@
+{
+  "id": "47ad0cdc-7dbc-4e73-be0e-022db06f21fb",
+  "color_name": "Blue Haze",
+  "hex_code": "#BFBED8",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Haze evokes feelings of serenity and tranquility, reminiscent of misty mornings and peaceful contemplation. It's a calming color that promotes relaxation and a sense of quiet introspection, often associated with clarity of thought and a gentle, soothing presence.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "peace",
+    "clarity",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#D8BFC0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dawn",
+      "swatches": [
+        "#BFBED8",
+        "#E8E2DC",
+        "#A2A8D3",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#BFBED8",
+        "#8FAABB",
+        "#D1E8E2",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "User Interface backgrounds for calming apps",
+      "Data visualization elements to reduce visual noise"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa branding and promotional materials"
+    ],
+    "fashion": [
+      "Relaxed-fit clothing",
+      "Subtle accessory accents"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Misty Mountain Landscape",
+      "description": "A photograph showcasing the soft, hazy blue of mountains shrouded in mist, capturing a sense of tranquility and vastness.",
+      "image_url": "https://example.com/misty_mountains.jpg"
+    },
+    {
+      "title": "Minimalist Bedroom Interior",
+      "description": "An interior design rendering featuring walls painted in Blue Haze, creating a serene and calming atmosphere in a modern bedroom.",
+      "image_url": "https://example.com/blue_bedroom.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a clean, airy feel.",
+    "Combine with muted greens for a natural, organic palette.",
+    "Add accents of silver or gray for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more complementary colors and create your own palette with our color palette generator!",
+  "seo_meta": {
+    "title": "Blue Haze Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Blue Haze (#BFBED8), its psychological effects, complementary colors, and how to use it in design, branding, and more."
+  },
+  "created_at": "2025-06-01T16:23:28.645816+00:00",
+  "updated_at": "2025-06-01T16:23:28.645816+00:00",
+  "slug": "blue-haze"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "0fa61351-1675-4a75-a572-15f7565d6e8e",
+  "color_name": "Old Lavender",
+  "hex_code": "#796878",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Old Lavender evokes a sense of nostalgia, tranquility, and sophistication. It blends the calming properties of lavender with a muted, aged tone, suggesting wisdom and a gentle, reflective mood. This color can inspire introspection and create a peaceful atmosphere, reminiscent of vintage elegance.",
+  "emotional_associations": [
+    "nostalgia",
+    "tranquility",
+    "sophistication",
+    "wisdom",
+    "gentleness"
+  ],
+  "complementary_colors": [
+    "#687969"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vintage Serenity",
+      "swatches": [
+        "#796878",
+        "#A390A1",
+        "#D1BFCF",
+        "#F0E6EF",
+        "#E8D5C2"
+      ]
+    },
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#796878",
+        "#5B4C5A",
+        "#978696",
+        "#C5B4C3",
+        "#332932"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for meditation apps",
+      "Subtle accents in journaling platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Packaging for aromatherapy products",
+      "Color scheme for yoga studios"
+    ],
+    "fashion": [
+      "Vintage-inspired clothing lines",
+      "Accessories with a romantic touch"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Floral Wallpaper",
+      "description": "Old Lavender often appears in vintage-inspired floral wallpapers, creating a sense of history and gentle charm.",
+      "image_url": "url_to_wallpaper_image.jpg"
+    },
+    {
+      "title": "Antique Book Cover",
+      "description": "The color is reminiscent of antique book covers, evoking a feeling of knowledge and timeless stories.",
+      "image_url": "url_to_book_cover_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a soft, classic look.",
+    "Combine with deeper purples and grays for added depth.",
+    "Use metallic accents like silver or gold to enhance sophistication.",
+    "Contrast with muted greens for a balanced, natural feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Old Lavender!",
+  "seo_meta": {
+    "title": "Old Lavender Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Old Lavender, its psychological associations, complementary colors, and inspiring palette ideas for your design projects."
+  },
+  "created_at": "2025-06-01T15:41:13.145419+00:00",
+  "updated_at": "2025-06-01T15:41:13.145419+00:00",
+  "slug": "old-lavender"
+}

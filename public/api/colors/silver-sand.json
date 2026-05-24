@@ -1,0 +1,85 @@
+{
+  "id": "0acafe59-fcd6-4742-87bb-4a4b408e0df5",
+  "color_name": "Silver Sand",
+  "hex_code": "#BFC1C2",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Silver Sand evokes feelings of calmness, neutrality, and sophistication. It's associated with modernity, technology, and a sense of understated elegance. This color often represents a balance between the traditional and the contemporary, offering a sense of stability and quiet confidence.",
+  "emotional_associations": [
+    "calmness",
+    "neutrality",
+    "sophistication",
+    "modernity",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#C2BFC1",
+    "#808283",
+    "#404141",
+    "#FFFFFF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Elegance",
+      "swatches": [
+        "#BFC1C2",
+        "#999A9B",
+        "#737475",
+        "#4D4E4F"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#BFC1C2",
+        "#FFFFFF",
+        "#333333",
+        "#E6E7E8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Interface backgrounds",
+      "Iconography",
+      "Text highlighting"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Accessories",
+      "Understated elegance designs"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A minimalist apartment featuring Silver Sand walls and furniture, creating a serene and contemporary living space.",
+      "image_url": "https://example.com/silver_sand_apartment.jpg"
+    },
+    {
+      "title": "High-Tech Gadget Design",
+      "description": "A sleek gadget with a Silver Sand finish, exuding sophistication and cutting-edge technology.",
+      "image_url": "https://example.com/silver_sand_gadget.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with black for a sophisticated contrast.",
+    "Use with pastels for a soft, calming palette.",
+    "Add a pop of color like teal or coral for visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints using our color picker tool to find the perfect Silver Sand for your next project!",
+  "seo_meta": {
+    "title": "Silver Sand Color Meaning: Understanding the Psychology of #BFC1C2",
+    "description": "Discover the meaning, psychology, and best uses of Silver Sand (#BFC1C2) in design, branding, and more."
+  },
+  "created_at": "2025-06-01T16:23:35.734214+00:00",
+  "updated_at": "2025-06-01T16:23:35.734214+00:00",
+  "slug": "silver-sand"
+}

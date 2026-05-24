@@ -1,0 +1,81 @@
+{
+  "id": "2a96ae5d-f581-423b-a725-f83f5e38d979",
+  "color_name": "Go Ben",
+  "hex_code": "#726D4E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Go Ben evokes feelings of stability, maturity, and groundedness. Its earthy tones suggest reliability and a connection to nature. This color can also represent sophistication and understated elegance, promoting a sense of calm and security.",
+  "emotional_associations": [
+    "stability",
+    "maturity",
+    "groundedness",
+    "sophistication",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#4E7372"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#726D4E",
+        "#A6A18E",
+        "#D9D5C3",
+        "#595443"
+      ]
+    },
+    {
+      "name": "Natural Harmony",
+      "swatches": [
+        "#726D4E",
+        "#9E9479",
+        "#607C49",
+        "#BDB296"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization",
+      "Subtle color accents in user interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant decor for a rustic ambiance"
+    ],
+    "wellness": [
+      "Branding for meditation apps",
+      "Color schemes for yoga studios"
+    ],
+    "fashion": [
+      "Neutral base color for clothing",
+      "Accessory color for a sophisticated look"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Leather Sofa",
+      "description": "A classic leather sofa in a Go Ben hue, offering a touch of timeless elegance.",
+      "image_url": "url_to_vintage_sofa_image.jpg"
+    },
+    {
+      "title": "Forest Floor",
+      "description": "The color of the forest floor during autumn, representing nature's tranquil beauty.",
+      "image_url": "url_to_forest_floor_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a soft, neutral palette.",
+    "Combine with gold or bronze accents for a luxurious feel.",
+    "Use with deep greens for a natural and earthy aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Go Ben Color Meaning: Understanding #726D4E",
+    "description": "Discover the meaning, associations, and best uses for the color Go Ben (#726D4E). Explore palettes, industry use cases, and real-world examples of this sophisticated earthy tone."
+  },
+  "created_at": "2025-06-01T15:37:04.713776+00:00",
+  "updated_at": "2025-06-01T15:37:04.713776+00:00",
+  "slug": "go-ben"
+}

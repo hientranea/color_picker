@@ -1,0 +1,86 @@
+{
+  "id": "9b58b3df-5b73-4b4f-9656-41863ed6c730",
+  "color_name": "River Bed",
+  "hex_code": "#434C59",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "River Bed evokes feelings of tranquility, stability, and groundedness. It suggests a sense of calm strength and understated elegance. This color is often associated with reliability, resilience, and a connection to nature.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "groundedness",
+    "reliability",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#C2B3A6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#434C59",
+        "#778899",
+        "#A9A9A9",
+        "#F5F5DC"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#434C59",
+        "#FFFFFF",
+        "#E8E8E8",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation bars",
+      "Data visualization"
+    ],
+    "food_beverage": [
+      "Restaurant interiors (modern/industrial)",
+      "Packaging for organic foods",
+      "Coffee shop branding"
+    ],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa design elements",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Winter outerwear",
+      "Casual wear",
+      "Men's formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring River Bed colored walls, creating a serene and modern atmosphere.",
+      "image_url": "https://example.com/riverbed_apartment.jpg"
+    },
+    {
+      "title": "Luxury Car Exterior",
+      "description": "A high-end sedan painted in a River Bed shade, showcasing sophistication and style.",
+      "image_url": "https://example.com/riverbed_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a soft, natural look.",
+    "Combine with brighter accent colors for a modern feel.",
+    "Use with metallic accents for a touch of luxury.",
+    "Contrast with warm wood tones for a balanced aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "River Bed Color Meaning: Understanding #434C59",
+    "description": "Discover the meaning, associations, and best uses of River Bed color (#434C59) in design, branding, and more."
+  },
+  "created_at": "2025-06-01T15:13:15.596903+00:00",
+  "updated_at": "2025-06-01T15:13:15.596903+00:00",
+  "slug": "river-bed"
+}

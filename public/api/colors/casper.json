@@ -1,0 +1,81 @@
+{
+  "id": "f66965df-2efd-4ab6-a48d-059adbb2a7d7",
+  "color_name": "Casper",
+  "hex_code": "#ADBED1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Casper, a muted, cool-toned blue-gray, evokes a sense of tranquility, calmness, and sophistication. It suggests stability and reliability, while also hinting at a touch of mystery and introspection. Its understated nature makes it a versatile choice for creating a balanced and harmonious atmosphere.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "stability",
+    "sophistication",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#D1ADBE"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Retreat",
+      "swatches": [
+        "#ADBED1",
+        "#E8E2D1",
+        "#A69CAC",
+        "#7A6C5D"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#ADBED1",
+        "#FFFFFF",
+        "#333333",
+        "#808080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist designs",
+      "Subtle interface elements",
+      "Data visualization dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Relaxation aids"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Office attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring walls painted in Casper, creating a calm and inviting atmosphere.",
+      "image_url": "https://example.com/casper_apartment.jpg"
+    },
+    {
+      "title": "Website Design",
+      "description": "A website uses Casper as its primary background color to give a modern and clean feel.",
+      "image_url": "https://example.com/casper_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for balance.",
+    "Use with darker blues for depth.",
+    "Combine with metallics for a modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Casper Color Meaning: Understanding #ADBED1",
+    "description": "Explore the meaning, psychology, and best uses of the color Casper (#ADBED1). Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T16:12:03.388867+00:00",
+  "updated_at": "2025-06-01T16:12:03.388867+00:00",
+  "slug": "casper"
+}

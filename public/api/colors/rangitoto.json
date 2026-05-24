@@ -1,0 +1,82 @@
+{
+  "id": "9d34bbaa-a19a-4313-87ad-792b73733bec",
+  "color_name": "Rangitoto",
+  "hex_code": "#2E3222",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rangitoto is a deep, muted green that evokes feelings of tranquility, stability, and connection to nature. It suggests a grounded and reliable presence, promoting a sense of calm and well-being. This color is often associated with growth, renewal, and the balance of the natural world, making it a comforting and reassuring choice.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "nature",
+    "grounded",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#E8E4F2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#2E3222",
+        "#5C634F",
+        "#A2A98F",
+        "#D0D6C0"
+      ]
+    },
+    {
+      "name": "Forest Floor",
+      "swatches": [
+        "#2E3222",
+        "#4A452A",
+        "#736E4E",
+        "#A39D7C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Data visualization backgrounds",
+      "Navigation elements"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant interiors with a natural ambiance"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories with a nature-inspired aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Landscape",
+      "description": "A dense forest scene showcasing the various shades of green found in nature.",
+      "image_url": "https://example.com/forest.jpg"
+    },
+    {
+      "title": "Moss Covered Rocks",
+      "description": "Close-up of moss-covered rocks in a serene woodland setting.",
+      "image_url": "https://example.com/moss.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a balanced look.",
+    "Use with other earthy tones for a natural palette.",
+    "Combine with pops of brighter greens for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Rangitoto Color Meaning: Exploring the Shades of Green",
+    "description": "Discover the meaning and associations of Rangitoto (#2E3222), a calming shade of green. Learn how to use it in design and find complementary colors."
+  },
+  "created_at": "2025-06-01T15:00:21.025508+00:00",
+  "updated_at": "2025-06-01T15:00:21.025508+00:00",
+  "slug": "rangitoto"
+}

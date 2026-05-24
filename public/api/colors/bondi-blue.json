@@ -1,0 +1,79 @@
+{
+  "id": "5127f8d0-9d58-4cfe-b77e-b5af9a11fc3c",
+  "color_name": "Bondi Blue",
+  "hex_code": "#0095B6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bondi Blue evokes feelings of tranquility, clarity, and freshness. It is associated with the ocean and sky, promoting a sense of calm and openness. This color can also inspire creativity and communication, making it a versatile choice for various applications.",
+  "emotional_associations": [
+    "calm",
+    "clarity",
+    "freshness",
+    "tranquility",
+    "creativity",
+    "communication"
+  ],
+  "complementary_colors": [
+    "#B62100"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#0095B6",
+        "#A0D6D3",
+        "#E0F2F1",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Coastal Sunset",
+      "swatches": [
+        "#0095B6",
+        "#F2A16F",
+        "#F26D44",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation menus",
+      "Progress bars",
+      "Chat interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Healthcare websites"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Bondi Beach, Australia",
+      "description": "The iconic beach known for its clear blue waters and relaxed atmosphere.",
+      "image_url": "https://example.com/bondi_beach.jpg"
+    },
+    {
+      "title": "Tiffany & Co. Packaging",
+      "description": "The brand's signature blue box, often compared to similar shades, evokes luxury and sophistication.",
+      "image_url": "https://example.com/tiffany_box.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and airy feel.",
+    "Combine with warm neutrals for balance.",
+    "Use with complementary orange for a vibrant contrast.",
+    "Incorporate shades of gray for a modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our color palette generator!",
+  "seo_meta": {
+    "title": "Bondi Blue Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Bondi Blue, its psychological effects, and how to use it in design. Find complementary colors and inspiring palettes."
+  },
+  "created_at": "2025-06-01T14:38:34.109523+00:00",
+  "updated_at": "2025-06-01T14:38:34.109523+00:00",
+  "slug": "bondi-blue"
+}

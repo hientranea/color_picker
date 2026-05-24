@@ -1,0 +1,80 @@
+{
+  "id": "8ecd2eb1-9726-4980-9a0f-131ef994e1ea",
+  "color_name": "Black Forest",
+  "hex_code": "#0B1304",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Black Forest evokes feelings of mystery, depth, and connection to nature. It represents a sense of grounding and stability, often associated with the earth and natural environments. This color promotes introspection and can symbolize resilience and quiet strength, reflecting the dense, untouched forests it is named after.",
+  "emotional_associations": [
+    "mystery",
+    "nature",
+    "grounded",
+    "stability",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#F4E6D5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#0B1304",
+        "#364132",
+        "#646E64",
+        "#A6A993"
+      ]
+    },
+    {
+      "name": "Forest Depths",
+      "swatches": [
+        "#0B1304",
+        "#1C2519",
+        "#2D372E",
+        "#3E4A43"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Dark chocolate packaging",
+      "Coffee branding",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Dark Forest Painting",
+      "description": "A painting capturing the depth and mystery of a dense forest at twilight.",
+      "image_url": "url_to_forest_painting_image.jpg"
+    },
+    {
+      "title": "Black Forest Cake",
+      "description": "The rich, dark color of Black Forest cake, symbolizing indulgence and decadence.",
+      "image_url": "url_to_black_forest_cake_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for contrast.",
+    "Use metallic accents to add elegance.",
+    "Combine with natural textures like wood and stone."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to find the perfect shades for your next project!",
+  "seo_meta": {
+    "title": "Black Forest Color Meaning: Symbolism, Palettes, and Design Ideas",
+    "description": "Discover the meaning and symbolism of Black Forest, its emotional associations, and how to use it in design. Find color palettes and real-world examples."
+  },
+  "created_at": "2025-06-07T08:16:33.929484+00:00",
+  "updated_at": "2025-06-07T08:16:33.929484+00:00",
+  "slug": "black-forest"
+}

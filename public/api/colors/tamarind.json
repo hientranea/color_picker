@@ -1,0 +1,81 @@
+{
+  "id": "4faff7f7-02f7-48ad-8e64-a72e655f14e4",
+  "color_name": "Tamarind",
+  "hex_code": "#341515",
+  "wheel_position": "N/A",
+  "psychological_meaning": "Tamarind evokes a sense of earthiness and grounded stability, often associated with nature, comfort, and a touch of rustic elegance. It can inspire feelings of reliability and dependability, making it a comforting and reassuring color choice. Its subdued nature avoids being overwhelming, creating a sense of calm and quiet confidence.",
+  "emotional_associations": [
+    "earthiness",
+    "comfort",
+    "stability",
+    "rustic",
+    "dependability"
+  ],
+  "complementary_colors": [
+    "#153434"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#341515",
+        "#A87900",
+        "#E5D9B6",
+        "#6B8E23"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#341515",
+        "#735C51",
+        "#A68A64",
+        "#D4C4B6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee beans",
+      "Branding for artisanal breads",
+      "Restaurant decor for a cozy ambiance"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Autumn/Winter apparel",
+      "Leather goods",
+      "Rustic jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tamarind Paste",
+      "description": "The natural color of tamarind paste, used in various cuisines.",
+      "image_url": "https://example.com/tamarind_paste.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "Classic leather boots in a rich tamarind hue.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, inviting look.",
+    "Combine with greens and browns for a natural palette.",
+    "Accent with gold or copper for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and discover your perfect palette using our color tool.",
+  "seo_meta": {
+    "title": "Tamarind Color Meaning: Discover the Psychology of #341515",
+    "description": "Uncover the meaning and psychology behind Tamarind (#341515). Explore its associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:03:29.460158+00:00",
+  "updated_at": "2025-06-01T15:03:29.460158+00:00",
+  "slug": "tamarind"
+}

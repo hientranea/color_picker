@@ -1,0 +1,75 @@
+{
+  "id": "71eb37c3-e66b-4db6-ad07-65d6d4363eba",
+  "color_name": "Shark",
+  "hex_code": "#25272C",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Shark, a deep, muted gray, evokes feelings of sophistication, stability, and neutrality. It often represents a sense of calm and control, while also suggesting a subtle strength and resilience. This color is perceived as practical and reliable, offering a grounding effect in various contexts.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "sophistication",
+    "calm",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#C4C2C3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#25272C",
+        "#4A4D54",
+        "#70747B"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#25272C",
+        "#A0855B",
+        "#D4C2A5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Menu bars",
+      "Text highlighting"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Formal wear",
+      "Business attire",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Building",
+      "description": "The exterior of a modern apartment building uses Shark as a primary color to convey a sense of understated elegance and durability.",
+      "image_url": "https://example.com/shark_building.jpg"
+    },
+    {
+      "title": "Luxury Sedan",
+      "description": "A luxury sedan painted in Shark projects an image of refined taste and sophisticated style.",
+      "image_url": "https://example.com/shark_sedan.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light blues for a calming effect.",
+    "Combine with yellows for a balanced contrast.",
+    "Use with white for a clean and modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect color scheme with our color picker tool!",
+  "seo_meta": {
+    "title": "Shark Color Meaning: Understanding #25272C",
+    "description": "Discover the meaning and associations of the color Shark (#25272C), its uses, and how to pair it with other colors for stunning designs."
+  },
+  "created_at": "2025-06-01T14:55:47.675149+00:00",
+  "updated_at": "2025-06-01T14:55:47.675149+00:00",
+  "slug": "shark"
+}

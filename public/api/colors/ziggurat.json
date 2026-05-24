@@ -1,0 +1,78 @@
+{
+  "id": "2451a457-9f17-4e39-b323-e32b019584e2",
+  "color_name": "Ziggurat",
+  "hex_code": "#BFDBE2",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Ziggurat, a muted and calming blue-gray, evokes feelings of serenity, stability, and sophistication. It suggests a sense of quiet confidence and understated elegance, often associated with reliability and trustworthiness. This color is perceived as balanced and harmonious, promoting a sense of tranquility and mental clarity.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "stability",
+    "sophistication",
+    "trust"
+  ],
+  "complementary_colors": [
+    "#E2BFDB"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Calm",
+      "swatches": [
+        "#BFDBE2",
+        "#9BBFC7",
+        "#77A3AC"
+      ]
+    },
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#BFDBE2",
+        "#D4A373",
+        "#A98467"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Buttons",
+      "Text highlighting"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Relaxed fit clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "The walls are painted in a Ziggurat hue, providing a serene backdrop to the living space.",
+      "image_url": "https://example.com/ziggurat_apartment.jpg"
+    },
+    {
+      "title": "Corporate Website Design",
+      "description": "A tech company uses Ziggurat as the primary color for its website to convey trust and reliability.",
+      "image_url": "https://example.com/ziggurat_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use with white to create a clean and modern aesthetic.",
+    "Combine with darker blues for a sophisticated feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious colors with our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Ziggurat Color Meaning: Discover the Psychology of #BFDBE2",
+    "description": "Explore the meaning, psychology, and best uses of Ziggurat (#BFDBE2). Find complementary colors and palette ideas for your next design project."
+  },
+  "created_at": "2025-06-01T16:23:50.777331+00:00",
+  "updated_at": "2025-06-01T16:23:50.777331+00:00",
+  "slug": "ziggurat"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "0e921e61-6c6d-4bc6-b805-1e39d8723738",
+  "color_name": "Palm Green",
+  "hex_code": "#09230F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Palm Green evokes feelings of nature, growth, and tranquility. It represents a connection to the earth and can promote a sense of calm and balance. This color is often associated with prosperity, renewal, and environmental awareness.",
+  "emotional_associations": [
+    "Nature",
+    "Growth",
+    "Tranquility",
+    "Balance",
+    "Prosperity",
+    "Renewal"
+  ],
+  "complementary_colors": [
+    "#F076F0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#09230F",
+        "#A3B18A",
+        "#344E41",
+        "#DAD7CD"
+      ]
+    },
+    {
+      "name": "Forest Depths",
+      "swatches": [
+        "#09230F",
+        "#2F4826",
+        "#546E51",
+        "#829460"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Sustainable product websites"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amazon Rainforest",
+      "description": "The lush greenery of the Amazon rainforest embodies the vibrancy and abundance of Palm Green.",
+      "image_url": "https://example.com/amazon_rainforest.jpg"
+    },
+    {
+      "title": "Yoga Studio Interior",
+      "description": "Palm Green walls in a yoga studio create a calming and serene atmosphere for practitioners.",
+      "image_url": "https://example.com/yoga_studio.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like beige or cream for a natural look.",
+    "Combine with earthy browns for a grounded feel.",
+    "Use with gold accents for a touch of luxury.",
+    "Contrast with soft pinks or purples for a gentle balance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Palm Green Color Meaning: Understanding #09230F",
+    "description": "Discover the meaning, psychology, and best uses of Palm Green (#09230F). Find complementary colors, palettes, and inspiration for your next design project."
+  },
+  "created_at": "2025-06-01T14:44:57.099812+00:00",
+  "updated_at": "2025-06-01T14:44:57.099812+00:00",
+  "slug": "palm-green"
+}

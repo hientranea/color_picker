@@ -1,0 +1,83 @@
+{
+  "id": "ca2ad287-934b-4ca7-baa6-c5a889319157",
+  "color_name": "Midnight Blue",
+  "hex_code": "#003366",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Midnight Blue evokes feelings of calmness, sophistication, and mystery. It is often associated with intelligence, trust, and authority, lending a sense of formality and depth. This color can also inspire introspection and a feeling of peaceful contemplation, akin to gazing into a deep, star-filled night sky.",
+  "emotional_associations": [
+    "calmness",
+    "sophistication",
+    "mystery",
+    "trust",
+    "intelligence",
+    "authority"
+  ],
+  "complementary_colors": [
+    "#663300"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic Elegance",
+      "swatches": [
+        "#003366",
+        "#FFFFFF",
+        "#A9A9A9",
+        "#808000"
+      ]
+    },
+    {
+      "name": "Nautical Twilight",
+      "swatches": [
+        "#003366",
+        "#ADD8E6",
+        "#F0F8FF",
+        "#2F4F4F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Suits",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Navy Uniform",
+      "description": "Many navy uniforms utilize a shade close to midnight blue to represent authority and discipline.",
+      "image_url": "https://example.com/navy_uniform.jpg"
+    },
+    {
+      "title": "Starry Night Painting",
+      "description": "The night sky in many artistic depictions, like Van Gogh's Starry Night, often features deep blues reminiscent of midnight.",
+      "image_url": "https://example.com/starry_night.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a crisp, clean look.",
+    "Combine with gold or silver for a touch of luxury.",
+    "Use with lighter blues for a harmonious palette.",
+    "Contrast with orange for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Midnight Blue Color Meaning: Shades, Palettes, and Uses",
+    "description": "Discover the meaning and symbolism of Midnight Blue. Explore color palettes, industry uses, and examples of this deep, sophisticated hue."
+  },
+  "created_at": "2025-06-01T14:36:24.912791+00:00",
+  "updated_at": "2025-06-01T14:36:24.912791+00:00",
+  "slug": "midnight-blue"
+}

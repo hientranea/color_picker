@@ -1,0 +1,77 @@
+{
+  "id": "126acff2-fd66-4a79-912e-fda637a3e46e",
+  "color_name": "Sepia",
+  "hex_code": "#704214",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sepia evokes feelings of nostalgia, antiquity, and history. It is often associated with vintage photographs and a sense of timelessness. The color can also suggest stability, reliability, and a connection to the past.",
+  "emotional_associations": [
+    "nostalgia",
+    "vintage",
+    "history",
+    "stability",
+    "warmth"
+  ],
+  "complementary_colors": [
+    "#145270"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#704214",
+        "#A8794F",
+        "#D1B28A",
+        "#E8D8C4"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#704214",
+        "#593D2F",
+        "#A68A64",
+        "#D9C9B0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Whiskey labels",
+      "Gourmet chocolate branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather goods",
+      "Vintage-inspired clothing",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Photographs",
+      "description": "Old photographs often develop a sepia tone over time, contributing to their nostalgic appeal.",
+      "image_url": "url_to_antique_photo.jpg"
+    },
+    {
+      "title": "Leather Furniture",
+      "description": "Sepia-toned leather furniture adds a touch of classic elegance to any room.",
+      "image_url": "url_to_leather_furniture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a classic look.",
+    "Combine with greens and blues for an earthy feel.",
+    "Use as an accent color against a neutral background."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Sepia using our color picker tool!",
+  "seo_meta": {
+    "title": "Sepia Color Meaning: Understanding the Psychology of #704214",
+    "description": "Discover the meaning, associations, and best uses of the sepia color. Explore complementary colors and palette ideas for your next design project."
+  },
+  "created_at": "2025-06-01T15:35:02.426093+00:00",
+  "updated_at": "2025-06-01T15:35:02.426093+00:00",
+  "slug": "sepia"
+}

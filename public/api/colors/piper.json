@@ -1,0 +1,82 @@
+{
+  "id": "f7fb8ef7-06ee-4c14-84ef-ae3cc01781e4",
+  "color_name": "Piper",
+  "hex_code": "#C96323",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Piper is a warm and earthy color, evoking feelings of comfort, stability, and a connection to nature. It suggests a sense of reliability and groundedness, with a hint of rustic charm and understated elegance. It can also inspire feelings of creativity and a sense of adventure.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "comfort",
+    "stability",
+    "rustic charm"
+  ],
+  "complementary_colors": [
+    "#2390C9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#C96323",
+        "#E0A96F",
+        "#A67C52",
+        "#634733"
+      ]
+    },
+    {
+      "name": "Desert Sunset",
+      "swatches": [
+        "#C96323",
+        "#F2C94C",
+        "#E57373",
+        "#A1887F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Restaurant interiors with a rustic theme",
+      "Branding for coffee or tea brands"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Fall and winter clothing lines",
+      "Leather accessories",
+      "Bohemian-inspired apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in a Piper shade adds warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "The vibrant Piper hues of autumn leaves create a picturesque landscape.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like beige or gray for a balanced look.",
+    "Combine with shades of green for an earthy palette.",
+    "Use as an accent color with deep blues for a striking contrast.",
+    "Introduce metallic accents like gold or bronze for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect color palette with our online color picker!",
+  "seo_meta": {
+    "title": "Piper Color Meaning: Understanding #C96323 | Color Psychology",
+    "description": "Discover the meaning, psychology, and best uses of the Piper color (#C96323). Learn how to incorporate this warm and earthy hue into your designs and branding."
+  },
+  "created_at": "2025-06-01T16:31:36.406544+00:00",
+  "updated_at": "2025-06-01T16:31:36.406544+00:00",
+  "slug": "piper"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "b2f950b2-265b-4970-95e3-97d44409873f",
+  "color_name": "Hit Gray",
+  "hex_code": "#A1ADB5",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Hit Gray evokes feelings of neutrality, calm, and sophistication. It's often associated with balance and practicality, providing a sense of stability and understated elegance. This color can also represent compromise and detachment, making it a versatile choice for designs that require a subtle yet impactful presence.",
+  "emotional_associations": [
+    "neutrality",
+    "calm",
+    "sophistication",
+    "balance",
+    "stability",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#B5A1AD",
+    "#ADB5A1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#F0F0F0",
+        "#D3D3D3",
+        "#A1ADB5",
+        "#808080",
+        "#696969"
+      ]
+    },
+    {
+      "name": "Cool Neutrals",
+      "swatches": [
+        "#A1ADB5",
+        "#B0C4DE",
+        "#E6E6FA",
+        "#D8BFD8",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Buttons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa decor",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Clothing",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Hit Gray walls, creating a serene and sophisticated atmosphere.",
+      "image_url": "https://example.com/hit-gray-apartment.jpg"
+    },
+    {
+      "title": "Website Design",
+      "description": "A website using Hit Gray as a primary background color to convey a sense of professionalism and reliability.",
+      "image_url": "https://example.com/hit-gray-website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and modern look.",
+    "Combine with blues and greens for a calming palette.",
+    "Use with brighter accent colors like yellow or orange to add pops of energy.",
+    "Mix with other grays for a sophisticated and balanced scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade and create harmonious palettes for your next project!",
+  "seo_meta": {
+    "title": "Hit Gray Color Meaning: Understanding the Psychology & Uses",
+    "description": "Discover the meaning, associations, and practical applications of Hit Gray. Learn how to use this versatile color in design, branding, and more."
+  },
+  "created_at": "2025-06-01T16:04:05.941178+00:00",
+  "updated_at": "2025-06-01T16:04:05.941178+00:00",
+  "slug": "hit-gray"
+}

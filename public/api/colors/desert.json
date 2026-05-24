@@ -1,0 +1,81 @@
+{
+  "id": "4b0fd728-145f-4d7f-8f87-46b1199b1ace",
+  "color_name": "Desert",
+  "hex_code": "#AE6020",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Desert evokes feelings of warmth, dryness, and a connection to nature. It suggests resilience, endurance, and a sense of timelessness. The color can also represent simplicity, minimalism, and a grounding earthiness. Its muted tone often brings a sense of calm and stability, reminiscent of arid landscapes and natural textures.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "calm",
+    "resilience",
+    "simplicity"
+  ],
+  "complementary_colors": [
+    "#2070AE"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#AE6020",
+        "#D2B48C",
+        "#A9A9A9",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Desert Sunset",
+      "swatches": [
+        "#AE6020",
+        "#E07A5F",
+        "#3D405B",
+        "#81B29A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Buttons in finance platforms"
+    ],
+    "food_beverage": [
+      "Packaging for coffee products",
+      "Branding for natural snacks"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Desert Landscape",
+      "description": "A vast desert landscape at sunset, showcasing the color's natural beauty.",
+      "image_url": "https://example.com/desert_landscape.jpg"
+    },
+    {
+      "title": "Clay Pottery",
+      "description": "Handmade clay pottery with a distinctive desert color tone.",
+      "image_url": "https://example.com/clay_pottery.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues for a calming effect.",
+    "Combine with off-whites for a minimalist look.",
+    "Use with greens to mimic desert foliage."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more earthy tones with our color palette generator and find the perfect shade for your project!",
+  "seo_meta": {
+    "title": "Desert Color Meaning: Discover the Psychology and Uses of #AE6020",
+    "description": "Uncover the meaning of the desert color, its emotional associations, and how to effectively use it in design and branding projects."
+  },
+  "created_at": "2025-06-01T16:12:36.704098+00:00",
+  "updated_at": "2025-06-01T16:12:36.704098+00:00",
+  "slug": "desert"
+}

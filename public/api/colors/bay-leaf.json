@@ -1,0 +1,87 @@
+{
+  "id": "2aa25771-8522-4be5-bd8f-9f2829d8d444",
+  "color_name": "Bay Leaf",
+  "hex_code": "#7DA98D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bay Leaf is a calming and refreshing color, evoking feelings of nature, growth, and tranquility. It suggests balance and harmony, promoting a sense of well-being and connection to the environment. It can also represent renewal and sustainability.",
+  "emotional_associations": [
+    "calm",
+    "nature",
+    "growth",
+    "tranquility",
+    "balance",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#A97D99"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#7DA98D",
+        "#A3C4BC",
+        "#D9E4DD",
+        "#52796F"
+      ]
+    },
+    {
+      "name": "Natural Harmony",
+      "swatches": [
+        "#7DA98D",
+        "#F0E68C",
+        "#8FBC8F",
+        "#BDB76B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Status indicators",
+      "Navigation menus"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Restaurant interiors",
+      "Tea branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Eco-friendly product design"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outdoor apparel",
+      "Sustainable fashion lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Packaging",
+      "description": "Eco-friendly packaging using Bay Leaf color to convey natural and sustainable qualities.",
+      "image_url": "https://example.com/sustainable_packaging.jpg"
+    },
+    {
+      "title": "Spa Interior",
+      "description": "A spa interior designed with Bay Leaf accents to create a calming and relaxing atmosphere.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a clean, modern look.",
+    "Combine with earthy tones for a natural and organic feel.",
+    "Use with muted yellows for a warm and inviting palette.",
+    "Contrast with deep browns for a sophisticated and grounded design."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Bay Leaf and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Bay Leaf Color Meaning: Psychology, Combinations, and Design Tips",
+    "description": "Discover the meaning of Bay Leaf (#7DA98D), its psychological associations, and how to use it in your designs for a calming and natural feel."
+  },
+  "created_at": "2025-06-07T08:18:02.948433+00:00",
+  "updated_at": "2025-06-07T08:18:02.948433+00:00",
+  "slug": "bay-leaf"
+}

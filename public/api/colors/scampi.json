@@ -1,0 +1,79 @@
+{
+  "id": "0dcafce9-e59f-4b63-8574-ae26f5b8b786",
+  "color_name": "Scampi",
+  "hex_code": "#675FA6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Scampi evokes feelings of sophistication and mystery. It blends the stability of blue with the energy of red, creating a balanced sense of calm and creativity. This color is often associated with introspection and a sense of understated elegance.",
+  "emotional_associations": [
+    "Sophistication",
+    "Mystery",
+    "Calm",
+    "Creativity",
+    "Elegance"
+  ],
+  "complementary_colors": [
+    "#A6645F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Twilight Haze",
+      "swatches": [
+        "#675FA6",
+        "#A8A4CE",
+        "#D0CDDA",
+        "#4A4458"
+      ]
+    },
+    {
+      "name": "Urban Chic",
+      "swatches": [
+        "#675FA6",
+        "#FFFFFF",
+        "#333333",
+        "#808080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Premium app interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spas (as accent color)"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories (handbags, scarves)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Evening Gown",
+      "description": "A stunning Scampi-colored evening gown exudes elegance and mystery.",
+      "image_url": "https://example.com/scampi_gown.jpg"
+    },
+    {
+      "title": "Modern Living Room",
+      "description": "Scampi accent wall in a modern living room creates a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/scampi_livingroom.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or white for a sophisticated look.",
+    "Use gold accents to enhance its elegance.",
+    "Combine with teal or light blue for a calming palette.",
+    "Contrast with orange or yellow for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Scampi Color Meaning: Psychology, Combinations, and Uses | ColorBlog",
+    "description": "Discover the meaning of Scampi (#675FA6), its psychological associations, complementary colors, and how to use it in design, fashion, and more."
+  },
+  "created_at": "2025-06-01T15:30:21.898215+00:00",
+  "updated_at": "2025-06-01T15:30:21.898215+00:00",
+  "slug": "scampi"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "76f3e488-3452-4ea2-8e2f-a4fc87d31bd5",
+  "color_name": "Natural Gray",
+  "hex_code": "#8B8680",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Natural Gray evokes feelings of neutrality, calm, and sophistication. It's often associated with practicality, reliability, and a sense of timelessness. Gray can also represent maturity and compromise, offering a balanced and stable aesthetic. However, depending on the shade, it can sometimes be perceived as somber or conservative.",
+  "emotional_associations": [
+    "neutrality",
+    "calm",
+    "sophistication",
+    "practicality",
+    "reliability",
+    "timelessness"
+  ],
+  "complementary_colors": [
+    "#80858B",
+    "#D4D0C9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#F2F2F2",
+        "#D9D9D9",
+        "#A6A6A6",
+        "#737373",
+        "#404040"
+      ]
+    },
+    {
+      "name": "Gray and Teal",
+      "swatches": [
+        "#8B8680",
+        "#40826D",
+        "#A8D5BA",
+        "#D0ECE7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "borders",
+      "text"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spas",
+      "meditation apps"
+    ],
+    "fashion": [
+      "outerwear",
+      "formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring gray walls, furniture, and minimalist decor.",
+      "image_url": "https://example.com/gray_apartment.jpg"
+    },
+    {
+      "title": "Business Suit",
+      "description": "A tailored gray suit conveying professionalism and authority.",
+      "image_url": "https://example.com/gray_suit.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with bright accent colors for a modern look.",
+    "Use with other neutrals for a sophisticated and understated palette.",
+    "Combine with textures like wood and metal for added depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Natural Gray Color Meaning: Shades, Palettes & Design Ideas",
+    "description": "Discover the meaning of Natural Gray, explore color palettes, and find design inspiration for using gray in your projects."
+  },
+  "created_at": "2025-06-01T15:52:47.427143+00:00",
+  "updated_at": "2025-06-01T15:52:47.427143+00:00",
+  "slug": "natural-gray"
+}

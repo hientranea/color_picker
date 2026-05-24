@@ -1,0 +1,83 @@
+{
+  "id": "6bbde677-2fe9-4028-ad94-2fee3ab5dcb9",
+  "color_name": "Victoria",
+  "hex_code": "#534491",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Victoria, a sophisticated blend of blue and purple, evokes feelings of wisdom, spirituality, and creativity. It suggests introspection and a connection to the subconscious, offering a sense of calm focus and imagination. It's often associated with luxury and exclusivity.",
+  "emotional_associations": [
+    "wisdom",
+    "spirituality",
+    "creativity",
+    "introspection",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#915344"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dream",
+      "swatches": [
+        "#534491",
+        "#A79ACD",
+        "#E0D7F2",
+        "#FFFFFF",
+        "#D1C4E9"
+      ]
+    },
+    {
+      "name": "Mystic Night",
+      "swatches": [
+        "#534491",
+        "#2B2248",
+        "#8675A9",
+        "#1A1423",
+        "#6750A4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Meditation apps",
+      "Educational platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Yoga studios",
+      "Meditation centers",
+      "Spiritual retreats"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Formal wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "A stunning amethyst geode showcasing the natural beauty of deep purple hues.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Luxury Hotel Lobby",
+      "description": "A hotel lobby designed with Victoria-colored accents to create an atmosphere of elegance and tranquility.",
+      "image_url": "https://example.com/hotel_lobby.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a modern and sophisticated look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with muted blues and greens for a calming and serene palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious shades and build your ideal color scheme using our color palette tool.",
+  "seo_meta": {
+    "title": "Victoria Color Meaning: The Psychology of #534491",
+    "description": "Discover the meaning, associations, and best uses of the color Victoria (#534491), and learn how to incorporate it into your designs."
+  },
+  "created_at": "2025-06-01T15:21:27.391394+00:00",
+  "updated_at": "2025-06-01T15:21:27.391394+00:00",
+  "slug": "victoria"
+}

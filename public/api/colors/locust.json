@@ -1,0 +1,83 @@
+{
+  "id": "249becc7-6cfa-45e3-87a6-aa4f74fb5b64",
+  "color_name": "Locust",
+  "hex_code": "#A8AF8E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Locust, a muted olive-green, often evokes feelings of calm and resilience. It suggests a connection to nature, stability, and practicality. This color can also represent growth and endurance, reminiscent of the natural world's quiet strength and ability to thrive even in challenging environments.",
+  "emotional_associations": [
+    "calm",
+    "resilience",
+    "stability",
+    "practicality",
+    "growth",
+    "endurance"
+  ],
+  "complementary_colors": [
+    "#8FA0B1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#A8AF8E",
+        "#D3DED0",
+        "#707A63",
+        "#475242"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#A8AF8E",
+        "#C8B07A",
+        "#6D5B41",
+        "#E8E2DA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral accents",
+      "Data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant decor promoting natural themes"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories with an earthy tone"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Green SUV",
+      "description": "A sturdy SUV painted in a Locust-like shade, symbolizing reliability and adventure.",
+      "image_url": "https://example.com/olive_suv.jpg"
+    },
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "Sustainable product packaging featuring a Locust color scheme to convey environmental consciousness.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a calming effect.",
+    "Use with warm browns for a rustic feel.",
+    "Combine with muted blues for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade of Locust for your next project!",
+  "seo_meta": {
+    "title": "Locust Color Meaning: Understanding the Color A8AF8E",
+    "description": "Explore the meaning, psychology, and uses of Locust (#A8AF8E). Discover complementary colors, palettes, and industry applications for this earthy shade."
+  },
+  "created_at": "2025-06-01T16:07:46.277937+00:00",
+  "updated_at": "2025-06-01T16:07:46.277937+00:00",
+  "slug": "locust"
+}

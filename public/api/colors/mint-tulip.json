@@ -1,0 +1,86 @@
+{
+  "id": "73ba1d0e-fa43-4976-a0ff-cf599d838735",
+  "color_name": "Mint Tulip",
+  "hex_code": "#C4F4EB",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mint Tulip evokes feelings of freshness, tranquility, and subtle energy. It suggests cleanliness, growth, and a calming presence. This gentle color often represents renewal and a connection to nature, fostering a sense of peace and well-being.",
+  "emotional_associations": [
+    "freshness",
+    "tranquility",
+    "cleanliness",
+    "growth",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#EBC4F4"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#C4F4EB",
+        "#F0FFF0",
+        "#D0FFD0",
+        "#E0FFE0"
+      ]
+    },
+    {
+      "name": "Serene Seaside",
+      "swatches": [
+        "#C4F4EB",
+        "#AEEEEE",
+        "#7FFFD4",
+        "#66CDAA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Health tracking apps",
+      "Meditation apps"
+    ],
+    "food_beverage": [
+      "Packaging for herbal teas",
+      "Branding for vegan cafes",
+      "Labels for organic skincare products"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation cushions"
+    ],
+    "fashion": [
+      "Spring dresses",
+      "Light summer scarves",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mint Tulip Bedroom",
+      "description": "A bedroom featuring Mint Tulip walls with white accents, creating a serene and relaxing environment.",
+      "image_url": "https://example.com/mint_tulip_bedroom.jpg"
+    },
+    {
+      "title": "Spa Waiting Room",
+      "description": "A spa waiting room decorated in Mint Tulip, promoting calmness and tranquility for visitors.",
+      "image_url": "https://example.com/mint_tulip_spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, fresh look.",
+    "Combine with soft grays for a modern, minimalist aesthetic.",
+    "Use with pale yellows for a cheerful and inviting ambiance.",
+    "Contrast with deeper greens for a natural and balanced feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Mint Tulip Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Mint Tulip, its psychological effects, best color combinations, and industry applications for design and branding."
+  },
+  "created_at": "2025-06-01T16:27:36.686732+00:00",
+  "updated_at": "2025-06-01T16:27:36.686732+00:00",
+  "slug": "mint-tulip"
+}

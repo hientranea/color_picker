@@ -1,0 +1,82 @@
+{
+  "id": "a5830508-7d2f-4a11-b7b5-105feae9c410",
+  "color_name": "Madras",
+  "hex_code": "#3F3002",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Madras evokes a sense of earthiness, stability, and groundedness. It's a color often associated with nature, reliability, and comfort. It suggests maturity and a no-nonsense attitude, promoting feelings of security and connection to the natural world.",
+  "emotional_associations": [
+    "earthiness",
+    "stability",
+    "comfort",
+    "reliability",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#02113F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#3F3002",
+        "#A68A64",
+        "#D4C1A3",
+        "#736252"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#3F3002",
+        "#594A36",
+        "#8C785A",
+        "#C6B398"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Organic food marketing"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Briefcase",
+      "description": "A classic leather briefcase in a Madras-like shade, representing professionalism and durability.",
+      "image_url": "https://example.com/briefcase.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a rustic wooden cabin, showcasing the color's connection to nature and comfort.",
+      "image_url": "https://example.com/cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with creams for a soft, natural look.",
+    "Use with greens to enhance its earthy qualities.",
+    "Pair with metallic accents for a touch of sophistication.",
+    "Contrast with light blues for a balanced aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and harmonies with our color palette generator to create your perfect design!",
+  "seo_meta": {
+    "title": "Madras Color Meaning: Discover the Psychology of #3F3002",
+    "description": "Uncover the meaning of Madras (#3F3002), its psychological impact, and how to use it in your designs for a grounded and reliable feel."
+  },
+  "created_at": "2025-06-01T15:09:55.873605+00:00",
+  "updated_at": "2025-06-01T15:09:55.873605+00:00",
+  "slug": "madras"
+}

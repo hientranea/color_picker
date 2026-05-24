@@ -1,0 +1,81 @@
+{
+  "id": "a044b71a-3cd1-4fef-b764-ccef0dc1572d",
+  "color_name": "Mocha",
+  "hex_code": "#782D19",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Mocha evokes feelings of warmth, comfort, and reliability. It is associated with nature, earthiness, and stability, providing a sense of grounding and security. This color often symbolizes simplicity and honesty, making it a dependable and reassuring choice.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "reliability",
+    "earthiness",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#196078"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#782D19",
+        "#A35734",
+        "#D9824F",
+        "#FFE0B2"
+      ]
+    },
+    {
+      "name": "Autumnal Harmony",
+      "swatches": [
+        "#782D19",
+        "#5E4233",
+        "#B08968",
+        "#E6CCB2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Winter coats",
+      "Leather accessories",
+      "Neutral basics"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cozy Living Room",
+      "description": "A living room featuring mocha-colored walls, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/mocha_living_room.jpg"
+    },
+    {
+      "title": "Leather Handbag",
+      "description": "A stylish leather handbag in a rich mocha shade, perfect for everyday use.",
+      "image_url": "https://example.com/mocha_handbag.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a neutral palette.",
+    "Combine with greens for an earthy feel.",
+    "Use with gold accents for a touch of luxury.",
+    "Contrast with teals for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of mocha and find the perfect color for your next project with our color picker!",
+  "seo_meta": {
+    "title": "Mocha Color Meaning: Understanding #782D19",
+    "description": "Discover the meaning, psychology, and uses of the mocha color (#782D19). Explore complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:40:23.620134+00:00",
+  "updated_at": "2025-06-01T15:40:23.620134+00:00",
+  "slug": "mocha"
+}

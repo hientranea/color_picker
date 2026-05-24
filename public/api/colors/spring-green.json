@@ -1,0 +1,84 @@
+{
+  "id": "5eb94722-0e2e-41c7-b0fc-97df8546932c",
+  "color_name": "Spring Green",
+  "hex_code": "#00FF7F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Spring Green embodies renewal, growth, and vitality, reminiscent of the first buds of spring. It inspires feelings of optimism, energy, and adventure, reflecting a connection to nature and the outdoors. It can promote a sense of balance and harmony, encouraging feelings of peace and well-being.",
+  "emotional_associations": [
+    "growth",
+    "renewal",
+    "vitality",
+    "optimism",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#FF007F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nature's Awakening",
+      "swatches": [
+        "#00FF7F",
+        "#A8E6CE",
+        "#DCEDC2",
+        "#FFD3B5",
+        "#FFAAA6"
+      ]
+    },
+    {
+      "name": "Vibrant Garden",
+      "swatches": [
+        "#00FF7F",
+        "#34A0A4",
+        "#67595E",
+        "#A44A3F",
+        "#F28482"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health tracking apps",
+      "Eco-friendly product websites"
+    ],
+    "food_beverage": [
+      "Packaging for organic produce",
+      "Branding for vegan restaurants"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Activewear",
+      "Sustainable clothing brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spring Green Lawn",
+      "description": "A freshly mowed lawn showcasing vibrant spring green grass.",
+      "image_url": "url_to_spring_green_lawn_image.jpg"
+    },
+    {
+      "title": "New Spring Leaves",
+      "description": "Close-up of newly sprouted leaves on a tree, displaying a bright spring green hue.",
+      "image_url": "url_to_spring_green_leaves_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a grounded feel.",
+    "Combine with yellows for a cheerful palette.",
+    "Use with whites for a clean and modern aesthetic.",
+    "Contrast with reds for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of green and create your own perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Spring Green Color Meaning: Symbolism, Psychology & Design",
+    "description": "Discover the meaning, psychology, and design applications of Spring Green (#00FF7F). Learn about its complementary colors and how to use it in your projects."
+  },
+  "created_at": "2025-06-01T14:39:24.774082+00:00",
+  "updated_at": "2025-06-01T14:39:24.774082+00:00",
+  "slug": "spring-green"
+}

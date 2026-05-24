@@ -1,0 +1,85 @@
+{
+  "id": "c5c59639-eaa1-4549-a8f4-e7200bbf7e80",
+  "color_name": "Japanese Laurel",
+  "hex_code": "#0A6906",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Japanese Laurel evokes feelings of nature, growth, and tranquility. It is associated with balance, harmony, and renewal, fostering a sense of peace and stability. This color often represents wealth, prosperity, and new beginnings, while also symbolizing environmental awareness and sustainability.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "harmony",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#690463"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#0A6906",
+        "#A3C4BC",
+        "#738276",
+        "#E3DAC9"
+      ]
+    },
+    {
+      "name": "Forest Dawn",
+      "swatches": [
+        "#0A6906",
+        "#355C7D",
+        "#6C5B7B",
+        "#C06C84"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Educational apps"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding",
+      "Vegan restaurant decor"
+    ],
+    "wellness": [
+      "Spa and relaxation products",
+      "Yoga studio design",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines",
+      "Accessories with natural tones"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lush Forest",
+      "description": "A dense forest canopy showcasing the vibrant green of Japanese Laurel leaves.",
+      "image_url": "url_to_forest_image.jpg"
+    },
+    {
+      "title": "Sustainable Product Packaging",
+      "description": "Eco-friendly packaging for organic skincare products featuring the color Japanese Laurel.",
+      "image_url": "url_to_packaging_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral creams for a calming effect.",
+    "Combine with earthy browns for a natural palette.",
+    "Use with soft blues to evoke serenity."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Japanese Laurel Color Meaning: Discover its Symbolism & Uses",
+    "description": "Uncover the meaning and psychology behind Japanese Laurel (#0A6906). Explore color palettes, industry use cases, and how to pair this earthy green hue."
+  },
+  "created_at": "2025-06-01T14:45:47.717006+00:00",
+  "updated_at": "2025-06-01T14:45:47.717006+00:00",
+  "slug": "japanese-laurel"
+}

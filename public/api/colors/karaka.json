@@ -1,0 +1,84 @@
+{
+  "id": "2c704736-b69d-424a-9b80-66201804d2ea",
+  "color_name": "Karaka",
+  "hex_code": "#1E1609",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Karaka, a deep and earthy brown, evokes feelings of stability, reliability, and connection to nature. It represents strength, resilience, and groundedness, providing a sense of security and comfort. This color is associated with practicality, hard work, and a no-nonsense approach to life, often symbolizing heritage and tradition.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "groundedness",
+    "comfort",
+    "heritage"
+  ],
+  "complementary_colors": [
+    "#09111E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#1E1609",
+        "#A38B6A",
+        "#D4C1AB",
+        "#736257",
+        "#E8E2D4"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#1E1609",
+        "#594A42",
+        "#8C7853",
+        "#C6B38E",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Winter coats",
+      "Boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a Karaka shade, providing a comfortable and timeless seating option.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Karaka-toned wooden flooring adding warmth and sophistication to a living space.",
+      "image_url": "https://example.com/wooden_flooring.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for a natural feel.",
+    "Use with golds for a touch of luxury.",
+    "Contrast with lighter browns for depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore complementary colors and create stunning palettes using our color tool.",
+  "seo_meta": {
+    "title": "Karaka Color Meaning: Understanding #1E1609",
+    "description": "Discover the meaning, associations, and best uses of Karaka (#1E1609), a deep and earthy brown color. Explore palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T14:53:16.208758+00:00",
+  "updated_at": "2025-06-01T14:53:16.208758+00:00",
+  "slug": "karaka"
+}

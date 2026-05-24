@@ -1,0 +1,83 @@
+{
+  "id": "21c87abb-e210-412f-af60-3d97bc2526e4",
+  "color_name": "Olivetone",
+  "hex_code": "#716E10",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Olivetone evokes feelings of nature, stability, and maturity. It suggests a grounded and reliable presence, often associated with the earth and natural landscapes. This color can also convey a sense of sophistication and understated elegance, while promoting feelings of peace and tranquility.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "maturity",
+    "sophistication",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#101371"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#716E10",
+        "#A39D5F",
+        "#D5D1AF",
+        "#3E3C08",
+        "#FAF9F6"
+      ]
+    },
+    {
+      "name": "Rustic Harmony",
+      "swatches": [
+        "#716E10",
+        "#C4A484",
+        "#8A6D54",
+        "#F5E7DA",
+        "#4A4444"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Olive oil packaging",
+      "Organic food branding",
+      "Sustainable agriculture websites"
+    ],
+    "wellness": [
+      "Natural skincare products",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Autumnal clothing lines",
+      "Military-inspired designs",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Grove",
+      "description": "A sun-drenched olive grove in Tuscany, Italy.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    },
+    {
+      "title": "Vintage Military Jacket",
+      "description": "A classic Olivetone military jacket with brass buttons.",
+      "image_url": "https://example.com/military_jacket.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural look.",
+    "Combine with gold accents for added sophistication.",
+    "Use with dark browns for a rustic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Olivetone with our color picker tool!",
+  "seo_meta": {
+    "title": "Olivetone Color Meaning: Understanding #716E10",
+    "description": "Discover the meaning, psychology, and best uses of Olivetone (#716E10). Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:36:29.513285+00:00",
+  "updated_at": "2025-06-01T15:36:29.513285+00:00",
+  "slug": "olivetone"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "b51b4cb3-afdc-4e18-8c84-b73f096052ce",
+  "color_name": "Peru Tan",
+  "hex_code": "#7F3A02",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Peru Tan evokes feelings of earthiness, stability, and comfort. It is associated with nature, warmth, and a sense of groundedness. This color can be calming and reassuring, promoting feelings of security and connection to the natural world. It suggests reliability, simplicity, and a down-to-earth sensibility.",
+  "emotional_associations": [
+    "earthiness",
+    "stability",
+    "comfort",
+    "warmth",
+    "security"
+  ],
+  "complementary_colors": [
+    "#02787F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#7F3A02",
+        "#A66B37",
+        "#D9A77F",
+        "#F2E2D4"
+      ]
+    },
+    {
+      "name": "Rustic Autumn",
+      "swatches": [
+        "#7F3A02",
+        "#592902",
+        "#B85C38",
+        "#E08E79"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Spice labels"
+    ],
+    "wellness": [
+      "Natural skincare packaging",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Bohemian clothing",
+      "Leather goods",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Boots",
+      "description": "A pair of classic leather boots in a rich Peru Tan color.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    },
+    {
+      "title": "Wooden Furniture",
+      "description": "A rustic wooden table stained in a warm Peru Tan finish.",
+      "image_url": "https://example.com/wooden_table.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural look.",
+    "Combine with creams and off-whites for a calming palette.",
+    "Use with deep blues for a sophisticated contrast.",
+    "Add gold accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore and create your perfect color palette with our intuitive color picker tool!",
+  "seo_meta": {
+    "title": "Peru Tan Color Meaning: Psychology, Palettes & Pairings",
+    "description": "Discover the meaning of Peru Tan (#7F3A02), its psychological effects, complementary colors, and suggested palettes for your design projects."
+  },
+  "created_at": "2025-06-01T15:45:07.608328+00:00",
+  "updated_at": "2025-06-01T15:45:07.608328+00:00",
+  "slug": "peru-tan"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "a7a2ea38-4512-4063-9769-02b496178161",
+  "color_name": "Thatch Green",
+  "hex_code": "#403D19",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Thatch Green evokes feelings of earthiness, stability, and understated elegance. It is often associated with nature, tradition, and a sense of calm reliability. This color suggests maturity and a connection to the past, while also conveying a sense of quiet sophistication and natural beauty.",
+  "emotional_associations": [
+    "Earthy",
+    "Stable",
+    "Reliable",
+    "Natural",
+    "Sophisticated"
+  ],
+  "complementary_colors": [
+    "#D9DCD9",
+    "#B3B08C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Calm",
+      "swatches": [
+        "#403D19",
+        "#70643A",
+        "#A69B64",
+        "#D9DCD9"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#403D19",
+        "#8F7A66",
+        "#C2B280",
+        "#F0EAD6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Farm-to-table restaurant branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Autumnal clothing lines",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Thatched Roof Cottage",
+      "description": "A quaint cottage with a traditional thatched roof, blending seamlessly into the natural landscape.",
+      "image_url": "https://example.com/thatched_roof_cottage.jpg"
+    },
+    {
+      "title": "Vintage Leather Journal",
+      "description": "An aged leather journal with a rich, Thatch Green cover, hinting at stories and adventures within.",
+      "image_url": "https://example.com/vintage_leather_journal.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with terracotta and rust tones for a rustic feel.",
+    "Combine with metallic accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to create the perfect Thatch Green palette for your next project!",
+  "seo_meta": {
+    "title": "Thatch Green Color Meaning: Discover its Symbolism and Uses",
+    "description": "Explore the meaning, associations, and uses of Thatch Green (#403D19). Find complementary colors, palette suggestions, and real-world examples for your designs."
+  },
+  "created_at": "2025-06-01T15:11:06.230684+00:00",
+  "updated_at": "2025-06-01T15:11:06.230684+00:00",
+  "slug": "thatch-green"
+}

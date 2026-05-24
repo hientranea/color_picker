@@ -1,0 +1,83 @@
+{
+  "id": "978413d1-409b-49f7-9d7a-61cd4b41bf66",
+  "color_name": "Cedar Wood Finish",
+  "hex_code": "#711A00",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Cedar Wood Finish evokes feelings of warmth, stability, and connection to nature. It's a grounding color that suggests reliability, tradition, and a sense of comfort. This shade often resonates with a desire for simplicity and a connection to rustic elegance. It can also represent resilience and a down-to-earth approach.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "comfort",
+    "reliability",
+    "tradition"
+  ],
+  "complementary_colors": [
+    "#005771"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Harmony",
+      "swatches": [
+        "#711A00",
+        "#A34900",
+        "#D67800",
+        "#FFAC33",
+        "#FFE066"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#711A00",
+        "#4A3D33",
+        "#80756D",
+        "#B6ADA7",
+        "#E1DED9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Fall/Winter apparel",
+      "Leather goods",
+      "Outdoor clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cedar Wood Cabin",
+      "description": "A rustic cabin with cedar wood siding, providing a warm and inviting atmosphere.",
+      "image_url": "https://example.com/cedar_cabin.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "A pair of high-quality leather boots in a Cedar Wood Finish color.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, inviting look.",
+    "Combine with greens for an earthy, natural palette.",
+    "Use with metallics for a touch of sophistication.",
+    "Contrast with teal or turquoise for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Cedar Wood Finish Color Meaning and Combinations",
+    "description": "Discover the meaning of Cedar Wood Finish (#711A00), its psychological associations, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:35:38.466732+00:00",
+  "updated_at": "2025-06-01T15:35:38.466732+00:00",
+  "slug": "cedar-wood-finish"
+}

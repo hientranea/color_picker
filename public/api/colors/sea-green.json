@@ -1,0 +1,83 @@
+{
+  "id": "1e9ee452-5909-4d79-ac5f-8f1d8a72af29",
+  "color_name": "Sea Green",
+  "hex_code": "#2E8B57",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sea Green evokes feelings of tranquility, nature, and renewal. It combines the stability of blue with the growth of green, creating a calming and balanced effect. This color is often associated with healing, freshness, and environmental awareness, making it a popular choice for brands and designs that wish to convey a sense of peace and well-being.",
+  "emotional_associations": [
+    "tranquility",
+    "nature",
+    "renewal",
+    "balance",
+    "freshness",
+    "healing"
+  ],
+  "complementary_colors": [
+    "#8B2E57"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#2E8B57",
+        "#B0E2FF",
+        "#F0F8FF",
+        "#8FBC8F"
+      ]
+    },
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#2E8B57",
+        "#A0522D",
+        "#DEB887",
+        "#6B8E23"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Calming dashboards",
+      "Health and wellness apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant decor promoting freshness"
+    ],
+    "wellness": [
+      "Spa and retreat branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Resort wear",
+      "Eco-conscious clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sea Green Living Room",
+      "description": "A living room painted in Sea Green, creating a relaxing and inviting atmosphere.",
+      "image_url": "https://example.com/sea_green_living_room.jpg"
+    },
+    {
+      "title": "Sea Green Logo Design",
+      "description": "A logo for a sustainable brand using Sea Green to represent nature and growth.",
+      "image_url": "https://example.com/sea_green_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with sandy beiges for a natural look.",
+    "Combine with soft blues for a coastal vibe.",
+    "Use with browns for an earthy feel.",
+    "Accent with gold for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Sea Green Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Sea Green, its psychological effects, complementary colors, and inspiring palette ideas for your next design project."
+  },
+  "created_at": "2025-06-01T15:00:35.473812+00:00",
+  "updated_at": "2025-06-01T15:00:35.473812+00:00",
+  "slug": "sea-green"
+}

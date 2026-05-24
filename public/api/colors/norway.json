@@ -1,0 +1,81 @@
+{
+  "id": "d7061660-d119-401e-81a5-df01aa38e194",
+  "color_name": "Norway",
+  "hex_code": "#A8BD9F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Norway, a muted, earthy green, evokes a sense of calm and tranquility. It is often associated with nature, growth, and stability. This color suggests a grounded and reliable personality, conveying a feeling of peacefulness and harmony. It can also represent renewal and resilience.",
+  "emotional_associations": [
+    "calm",
+    "peaceful",
+    "nature",
+    "stability",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#BDA0A8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#A8BD9F",
+        "#D3D5C7",
+        "#7A8B78",
+        "#F0EAD6"
+      ]
+    },
+    {
+      "name": "Natural Harmony",
+      "swatches": [
+        "#A8BD9F",
+        "#C1D7C0",
+        "#556B2F",
+        "#E9E5D6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for nature-themed apps",
+      "Subtle accents in productivity tools"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant decor for a calming ambiance"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Norwegian Forest",
+      "description": "The dense forests of Norway often showcase this calming green hue.",
+      "image_url": "https://example.com/norway_forest.jpg"
+    },
+    {
+      "title": "Moss-Covered Rocks",
+      "description": "The color of moss-covered rocks in a serene Norwegian landscape.",
+      "image_url": "https://example.com/moss_rocks.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft look.",
+    "Combine with darker greens for depth.",
+    "Use with muted browns for an earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Norway Color Meaning: Understanding #A8BD9F",
+    "description": "Discover the meaning and associations of the color Norway (#A8BD9F), its psychological impact, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:07:53.239729+00:00",
+  "updated_at": "2025-06-01T16:07:53.239729+00:00",
+  "slug": "norway"
+}

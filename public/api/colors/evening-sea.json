@@ -1,0 +1,78 @@
+{
+  "id": "61c371c3-8589-4ad9-9cc3-b3d13b6b4cab",
+  "color_name": "Evening Sea",
+  "hex_code": "#024E46",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Evening Sea evokes feelings of tranquility, depth, and introspection. It represents a calming and mysterious presence, often associated with the end of the day and the vastness of the ocean. This color promotes relaxation and a sense of inner peace, while also hinting at hidden depths and unexplored possibilities.",
+  "emotional_associations": [
+    "calm",
+    "depth",
+    "introspection",
+    "mystery",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#E6777D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Oceanic Calm",
+      "swatches": [
+        "#024E46",
+        "#A7D1AB",
+        "#E0F2F1",
+        "#528B8B"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "swatches": [
+        "#024E46",
+        "#228B22",
+        "#6B8E23",
+        "#3CB371"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds for analytical tools",
+      "Navigation menus for nature-themed apps",
+      "Data visualization for environmental monitoring software"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces",
+      "Packaging for sleep aids"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Sea Diving Gear",
+      "description": "The dark teal color used in diving gear provides camouflage and conveys reliability.",
+      "image_url": "https://example.com/diving_gear.jpg"
+    },
+    {
+      "title": "Tranquil Bedroom Interior",
+      "description": "Walls painted in Evening Sea create a peaceful and calming atmosphere in a bedroom.",
+      "image_url": "https://example.com/bedroom_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals like beige or cream for a soft contrast.",
+    "Combine with natural wood tones to enhance the earthy feel.",
+    "Use with gold accents for a touch of elegance.",
+    "Contrast with coral or salmon colors for an energetic vibe."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Evening Sea Color Meaning: Discover the Tranquility of #024E46",
+    "description": "Uncover the meaning and psychology behind Evening Sea (#024E46). Explore its emotional associations, complementary colors, and industry use cases."
+  },
+  "created_at": "2025-06-01T14:41:49.190968+00:00",
+  "updated_at": "2025-06-01T14:41:49.190968+00:00",
+  "slug": "evening-sea"
+}

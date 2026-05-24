@@ -1,0 +1,78 @@
+{
+  "id": "268f9177-60b9-425d-9f25-76afe3345c21",
+  "color_name": "Venetian Red",
+  "hex_code": "#72010F",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Venetian Red evokes feelings of passion, energy, and sophistication. It is associated with luxury, warmth, and a sense of history and tradition. The color can also symbolize courage and strength, while its darker tones imply a sense of groundedness and stability.",
+  "emotional_associations": [
+    "passion",
+    "luxury",
+    "warmth",
+    "courage",
+    "energy"
+  ],
+  "complementary_colors": [
+    "#0F7072"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Renaissance Richness",
+      "swatches": [
+        "#72010F",
+        "#D4A373",
+        "#36454F",
+        "#A9927D"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#72010F",
+        "#C04000",
+        "#8B4513",
+        "#E9DABB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Premium chocolates",
+      "Gourmet sauces"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Leather accessories",
+      "Lipstick"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Venetian Plaster Walls",
+      "description": "Venetian plaster, known for its rich texture and depth, often utilizes Venetian Red pigments to create a luxurious and timeless look in interiors.",
+      "image_url": "https://example.com/venetian_plaster.jpg"
+    },
+    {
+      "title": "Opera House Interiors",
+      "description": "Many opera houses use Venetian Red in their seating and decor to evoke a sense of grandeur and tradition.",
+      "image_url": "https://example.com/opera_house.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for opulence.",
+    "Combine with cream for a classic look.",
+    "Use with dark gray for a modern contrast.",
+    "Accent with teal for a vibrant balance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and build your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Venetian Red Color Meaning: History, Symbolism & Design Tips",
+    "description": "Discover the meaning, history, and symbolism of Venetian Red. Explore color palettes, design inspiration, and tips on how to use this sophisticated shade."
+  },
+  "created_at": "2025-06-01T15:36:56.990558+00:00",
+  "updated_at": "2025-06-01T15:36:56.990558+00:00",
+  "slug": "venetian-red"
+}

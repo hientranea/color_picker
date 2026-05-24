@@ -1,0 +1,86 @@
+{
+  "id": "60522cc6-4940-45d0-9c21-941904ede130",
+  "color_name": "Eucalyptus",
+  "hex_code": "#278A5B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Eucalyptus evokes feelings of freshness, healing, and tranquility. It is associated with nature, cleanliness, and rejuvenation, promoting a sense of well-being and mental clarity. This color can also symbolize resilience and adaptability, reflecting the hardy nature of the eucalyptus tree.",
+  "emotional_associations": [
+    "freshness",
+    "healing",
+    "tranquility",
+    "nature",
+    "cleanliness",
+    "rejuvenation",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#8A2E56"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Eucalyptus Forest",
+      "swatches": [
+        "#278A5B",
+        "#556B2F",
+        "#8FBC8F",
+        "#A9BA9D",
+        "#3D4C30"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#278A5B",
+        "#ADD8E6",
+        "#F0FFFF",
+        "#B0E57C",
+        "#E0FFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Health tracking apps"
+    ],
+    "food_beverage": [
+      "Herbal teas",
+      "Organic food packaging"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Aromatherapy products"
+    ],
+    "fashion": [
+      "Activewear",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Eucalyptus Essential Oil Packaging",
+      "description": "A minimalist label design using Eucalyptus green to convey natural and therapeutic qualities.",
+      "image_url": "https://example.com/eucalyptus_oil.jpg"
+    },
+    {
+      "title": "Eucalyptus Colored Yoga Mat",
+      "description": "A yoga mat in a calming Eucalyptus hue to promote relaxation and focus during practice.",
+      "image_url": "https://example.com/eucalyptus_yoga_mat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creamy whites for a fresh, clean look.",
+    "Combine with earthy browns and tans for a natural feel.",
+    "Use with muted blues and grays for a calming palette.",
+    "Accent with pops of gold or copper for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Eucalyptus Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning and psychology of Eucalyptus green. Explore color palettes, design inspiration, and real-world examples of this calming and refreshing hue."
+  },
+  "created_at": "2025-06-01T14:57:10.213897+00:00",
+  "updated_at": "2025-06-01T14:57:10.213897+00:00",
+  "slug": "eucalyptus"
+}

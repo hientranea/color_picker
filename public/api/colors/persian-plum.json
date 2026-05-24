@@ -1,0 +1,76 @@
+{
+  "id": "7e1b641e-4b02-404e-8ccb-3aac759a93a3",
+  "color_name": "Persian Plum",
+  "hex_code": "#701C1C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Persian Plum evokes feelings of sophistication, luxury, and mystery. It is a deep, rich color that combines the passion of red with the stability of brown, creating a sense of grounded elegance. This color can also be associated with maturity, wisdom, and a touch of the exotic.",
+  "emotional_associations": [
+    "Sophistication",
+    "Luxury",
+    "Mystery",
+    "Elegance",
+    "Maturity",
+    "Wisdom"
+  ],
+  "complementary_colors": [
+    "#1C7070"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#701C1C",
+        "#A55C5C",
+        "#D9A7A7",
+        "#E8D4D4"
+      ]
+    },
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#701C1C",
+        "#33292A",
+        "#635658",
+        "#938A8B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Chocolate packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Persian Rug",
+      "description": "A traditional Persian rug featuring deep plum hues.",
+      "image_url": "url_to_persian_rug_image.jpg"
+    },
+    {
+      "title": "Vintage Velvet Sofa",
+      "description": "A luxurious velvet sofa upholstered in Persian Plum.",
+      "image_url": "url_to_velvet_sofa_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with creams and beiges for a classic look.",
+    "Use with teal or turquoise for a bold contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Persian Plum Color Meaning: Understanding #701C1C",
+    "description": "Discover the meaning and psychology of Persian Plum (#701C1C). Explore its emotional associations, complementary colors, and ideal uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:34:55.744324+00:00",
+  "updated_at": "2025-06-01T15:34:55.744324+00:00",
+  "slug": "persian-plum"
+}

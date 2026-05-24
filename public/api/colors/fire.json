@@ -1,0 +1,83 @@
+{
+  "id": "2f87072d-33e6-4a57-a5f9-95c6d4b0a7e6",
+  "color_name": "Fire",
+  "hex_code": "#AA4203",
+  "wheel_position": "analogous",
+  "psychological_meaning": "The color fire evokes feelings of warmth, passion, and energy. It's a stimulating color that can inspire creativity and enthusiasm. However, it can also be associated with danger, aggression, and warning, depending on the context. The earthiness adds a sense of grounding and stability, preventing it from being overwhelming.",
+  "emotional_associations": [
+    "warmth",
+    "passion",
+    "energy",
+    "excitement",
+    "danger"
+  ],
+  "complementary_colors": [
+    "#035BAA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal",
+      "swatches": [
+        "#AA4203",
+        "#D47235",
+        "#F2B366",
+        "#A68A64",
+        "#735C51"
+      ]
+    },
+    {
+      "name": "Ember Glow",
+      "swatches": [
+        "#AA4203",
+        "#732600",
+        "#401300",
+        "#D49366",
+        "#F2D4A6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Highlighting urgent notifications",
+      "Signifying errors or warnings",
+      "Creating a sense of excitement or energy in gaming interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for spicy or bold flavors",
+      "Restaurant branding to convey warmth and inviting atmosphere",
+      "Marketing materials for coffee and chocolate"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Accents in fall and winter clothing",
+      "Statement pieces to exude confidence and passion",
+      "Warm-toned accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Campfire",
+      "description": "A crackling campfire providing warmth and light.",
+      "image_url": "https://example.com/campfire.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "The vibrant hues of autumn leaves changing color.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cool blues to create contrast.",
+    "Use with neutral grays for a sophisticated look.",
+    "Combine with other warm colors for a vibrant palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Fire and build your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Fire Color Meaning: Passion, Energy, and Inspiration",
+    "description": "Discover the meaning of the color Fire (#AA4203), its psychological effects, associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:09:03.870938+00:00",
+  "updated_at": "2025-06-01T16:09:03.870938+00:00",
+  "slug": "fire"
+}

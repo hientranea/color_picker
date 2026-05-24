@@ -1,0 +1,75 @@
+{
+  "id": "ed891a30-eddd-449c-b77d-ec3f87186b00",
+  "color_name": "Well Read",
+  "hex_code": "#B43332",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Well Read, a sophisticated shade of red, evokes feelings of knowledge, refinement, and a deep connection to tradition. It suggests intelligence, introspection, and a cultivated taste. This color often represents a love for learning and a passion for the arts, symbolizing a well-rounded and thoughtful personality.",
+  "emotional_associations": [
+    "wisdom",
+    "sophistication",
+    "passion",
+    "tradition",
+    "intellect"
+  ],
+  "complementary_colors": [
+    "#32B4B5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Library",
+      "swatches": [
+        "#B43332",
+        "#D4A373",
+        "#606C5F",
+        "#283618"
+      ]
+    },
+    {
+      "name": "Vintage Study",
+      "swatches": [
+        "#B43332",
+        "#A9927D",
+        "#5C3D2E",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Coffee packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Elegant evening wear",
+      "Classic accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather-Bound Books",
+      "description": "The color of aged leather-bound books in a historical library.",
+      "image_url": "https://example.com/leather_books.jpg"
+    },
+    {
+      "title": "Burgundy Wine",
+      "description": "Represents a rich and full-bodied Burgundy wine.",
+      "image_url": "https://example.com/burgundy_wine.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with deep greens for a sophisticated palette.",
+    "Use with gold accents to enhance its richness."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect color scheme with our color palette generator!",
+  "seo_meta": {
+    "title": "Well Read Color Meaning: Understanding #B43332",
+    "description": "Discover the meaning and psychology of the Well Read color (#B43332). Explore color palettes, complementary colors, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:16:31.700426+00:00",
+  "updated_at": "2025-06-01T16:16:31.700426+00:00",
+  "slug": "well-read"
+}

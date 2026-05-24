@@ -1,0 +1,81 @@
+{
+  "id": "fc202d7f-17ec-4bcd-b87c-27503e945e86",
+  "color_name": "Sherpa Blue",
+  "hex_code": "#004950",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sherpa Blue evokes feelings of tranquility, stability, and sophistication. It combines the calming aspects of blue with a hint of green's association with growth and nature. This color often represents trustworthiness, depth, and a connection to the natural world, making it suitable for brands aiming to project a sense of reliability and peace.",
+  "emotional_associations": [
+    "Tranquility",
+    "Stability",
+    "Sophistication",
+    "Trustworthiness",
+    "Depth"
+  ],
+  "complementary_colors": [
+    "#500700"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#004950",
+        "#A8D0DB",
+        "#3B6064",
+        "#C6AC8F"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#004950",
+        "#E8F0F2",
+        "#7B8FA1",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security application interfaces",
+      "Navigation menus"
+    ],
+    "food_beverage": null,
+    "wellness": [
+      "Spa branding",
+      "Meditation app design",
+      "Sustainable living websites"
+    ],
+    "fashion": [
+      "Winter coats",
+      "Business casual attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mountain Lake Resort",
+      "description": "A high-end resort using Sherpa Blue in its branding to convey a sense of peaceful luxury and connection to nature.",
+      "image_url": "https://example.com/mountain_lake_resort.jpg"
+    },
+    {
+      "title": "Financial Trust Company",
+      "description": "A financial institution employing Sherpa Blue in its logo and website to inspire trust and reliability.",
+      "image_url": "https://example.com/financial_trust_company.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige or cream for a balanced look.",
+    "Combine with shades of gray for a modern and sophisticated feel.",
+    "Use as an accent color with lighter blues and greens for a calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Sherpa Blue Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning and symbolism of Sherpa Blue (#004950). Learn about its psychological effects, emotional associations, complementary colors, and practical applications."
+  },
+  "created_at": "2025-06-01T14:37:16.955655+00:00",
+  "updated_at": "2025-06-01T14:37:16.955655+00:00",
+  "slug": "sherpa-blue"
+}

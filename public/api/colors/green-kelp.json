@@ -1,0 +1,81 @@
+{
+  "id": "1217b2a2-e0b0-401e-a371-5f26cfaed2b7",
+  "color_name": "Green Kelp",
+  "hex_code": "#25311C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Green Kelp evokes feelings of tranquility, nature, and grounding. It is associated with growth, stability, and environmental consciousness. This color is often used to promote a sense of balance and harmony, reminiscent of lush underwater ecosystems and natural landscapes.",
+  "emotional_associations": [
+    "tranquility",
+    "nature",
+    "grounding",
+    "growth",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#31254A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#25311C",
+        "#A3B18A",
+        "#588157",
+        "#3A5A40"
+      ]
+    },
+    {
+      "name": "Underwater Calm",
+      "swatches": [
+        "#25311C",
+        "#8ABDB2",
+        "#6D8B74",
+        "#525B4C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Sustainability dashboards"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Health supplement branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Underwater Forest",
+      "description": "A vibrant underwater forest teeming with life, showcasing the beauty and complexity of kelp ecosystems.",
+      "image_url": "https://example.com/underwater_forest.jpg"
+    },
+    {
+      "title": "Sustainable Home Decor",
+      "description": "A living room featuring Green Kelp accents, promoting a sense of calm and connection to nature.",
+      "image_url": "https://example.com/sustainable_home.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted browns for an earthy feel.",
+    "Combine with soft blues for a calming effect.",
+    "Use with light grays for a modern, minimalist look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to discover more harmonizing shades and create your perfect palette.",
+  "seo_meta": {
+    "title": "Green Kelp Color Meaning: Discover its Symbolism and Uses",
+    "description": "Learn about the meaning of Green Kelp (#25311C), its emotional associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T14:55:54.82623+00:00",
+  "updated_at": "2025-06-01T14:55:54.82623+00:00",
+  "slug": "green-kelp"
+}

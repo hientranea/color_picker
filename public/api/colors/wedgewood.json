@@ -1,0 +1,78 @@
+{
+  "id": "dc27c65c-d51a-4ce9-a3b7-f9a0624e42d9",
+  "color_name": "Wedgewood",
+  "hex_code": "#4E7F9E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Wedgewood evokes feelings of tranquility, stability, and sophistication. It is associated with clarity of thought, reliability, and a sense of calm. This color promotes introspection and can inspire creativity and a sense of peace, often linked to nature and water.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "sophistication",
+    "clarity",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#9E6F4E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Shores",
+      "swatches": [
+        "#4E7F9E",
+        "#A2B9BC",
+        "#D0D8D9",
+        "#F0F4F5"
+      ]
+    },
+    {
+      "name": "Classic Comfort",
+      "swatches": [
+        "#4E7F9E",
+        "#7395AE",
+        "#5D5C61",
+        "#37373F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Calming app backgrounds",
+      "Professional software interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Elegant evening wear",
+      "Relaxed casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wedgewood Blue Pottery",
+      "description": "A classic example of Wedgewood's signature blue pottery, known for its intricate designs and refined elegance.",
+      "image_url": "https://example.com/wedgewood_pottery.jpg"
+    },
+    {
+      "title": "Coastal Home Decor",
+      "description": "A living room featuring Wedgewood blue walls, creating a serene and inviting atmosphere reminiscent of the sea.",
+      "image_url": "https://example.com/coastal_decor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a classic look.",
+    "Combine with greys for a modern aesthetic.",
+    "Use with natural wood tones for a warm and inviting feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar hues and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Wedgewood Color Meaning: Psychology, Palettes, and More",
+    "description": "Discover the meaning of Wedgewood, its emotional associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:19:05.586612+00:00",
+  "updated_at": "2025-06-01T15:19:05.586612+00:00",
+  "slug": "wedgewood"
+}

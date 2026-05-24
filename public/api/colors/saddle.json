@@ -1,0 +1,79 @@
+{
+  "id": "9407d3f7-82c4-4a4b-9510-0a9d0fba9b5c",
+  "color_name": "Saddle",
+  "hex_code": "#4C3024",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Saddle is a grounded and comforting color, evoking feelings of stability, reliability, and connection to the earth. It suggests warmth, resilience, and a sense of history, reminding us of natural materials and time-worn objects. It can also represent a sense of tradition and craftsmanship.",
+  "emotional_associations": [
+    "comfort",
+    "reliability",
+    "warmth",
+    "earthiness",
+    "tradition"
+  ],
+  "complementary_colors": [
+    "#244C58"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4C3024",
+        "#A38262",
+        "#D3B99B",
+        "#7E6551"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#4C3024",
+        "#E0CBA8",
+        "#8B4513",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Natural skincare branding"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Boots",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Saddle",
+      "description": "A classic leather saddle, representing craftsmanship and tradition.",
+      "image_url": "https://example.com/saddle.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The wooden walls of a rustic cabin, conveying warmth and comfort.",
+      "image_url": "https://example.com/cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with creams and beiges for a classic look.",
+    "Pair with teal or turquoise for a complementary contrast.",
+    "Use with other earthy tones for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Saddle and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Saddle Color Meaning: Understanding #4C3024",
+    "description": "Discover the meaning, psychology, and uses of the color Saddle (#4C3024). Explore palettes, pairings, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:17:04.054047+00:00",
+  "updated_at": "2025-06-01T15:17:04.054047+00:00",
+  "slug": "saddle"
+}

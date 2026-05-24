@@ -1,0 +1,78 @@
+{
+  "id": "1da2d753-e217-4669-95bc-5a6141d482c7",
+  "color_name": "Potters Clay",
+  "hex_code": "#8C5738",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Potter's Clay, with its earthy brown tones, evokes feelings of stability, warmth, and connection to nature. It represents groundedness and reliability, suggesting a sense of comfort, security, and authenticity. This color inspires a sense of home and tradition, making it feel inviting and approachable.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "comfort",
+    "authenticity",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#388C87"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#8C5738",
+        "#D4A373",
+        "#F2E8CF",
+        "#6B8E23"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#8C5738",
+        "#A0522D",
+        "#C04000",
+        "#F4A460"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for artisanal breads",
+      "Restaurant interiors with a rustic theme"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Fall clothing lines",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Terracotta Pottery",
+      "description": "Traditional terracotta pottery showcases the beauty and warmth of Potters Clay.",
+      "image_url": "https://example.com/terracotta_pottery.jpg"
+    },
+    {
+      "title": "Leather Furniture",
+      "description": "Leather sofas and armchairs in a Potters Clay hue add a touch of sophistication and comfort to living spaces.",
+      "image_url": "https://example.com/leather_furniture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a natural look.",
+    "Combine with greens for an earthy palette.",
+    "Accent with metallics like gold or bronze for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade of Potters Clay for your next project.",
+  "seo_meta": {
+    "title": "Potters Clay Color Meaning: Discover Its Psychological Effects and Uses",
+    "description": "Uncover the meaning of Potters Clay (#8C5738), its emotional associations, and how to use it in design, branding, and more."
+  },
+  "created_at": "2025-06-01T15:53:43.467288+00:00",
+  "updated_at": "2025-06-01T15:53:43.467288+00:00",
+  "slug": "potters-clay"
+}

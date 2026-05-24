@@ -1,0 +1,80 @@
+{
+  "id": "bdce7668-6eec-48df-bb55-77f1f58828eb",
+  "color_name": "Green Vogue",
+  "hex_code": "#032B52",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Green Vogue, a deep teal, evokes feelings of sophistication, stability, and quiet confidence. It blends the tranquility of blue with the renewal of green, suggesting a sense of balance and growth. This color can inspire contemplation and create a calming atmosphere, making it suitable for environments that require focus and introspection.",
+  "emotional_associations": [
+    "sophistication",
+    "stability",
+    "confidence",
+    "tranquility",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#522A03"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Deep Sea Calm",
+      "swatches": [
+        "#032B52",
+        "#70A9A1",
+        "#E0F2F1",
+        "#264653"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#032B52",
+        "#A38268",
+        "#D4A373",
+        "#615A39"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard interfaces",
+      "data visualization",
+      "security applications"
+    ],
+    "food_beverage": null,
+    "wellness": [
+      "meditation apps",
+      "spa branding"
+    ],
+    "fashion": [
+      "evening wear",
+      "formal attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Hotel Lobby",
+      "description": "The walls are painted in Green Vogue to create a serene and sophisticated atmosphere.",
+      "image_url": "https://example.com/hotel_lobby.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A financial institution uses Green Vogue in its logo and marketing materials to convey trustworthiness.",
+      "image_url": "https://example.com/corporate_branding.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with neutral grays for a modern look.",
+    "Use with light blues for a calming effect.",
+    "Contrast with warm browns for an earthy palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Green Vogue Color Meaning, Combinations, and Design Ideas",
+    "description": "Discover the meaning of Green Vogue (#032B52), its psychological associations, complementary colors, and how to use it in your design projects."
+  },
+  "created_at": "2025-06-01T14:42:23.932268+00:00",
+  "updated_at": "2025-06-01T14:42:23.932268+00:00",
+  "slug": "green-vogue"
+}

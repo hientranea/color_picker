@@ -1,0 +1,75 @@
+{
+  "id": "30c984cd-328b-476c-8afa-bcf5cd580619",
+  "color_name": "Stiletto",
+  "hex_code": "#9C3336",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Stiletto, a deep and sophisticated shade of red, evokes feelings of passion, power, and confidence. It combines the energy of red with a touch of refinement, suggesting a bold yet elegant statement. This color can also represent ambition, excitement, and a hint of danger, often associated with luxury and high-end fashion.",
+  "emotional_associations": [
+    "passion",
+    "power",
+    "confidence",
+    "elegance",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#369C99"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Sophisticated Reds",
+      "swatches": [
+        "#9C3336",
+        "#672123",
+        "#D35457",
+        "#F2D7D9"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#9C3336",
+        "#A68B72",
+        "#D4A373",
+        "#F0E6D4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "fashion": [
+      "Evening gowns",
+      "Luxury accessories",
+      "Lipstick shades"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Chocolate packaging",
+      "Restaurant interiors"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Red Bottom Shoes",
+      "description": "The iconic red soles of designer shoes exude luxury and status.",
+      "image_url": "https://example.com/red_bottom_shoes.jpg"
+    },
+    {
+      "title": "Red Wine",
+      "description": "A glass of red wine often symbolizes sophistication and relaxation.",
+      "image_url": "https://example.com/red_wine.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with neutral tones like grey or beige for balance.",
+    "Use with black for a classic and sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect color palette using our color picker tool.",
+  "seo_meta": {
+    "title": "Stiletto Color Meaning: Understanding the Psychology of #9C3336",
+    "description": "Discover the meaning, psychology, and best uses of Stiletto (#9C3336). Explore complementary colors, palettes, and real-world examples of this powerful hue."
+  },
+  "created_at": "2025-06-01T16:01:42.326541+00:00",
+  "updated_at": "2025-06-01T16:01:42.326541+00:00",
+  "slug": "stiletto"
+}

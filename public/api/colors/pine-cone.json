@@ -1,0 +1,82 @@
+{
+  "id": "bbd0e4ae-4358-4906-8b16-ebaad6602f98",
+  "color_name": "Pine Cone",
+  "hex_code": "#6D5E54",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Pine Cone evokes feelings of stability, grounding, and connection to nature. It suggests reliability, comfort, and a sense of being rooted. This color can also represent maturity, resilience, and a down-to-earth sensibility, fostering a sense of calm and dependability.",
+  "emotional_associations": [
+    "stability",
+    "grounding",
+    "comfort",
+    "reliability",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#54626D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#6D5E54",
+        "#A9927D",
+        "#DBC9B5",
+        "#F2E3D5"
+      ]
+    },
+    {
+      "name": "Rustic Retreat",
+      "swatches": [
+        "#6D5E54",
+        "#876445",
+        "#B08968",
+        "#FFC857"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for calming apps",
+      "Neutral color schemes for productivity tools"
+    ],
+    "food_beverage": [
+      "Packaging for coffee or tea",
+      "Branding for organic food products"
+    ],
+    "wellness": [
+      "Color therapy for grounding and stability",
+      "Interior design for meditation spaces"
+    ],
+    "fashion": [
+      "Fall and winter apparel",
+      "Accessories like leather belts and boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Pine Cone in Forest",
+      "description": "A close-up shot of a pine cone on a forest floor, showcasing its natural earthy tones.",
+      "image_url": "https://example.com/pine_cone_forest.jpg"
+    },
+    {
+      "title": "Leather Furniture",
+      "description": "A luxurious leather sofa in a Pine Cone color, highlighting its sophistication and comfort.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, neutral palette.",
+    "Combine with greens and browns for a natural, earthy feel.",
+    "Use with metallics like gold or copper for a touch of elegance.",
+    "Contrast with teal or deep blue for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more earthy tones and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Pine Cone Color Meaning: Exploring Shades, Psychology & Design",
+    "description": "Discover the meaning, psychology, and design applications of Pine Cone color. Learn how to use this earthy tone in your projects."
+  },
+  "created_at": "2025-06-01T15:33:09.78754+00:00",
+  "updated_at": "2025-06-01T15:33:09.78754+00:00",
+  "slug": "pine-cone"
+}

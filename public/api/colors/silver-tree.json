@@ -1,0 +1,82 @@
+{
+  "id": "4ccbeba0-0cc8-4733-957e-da83bd879f42",
+  "color_name": "Silver Tree",
+  "hex_code": "#66B58F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Silver Tree evokes feelings of tranquility, balance, and growth. It combines the calming aspects of green with the sophistication of silver, suggesting a sense of harmony and natural elegance. This color is often associated with renewal, sustainability, and a connection to the environment, making it a reassuring and grounding choice.",
+  "emotional_associations": [
+    "tranquility",
+    "balance",
+    "growth",
+    "harmony",
+    "renewal",
+    "sustainability"
+  ],
+  "complementary_colors": [
+    "#B5668C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#66B58F",
+        "#A3C4BC",
+        "#E5DDC8",
+        "#938F81"
+      ]
+    },
+    {
+      "name": "Modern Green",
+      "swatches": [
+        "#66B58F",
+        "#FFFFFF",
+        "#333333",
+        "#A3C4BC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Mobile app design"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Activewear",
+      "Casual wear"
+    ],
+    "food_beverage": null
+  },
+  "real_world_examples": [
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "Sustainable product packaging using a Silver Tree color scheme to convey environmental responsibility.",
+      "image_url": "https://example.com/eco-packaging.jpg"
+    },
+    {
+      "title": "Botanical Garden Branding",
+      "description": "A botanical garden's logo and website featuring Silver Tree to represent growth and natural beauty.",
+      "image_url": "https://example.com/botanical-garden.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a modern look.",
+    "Combine with natural wood tones for an earthy feel.",
+    "Use with white for a clean and fresh aesthetic.",
+    "Contrast with muted reds for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Silver Tree Color Meaning: Psychology, Combinations, and Use Cases",
+    "description": "Discover the meaning, associations, and best uses for Silver Tree (#66B58F). Explore complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T15:29:55.753869+00:00",
+  "updated_at": "2025-06-01T15:29:55.753869+00:00",
+  "slug": "silver-tree"
+}

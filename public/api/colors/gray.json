@@ -1,0 +1,83 @@
+{
+  "id": "0c0da8bf-22a9-45d8-8f1e-6dc8ca01cc26",
+  "color_name": "Gray",
+  "hex_code": "#808080",
+  "wheel_position": "Achromatic",
+  "psychological_meaning": "Gray is often associated with neutrality, balance, and sophistication. It can represent compromise and a lack of strong emotional response. While sometimes perceived as dull, gray can also symbolize practicality and timelessness, offering a sense of calm and stability. Its impact largely depends on its context and the colors it's paired with.",
+  "emotional_associations": [
+    "neutrality",
+    "calm",
+    "sophistication",
+    "balance",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#808080"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#F0F0F0",
+        "#D3D3D3",
+        "#808080",
+        "#A9A9A9",
+        "#696969"
+      ]
+    },
+    {
+      "name": "Gray & Teal",
+      "swatches": [
+        "#808080",
+        "#008080",
+        "#B0E0E6",
+        "#D3D3D3",
+        "#E0FFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Neutral backgrounds",
+      "Dividers and borders",
+      "Disabled states"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Classic suits",
+      "Elegant dresses",
+      "Versatile accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Architecture",
+      "description": "Gray concrete buildings exude modern minimalism.",
+      "image_url": "https://example.com/gray_architecture.jpg"
+    },
+    {
+      "title": "Gray Cat",
+      "description": "A fluffy gray cat resting on a sunny windowsill.",
+      "image_url": "https://example.com/gray_cat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with bright colors for contrast.",
+    "Use with white for a clean look.",
+    "Combine with other neutrals for sophistication.",
+    "Introduce metallics for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of gray and discover your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Gray Color Meaning: Symbolism, Psychology, and Design",
+    "description": "Discover the meaning of the color gray, its psychological effects, and how to use it effectively in design and branding."
+  },
+  "created_at": "2025-06-01T15:46:46.5182+00:00",
+  "updated_at": "2025-06-01T15:46:46.5182+00:00",
+  "slug": "gray"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "c4048644-2c5d-408b-a97c-1e29035c07f6",
+  "color_name": "Tropical Rain Forest",
+  "hex_code": "#00755E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tropical Rain Forest green evokes feelings of nature, growth, and tranquility. It is associated with healing, renewal, and stability. This color promotes a sense of peace and well-being, making it a popular choice for designs aiming to create a calming and harmonious atmosphere.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "healing",
+    "renewal",
+    "stability",
+    "peace",
+    "well-being"
+  ],
+  "complementary_colors": [
+    "#750017"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#00755E",
+        "#A3C4BC",
+        "#527A7A",
+        "#E0DACB"
+      ]
+    },
+    {
+      "name": "Lush Oasis",
+      "swatches": [
+        "#00755E",
+        "#34623F",
+        "#6A994E",
+        "#A7D1AB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amazon Rainforest",
+      "description": "The vast and vibrant green canopy of the Amazon Rainforest, a symbol of life and biodiversity.",
+      "image_url": "url_to_amazon_image.jpg"
+    },
+    {
+      "title": "Jade Jewelry",
+      "description": "The soothing green of jade, often used in jewelry to promote calmness and balance.",
+      "image_url": "url_to_jade_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with earthy browns for a natural feel.",
+    "Use with gold accents for a touch of luxury.",
+    "Pair with muted yellows for a calming effect.",
+    "Contrast with a complementary red for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Tropical Rain Forest Color Meaning: Discover its Psychological Impact",
+    "description": "Uncover the meaning of Tropical Rain Forest green (#00755E), its emotional associations, and how to use it in design to create calming and harmonious atmospheres."
+  },
+  "created_at": "2025-06-01T14:37:52.681794+00:00",
+  "updated_at": "2025-06-01T14:37:52.681794+00:00",
+  "slug": "tropical-rain-forest"
+}

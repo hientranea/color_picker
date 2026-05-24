@@ -1,0 +1,83 @@
+{
+  "id": "27fa4887-cf36-4a05-a5e4-12360282008c",
+  "color_name": "Studio",
+  "hex_code": "#714AB2",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Studio, a sophisticated blend of purple and blue, evokes feelings of creativity, introspection, and spiritual awareness. It suggests a space of inspiration and imagination, promoting deep thought and artistic expression. The color embodies a sense of mystery and wisdom, often associated with artistic endeavors and intellectual pursuits.",
+  "emotional_associations": [
+    "Creativity",
+    "Introspection",
+    "Wisdom",
+    "Mystery",
+    "Spirituality"
+  ],
+  "complementary_colors": [
+    "#B2854A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dream",
+      "swatches": [
+        "#714AB2",
+        "#A088C3",
+        "#D0C6D4",
+        "#FFFFFF",
+        "#E0E0E0"
+      ]
+    },
+    {
+      "name": "Midnight Bloom",
+      "swatches": [
+        "#714AB2",
+        "#3F2D56",
+        "#1E1528",
+        "#FFC107",
+        "#A1887F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Creative software",
+      "Educational platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Yoga studios",
+      "Spas",
+      "Holistic healing centers"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Statement pieces"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Art Studio Interior",
+      "description": "A modern art studio with walls painted in shades of Studio, fostering a creative and inspiring atmosphere.",
+      "image_url": "https://example.com/studio_art_studio.jpg"
+    },
+    {
+      "title": "Fashion Design",
+      "description": "An elegant evening gown in a Studio color, symbolizing sophistication and style.",
+      "image_url": "https://example.com/studio_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold accents for a touch of luxury.",
+    "Combine with neutral grays or whites for a balanced look.",
+    "Use with complementary colors like muted yellows for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Studio Color Meaning: Exploring #714AB2's Symbolism & Palettes",
+    "description": "Discover the meaning of Studio (#714AB2), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:36:00.058555+00:00",
+  "updated_at": "2025-06-01T15:36:00.058555+00:00",
+  "slug": "studio"
+}

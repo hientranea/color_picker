@@ -1,0 +1,80 @@
+{
+  "id": "b2c19b47-8291-4ad1-b6a9-250490a18483",
+  "color_name": "Hawaiian Tan",
+  "hex_code": "#9D5616",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Hawaiian Tan evokes feelings of warmth, comfort, and earthiness. It is associated with nature, stability, and reliability. This color can create a sense of groundedness and security, promoting feelings of relaxation and contentment. It also has a subtle hint of adventure, reminiscent of travel and exploration.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "earthiness",
+    "stability",
+    "relaxation"
+  ],
+  "complementary_colors": [
+    "#16639D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#9D5616",
+        "#D4A373",
+        "#6B4833",
+        "#E8CBA7"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#9D5616",
+        "#A98D68",
+        "#544E3A",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn apparel",
+      "Bohemian accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in Hawaiian Tan provides a warm and inviting focal point in a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a cozy wooden cabin painted in a similar hue blends seamlessly with the natural surroundings.",
+      "image_url": "https://example.com/wooden_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a neutral palette.",
+    "Combine with deep greens for an earthy feel.",
+    "Use with metallic accents like gold or bronze for added sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Hawaiian Tan Color Meaning: Psychology, Palettes & More | ColorBlog",
+    "description": "Discover the meaning of Hawaiian Tan (#9D5616), its psychological associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T16:01:49.699505+00:00",
+  "updated_at": "2025-06-01T16:01:49.699505+00:00",
+  "slug": "hawaiian-tan"
+}

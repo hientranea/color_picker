@@ -1,0 +1,82 @@
+{
+  "id": "6b50d289-aa39-44ef-9808-323231b023af",
+  "color_name": "Cherry Pie",
+  "hex_code": "#2A0359",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cherry Pie, a deep and slightly muted purple, evokes feelings of sophistication, mystery, and a touch of indulgence. It combines the stability of blue with the energy of red, resulting in a color that can inspire creativity and introspection. It suggests a blend of passion and control, hinting at inner strength and quiet confidence.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "introspection",
+    "indulgence"
+  ],
+  "complementary_colors": [
+    "#A58225"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegant Evening",
+      "swatches": [
+        "#2A0359",
+        "#5E367B",
+        "#A383A7",
+        "#D1C2D3",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Creative Spark",
+      "swatches": [
+        "#2A0359",
+        "#F0E68C",
+        "#A2D2FF",
+        "#FFB347",
+        "#87CEEB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation menus for premium services",
+      "Loading screens for creative software"
+    ],
+    "food_beverage": [
+      "Packaging for gourmet desserts",
+      "Branding for high-end wineries"
+    ],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa treatment branding"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Luxury accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "A Cherry Pie Themed Restaurant",
+      "description": "A restaurant using Cherry Pie as a primary color to create an upscale and slightly mysterious atmosphere.",
+      "image_url": "https://example.com/cherrypie_restaurant.jpg"
+    },
+    {
+      "title": "Cherry Pie Colored Evening Dress",
+      "description": "An elegant evening dress in a rich Cherry Pie color, exuding sophistication and charm.",
+      "image_url": "https://example.com/cherrypie_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with teal for a contrasting and vibrant look.",
+    "Use with creams and whites for a softer, more elegant palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades to complement Cherry Pie for your next project!",
+  "seo_meta": {
+    "title": "Cherry Pie Color Meaning: Hex Code, Psychology, and Palettes",
+    "description": "Discover the meaning, psychology, and best color palettes for Cherry Pie (#2A0359). Explore complementary colors and real-world examples."
+  },
+  "created_at": "2025-06-01T14:58:20.802624+00:00",
+  "updated_at": "2025-06-01T14:58:20.802624+00:00",
+  "slug": "cherry-pie"
+}

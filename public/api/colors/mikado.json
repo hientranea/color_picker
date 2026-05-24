@@ -1,0 +1,80 @@
+{
+  "id": "af02e1c5-4cdb-40ab-8b46-61e4f42a4d43",
+  "color_name": "Mikado",
+  "hex_code": "#2D2510",
+  "wheel_position": "N/A",
+  "psychological_meaning": "Mikado is a deep, muted brown that evokes feelings of stability, earthiness, and quiet sophistication. It suggests reliability and a connection to nature, while also hinting at understated luxury and timelessness. This color is often associated with comfort, security, and a sense of groundedness.",
+  "emotional_associations": [
+    "stability",
+    "earthiness",
+    "sophistication",
+    "comfort",
+    "security"
+  ],
+  "complementary_colors": [
+    "#10182D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#2D2510",
+        "#A39780",
+        "#E8E2D4",
+        "#6A5F4B"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#2D2510",
+        "#C8B38A",
+        "#827359",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Fall/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Armchair",
+      "description": "A classic leather armchair in a Mikado brown, offering comfort and style.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a cozy wooden cabin stained in a Mikado-like hue, blending seamlessly with the surrounding forest.",
+      "image_url": "https://example.com/wooden_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with deep greens for an earthy feel.",
+    "Use gold accents for a touch of luxury.",
+    "Contrast with light blues for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Mikado Color Meaning: Understanding #2D2510",
+    "description": "Discover the meaning, associations, and best uses for the Mikado color (#2D2510). Learn how to incorporate this sophisticated brown into your designs and branding."
+  },
+  "created_at": "2025-06-01T14:59:44.774088+00:00",
+  "updated_at": "2025-06-01T14:59:44.774088+00:00",
+  "slug": "mikado"
+}

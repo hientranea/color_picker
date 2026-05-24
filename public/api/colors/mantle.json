@@ -1,0 +1,82 @@
+{
+  "id": "e5bf7b8e-22c9-47ac-88e8-274822170d00",
+  "color_name": "Mantle",
+  "hex_code": "#8B9C90",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mantle embodies stability, sophistication, and a connection to the natural world. It evokes a sense of calm assurance, providing a grounded and reliable presence. Mantle suggests a blend of tradition and modernity, making it suitable for conveying both trustworthiness and innovation.",
+  "emotional_associations": [
+    "stability",
+    "sophistication",
+    "calm",
+    "reliability",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#9C8B95"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#8B9C90",
+        "#D3B9A7",
+        "#5E503F",
+        "#A98D70"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#8B9C90",
+        "#E8E5DA",
+        "#6D8468",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Button hover states",
+      "Data visualization accents"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Business casual attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Mantle-colored walls paired with natural wood furniture and minimalist decor, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/mantle_apartment.jpg"
+    },
+    {
+      "title": "Luxury Car Exterior",
+      "description": "A sleek sedan in a Mantle-inspired paint color, conveying understated elegance and a sense of timeless style.",
+      "image_url": "https://example.com/mantle_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use with metallics for a touch of luxury.",
+    "Combine with deep greens for a natural palette.",
+    "Contrast with muted yellows for subtle energy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Mantle Color Meaning: Understanding #8B9C90 | Color Psychology",
+    "description": "Discover the meaning and psychology behind the color Mantle (#8B9C90), its associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:52:54.572898+00:00",
+  "updated_at": "2025-06-01T15:52:54.572898+00:00",
+  "slug": "mantle"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "a0086279-c6a7-4d89-8b83-ee1ece89acfb",
+  "color_name": "Prairie Sand",
+  "hex_code": "#9A3820",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Prairie Sand evokes feelings of stability, earthiness, and understated elegance. It suggests reliability and a connection to nature, promoting a sense of calmness and groundedness. This color is often associated with comfort and simplicity, making it a versatile choice for creating welcoming and comforting environments.",
+  "emotional_associations": [
+    "stability",
+    "earthiness",
+    "comfort",
+    "simplicity",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#20829A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#9A3820",
+        "#D4A373",
+        "#F2E8CF",
+        "#606C5F"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#9A3820",
+        "#7A441C",
+        "#C68B59",
+        "#E9D8A6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Rustic bakery branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Autumnal clothing lines",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Desert Landscape",
+      "description": "The color of the desert sand at sunset.",
+      "image_url": "https://example.com/desert_sunset.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "Classic leather boots in a Prairie Sand hue.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural look.",
+    "Combine with creams and beiges for a sophisticated palette.",
+    "Add touches of gold for warmth and luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Prairie Sand Color Meaning: Discover the Psychology and Uses of #9A3820",
+    "description": "Uncover the meaning and associations of Prairie Sand (#9A3820). Learn about its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:00:52.495918+00:00",
+  "updated_at": "2025-06-01T16:00:52.495918+00:00",
+  "slug": "prairie-sand"
+}

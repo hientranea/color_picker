@@ -1,0 +1,86 @@
+{
+  "id": "8a79beac-4970-432d-a9ca-cdea1e283cf7",
+  "color_name": "Mulled Wine",
+  "hex_code": "#4E4562",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mulled Wine, a deep, muted purple, evokes feelings of sophistication, introspection, and mystery. It combines the stability of blue with the energy of red, tempered by brown undertones, creating a sense of grounded elegance and quiet contemplation. This color is often associated with creativity, wisdom, and a connection to the spiritual realm.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "introspection",
+    "creativity",
+    "wisdom"
+  ],
+  "complementary_colors": [
+    "#626B45"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Autumn",
+      "swatches": [
+        "#4E4562",
+        "#A0522D",
+        "#BC8F8F",
+        "#F4A460"
+      ]
+    },
+    {
+      "name": "Mystic Twilight",
+      "swatches": [
+        "#4E4562",
+        "#2F4F4F",
+        "#778899",
+        "#D8BFD8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Creative apps",
+      "Data visualization"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Chocolate packaging",
+      "Elegant dining experiences"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spas",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Winter accessories",
+      "Formal attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Velvet Sofa",
+      "description": "A luxurious velvet sofa in a Mulled Wine hue adds a touch of elegance to a living room.",
+      "image_url": "https://example.com/mulled_wine_sofa.jpg"
+    },
+    {
+      "title": "Amethyst Crystal",
+      "description": "The deep purple color of an amethyst crystal resonates with the calming energy of Mulled Wine.",
+      "image_url": "https://example.com/amethyst.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a sophisticated look.",
+    "Use with greens for a natural contrast.",
+    "Combine with golds for a luxurious feel.",
+    "Add grey for a modern touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Mulled Wine Color Meaning: The Psychology of #4E4562",
+    "description": "Discover the meaning and associations of Mulled Wine (#4E4562). Learn how to use this elegant purple color in your designs and branding."
+  },
+  "created_at": "2025-06-01T15:18:51.459237+00:00",
+  "updated_at": "2025-06-01T15:18:51.459237+00:00",
+  "slug": "mulled-wine"
+}

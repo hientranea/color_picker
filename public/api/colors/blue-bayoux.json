@@ -1,0 +1,82 @@
+{
+  "id": "85a5ef1f-33b6-4860-8944-e2ebe03148b5",
+  "color_name": "Blue Bayoux",
+  "hex_code": "#496679",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Bayoux evokes feelings of tranquility, stability, and sophistication. It suggests a sense of calm confidence and understated elegance. It can also represent a connection to nature, particularly water and sky, offering a soothing and reliable presence.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "stability",
+    "trustworthy",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#795C49",
+    "#B39D84"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#496679",
+        "#A0B1BA",
+        "#D9E2E9",
+        "#798B63",
+        "#334756"
+      ]
+    },
+    {
+      "name": "Elegant Evening",
+      "swatches": [
+        "#496679",
+        "#263238",
+        "#90A4AE",
+        "#B0BEC5",
+        "#CFD8DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Button accents",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Office Interior",
+      "description": "Blue Bayoux walls create a calming and professional atmosphere in a modern office space.",
+      "image_url": "https://example.com/blue_bayoux_office.jpg"
+    },
+    {
+      "title": "Luxury Car Exterior",
+      "description": "A Blue Bayoux finish on a luxury car exudes sophistication and understated elegance.",
+      "image_url": "https://example.com/blue_bayoux_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for balance.",
+    "Use with light grays for a modern look.",
+    "Combine with metallic accents for sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Blue Bayoux Color Meaning: Discover Its Psychology and Uses",
+    "description": "Uncover the meaning behind Blue Bayoux (#496679), its psychological associations, and how to use it in design, branding, and more."
+  },
+  "created_at": "2025-06-01T15:15:52.719538+00:00",
+  "updated_at": "2025-06-01T15:15:52.719538+00:00",
+  "slug": "blue-bayoux"
+}

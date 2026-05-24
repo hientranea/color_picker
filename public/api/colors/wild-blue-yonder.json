@@ -1,0 +1,82 @@
+{
+  "id": "5cb59842-e1ed-49fc-9abd-6722686d6583",
+  "color_name": "Wild Blue Yonder",
+  "hex_code": "#7A89B8",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Wild Blue Yonder evokes feelings of calmness, serenity, and openness, much like a clear sky. It suggests trustworthiness and stability, while also hinting at creativity and inspiration due to its association with the vast unknown. The color can promote a sense of peace and encourage introspection.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "trust",
+    "inspiration",
+    "openness"
+  ],
+  "complementary_colors": [
+    "#B8897A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Skies",
+      "swatches": [
+        "#7A89B8",
+        "#A2B5CD",
+        "#D0D8E2",
+        "#F0F2F5"
+      ]
+    },
+    {
+      "name": "Tranquil Waters",
+      "swatches": [
+        "#7A89B8",
+        "#5A75A3",
+        "#8FB4C6",
+        "#A8D0DB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Soothing interface elements",
+      "Data visualization accents"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Accessories",
+      "Understated elegance"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Twilight Sky",
+      "description": "The fading light of dusk paints the sky in hues of Wild Blue Yonder, creating a serene and contemplative atmosphere.",
+      "image_url": "https://example.com/twilight_sky.jpg"
+    },
+    {
+      "title": "Coastal Interiors",
+      "description": "Wild Blue Yonder walls in a coastal-themed living room, complemented by natural textures and light wood accents.",
+      "image_url": "https://example.com/coastal_interiors.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with pastel pink or lavender for a soft, feminine feel.",
+    "Use with brighter blues or greens for a vibrant contrast.",
+    "Accent with metallic silver or gold for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Wild Blue Yonder Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Wild Blue Yonder (#7A89B8), its psychological effects, complementary colors, and inspiring palettes. Learn how to use this calming color in design and branding."
+  },
+  "created_at": "2025-06-01T15:42:09.095025+00:00",
+  "updated_at": "2025-06-01T15:42:09.095025+00:00",
+  "slug": "wild-blue-yonder"
+}

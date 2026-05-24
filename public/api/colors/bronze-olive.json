@@ -1,0 +1,87 @@
+{
+  "id": "4fe8b339-7e99-4ec7-aec8-7168bbc21c78",
+  "color_name": "Bronze Olive",
+  "hex_code": "#4E420C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bronze Olive evokes feelings of earthiness, sophistication, and understated elegance. It combines the grounding qualities of brown with the vibrancy of green, suggesting stability and growth. This color can also project a sense of maturity and resilience, reminiscent of aged metals and natural landscapes.",
+  "emotional_associations": [
+    "stability",
+    "sophistication",
+    "earthiness",
+    "resilience",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#0C1A4E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4E420C",
+        "#A3976A",
+        "#D4C79C",
+        "#736A4E",
+        "#29230A"
+      ]
+    },
+    {
+      "name": "Grounded Vibrancy",
+      "swatches": [
+        "#4E420C",
+        "#78952B",
+        "#B0C4DE",
+        "#5F9EA0",
+        "#2E8B57"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background accents",
+      "Data visualization elements",
+      "Minimalist dashboards"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant interiors with a natural theme",
+      "Branding for olive oil products"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Autumn and winter collections",
+      "Accessories like belts and bags",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Bronze Olive Car",
+      "description": "A vintage car painted in bronze olive, showcasing its timeless appeal.",
+      "image_url": "https://example.com/bronze_olive_car.jpg"
+    },
+    {
+      "title": "Olive Grove Landscape",
+      "description": "A serene landscape featuring rows of olive trees with bronze-tinged leaves.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with golds and browns for warmth and richness.",
+    "Use with deep blues and greens for a natural, calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our interactive color picker!",
+  "seo_meta": {
+    "title": "Bronze Olive Color Meaning: Understanding #4E420C",
+    "description": "Discover the meaning and symbolism of Bronze Olive (#4E420C). Explore its psychological effects, complementary colors, and ideal uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:18:44.645608+00:00",
+  "updated_at": "2025-06-01T15:18:44.645608+00:00",
+  "slug": "bronze-olive"
+}

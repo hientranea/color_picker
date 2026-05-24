@@ -1,0 +1,86 @@
+{
+  "id": "fe04c282-5519-43be-a433-87df0f928942",
+  "color_name": "Viridian Green",
+  "hex_code": "#678975",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Viridian Green is a color that evokes feelings of nature, balance, and tranquility. It's often associated with growth, renewal, and harmony, creating a sense of peace and well-being. This color can also suggest sophistication and stability, making it a versatile choice for various applications.",
+  "emotional_associations": [
+    "nature",
+    "tranquility",
+    "growth",
+    "balance",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#897567"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#678975",
+        "#A8B893",
+        "#D0DDB6",
+        "#F0EAD6"
+      ]
+    },
+    {
+      "name": "Sophisticated Teal",
+      "swatches": [
+        "#678975",
+        "#4A6557",
+        "#77ACA2",
+        "#98D4BB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Settings menus"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors",
+      "Branding for health-focused drinks"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories",
+      "Formal dresses"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Viridian Green Office Space",
+      "description": "A modern office space incorporating Viridian Green walls to promote a sense of calm and productivity.",
+      "image_url": "https://example.com/viridian_office.jpg"
+    },
+    {
+      "title": "Viridian Green Dress",
+      "description": "An elegant Viridian Green dress, perfect for evening events, showcasing the color's sophisticated appeal.",
+      "image_url": "https://example.com/viridian_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like beige or gray for a balanced look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with natural wood textures for an earthy feel.",
+    "Contrast with coral or peach for a vibrant palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Viridian Green and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Viridian Green Color Meaning: Symbolism, Palettes & Design Tips",
+    "description": "Discover the meaning of Viridian Green, its psychological effects, and how to use it in your designs with inspiring color palettes and examples."
+  },
+  "created_at": "2025-06-01T15:30:36.11886+00:00",
+  "updated_at": "2025-06-01T15:30:36.11886+00:00",
+  "slug": "viridian-green"
+}

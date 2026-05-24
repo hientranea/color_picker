@@ -1,0 +1,83 @@
+{
+  "id": "22c12c21-5c54-4b2e-a393-e36c5eb98c9b",
+  "color_name": "Malibu",
+  "hex_code": "#7DC8F7",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Malibu evokes feelings of tranquility, peace, and serenity, reminiscent of the ocean and clear blue skies. It's often associated with relaxation, calmness, and a sense of freedom. Malibu can also represent trust, loyalty, and stability, making it a versatile color choice for various applications.",
+  "emotional_associations": [
+    "calmness",
+    "peace",
+    "serenity",
+    "trust",
+    "loyalty",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#F7807D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#7DC8F7",
+        "#AEE2FF",
+        "#D4F0FF",
+        "#F0FFFF"
+      ]
+    },
+    {
+      "name": "Serene Sunset",
+      "swatches": [
+        "#7DC8F7",
+        "#F2D7D5",
+        "#D8B4A0",
+        "#A78295"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard interfaces",
+      "data visualization",
+      "mobile app backgrounds"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa websites",
+      "meditation apps",
+      "health and wellness branding"
+    ],
+    "fashion": [
+      "swimwear",
+      "summer dresses",
+      "casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Malibu Beach Scene",
+      "description": "A picturesque scene of Malibu beach with clear blue skies and turquoise water.",
+      "image_url": "https://example.com/malibu_beach.jpg"
+    },
+    {
+      "title": "Luxury Resort Spa",
+      "description": "A luxurious resort spa using Malibu in its interior design to create a calming and relaxing atmosphere.",
+      "image_url": "https://example.com/malibu_spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and fresh look.",
+    "Combine with sandy beige for a beachy vibe.",
+    "Use with coral or peach for a warm contrast.",
+    "Incorporate with darker blues for depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Malibu Color Meaning: Psychology, Associations, and Palettes",
+    "description": "Discover the meaning of Malibu color, its psychological associations, and inspiring color palettes to create stunning designs."
+  },
+  "created_at": "2025-06-01T15:44:39.102971+00:00",
+  "updated_at": "2025-06-01T15:44:39.102971+00:00",
+  "slug": "malibu"
+}

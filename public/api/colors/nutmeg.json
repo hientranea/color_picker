@@ -1,0 +1,84 @@
+{
+  "id": "82247f47-83dc-4666-9b95-2191912e8ded",
+  "color_name": "Nutmeg",
+  "hex_code": "#81422C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Nutmeg evokes feelings of warmth, comfort, and earthiness. It is associated with autumn, spices, and a sense of grounded stability. The color promotes feelings of security and reliability, while also hinting at subtle sophistication and richness. It's a color that inspires a sense of home and well-being.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "earthiness",
+    "stability",
+    "security",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#2C6D81"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Spice",
+      "swatches": [
+        "#81422C",
+        "#D4A373",
+        "#A68A64",
+        "#E6CDB3",
+        "#4D3319"
+      ]
+    },
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#81422C",
+        "#C2B280",
+        "#736357",
+        "#E9E4D4",
+        "#362222"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Spice branding",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Essential oil packaging"
+    ],
+    "fashion": [
+      "Autumn clothing",
+      "Leather accessories",
+      "Outdoor wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Nutmeg Spice",
+      "description": "The color of ground nutmeg spice.",
+      "image_url": "https://example.com/nutmeg_spice.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "A pair of leather boots in a nutmeg shade.",
+      "image_url": "https://example.com/nutmeg_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, inviting look.",
+    "Combine with greens for an earthy palette.",
+    "Use with golds for a touch of luxury.",
+    "Contrast with blues for a balanced effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Nutmeg Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of the nutmeg color, its psychological associations, best color combinations, and industry use cases. Explore palettes and examples."
+  },
+  "created_at": "2025-06-01T15:47:16.229688+00:00",
+  "updated_at": "2025-06-01T15:47:16.229688+00:00",
+  "slug": "nutmeg"
+}

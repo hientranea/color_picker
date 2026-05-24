@@ -1,0 +1,84 @@
+{
+  "id": "24461df5-df54-4194-8fd2-4e6757942c59",
+  "color_name": "Brown Bramble",
+  "hex_code": "#592804",
+  "wheel_position": "Compound/Earthy",
+  "psychological_meaning": "Brown Bramble evokes feelings of stability, earthiness, and rustic comfort. It is associated with nature, reliability, and a sense of grounding. This color suggests a connection to the past, simplicity, and a quiet strength.",
+  "emotional_associations": [
+    "stability",
+    "earthiness",
+    "comfort",
+    "reliability",
+    "grounding"
+  ],
+  "complementary_colors": [
+    "#045955",
+    "#A5D17B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Rustic Autumn",
+      "swatches": [
+        "#592804",
+        "#A37354",
+        "#D4A373",
+        "#E2D1B3",
+        "#7A6C5D"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#592804",
+        "#6B8E23",
+        "#8FBC8F",
+        "#BDB76B",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Organic food labels"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Bohemian clothing",
+      "Leather accessories",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Bound Journal",
+      "description": "A classic leather journal in a rich brown bramble color, perfect for writing or sketching.",
+      "image_url": "https://example.com/brown_journal.jpg"
+    },
+    {
+      "title": "Wooden Cabin Exterior",
+      "description": "The exterior of a cozy wooden cabin painted in a dark brown, blending seamlessly with the surrounding forest.",
+      "image_url": "https://example.com/brown_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Use with greens for a natural palette.",
+    "Combine with oranges for warmth.",
+    "Accent with gold for richness."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our powerful color palette generator!",
+  "seo_meta": {
+    "title": "Brown Bramble Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning of Brown Bramble (#592804), its psychological impact, best color palettes, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:23:26.83818+00:00",
+  "updated_at": "2025-06-01T15:23:26.83818+00:00",
+  "slug": "brown-bramble"
+}

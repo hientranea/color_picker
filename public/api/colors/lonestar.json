@@ -1,0 +1,75 @@
+{
+  "id": "48e0cea0-26ec-493f-8f00-c28bc61bdcfb",
+  "color_name": "Lonestar",
+  "hex_code": "#6D0101",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Lonestar, a deep, muted red, evokes feelings of strength, resilience, and tradition. It represents grounded energy and quiet confidence, often associated with heritage and steadfastness. This color suggests a connection to the past while maintaining a present-day relevance, symbolizing a timeless quality.",
+  "emotional_associations": [
+    "strength",
+    "resilience",
+    "tradition",
+    "heritage",
+    "grounded energy"
+  ],
+  "complementary_colors": [
+    "#016D6D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#6D0101",
+        "#A55151",
+        "#D3A8A8",
+        "#E8D4D4"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#6D0101",
+        "#4A342A",
+        "#A38269",
+        "#D1C0B3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Steakhouse branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Winter coats",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Leather Chair",
+      "description": "A beautifully aged leather chair in a Lonestar hue, adding a touch of vintage sophistication to a modern living room.",
+      "image_url": "https://example.com/lonestar_chair.jpg"
+    },
+    {
+      "title": "Brick Building Facade",
+      "description": "The facade of a historic brick building showcasing the enduring strength and character of Lonestar red.",
+      "image_url": "https://example.com/lonestar_building.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Use with grays for a modern feel.",
+    "Combine with metallics for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect color palette with our color picker!",
+  "seo_meta": {
+    "title": "Lonestar Color Meaning: Discover the Psychology of #6D0101",
+    "description": "Uncover the meaning and associations of Lonestar (#6D0101). Explore its psychological impact, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:33:01.990426+00:00",
+  "updated_at": "2025-06-01T15:33:01.990426+00:00",
+  "slug": "lonestar"
+}

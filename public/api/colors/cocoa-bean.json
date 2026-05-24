@@ -1,0 +1,80 @@
+{
+  "id": "99dd3c09-8686-4b2f-b1d0-872e95e55a76",
+  "color_name": "Cocoa Bean",
+  "hex_code": "#481C1C",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Cocoa Bean evokes feelings of warmth, comfort, and earthiness. It is often associated with reliability, stability, and a sense of home. This color can also represent sophistication and a connection to nature, offering a sense of grounding and reassurance.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "earthiness",
+    "reliability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#1C4848",
+    "#F2E6E6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#481C1C",
+        "#A67B5B",
+        "#D4A373",
+        "#E9D6C3"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#481C1C",
+        "#7A5230",
+        "#B8860B",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Bakery advertisements"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Autumn/Winter clothing lines",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Dark Chocolate Bar",
+      "description": "The rich color of a dark chocolate bar, representing indulgence and comfort.",
+      "image_url": "url_to_chocolate_image.jpg"
+    },
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa, embodying sophistication and warmth.",
+      "image_url": "url_to_sofa_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with greens and golds for an earthy palette.",
+    "Combine with blues and grays for a modern aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our color palette generator!",
+  "seo_meta": {
+    "title": "Cocoa Bean Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning, psychology, and best uses of Cocoa Bean (#481C1C) in design. Explore complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T15:15:01.463257+00:00",
+  "updated_at": "2025-06-01T15:15:01.463257+00:00",
+  "slug": "cocoa-bean"
+}

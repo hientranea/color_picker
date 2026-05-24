@@ -1,0 +1,88 @@
+{
+  "id": "374f6278-b961-4686-8563-f03504a770df",
+  "color_name": "Shadow Green",
+  "hex_code": "#9AC2B8",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Shadow Green evokes feelings of tranquility, growth, and sophistication. It combines the calming aspects of green with a hint of mystery, suggesting stability and renewal while maintaining a sense of understated elegance. This color is often associated with nature, balance, and a subtle, refined aesthetic.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "sophistication",
+    "balance",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#C29BA2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#9AC2B8",
+        "#E3DAC9",
+        "#7A8B78",
+        "#A68E80",
+        "#596457"
+      ]
+    },
+    {
+      "name": "Subtle Harmony",
+      "swatches": [
+        "#9AC2B8",
+        "#D4DBD0",
+        "#829387",
+        "#B2B8B1",
+        "#6A746E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Settings menus"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Accessories",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Cabin",
+      "description": "A cozy cabin nestled in a forest, painted in Shadow Green to blend seamlessly with its natural surroundings.",
+      "image_url": "url_to_cabin_image.jpg"
+    },
+    {
+      "title": "Minimalist Office",
+      "description": "A modern office space featuring Shadow Green accent walls to create a calm and productive atmosphere.",
+      "image_url": "url_to_office_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greys for a sophisticated look.",
+    "Combine with natural wood tones for a warm and inviting feel.",
+    "Use with gold accents for a touch of luxury.",
+    "Contrast with soft pinks for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to discover more harmonious shades and create your perfect palette!",
+  "seo_meta": {
+    "title": "Shadow Green Color Meaning: Tranquility and Sophistication | ColorBlog",
+    "description": "Discover the meaning and uses of Shadow Green (#9AC2B8), including its psychological effects, complementary colors, and ideal pairings for design and branding."
+  },
+  "created_at": "2025-06-01T16:01:21.824671+00:00",
+  "updated_at": "2025-06-01T16:01:21.824671+00:00",
+  "slug": "shadow-green"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "84fd4dbb-24b3-4397-9edc-7c812fa9635f",
+  "color_name": "Pistachio",
+  "hex_code": "#9DC209",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pistachio, a light, muted green, evokes feelings of freshness, nature, and tranquility. It's often associated with growth, renewal, and balance, offering a sense of calm and well-being. Its subtle warmth adds a touch of optimism and approachability, making it a comforting and inviting color.",
+  "emotional_associations": [
+    "freshness",
+    "tranquility",
+    "growth",
+    "balance",
+    "optimism"
+  ],
+  "complementary_colors": [
+    "#C29109"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#9DC209",
+        "#BDB2AB",
+        "#6B8E23",
+        "#D3D3D3",
+        "#F5F5DC"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#9DC209",
+        "#C8E6C9",
+        "#FFF9C4",
+        "#81C784",
+        "#A5D6A7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Branding for healthy snacks"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Spring and summer clothing",
+      "Accessories with a natural feel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Pistachio Macarons",
+      "description": "Delicate pistachio macarons with a vibrant green hue.",
+      "image_url": "https://example.com/pistachio_macarons.jpg"
+    },
+    {
+      "title": "Pistachio Green Living Room",
+      "description": "A living room painted in a soft pistachio green, creating a calming and inviting space.",
+      "image_url": "https://example.com/pistachio_living_room.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with soft neutrals for a calming effect.",
+    "Pair with warm yellows for a cheerful vibe.",
+    "Use with darker greens for a nature-inspired palette.",
+    "Contrast with muted reds for a balanced look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Pistachio Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Pistachio (#9DC209), its psychological effects, ideal color pairings, and real-world applications in design and branding."
+  },
+  "created_at": "2025-06-01T16:02:03.939301+00:00",
+  "updated_at": "2025-06-01T16:02:03.939301+00:00",
+  "slug": "pistachio"
+}

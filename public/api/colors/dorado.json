@@ -1,0 +1,81 @@
+{
+  "id": "56c3755a-f5ee-4c3b-b74b-9520cb1f1817",
+  "color_name": "Dorado",
+  "hex_code": "#6B5755",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Dorado, with its earthy and muted brown tones, evokes feelings of stability, comfort, and groundedness. It suggests reliability, simplicity, and a connection to nature. This color can also represent a sense of sophistication and timelessness, often associated with understated elegance and enduring quality.",
+  "emotional_associations": [
+    "stability",
+    "comfort",
+    "groundedness",
+    "reliability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#55676B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#6B5755",
+        "#A38B87",
+        "#DBC3C0",
+        "#F2E9E4"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#6B5755",
+        "#826F6E",
+        "#B9A8A7",
+        "#E6DAD9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Organic food labels"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Neutral clothing lines",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a Dorado hue, offering both comfort and style.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Coffee Packaging",
+      "description": "A sleek coffee bag with Dorado accents, conveying a sense of quality and warmth.",
+      "image_url": "https://example.com/coffee_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, neutral palette.",
+    "Combine with greens for a natural, earthy feel.",
+    "Use with metallics for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Dorado Color Meaning: Understanding #6B5755",
+    "description": "Explore the meaning, psychology, and uses of Dorado (#6B5755), a versatile and grounding color. Find complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:32:27.466924+00:00",
+  "updated_at": "2025-06-01T15:32:27.466924+00:00",
+  "slug": "dorado"
+}

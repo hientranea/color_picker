@@ -1,0 +1,81 @@
+{
+  "id": "9b07ff68-bc4d-4744-8cfc-9335e8fff4d7",
+  "color_name": "Jet Stream",
+  "hex_code": "#B5D2CE",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jet Stream evokes a sense of calm and tranquility, reminiscent of a gentle breeze and open skies. It promotes feelings of peace, clarity, and gentle optimism. This color is often associated with mental relaxation and a refreshing outlook, creating a soothing and serene environment.",
+  "emotional_associations": [
+    "calm",
+    "tranquility",
+    "peace",
+    "clarity",
+    "optimism"
+  ],
+  "complementary_colors": [
+    "#CEB5B8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Escape",
+      "swatches": [
+        "#B5D2CE",
+        "#E5E8E9",
+        "#A7C4BC",
+        "#748A91"
+      ]
+    },
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#B5D2CE",
+        "#F2EBD3",
+        "#89B0AE",
+        "#558B82"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Meditation apps",
+      "Weather applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Summer dresses",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior",
+      "description": "The walls of the spa are painted Jet Stream to create a calming atmosphere for clients.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Summer Dress",
+      "description": "A flowing summer dress in Jet Stream, perfect for a day at the beach.",
+      "image_url": "https://example.com/summer_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with bright accents for a pop of energy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shade of Jet Stream for your next project!",
+  "seo_meta": {
+    "title": "Jet Stream Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Jet Stream, its psychological effects, complementary colors, and inspiring palettes. Perfect for designers and artists."
+  },
+  "created_at": "2025-06-01T16:17:25.85473+00:00",
+  "updated_at": "2025-06-01T16:17:25.85473+00:00",
+  "slug": "jet-stream"
+}

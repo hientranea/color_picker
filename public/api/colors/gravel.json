@@ -1,0 +1,85 @@
+{
+  "id": "d3a5e474-f181-4906-b4d6-4f84dc92840a",
+  "color_name": "Gravel",
+  "hex_code": "#4A444B",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Gravel, a muted and earthy gray, evokes feelings of stability, resilience, and grounding. It suggests a sense of quiet strength and dependability, reminiscent of natural landscapes and enduring materials. Gravel can also represent practicality and a lack of pretension.",
+  "emotional_associations": [
+    "stability",
+    "resilience",
+    "grounding",
+    "dependability",
+    "practicality"
+  ],
+  "complementary_colors": [
+    "#B5B1B0",
+    "#A0A69F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#4A444B",
+        "#A39481",
+        "#D8C6B1",
+        "#746C5F",
+        "#302A2B"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#4A444B",
+        "#FFFFFF",
+        "#E5E5E5",
+        "#000000",
+        "#808080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization",
+      "Neutral color for UI elements",
+      "Text color for readability"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Understated apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Gravel Path",
+      "description": "A winding gravel path through a serene garden.",
+      "image_url": "https://example.com/gravel_path.jpg"
+    },
+    {
+      "title": "Stone Wall",
+      "description": "A sturdy wall constructed from gravel-colored stones.",
+      "image_url": "https://example.com/stone_wall.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural look.",
+    "Combine with white for a clean, modern aesthetic.",
+    "Use with pastel colors for a soft, calming effect.",
+    "Contrast with vibrant accent colors for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your own palettes with our color picker!",
+  "seo_meta": {
+    "title": "Gravel Color Meaning: The Psychology of #4A444B",
+    "description": "Discover the meaning of Gravel (#4A444B), its emotional associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:16:35.668346+00:00",
+  "updated_at": "2025-06-01T15:16:35.668346+00:00",
+  "slug": "gravel"
+}

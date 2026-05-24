@@ -1,0 +1,84 @@
+{
+  "id": "67819424-823e-4923-8025-ccfa1bc381ce",
+  "color_name": "Apple Blossom",
+  "hex_code": "#AF4D43",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Apple Blossom evokes feelings of warmth, comfort, and gentle energy. It's associated with feelings of nostalgia, sweetness, and delicate beauty. It can also represent a sense of passion and excitement in a subtle and inviting way, like a budding romance or a cozy autumn afternoon.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "nostalgia",
+    "sweetness",
+    "passion"
+  ],
+  "complementary_colors": [
+    "#43B6AF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Warmth",
+      "swatches": [
+        "#AF4D43",
+        "#D4846A",
+        "#F9BBA1",
+        "#A6735D",
+        "#734A31"
+      ]
+    },
+    {
+      "name": "Rustic Romance",
+      "swatches": [
+        "#AF4D43",
+        "#8C3027",
+        "#C77567",
+        "#E2B8AC",
+        "#F7EDE8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for teas",
+      "Restaurant interior design",
+      "Product design for artisanal foods"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio decor",
+      "Meditation app interface"
+    ],
+    "fashion": [
+      "Fall and winter apparel",
+      "Accessories like scarves and hats",
+      "Boho-chic clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Apple Blossom Lipstick",
+      "description": "A lipstick shade that imparts a natural, flushed appearance.",
+      "image_url": "https://example.com/apple_blossom_lipstick.jpg"
+    },
+    {
+      "title": "Apple Orchard Sunset",
+      "description": "The warm, inviting colors of a sunset over an apple orchard.",
+      "image_url": "https://example.com/apple_orchard_sunset.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with neutral grays for a sophisticated look.",
+    "Pair with shades of green for a natural harmony.",
+    "Use with creamy whites for a vintage feel.",
+    "Accent with gold for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Apple Blossom Color Meaning: Understanding #AF4D43",
+    "description": "Discover the meaning, psychology, and best uses of the Apple Blossom color (#AF4D43). Find complementary colors and palette suggestions."
+  },
+  "created_at": "2025-06-01T16:12:59.243458+00:00",
+  "updated_at": "2025-06-01T16:12:59.243458+00:00",
+  "slug": "apple-blossom"
+}

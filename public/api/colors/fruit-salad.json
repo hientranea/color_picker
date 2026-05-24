@@ -1,0 +1,82 @@
+{
+  "id": "a7efb657-d744-4462-b499-624a541ab905",
+  "color_name": "Fruit Salad",
+  "hex_code": "#4F9D5D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fruit Salad, as a color, evokes feelings of freshness, health, and vitality. Its blend of green and yellow suggests growth, optimism, and a connection to nature. It often creates a sense of balance and harmony, promoting feelings of well-being and rejuvenation.",
+  "emotional_associations": [
+    "freshness",
+    "health",
+    "vitality",
+    "growth",
+    "optimism",
+    "nature",
+    "balance",
+    "harmony",
+    "well-being",
+    "rejuvenation"
+  ],
+  "complementary_colors": [
+    "#9D4F8F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#4F9D5D",
+        "#A0D6B4",
+        "#774F38",
+        "#E0A96F"
+      ]
+    },
+    {
+      "name": "Citrus Burst",
+      "swatches": [
+        "#4F9D5D",
+        "#FFD700",
+        "#FFA500",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health tracking apps",
+      "Sustainable living platforms"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Smoothie and juice branding"
+    ],
+    "wellness": [
+      "Spa and retreat centers",
+      "Natural skincare products"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Healthy Restaurant Branding",
+      "description": "A restaurant uses Fruit Salad green in its logo and interior design to emphasize its focus on fresh, healthy ingredients.",
+      "image_url": "https://example.com/restaurant.jpg"
+    },
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "A sustainable product company utilizes Fruit Salad green for its packaging to communicate its commitment to environmental responsibility.",
+      "image_url": "https://example.com/packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with natural wood tones for an organic feel.",
+    "Use with bright yellows and oranges for a cheerful, energetic palette.",
+    "Pair with muted blues or purples for a calming contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator today!",
+  "seo_meta": {
+    "title": "Fruit Salad Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Fruit Salad green, its psychological effects, complementary colors, and inspiring examples for design and branding."
+  },
+  "created_at": "2025-06-01T15:19:47.405859+00:00",
+  "updated_at": "2025-06-01T15:19:47.405859+00:00",
+  "slug": "fruit-salad"
+}

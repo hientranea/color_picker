@@ -1,0 +1,82 @@
+{
+  "id": "9a79b4fb-cf4f-40cf-b5d6-a543a1875ed8",
+  "color_name": "Wine Berry",
+  "hex_code": "#591D35",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Wine Berry evokes feelings of sophistication, luxury, and passion. It blends the boldness of red with the groundedness of brown and purple, creating a sense of refined indulgence and mature elegance. This color can also inspire creativity and a sense of mystery.",
+  "emotional_associations": [
+    "sophistication",
+    "luxury",
+    "passion",
+    "creativity",
+    "mystery"
+  ],
+  "complementary_colors": [
+    "#1D5943"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance",
+      "swatches": [
+        "#591D35",
+        "#A6426B",
+        "#D9779D",
+        "#F2B8C3",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#591D35",
+        "#8C3352",
+        "#BF4D70",
+        "#E6668D",
+        "#FF7FA5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Chocolate packaging",
+      "Coffee branding"
+    ],
+    "wellness": [
+      "Luxury spa branding",
+      "Essential oil packaging"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Winter coats",
+      "Accessories (handbags, scarves)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wine Bottle Label",
+      "description": "A high-end wine bottle featuring a Wine Berry colored label with gold lettering.",
+      "image_url": "https://example.com/wine_label.jpg"
+    },
+    {
+      "title": "Luxury Velvet Couch",
+      "description": "A Wine Berry colored velvet couch in a modern living room.",
+      "image_url": "https://example.com/velvet_couch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold or silver accents for a luxurious feel.",
+    "Combine with muted greens or grays for a sophisticated palette.",
+    "Use as an accent color against a neutral background for a pop of richness."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color possibilities with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Wine Berry Color Meaning: Exploring the Psychology of #591D35",
+    "description": "Discover the meaning, psychology, and best uses of Wine Berry color. Learn how to pair this rich hue in design and branding."
+  },
+  "created_at": "2025-06-01T15:23:19.81395+00:00",
+  "updated_at": "2025-06-01T15:23:19.81395+00:00",
+  "slug": "wine-berry"
+}

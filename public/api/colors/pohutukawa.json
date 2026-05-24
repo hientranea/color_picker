@@ -1,0 +1,77 @@
+{
+  "id": "25a4ca3c-819f-4ff1-98bd-a569b142ad88",
+  "color_name": "Pohutukawa",
+  "hex_code": "#8F021C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pohutukawa, a deep and vibrant red, evokes feelings of passion, strength, and resilience, drawing inspiration from the iconic New Zealand tree it's named after. It symbolizes vitality, courage, and a powerful connection to nature. This color can inspire confidence and a sense of grounded energy, promoting a proactive and determined mindset.",
+  "emotional_associations": [
+    "passion",
+    "strength",
+    "resilience",
+    "vitality",
+    "courage"
+  ],
+  "complementary_colors": [
+    "#007D63"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Fiery Sunset",
+      "swatches": [
+        "#8F021C",
+        "#D44A62",
+        "#F28482",
+        "#F5CAC3",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Earthy Warmth",
+      "swatches": [
+        "#8F021C",
+        "#5D4037",
+        "#A1887F",
+        "#D7CCC8",
+        "#ECEFF1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Spicy sauce branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Statement jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Pohutukawa Tree in Bloom",
+      "description": "The vibrant red flowers of the Pohutukawa tree are a symbol of New Zealand's summer.",
+      "image_url": "https://example.com/pohutukawa_tree.jpg"
+    },
+    {
+      "title": "Red Wine Label",
+      "description": "A sophisticated wine label using Pohutukawa red to convey richness and boldness.",
+      "image_url": "https://example.com/red_wine_label.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep greens for a natural contrast.",
+    "Use with gold accents for a luxurious feel.",
+    "Combine with neutral grays for a modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Pohutukawa Color Meaning: Symbolism, Psychology, and Uses",
+    "description": "Discover the meaning, psychology, and practical applications of Pohutukawa red (#8F021C), a vibrant and symbolic color. Explore complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T15:55:26.94516+00:00",
+  "updated_at": "2025-06-01T15:55:26.94516+00:00",
+  "slug": "pohutukawa"
+}

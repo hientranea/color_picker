@@ -1,0 +1,79 @@
+{
+  "id": "9218ba85-dcdf-4e26-9432-b9450adf263e",
+  "color_name": "Blumine",
+  "hex_code": "#18587A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blumine evokes feelings of stability, trust, and tranquility. It is often associated with professionalism and reliability, inspiring confidence and a sense of calm. This color encourages introspection and represents a thoughtful approach to problem-solving, making it suitable for environments where careful consideration is valued.",
+  "emotional_associations": [
+    "stability",
+    "trust",
+    "tranquility",
+    "professionalism",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#7A3218"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic Blue Harmony",
+      "swatches": [
+        "#18587A",
+        "#A0D6B4",
+        "#E8E288",
+        "#F7F6E7"
+      ]
+    },
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#18587A",
+        "#003366",
+        "#6699CC",
+        "#ADD8E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Corporate communication platforms",
+      "Financial analysis tools"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Headquarters",
+      "description": "Blumine is used in the reception area to project a sense of professionalism and reliability.",
+      "image_url": "https://example.com/corporate_hq.jpg"
+    },
+    {
+      "title": "Financial Website",
+      "description": "Blumine provides a trustworthy and stable feel for users exploring financial information.",
+      "image_url": "https://example.com/financial_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with lighter blues and greens for a calming, aquatic feel.",
+    "Use with contrasting warm colors like gold or orange for a pop of energy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Blumine Color Meaning: Understanding the Psychology of #18587A",
+    "description": "Explore the meaning, associations, and best uses of Blumine (#18587A). Discover its psychological impact and how to incorporate it into your designs."
+  },
+  "created_at": "2025-06-01T14:50:55.368577+00:00",
+  "updated_at": "2025-06-01T14:50:55.368577+00:00",
+  "slug": "blumine"
+}

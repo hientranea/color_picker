@@ -1,0 +1,75 @@
+{
+  "id": "723896ae-901e-4bea-bae4-860e61afc209",
+  "color_name": "Tarawera",
+  "hex_code": "#073A50",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tarawera evokes feelings of depth, stability, and quiet contemplation. It combines the trustworthiness of blue with the grounding aspects of green, suggesting reliability and a connection to nature. It fosters a sense of calm and encourages introspection, making it ideal for environments where focus and clarity are valued.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "calm",
+    "introspection",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#501E07"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#073A50",
+        "#A3B18A",
+        "#588157",
+        "#344E41"
+      ]
+    },
+    {
+      "name": "Deep Ocean",
+      "swatches": [
+        "#073A50",
+        "#06283D",
+        "#256D85",
+        "#47B5FF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization dashboards",
+      "Navigation bars in enterprise software",
+      "Calming color for meditation apps"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Acupuncture clinics"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Office Lobby",
+      "description": "A modern office lobby featuring Tarawera accent walls, creating a professional and calming environment.",
+      "image_url": "https://example.com/office_lobby.jpg"
+    },
+    {
+      "title": "Meditation App Interface",
+      "description": "The primary background color of a meditation app, promoting relaxation and focus.",
+      "image_url": "https://example.com/meditation_app.png"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a sophisticated look.",
+    "Combine with warm earthy tones for a natural feel.",
+    "Use with metallic accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Tarawera Color Meaning: Psychology, Palettes & Design Tips",
+    "description": "Discover the meaning of Tarawera (#073A50), its psychological associations, complementary colors, and design applications. Learn how to use this color effectively in your projects."
+  },
+  "created_at": "2025-06-01T14:44:06.778016+00:00",
+  "updated_at": "2025-06-01T14:44:06.778016+00:00",
+  "slug": "tarawera"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "be2bfadd-60aa-4d3a-a8ab-e06bcb59997f",
+  "color_name": "Battleship Gray",
+  "hex_code": "#828F72",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Battleship Gray evokes feelings of strength, resilience, and seriousness. Its muted tones create a sense of stability and dependability, while also hinting at a reserved and introspective nature. It can also represent sophistication, practicality, and a no-nonsense attitude.",
+  "emotional_associations": [
+    "stability",
+    "dependability",
+    "sophistication",
+    "seriousness",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#F0E3D3",
+    "#D3F0E3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#828F72",
+        "#A2B59F",
+        "#D0D8C6",
+        "#F2F4EF"
+      ]
+    },
+    {
+      "name": "Industrial Chic",
+      "swatches": [
+        "#828F72",
+        "#4A5244",
+        "#A9A9A9",
+        "#2F4F4F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard interfaces",
+      "data visualization",
+      "security software"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "outerwear",
+      "casual wear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Naval Vessels",
+      "description": "Used extensively on warships for camouflage and a sense of authority.",
+      "image_url": "https://example.com/battleship.jpg"
+    },
+    {
+      "title": "Industrial Buildings",
+      "description": "Often seen in warehouses and factories, providing a functional and durable aesthetic.",
+      "image_url": "https://example.com/factory.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with off-whites for a clean, modern look.",
+    "Combine with muted blues for a calming, nautical feel.",
+    "Use with metallic accents for an industrial vibe.",
+    "Contrast with vibrant yellows or oranges for a pop of color."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect color palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Battleship Gray Color Meaning, Code & Combinations",
+    "description": "Discover the meaning of Battleship Gray (#828F72), its psychological effects, and how to use it in your designs with complementary colors and palettes."
+  },
+  "created_at": "2025-06-01T15:47:59.996054+00:00",
+  "updated_at": "2025-06-01T15:47:59.996054+00:00",
+  "slug": "battleship-gray"
+}

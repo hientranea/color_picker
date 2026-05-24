@@ -1,0 +1,79 @@
+{
+  "id": "5c2c6a13-0136-4bc2-aee1-00b37a24c41c",
+  "color_name": "Asparagus",
+  "hex_code": "#7BA05B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Asparagus green evokes feelings of nature, growth, and freshness. It's a calming and balanced color, often associated with health, renewal, and stability. It can also represent prosperity and environmental awareness, making it a versatile choice for brands looking to convey a sense of natural harmony and well-being.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "freshness",
+    "health",
+    "renewal",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#A05B7B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#7BA05B",
+        "#A68B61",
+        "#D4A373",
+        "#E9C46A"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#7BA05B",
+        "#B2D732",
+        "#FFFFFF",
+        "#45A049"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant branding for vegetarian cuisine"
+    ],
+    "wellness": [
+      "Spa and retreat branding",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Asparagus Fern",
+      "description": "The delicate fronds of the Asparagus Fern showcase a beautiful, soft green hue.",
+      "image_url": "url_to_asparagus_fern_image"
+    },
+    {
+      "title": "Organic Produce Packaging",
+      "description": "Packaging design for organic asparagus using shades of asparagus green to convey freshness and health.",
+      "image_url": "url_to_organic_asparagus_packaging_image"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural feel.",
+    "Combine with creams and whites for a clean, fresh look.",
+    "Use with muted yellows and oranges for a warm, inviting palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades of Asparagus for your next project!",
+  "seo_meta": {
+    "title": "Asparagus Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning and symbolism of Asparagus green. Explore color palettes, industry uses, and how to pair this refreshing shade."
+  },
+  "created_at": "2025-06-01T15:43:16.02577+00:00",
+  "updated_at": "2025-06-01T15:43:16.02577+00:00",
+  "slug": "asparagus"
+}

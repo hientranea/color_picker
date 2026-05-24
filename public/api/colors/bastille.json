@@ -1,0 +1,78 @@
+{
+  "id": "8e57d2ad-ca19-423b-88bf-bff5b7999815",
+  "color_name": "Bastille",
+  "hex_code": "#292130",
+  "wheel_position": "N/A (Dark Neutral)",
+  "psychological_meaning": "Bastille, a deep and muted purplish-gray, evokes a sense of sophistication, mystery, and quiet strength. It suggests introspection and a touch of melancholy, often associated with resilience and a refined sensibility. This color can also represent stability and groundedness, tempered with an underlying hint of the unconventional.",
+  "emotional_associations": [
+    "Sophistication",
+    "Mystery",
+    "Resilience",
+    "Stability",
+    "Introspection"
+  ],
+  "complementary_colors": [
+    "#D4DCD1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance Defined",
+      "swatches": [
+        "#292130",
+        "#524A5E",
+        "#A39DA8",
+        "#D4DCD1"
+      ]
+    },
+    {
+      "name": "Modern Dusk",
+      "swatches": [
+        "#292130",
+        "#3B3442",
+        "#7A6E80",
+        "#B9B1C1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation elements"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Walls painted in a Bastille-like hue create a sophisticated and calming atmosphere in a contemporary apartment.",
+      "image_url": "https://example.com/bastille_apartment.jpg"
+    },
+    {
+      "title": "Elegant Evening Dress",
+      "description": "A flowing evening dress in Bastille conveys a sense of understated elegance and timeless style.",
+      "image_url": "https://example.com/bastille_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a modern look.",
+    "Combine with metallics for a touch of glamour.",
+    "Use with natural wood tones for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Bastille Color Meaning: Understanding #292130",
+    "description": "Discover the meaning, psychology, and best uses of Bastille (#292130). Explore complementary colors, palettes, and real-world examples for your next project."
+  },
+  "created_at": "2025-06-01T14:57:46.01846+00:00",
+  "updated_at": "2025-06-01T14:57:46.01846+00:00",
+  "slug": "bastille"
+}

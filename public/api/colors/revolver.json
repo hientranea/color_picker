@@ -1,0 +1,80 @@
+{
+  "id": "5da5c239-3761-41da-87f1-48d3748f490d",
+  "color_name": "Revolver",
+  "hex_code": "#2C1632",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Revolver, a deep and enigmatic purple, evokes feelings of mystery, sophistication, and introspection. It combines the stability of blue with the energy of red, resulting in a color that can be both calming and stimulating. This color often represents creativity, wisdom, and a touch of the unconventional, suggesting a personality that is both thoughtful and artistic.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "introspection",
+    "creativity",
+    "wisdom"
+  ],
+  "complementary_colors": [
+    "#F3D928"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#2C1632",
+        "#5E314B",
+        "#8F4D64",
+        "#BF687D",
+        "#F08396"
+      ]
+    },
+    {
+      "name": "Royal Gradient",
+      "swatches": [
+        "#2C1632",
+        "#4A275A",
+        "#683882",
+        "#8649AA",
+        "#A45BCE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Security applications"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "A stunning amethyst geode showcasing the deep purple hues of Revolver.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Velvet Curtains",
+      "description": "Luxurious velvet curtains in a Revolver shade, adding a touch of elegance to a room.",
+      "image_url": "https://example.com/velvet_curtains.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold accents for a luxurious feel.",
+    "Combine with lighter purples or pinks for a harmonious palette.",
+    "Use as an accent color against neutral backgrounds.",
+    "Contrast with bright yellows for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator tool today!",
+  "seo_meta": {
+    "title": "Revolver Color Meaning: Discover the Psychology of #2C1632",
+    "description": "Uncover the meaning and associations of the Revolver color (#2C1632). Explore its psychological impact, complementary colors, and ideal uses."
+  },
+  "created_at": "2025-06-01T14:59:23.644663+00:00",
+  "updated_at": "2025-06-01T14:59:23.644663+00:00",
+  "slug": "revolver"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "561a4c34-55bb-476f-ae44-6390ead4327a",
+  "color_name": "Como",
+  "hex_code": "#517C66",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Como, a muted green, evokes feelings of tranquility, nature, and balance. Its understated presence promotes a sense of calm and stability, making it a comforting and reassuring color. It is associated with growth and renewal, suggesting harmony and a connection to the natural world.",
+  "emotional_associations": [
+    "tranquility",
+    "balance",
+    "nature",
+    "calm",
+    "stability",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#C27585"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#517C66",
+        "#A3B18A",
+        "#E5E6C6",
+        "#344E41"
+      ]
+    },
+    {
+      "name": "Subtle Contrast",
+      "swatches": [
+        "#517C66",
+        "#748A6E",
+        "#C27585",
+        "#8C5B51"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces for environmental monitoring",
+      "Calming themes for meditation apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Restaurant interiors emphasizing natural ingredients"
+    ],
+    "wellness": [
+      "Spa and wellness center branding",
+      "Color therapy for stress reduction"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Como Lake, Italy",
+      "description": "The serene waters of Lake Como reflect the surrounding greenery, embodying the calming essence of the Como color.",
+      "image_url": "https://example.com/como_lake.jpg"
+    },
+    {
+      "title": "Forest Canopy",
+      "description": "A dense forest canopy creates a natural filter for sunlight, resulting in a soft, muted green hue reminiscent of Como.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted browns for an earthy feel.",
+    "Combine with soft creams for a serene palette.",
+    "Use with dusty rose for a subtle contrast.",
+    "Accent with gold for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Como Color Meaning: Understanding #517C66",
+    "description": "Discover the meaning, psychology, and best uses of Como, a calming and balanced green color. Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:20:45.82602+00:00",
+  "updated_at": "2025-06-01T15:20:45.82602+00:00",
+  "slug": "como"
+}

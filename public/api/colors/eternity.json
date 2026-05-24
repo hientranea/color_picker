@@ -1,0 +1,79 @@
+{
+  "id": "3f03d2ce-b43a-4bb5-bdb8-ba1238ccc9f1",
+  "color_name": "Eternity",
+  "hex_code": "#211A0E",
+  "wheel_position": "N/A",
+  "psychological_meaning": "Eternity, a deep and grounding shade of brown, evokes feelings of stability, reliability, and timelessness. It represents a connection to the earth, providing a sense of security and comfort. This color is often associated with resilience, endurance, and a quiet strength, suggesting a steadfast and unwavering presence.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "timelessness",
+    "security",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#0E1721"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#211A0E",
+        "#A39784",
+        "#E5DCCB",
+        "#635B4A"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#211A0E",
+        "#594A37",
+        "#B09B7C",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Fall/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in a dark brown shade exudes sophistication and comfort.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Dark Chocolate Packaging",
+      "description": "Premium dark chocolate often uses deep brown packaging to convey richness and indulgence.",
+      "image_url": "https://example.com/chocolate_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for an earthy feel.",
+    "Use with metallics for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Eternity!",
+  "seo_meta": {
+    "title": "Eternity Color Meaning: Understanding #211A0E",
+    "description": "Discover the meaning of the color Eternity (#211A0E), its psychological effects, and how to use it in design. Explore complementary colors and suggested palettes."
+  },
+  "created_at": "2025-06-01T14:54:23.204021+00:00",
+  "updated_at": "2025-06-01T14:54:23.204021+00:00",
+  "slug": "eternity"
+}

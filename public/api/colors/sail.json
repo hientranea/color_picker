@@ -1,0 +1,78 @@
+{
+  "id": "62874b14-8a6d-418d-8523-0ea618c41f53",
+  "color_name": "Sail",
+  "hex_code": "#B8E0F9",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sail evokes a sense of calm, openness, and clarity, much like the sky or a serene ocean. It is often associated with peace, tranquility, and a feeling of spaciousness. This color can inspire feelings of hope, optimism, and a desire for exploration, encouraging a sense of freedom and new beginnings.",
+  "emotional_associations": [
+    "calm",
+    "peace",
+    "clarity",
+    "hope",
+    "freedom"
+  ],
+  "complementary_colors": [
+    "#F9B0B8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Serenity",
+      "swatches": [
+        "#B8E0F9",
+        "#FFFFFF",
+        "#87CEEB",
+        "#778899"
+      ]
+    },
+    {
+      "name": "Sky High",
+      "swatches": [
+        "#B8E0F9",
+        "#ADD8E6",
+        "#E0FFFF",
+        "#F0F8FF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Application backgrounds promoting calmness",
+      "Data visualization to enhance clarity"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Lightweight fabrics for relaxation wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Clear Blue Sky",
+      "description": "The expansive sky on a clear day, promoting feelings of peace and freedom.",
+      "image_url": "url_to_sky_image.jpg"
+    },
+    {
+      "title": "Sailboat on the Ocean",
+      "description": "A sailboat gliding across the ocean, embodying tranquility and exploration.",
+      "image_url": "url_to_sailboat_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, crisp look.",
+    "Combine with deeper blues for a calming gradient.",
+    "Use with sandy beige for a beachy aesthetic.",
+    "Accent with silver for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our intuitive color picker tool!",
+  "seo_meta": {
+    "title": "Sail Color Meaning: Psychological Effects & Design Use",
+    "description": "Discover the meaning of Sail (#B8E0F9), its emotional associations, complementary colors, and how to use it in design for a calming and peaceful effect."
+  },
+  "created_at": "2025-06-01T16:19:43.442336+00:00",
+  "updated_at": "2025-06-01T16:19:43.442336+00:00",
+  "slug": "sail"
+}

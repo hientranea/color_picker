@@ -1,0 +1,82 @@
+{
+  "id": "5126494c-6a18-4434-9467-6ec54f27465b",
+  "color_name": "Mirage",
+  "hex_code": "#161928",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Mirage evokes feelings of mystery, sophistication, and calm. Its dark, muted tone suggests introspection and stability, making it a color associated with reliability and understated elegance. It can also hint at the unknown and the allure of the unseen.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "calm",
+    "reliability",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#282516",
+    "#D9D6C7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nocturnal Calm",
+      "swatches": [
+        "#161928",
+        "#232B5B",
+        "#30475E",
+        "#F0F0F0"
+      ]
+    },
+    {
+      "name": "Elegant Evening",
+      "swatches": [
+        "#161928",
+        "#A2A8D3",
+        "#6A7099",
+        "#E8E8E8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Navigation menus",
+      "Backgrounds for data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The interior of a high-end vehicle featuring dark, leather seats and dashboard accents.",
+      "image_url": "https://example.com/mirage_car.jpg"
+    },
+    {
+      "title": "Modern Home Office",
+      "description": "A minimalist home office setup with Mirage-colored walls and sleek, metallic accents.",
+      "image_url": "https://example.com/mirage_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with metallic accents for a touch of glamour.",
+    "Use with lighter neutrals to create contrast.",
+    "Combine with deep blues and greens for a calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Mirage with our color picker tool!",
+  "seo_meta": {
+    "title": "Mirage Color Meaning: Understanding #161928",
+    "description": "Discover the meaning and associations of the color Mirage (#161928), its uses, and how to pair it with other colors."
+  },
+  "created_at": "2025-06-01T14:49:50.539685+00:00",
+  "updated_at": "2025-06-01T14:49:50.539685+00:00",
+  "slug": "mirage"
+}

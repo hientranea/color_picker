@@ -1,0 +1,79 @@
+{
+  "id": "4501f42e-8b31-454c-b63c-fc1b5452a1a6",
+  "color_name": "Matterhorn",
+  "hex_code": "#4E3B41",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Matterhorn, a muted and complex greyish-purple, evokes feelings of sophistication and quiet strength. It suggests stability, introspection, and a connection to the earth. This color can also represent mystery and a sense of the unknown, encouraging contemplation and a search for deeper meaning.",
+  "emotional_associations": [
+    "sophistication",
+    "stability",
+    "introspection",
+    "mystery"
+  ],
+  "complementary_colors": [
+    "#B1C4BE"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4E3B41",
+        "#A39792",
+        "#D4D0C9",
+        "#7A6E67"
+      ]
+    },
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#4E3B41",
+        "#2E294E",
+        "#786A89",
+        "#A69BB2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist apps",
+      "Subtle accents in data visualization"
+    ],
+    "fashion": [
+      "Elegant outerwear",
+      "Sophisticated evening wear",
+      "Neutral base for bolder accessories"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation spaces"
+    ],
+    "food_beverage": null
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Matterhorn walls, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/matterhorn_apartment.jpg"
+    },
+    {
+      "title": "High-End Fashion Boutique",
+      "description": "The exterior of a boutique painted in Matterhorn, projecting an image of exclusivity and understated luxury.",
+      "image_url": "https://example.com/matterhorn_boutique.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a balanced look.",
+    "Use with metallic accents for added sophistication.",
+    "Combine with deep greens for an earthy feel.",
+    "Contrast with soft pinks for a touch of femininity."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Matterhorn with our color picker!",
+  "seo_meta": {
+    "title": "Matterhorn Color Meaning: Psychology, Combinations & Design Tips",
+    "description": "Discover the meaning of Matterhorn (#4E3B41), its psychological effects, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:18:37.375818+00:00",
+  "updated_at": "2025-06-01T15:18:37.375818+00:00",
+  "slug": "matterhorn"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "735c9a8d-d861-4317-883e-a22519696c22",
+  "color_name": "Faded Jade",
+  "hex_code": "#427977",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Faded Jade evokes a sense of tranquility, sophistication, and subtle natural beauty. It blends the calming aspects of green with a muted, vintage feel, suggesting harmony, growth, and a connection to the earth. This color can promote feelings of balance and serenity, making it a sophisticated and soothing choice.",
+  "emotional_associations": [
+    "tranquility",
+    "sophistication",
+    "nature",
+    "balance",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#794244"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#427977",
+        "#A7B19B",
+        "#E2DDCB",
+        "#7A6A55",
+        "#2E3A23"
+      ]
+    },
+    {
+      "name": "Vintage Calm",
+      "swatches": [
+        "#427977",
+        "#8AA1A3",
+        "#C2B280",
+        "#6B5B95",
+        "#B7B7B7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Application backgrounds"
+    ],
+    "food_beverage": [
+      "Tea packaging",
+      "Organic food labels",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Accessories",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Inspired Living Room",
+      "description": "A living room featuring Faded Jade walls, complemented by antique furniture and natural textures.",
+      "image_url": "https://example.com/faded_jade_living_room.jpg"
+    },
+    {
+      "title": "Faded Jade Business Cards",
+      "description": "Elegant business cards with a Faded Jade background and minimalist design.",
+      "image_url": "https://example.com/faded_jade_business_card.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use with gold accents for a touch of luxury.",
+    "Combine with other muted greens and blues for a serene palette.",
+    "Contrast with terracotta or rust for a bolder statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and complementary colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Faded Jade Color Meaning: Understanding the Psychology of #427977",
+    "description": "Discover the meaning, psychology, and best uses of Faded Jade (#427977) in design, branding, and art."
+  },
+  "created_at": "2025-06-01T15:12:47.371522+00:00",
+  "updated_at": "2025-06-01T15:12:47.371522+00:00",
+  "slug": "faded-jade"
+}

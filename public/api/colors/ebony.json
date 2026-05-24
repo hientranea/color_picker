@@ -1,0 +1,75 @@
+{
+  "id": "d68ae0cc-8aee-4b53-8959-f3e955464c43",
+  "color_name": "Ebony",
+  "hex_code": "#0C0B1D",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Ebony, a deep and dark shade of black, often evokes feelings of sophistication, mystery, and elegance. It can also represent power, authority, and a sense of the unknown. In some contexts, it can be associated with mourning or formality, but generally, it projects a sense of timelessness and strength.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "elegance",
+    "power",
+    "formality"
+  ],
+  "complementary_colors": [
+    "#F3F2E2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochrome Elegance",
+      "swatches": [
+        "#0C0B1D",
+        "#211F35",
+        "#36334D"
+      ]
+    },
+    {
+      "name": "Nightfall Accent",
+      "swatches": [
+        "#0C0B1D",
+        "#A9A9A9",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Professional dashboards",
+      "Security applications"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Formal wear",
+      "Accessories",
+      "Evening gowns"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ebony Wood Furniture",
+      "description": "A handcrafted ebony wood table showcasing the color's natural beauty and elegance.",
+      "image_url": "https://example.com/ebony_furniture.jpg"
+    },
+    {
+      "title": "Little Black Dress",
+      "description": "A classic little black dress in ebony, exemplifying timeless style and sophistication.",
+      "image_url": "https://example.com/little_black_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with metallic accents for a luxurious feel.",
+    "Use with lighter neutrals to create contrast.",
+    "Combine with jewel tones for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and create stunning palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Ebony Color Meaning: The Psychology of #0C0B1D",
+    "description": "Discover the meaning, associations, and uses of Ebony (#0C0B1D). Explore palettes and examples of this sophisticated dark color."
+  },
+  "created_at": "2025-06-07T08:16:55.716574+00:00",
+  "updated_at": "2025-06-07T08:16:55.716574+00:00",
+  "slug": "ebony"
+}

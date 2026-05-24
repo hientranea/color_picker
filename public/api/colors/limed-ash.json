@@ -1,0 +1,82 @@
+{
+  "id": "5acebef5-1308-4d1e-be07-31411536d445",
+  "color_name": "Limed Ash",
+  "hex_code": "#747D63",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Limed Ash evokes a sense of tranquility, sophistication, and understated elegance. Its muted, earthy tones create a calming atmosphere, suggesting stability, reliability, and a connection to nature. This color can also convey a feeling of timelessness and quiet confidence, making it suitable for designs that aim to project a sense of refined simplicity.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "stability",
+    "nature",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#D7D0BC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#747D63",
+        "#A2A88F",
+        "#D1D5C4",
+        "#E8E6D9"
+      ]
+    },
+    {
+      "name": "Modern Rustic",
+      "swatches": [
+        "#747D63",
+        "#4A4A4A",
+        "#FFFFFF",
+        "#C0B283"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Neutral accents"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors emphasizing natural ingredients"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Neutral clothing",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Living Room",
+      "description": "A living room featuring Limed Ash walls, creating a relaxing and sophisticated space.",
+      "image_url": "url_to_living_room_image.jpg"
+    },
+    {
+      "title": "Minimalist Website Design",
+      "description": "A website using Limed Ash as a background color to convey simplicity and trustworthiness.",
+      "image_url": "url_to_website_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, neutral palette.",
+    "Combine with darker grays and blacks for a modern look.",
+    "Use with natural wood tones to enhance its earthy feel.",
+    "Add pops of muted gold or copper for subtle warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Limed Ash Color Meaning: Understanding #747D63",
+    "description": "Discover the meaning, psychology, and best uses of Limed Ash (#747D63). Explore color palettes, complementary colors, and design inspiration for this sophisticated neutral."
+  },
+  "created_at": "2025-06-01T15:38:09.220028+00:00",
+  "updated_at": "2025-06-01T15:38:09.220028+00:00",
+  "slug": "limed-ash"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "4fab3e60-39e8-4e46-bc28-4a92a3f130f4",
+  "color_name": "Iroko",
+  "hex_code": "#433120",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Iroko, a deep brownish hue, evokes feelings of stability, reliability, and natural warmth. It is associated with the earth, grounding, and a sense of history. This color suggests maturity, sophistication, and a connection to traditional values.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "warmth",
+    "sophistication",
+    "grounding"
+  ],
+  "complementary_colors": [
+    "#204364"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#433120",
+        "#A98D67",
+        "#E5D8BD",
+        "#7A6C5D"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#433120",
+        "#8C7853",
+        "#F0E68C",
+        "#6B8E23"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Iroko Wood Flooring",
+      "description": "Iroko wood is a popular choice for flooring due to its durability and warm color.",
+      "image_url": "https://example.com/iroko_flooring.jpg"
+    },
+    {
+      "title": "Leather Handbag",
+      "description": "A stylish leather handbag in a rich Iroko color.",
+      "image_url": "https://example.com/iroko_handbag.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for a natural feel.",
+    "Use with metallic accents for sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette using our color picker!",
+  "seo_meta": {
+    "title": "Iroko Color Meaning: Understanding #433120",
+    "description": "Discover the meaning and symbolism of Iroko (#433120). Explore color palettes, complementary colors, and industry use cases for this earthy brown."
+  },
+  "created_at": "2025-06-01T15:13:01.698494+00:00",
+  "updated_at": "2025-06-01T15:13:01.698494+00:00",
+  "slug": "iroko"
+}

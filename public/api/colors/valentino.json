@@ -1,0 +1,87 @@
+{
+  "id": "0eeb52b9-caa5-4eef-bb96-f930d14701ae",
+  "color_name": "Valentino",
+  "hex_code": "#350E42",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Valentino, a deep and enigmatic shade of purple, evokes feelings of mystery, luxury, and creativity. It blends the stability of blue with the energy of red, creating a sophisticated and intriguing ambiance. It can also represent ambition and unconventionality, promoting thoughtful reflection and unique expression.",
+  "emotional_associations": [
+    "mystery",
+    "luxury",
+    "creativity",
+    "sophistication",
+    "intrigue"
+  ],
+  "complementary_colors": [
+    "#F0D10E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dreams",
+      "swatches": [
+        "#350E42",
+        "#A98DCE",
+        "#E2D8EF",
+        "#F0E68C",
+        "#776B5A"
+      ]
+    },
+    {
+      "name": "Midnight Bloom",
+      "swatches": [
+        "#350E42",
+        "#1E1E3F",
+        "#5B4B8A",
+        "#C3AED6",
+        "#F5E8C7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Creative software applications",
+      "Premium subscription services"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Luxury chocolates",
+      "Exotic fruit packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Aromatherapy products"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Statement jewelry",
+      "Lingerie"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Valentino Velvet Gown",
+      "description": "A luxurious velvet gown in Valentino that exudes elegance and sophistication.",
+      "image_url": "https://example.com/valentino_gown.jpg"
+    },
+    {
+      "title": "Amethyst Gemstone",
+      "description": "A natural amethyst gemstone showcasing the depth and beauty of the Valentino hue.",
+      "image_url": "https://example.com/amethyst.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a regal look.",
+    "Combine with light grays for a modern feel.",
+    "Use with teal for a complementary contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create stunning color schemes with our color palette generator!",
+  "seo_meta": {
+    "title": "Valentino Color Meaning: Shades, Palettes, and Design Inspiration",
+    "description": "Discover the meaning, associations, and best uses of Valentino color with complementary palettes and design examples."
+  },
+  "created_at": "2025-06-01T15:03:44.241722+00:00",
+  "updated_at": "2025-06-01T15:03:44.241722+00:00",
+  "slug": "valentino"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "84bbfdba-8032-4c8f-a5d8-37e304c8d1af",
+  "color_name": "Teal",
+  "hex_code": "#008080",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Teal represents sophistication and stability, combining the calming properties of blue with the growth aspects of green. It evokes feelings of tranquility, clarity, and rejuvenation. It is often associated with trustworthiness, communication, and emotional balance, making it a favorable color for creating a sense of calm and competence.",
+  "emotional_associations": [
+    "tranquility",
+    "sophistication",
+    "clarity",
+    "balance",
+    "trustworthiness"
+  ],
+  "complementary_colors": [
+    "#800000"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#008080",
+        "#2F4F4F",
+        "#B0E0E6",
+        "#E0FFFF"
+      ]
+    },
+    {
+      "name": "Teal & Gold",
+      "swatches": [
+        "#008080",
+        "#FFD700",
+        "#A9A9A9",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces",
+      "Communication platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Formal dresses",
+      "Swimwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Peacock Feathers",
+      "description": "The iridescent teal in peacock feathers exemplifies natural beauty and vibrant color.",
+      "image_url": "url_to_peacock_feathers_image"
+    },
+    {
+      "title": "Tropical Waters",
+      "description": "The clear teal waters of tropical lagoons evoke feelings of peace and paradise.",
+      "image_url": "url_to_tropical_waters_image"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with white for a clean and modern look.",
+    "Use with coral for a vibrant contrast.",
+    "Mix with gray for a subtle and sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Teal Color Meaning: The Psychology of #008080",
+    "description": "Discover the meaning, psychology, and uses of Teal (#008080). Explore Teal color palettes and find inspiration for your next design project."
+  },
+  "created_at": "2025-06-01T14:38:27.023866+00:00",
+  "updated_at": "2025-06-01T14:38:27.023866+00:00",
+  "slug": "teal"
+}

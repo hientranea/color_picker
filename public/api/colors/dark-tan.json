@@ -1,0 +1,81 @@
+{
+  "id": "8c21e8ce-6aa5-4823-ac39-16b87dbe58ce",
+  "color_name": "Dark Tan",
+  "hex_code": "#661010",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Dark Tan evokes feelings of stability, reliability, and a connection to nature. It represents a grounded and comforting presence, suggesting warmth and understated elegance. This color can also imply a sense of tradition and history, often associated with natural materials and earthy tones.",
+  "emotional_associations": [
+    "comfort",
+    "stability",
+    "warmth",
+    "reliability",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#106666"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#661010",
+        "#A0522D",
+        "#D2B48C",
+        "#E9DAC1",
+        "#4A4444"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#661010",
+        "#8B4513",
+        "#CD853F",
+        "#F4A460",
+        "#FFE4C4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a dark tan color adds warmth and sophistication to any living space.",
+      "image_url": "https://example.com/leather-sofa.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a rustic wooden cabin, stained in a dark tan, blends seamlessly with the natural surroundings.",
+      "image_url": "https://example.com/wooden-cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or ivory for a classic, understated look.",
+    "Combine with olive green and gold for a rich, sophisticated palette.",
+    "Use with teal or turquoise for a complementary contrast.",
+    "Accent with copper or brass for added warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Dark Tan Color Meaning: Understanding #661010",
+    "description": "Explore the meaning, associations, and best uses of Dark Tan color (#661010) for your design projects. Discover complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T15:29:48.722528+00:00",
+  "updated_at": "2025-06-01T15:29:48.722528+00:00",
+  "slug": "dark-tan"
+}

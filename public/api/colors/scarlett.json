@@ -1,0 +1,78 @@
+{
+  "id": "ff8f7b65-5547-400e-bbb4-ae00034f4f5a",
+  "color_name": "Scarlett",
+  "hex_code": "#950015",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Scarlett, a vibrant and intense red, evokes feelings of passion, courage, and excitement. It is a color that commands attention and can symbolize power, ambition, and determination. However, it can also be associated with anger, danger, and aggression. Its boldness often makes it linked to love and romance, as well as strong emotional reactions.",
+  "emotional_associations": [
+    "passion",
+    "energy",
+    "courage",
+    "excitement",
+    "love"
+  ],
+  "complementary_colors": [
+    "#009580"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Warmth",
+      "swatches": [
+        "#950015",
+        "#D4A373",
+        "#A98467",
+        "#6B705C"
+      ]
+    },
+    {
+      "name": "Bold Contrast",
+      "swatches": [
+        "#950015",
+        "#FFFFFF",
+        "#000000",
+        "#778DA9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "wine labels",
+      "spicy sauces",
+      "energy drinks"
+    ],
+    "wellness": [],
+    "fashion": [
+      "evening gowns",
+      "lipstick",
+      "statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Scarlett Poppy",
+      "description": "The vibrant red of a poppy field, symbolizing remembrance and beauty.",
+      "image_url": "url_to_poppy_image.jpg"
+    },
+    {
+      "title": "Ferrari",
+      "description": "The iconic 'Rosso Corsa' color of Ferrari, representing speed and luxury.",
+      "image_url": "url_to_ferrari_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray and beige for a sophisticated look.",
+    "Use with gold or silver accents for a touch of luxury.",
+    "Combine with teal or turquoise for a bold contrast.",
+    "Incorporate with earthy tones for grounded feeling."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Scarlett and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Scarlett Color Meaning: Understanding the Psychology of #950015",
+    "description": "Discover the meaning of Scarlett (#950015), its emotional associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:57:48.097789+00:00",
+  "updated_at": "2025-06-01T15:57:48.097789+00:00",
+  "slug": "scarlett"
+}

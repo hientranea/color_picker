@@ -1,0 +1,79 @@
+{
+  "id": "1207fc4e-1cef-4a2a-8d57-92ec0b28d0c3",
+  "color_name": "Verdun Green",
+  "hex_code": "#495400",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Verdun Green evokes feelings of nature, stability, and subtle sophistication. It represents growth and resilience, offering a sense of groundedness and quiet confidence. It is often associated with environments that promote focus and understated elegance, making it a versatile choice for designs that aim to be both calming and refined.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "sophistication",
+    "growth",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#544900",
+    "#004954"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#495400",
+        "#A3B18A",
+        "#76786B",
+        "#D9CAB3"
+      ]
+    },
+    {
+      "name": "Verdant Accent",
+      "swatches": [
+        "#495400",
+        "#F0EAD6",
+        "#283618",
+        "#BC6C25"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Sustainable agriculture branding"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Eco-friendly clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Grove",
+      "description": "The muted green of olive groves in Tuscany reflects the understated beauty of Verdun Green.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    },
+    {
+      "title": "Vintage Military Uniform",
+      "description": "Classic military uniforms often utilize shades similar to Verdun Green to convey authority and practicality.",
+      "image_url": "https://example.com/military_uniform.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use with dark browns for a natural, grounded feel.",
+    "Accent with gold or brass for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious shades with our color palette generator!",
+  "seo_meta": {
+    "title": "Verdun Green Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Explore the meaning of Verdun Green (#495400), its psychological effects, ideal color combinations, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:15:45.379626+00:00",
+  "updated_at": "2025-06-01T15:15:45.379626+00:00",
+  "slug": "verdun-green"
+}

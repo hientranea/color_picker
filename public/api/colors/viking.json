@@ -1,0 +1,81 @@
+{
+  "id": "bcba98a9-2582-4765-9c6f-0df4a9f4658e",
+  "color_name": "Viking",
+  "hex_code": "#64CCDB",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Viking, a shade of blue-green, evokes feelings of tranquility and stability, often associated with clarity and freshness. It encourages communication and understanding, promoting a sense of calm and peace. This color can inspire creativity and introspection, fostering a balanced and harmonious environment.",
+  "emotional_associations": [
+    "tranquility",
+    "clarity",
+    "freshness",
+    "communication",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#DB6764"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#64CCDB",
+        "#A7D9E3",
+        "#E0F2F7",
+        "#348AA7",
+        "#1A4763"
+      ]
+    },
+    {
+      "name": "Serene Harmony",
+      "swatches": [
+        "#64CCDB",
+        "#B0E57C",
+        "#F2F7E0",
+        "#7CB0E5",
+        "#34A786"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Status indicators",
+      "Background elements"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Living Room",
+      "description": "A living room design incorporating Viking as the primary color for walls, creating a relaxing coastal atmosphere.",
+      "image_url": "url_to_coastal_living_room_image.jpg"
+    },
+    {
+      "title": "Medical Clinic Interior",
+      "description": "A clinic interior using Viking as an accent color to promote a sense of calm and cleanliness.",
+      "image_url": "url_to_medical_clinic_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a sophisticated look.",
+    "Combine with soft yellows for a cheerful vibe.",
+    "Use with darker blues to create depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to find the perfect shades to complement Viking.",
+  "seo_meta": {
+    "title": "Viking Color Meaning: Discover the Psychology of #64CCDB",
+    "description": "Uncover the meaning and emotional associations of the color Viking (#64CCDB), including its uses, complementary colors, and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:28:37.94884+00:00",
+  "updated_at": "2025-06-01T15:28:37.94884+00:00",
+  "slug": "viking"
+}

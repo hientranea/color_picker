@@ -1,0 +1,81 @@
+{
+  "id": "d35e498b-598a-485e-9569-001c0991fc63",
+  "color_name": "Siam",
+  "hex_code": "#646A54",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Siam is a muted, earthy green that evokes feelings of tranquility, stability, and a connection to nature. It suggests a sense of calm and balance, promoting relaxation and reducing stress. This color often represents growth, renewal, and harmony, making it suitable for creating a soothing and grounded atmosphere.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "nature",
+    "harmony",
+    "growth"
+  ],
+  "complementary_colors": [
+    "#A59F64"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#646A54",
+        "#A9B388",
+        "#D0D0C0",
+        "#8A8171"
+      ]
+    },
+    {
+      "name": "Natural Balance",
+      "swatches": [
+        "#646A54",
+        "#E9DAC1",
+        "#5D8AA8",
+        "#B8860B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background colors",
+      "Neutral accents for calming interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant decor emphasizing natural ingredients"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation app themes"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The color of dense forest foliage, providing a sense of enclosure and peace.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Mossy Rock",
+      "description": "A rock covered in moss, showcasing the color's natural and organic qualities.",
+      "image_url": "https://example.com/mossy_rock.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light creams for a soft, natural look.",
+    "Combine with darker browns and greens for an earthy feel.",
+    "Use with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our color palette generator today!",
+  "seo_meta": {
+    "title": "Siam Color Meaning: Understanding #646A54",
+    "description": "Discover the meaning and psychology behind the color Siam (#646A54), its emotional associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:28:17.240813+00:00",
+  "updated_at": "2025-06-01T15:28:17.240813+00:00",
+  "slug": "siam"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "44c6e4be-e0b1-4dcd-86c9-90d2bf070ca6",
+  "color_name": "Downriver",
+  "hex_code": "#092256",
+  "wheel_position": "Complementary to Yellow-Orange",
+  "psychological_meaning": "Downriver evokes feelings of depth, stability, and introspection. It suggests a connection to the subconscious and can promote contemplation. Its somber nature encourages a sense of peace and calm, while also hinting at hidden depths and potential.",
+  "emotional_associations": [
+    "serenity",
+    "depth",
+    "stability",
+    "introspection",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#F0A200",
+    "#FFA500"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nautical Dusk",
+      "swatches": [
+        "#092256",
+        "#6488B5",
+        "#A3B18A",
+        "#E5DDC8"
+      ]
+    },
+    {
+      "name": "Ethereal Depths",
+      "swatches": [
+        "#092256",
+        "#3A506B",
+        "#697D8D",
+        "#99ABB4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aid products"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Midnight Ocean",
+      "description": "A photograph of the deep ocean at night, capturing the color's depth and mystery.",
+      "image_url": "https://example.com/ocean_night.jpg"
+    },
+    {
+      "title": "Classic Sedan",
+      "description": "A luxurious sedan painted in a deep navy, showcasing elegance and sophistication.",
+      "image_url": "https://example.com/navy_sedan.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted yellows for a classic contrast.",
+    "Use with lighter blues to create a gradient effect.",
+    "Combine with neutrals like gray and beige for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your own palette with our color palette generator!",
+  "seo_meta": {
+    "title": "Downriver Color Meaning: Psychology, Palettes, and Uses | Color Meanings",
+    "description": "Discover the meaning of Downriver (#092256), its psychological associations, and how to use it in design palettes for various industries."
+  },
+  "created_at": "2025-06-01T14:44:50.103305+00:00",
+  "updated_at": "2025-06-01T14:44:50.103305+00:00",
+  "slug": "downriver"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "ea7ce6e9-fa0f-4297-95cc-9116fabe8d6c",
+  "color_name": "Espresso",
+  "hex_code": "#612718",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Espresso, a deep brown, evokes feelings of warmth, comfort, and reliability. It is associated with stability, earthiness, and a sense of groundedness. This color often suggests sophistication and can create a sense of calm and security, reminiscent of nature and tradition.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "reliability",
+    "stability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#185961"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#612718",
+        "#A3735F",
+        "#D4A373",
+        "#E9D4C0"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#612718",
+        "#8F563B",
+        "#B8860B",
+        "#F4A460"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Winter coats",
+      "Leather accessories",
+      "Classic suiting"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious espresso-colored leather sofa adds a touch of elegance to any living room.",
+      "image_url": "https://example.com/espresso_sofa.jpg"
+    },
+    {
+      "title": "Coffee Beans",
+      "description": "Freshly roasted espresso beans, rich in color and aroma, are a morning staple.",
+      "image_url": "https://example.com/espresso_beans.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for an earthy feel.",
+    "Accent with gold for added luxury.",
+    "Use with muted blues for a calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of brown and their meanings with our color picker!",
+  "seo_meta": {
+    "title": "Espresso Color Meaning: Understanding the Psychology of #612718",
+    "description": "Discover the meaning of Espresso (#612718), its psychological effects, and how to use it in design. Explore complementary colors and palette suggestions."
+  },
+  "created_at": "2025-06-01T15:26:37.578671+00:00",
+  "updated_at": "2025-06-01T15:26:37.578671+00:00",
+  "slug": "espresso"
+}

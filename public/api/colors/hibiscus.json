@@ -1,0 +1,78 @@
+{
+  "id": "98002502-e5a1-443a-827b-6e21d9a64f35",
+  "color_name": "Hibiscus",
+  "hex_code": "#B6316C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Hibiscus, a vibrant and somewhat exotic color, evokes feelings of passion, confidence, and romance. It embodies a sense of playful energy balanced with sophistication. This color is often associated with celebration, adventure, and a zest for life, inspiring creativity and a positive outlook.",
+  "emotional_associations": [
+    "passion",
+    "confidence",
+    "romance",
+    "playfulness",
+    "adventure"
+  ],
+  "complementary_colors": [
+    "#6CB6A1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Tropical Sunset",
+      "swatches": [
+        "#B6316C",
+        "#FFA07A",
+        "#FFD700",
+        "#90EE90"
+      ]
+    },
+    {
+      "name": "Modern Romance",
+      "swatches": [
+        "#B6316C",
+        "#D8BFD8",
+        "#FFFFFF",
+        "#483D8B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Exotic fruit drinks",
+      "Floral-flavored desserts"
+    ],
+    "wellness": [
+      "Spa treatments",
+      "Yoga retreats"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Hibiscus Flower",
+      "description": "The vibrant color of the hibiscus flower symbolizes beauty and tropical charm.",
+      "image_url": "https://example.com/hibiscus_flower.jpg"
+    },
+    {
+      "title": "Hibiscus Tea",
+      "description": "A refreshing and colorful beverage known for its tart flavor and health benefits.",
+      "image_url": "https://example.com/hibiscus_tea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral greys for a sophisticated look.",
+    "Combine with teal for a tropical vibe.",
+    "Use with gold accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Hibiscus Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning of Hibiscus (#B6316C). Explore its psychological effects, complementary colors, suggested palettes, and real-world applications for design and branding."
+  },
+  "created_at": "2025-06-01T16:17:39.28284+00:00",
+  "updated_at": "2025-06-01T16:17:39.28284+00:00",
+  "slug": "hibiscus"
+}

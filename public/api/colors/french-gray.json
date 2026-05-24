@@ -1,0 +1,80 @@
+{
+  "id": "0617a5da-0b02-4b85-a877-8d8318293ed5",
+  "color_name": "French Gray",
+  "hex_code": "#BDBDC6",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "French Gray is often associated with sophistication, neutrality, and calmness. It evokes a sense of understated elegance and can be perceived as reliable and practical. This color can also represent balance and a sense of timelessness, making it suitable for designs that aim for a classic or refined aesthetic.",
+  "emotional_associations": [
+    "sophistication",
+    "neutrality",
+    "calmness",
+    "elegance",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#C6BDB3",
+    "#D3C6BD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#F2F2F2",
+        "#BDBDC6",
+        "#737373",
+        "#333333"
+      ]
+    },
+    {
+      "name": "Warm Neutrals",
+      "swatches": [
+        "#BDBDC6",
+        "#E8DDCB",
+        "#A9927A",
+        "#5D534A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Buttons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A minimalist apartment uses French Gray on the walls to create a serene and sophisticated atmosphere.",
+      "image_url": "https://example.com/french_gray_apartment.jpg"
+    },
+    {
+      "title": "Classic Car Paint",
+      "description": "A vintage car is painted in French Gray, emphasizing its timeless design and elegance.",
+      "image_url": "https://example.com/french_gray_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues for a calming effect.",
+    "Combine with warm woods for a balanced look.",
+    "Use with bright accents for a pop of color."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "French Gray Color Meaning: Discover Hex Code, Psychology, and Palettes",
+    "description": "Uncover the meaning of French Gray (#BDBDC6). Explore its psychological effects, emotional associations, complementary colors, and perfect palettes for your next project."
+  },
+  "created_at": "2025-06-01T16:22:35.03011+00:00",
+  "updated_at": "2025-06-01T16:22:35.03011+00:00",
+  "slug": "french-gray"
+}

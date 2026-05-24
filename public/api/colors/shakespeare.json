@@ -1,0 +1,76 @@
+{
+  "id": "e50e682a-fd5c-45d0-8f7a-245c775fd77d",
+  "color_name": "Shakespeare",
+  "hex_code": "#4EABD1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Shakespeare, a serene blue with a touch of green, evokes feelings of tranquility, clarity, and intellectual stimulation. It promotes a sense of peace and encourages thoughtful reflection. This color suggests stability, reliability, and trustworthiness, making it a good choice for environments where calm decision-making is valued.",
+  "emotional_associations": [
+    "calm",
+    "intellect",
+    "trust",
+    "clarity"
+  ],
+  "complementary_colors": [
+    "#D1624E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Oceanic Harmony",
+      "swatches": [
+        "#4EABD1",
+        "#FFFFFF",
+        "#77B5FE",
+        "#2E5077"
+      ]
+    },
+    {
+      "name": "Intellectual Calm",
+      "swatches": [
+        "#4EABD1",
+        "#E0FFFF",
+        "#B0E57C",
+        "#6495ED"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Collaboration platforms",
+      "Educational apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Mental health resources"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Financial Advisor Website",
+      "description": "A website uses Shakespeare as the primary color to inspire confidence and trust in users managing their finances.",
+      "image_url": "https://example.com/financial_advisor.jpg"
+    },
+    {
+      "title": "Educational Software Interface",
+      "description": "Shakespeare is used to create a calm and focused learning environment for students.",
+      "image_url": "https://example.com/education_software.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with whites and creams for a sophisticated look.",
+    "Combine with warmer colors like coral or peach for a balanced palette.",
+    "Use with natural wood tones for a calming and organic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints of Shakespeare with our color picker tool to find your perfect match!",
+  "seo_meta": {
+    "title": "Shakespeare Color Meaning: Psychology, Palettes, and Uses | ColorMeaning.com",
+    "description": "Discover the meaning of the color Shakespeare (#4EABD1). Explore its psychological effects, find beautiful color palettes, and see real-world examples of its use."
+  },
+  "created_at": "2025-06-01T15:19:12.9415+00:00",
+  "updated_at": "2025-06-01T15:19:12.9415+00:00",
+  "slug": "shakespeare"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "9c7550a1-6d61-4606-a338-ea32c20c1744",
+  "color_name": "Wisteria",
+  "hex_code": "#9771B5",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Wisteria evokes feelings of creativity, sensitivity, and nostalgia. It's often associated with spring blooms and a sense of gentle beauty. It can also represent intuition and a connection to the spiritual realm, offering a sense of peace and tranquility.",
+  "emotional_associations": [
+    "calm",
+    "spiritual",
+    "nostalgic",
+    "creative",
+    "sensitive"
+  ],
+  "complementary_colors": [
+    "#7FB571"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#9771B5",
+        "#D8BFD8",
+        "#E6E6FA",
+        "#F8F8FF"
+      ]
+    },
+    {
+      "name": "Ethereal Dreams",
+      "swatches": [
+        "#9771B5",
+        "#A9A9A9",
+        "#C0C0C0",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "calming app interfaces",
+      "meditation apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa branding",
+      "yoga studios"
+    ],
+    "fashion": [
+      "spring dresses",
+      "formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wisteria-covered Pergola",
+      "description": "A beautiful pergola draped in blooming wisteria creates a romantic and tranquil outdoor space.",
+      "image_url": "https://example.com/wisteria_pergola.jpg"
+    },
+    {
+      "title": "Wisteria-themed Wedding",
+      "description": "A wedding featuring wisteria as the primary floral element evokes a sense of elegance and grace.",
+      "image_url": "https://example.com/wisteria_wedding.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft grays for a sophisticated look.",
+    "Combine with pale greens for a natural, calming palette.",
+    "Accent with silver or gold for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Wisteria Color Meaning: Shades, Psychology, and Design Ideas",
+    "description": "Discover the meaning of Wisteria, its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:59:04.725709+00:00",
+  "updated_at": "2025-06-01T15:59:04.725709+00:00",
+  "slug": "wisteria"
+}

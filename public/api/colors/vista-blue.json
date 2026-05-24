@@ -1,0 +1,80 @@
+{
+  "id": "0d49b54a-adce-47a9-a1df-710e645cc2c1",
+  "color_name": "Vista Blue",
+  "hex_code": "#8FD6B4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Vista Blue evokes feelings of calmness, serenity, and freshness. It is often associated with clarity, peace, and a sense of rejuvenation. This color can promote relaxation and inspire a sense of tranquility, making it suitable for environments or designs intended to soothe and refresh.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "freshness",
+    "clarity",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#D68FAD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#8FD6B4",
+        "#B0E57C",
+        "#79B47D",
+        "#3876BF",
+        "#A7D8DE"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#8FD6B4",
+        "#F0E68C",
+        "#E6B8AF",
+        "#957DAD",
+        "#6A4C93"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Mobile app design"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Healthcare websites"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Living Room",
+      "description": "A living room design featuring Vista Blue walls, creating a relaxing and airy atmosphere.",
+      "image_url": "https://example.com/coastal_living.jpg"
+    },
+    {
+      "title": "Spa Retreat",
+      "description": "The color scheme of a spa retreat, using Vista Blue to promote tranquility and well-being.",
+      "image_url": "https://example.com/spa_retreat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals for a calming effect.",
+    "Combine with warm yellows for a balanced contrast.",
+    "Use with darker blues and greens for depth.",
+    "Incorporate metallic accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Vista Blue: Color Meaning, Psychology, and Design Ideas",
+    "description": "Discover the meaning and uses of Vista Blue (#8FD6B4), including its psychological effects and design applications."
+  },
+  "created_at": "2025-06-01T15:55:55.676851+00:00",
+  "updated_at": "2025-06-01T15:55:55.676851+00:00",
+  "slug": "vista-blue"
+}

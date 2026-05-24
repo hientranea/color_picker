@@ -1,0 +1,75 @@
+{
+  "id": "d45f1ea0-8de8-4650-aa9c-916ba22a50c1",
+  "color_name": "Buccaneer",
+  "hex_code": "#622F30",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Buccaneer evokes feelings of richness, sophistication, and grounded stability. Its deep, earthy tone suggests reliability and strength, while its subtle warmth hints at hidden passions and a sense of adventure. It can also project an image of maturity and understated luxury.",
+  "emotional_associations": [
+    "richness",
+    "sophistication",
+    "stability",
+    "warmth",
+    "adventure"
+  ],
+  "complementary_colors": [
+    "#2F6261"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#622F30",
+        "#A2845E",
+        "#D5B992",
+        "#F2E8CF"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#622F30",
+        "#8E443D",
+        "#C6714F",
+        "#E59866"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a Buccaneer hue adds a touch of sophistication to any living space.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Chocolate Bar Packaging",
+      "description": "Premium chocolate bars often use Buccaneer in their packaging to convey richness and indulgence.",
+      "image_url": "https://example.com/chocolate_bar.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with lighter neutrals for balance.",
+    "Use with deep greens for an earthy palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your own color schemes with our color palette generator!",
+  "seo_meta": {
+    "title": "Buccaneer Color Meaning: Understanding the Psychology of #622F30",
+    "description": "Discover the meaning, psychology, and best uses for the Buccaneer color (#622F30). Learn how to incorporate this sophisticated hue into your designs and branding."
+  },
+  "created_at": "2025-06-01T15:27:06.331356+00:00",
+  "updated_at": "2025-06-01T15:27:06.331356+00:00",
+  "slug": "buccaneer"
+}

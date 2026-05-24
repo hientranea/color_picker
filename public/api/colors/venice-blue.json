@@ -1,0 +1,77 @@
+{
+  "id": "6db7d5e5-75ed-48a1-bf32-b3a5a481a675",
+  "color_name": "Venice Blue",
+  "hex_code": "#055989",
+  "wheel_position": "primary",
+  "psychological_meaning": "Venice Blue evokes feelings of depth, stability, and tranquility. It is often associated with trustworthiness, intelligence, and efficiency. This color promotes a sense of calmness and order, making it suitable for environments where focus and clear communication are valued.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "calm",
+    "intelligence"
+  ],
+  "complementary_colors": [
+    "#893105"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#055989",
+        "#A2D9CE",
+        "#F2F7F2"
+      ]
+    },
+    {
+      "name": "Corporate Trust",
+      "swatches": [
+        "#055989",
+        "#34495E",
+        "#ECF0F1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Security applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Business attire",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Venetian Gondolas",
+      "description": "The deep blue of the Venetian canals reflects the architectural beauty and serene atmosphere of the city.",
+      "image_url": "url_to_gondola_image.jpg"
+    },
+    {
+      "title": "Corporate Office Interior",
+      "description": "Venice Blue walls in a modern office promote a sense of professionalism and trust.",
+      "image_url": "url_to_office_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with white for a clean and calming aesthetic.",
+    "Use gold accents to add a touch of luxury.",
+    "Contrast with orange for a vibrant and energetic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Venice Blue Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning, psychology, and best combinations for Venice Blue (#055989). Explore palettes and industry use cases for this calming and trustworthy color."
+  },
+  "created_at": "2025-06-01T14:43:25.131101+00:00",
+  "updated_at": "2025-06-01T14:43:25.131101+00:00",
+  "slug": "venice-blue"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "2ca75a78-8698-429d-a38f-e74d4c1566ba",
+  "color_name": "Domino",
+  "hex_code": "#8E775E",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Domino, a muted brown, evokes feelings of stability, reliability, and groundedness. It suggests a sense of history and tradition, while also conveying a quiet sophistication. This color is often associated with the earth and nature, creating a calming and reassuring effect.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "groundedness",
+    "sophistication",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#5E758E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#8E775E",
+        "#D3C1A7",
+        "#594A3B",
+        "#A68A64"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#8E775E",
+        "#C2B280",
+        "#736357",
+        "#E2D8B8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist websites",
+      "Neutral tones for app interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for coffee and chocolate products",
+      "Restaurant interiors with a rustic feel"
+    ],
+    "wellness": [
+      "Spa interiors for relaxation spaces",
+      "Branding for organic skincare products"
+    ],
+    "fashion": [
+      "Classic and timeless clothing designs",
+      "Accessories like belts and shoes"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a Domino shade, adding warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Hardwood flooring in a Domino tone, providing a natural and grounded feel to a home.",
+      "image_url": "https://example.com/wooden_flooring.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a soft and elegant look.",
+    "Combine with greens and blues for a natural and calming palette.",
+    "Use with metallics like gold and copper for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to find the perfect shades for your next design project!",
+  "seo_meta": {
+    "title": "Domino Color Meaning: Understanding #8E775E",
+    "description": "Explore the meaning, psychology, and uses of the Domino color (#8E775E). Discover complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:55:05.361509+00:00",
+  "updated_at": "2025-06-01T15:55:05.361509+00:00",
+  "slug": "domino"
+}

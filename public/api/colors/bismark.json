@@ -1,0 +1,81 @@
+{
+  "id": "2b9e1e9f-4d61-4142-9791-fa245b6ad81b",
+  "color_name": "Bismark",
+  "hex_code": "#497183",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bismark, a muted blue-gray, evokes feelings of tranquility and sophistication. It suggests stability and reliability, while also hinting at creativity and introspection. This color can create a calming and grounding effect, making it suitable for environments where focus and composure are desired.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "stability",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#834957"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Shores",
+      "swatches": [
+        "#497183",
+        "#A2B3BC",
+        "#D3DEDC",
+        "#7A9E9F"
+      ]
+    },
+    {
+      "name": "Urban Dusk",
+      "swatches": [
+        "#497183",
+        "#36454F",
+        "#708090",
+        "#B0C4DE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Mobile app backgrounds"
+    ],
+    "food_beverage": null,
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Therapy websites"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Bismark walls, creating a serene and sophisticated atmosphere.",
+      "image_url": "https://example.com/bismark_apartment.jpg"
+    },
+    {
+      "title": "Elegant Business Card",
+      "description": "A business card using Bismark as the primary color, conveying professionalism and trust.",
+      "image_url": "https://example.com/bismark_business_card.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige or cream.",
+    "Combine with soft greens for a natural feel.",
+    "Use with metallic accents for a touch of luxury.",
+    "Contrast with terracotta or burnt orange for a modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Bismark Color Meaning: Understanding #497183",
+    "description": "Discover the meaning and psychology behind the color Bismark (#497183), including its emotional associations, complementary colors, and usage in design."
+  },
+  "created_at": "2025-06-01T15:15:59.799626+00:00",
+  "updated_at": "2025-06-01T15:15:59.799626+00:00",
+  "slug": "bismark"
+}

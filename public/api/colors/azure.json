@@ -1,0 +1,78 @@
+{
+  "id": "bfb8ff6c-23af-45a7-b1bc-533f8dfec26f",
+  "color_name": "Azure",
+  "hex_code": "#315BA1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Azure evokes feelings of stability, trust, and intelligence. It is often associated with the sky and sea, representing openness and depth. This color can promote a sense of calm and security, making it ideal for environments where trust and clear communication are important.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intelligence",
+    "calm",
+    "security"
+  ],
+  "complementary_colors": [
+    "#A17631"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Skies",
+      "swatches": [
+        "#315BA1",
+        "#77B5FE",
+        "#B0E2FF",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Deep Ocean",
+      "swatches": [
+        "#315BA1",
+        "#1E3A8A",
+        "#001F3F",
+        "#ADD8E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Financial software interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Relaxation retreats"
+    ],
+    "fashion": [
+      "Business attire",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Azure Window (Malta)",
+      "description": "A former natural arch that showcased the beauty of Azure hues in a marine environment.",
+      "image_url": "https://example.com/azure_window.jpg"
+    },
+    {
+      "title": "Azure Kingfisher",
+      "description": "A vibrant bird species displaying brilliant azure feathers in its natural habitat.",
+      "image_url": "https://example.com/azure_kingfisher.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Combine with analogous colors for a calming effect.",
+    "Use with complementary colors for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Azure and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Azure Color Meaning: Understanding the Psychology of #315BA1",
+    "description": "Discover the meaning, associations, and best uses of Azure, a color representing trust, stability, and intelligence. Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T15:02:14.720323+00:00",
+  "updated_at": "2025-06-01T15:02:14.720323+00:00",
+  "slug": "azure"
+}

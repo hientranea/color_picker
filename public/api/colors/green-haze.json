@@ -1,0 +1,81 @@
+{
+  "id": "124c6131-34ee-4baf-b02a-5144bada0c94",
+  "color_name": "Green Haze",
+  "hex_code": "#01A368",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Green Haze evokes feelings of tranquility, growth, and renewal. It subtly blends the vibrancy of green with a muted undertone, suggesting a connection to nature, health, and balance. It can also elicit a sense of calm and sophistication, making it a versatile choice for designs seeking to create a harmonious and inviting atmosphere.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "renewal",
+    "balance",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#A3013C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#01A368",
+        "#A89078",
+        "#E3D5CA",
+        "#5F6B63"
+      ]
+    },
+    {
+      "name": "Modern Green",
+      "swatches": [
+        "#01A368",
+        "#FFFFFF",
+        "#333333",
+        "#90EE90"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Mobile app design"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy beverage labels",
+      "Restaurant branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design",
+      "Meditation app interface"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "Packaging for a sustainable cleaning product line, utilizing Green Haze to convey natural and eco-conscious qualities.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    },
+    {
+      "title": "Healthcare Website Design",
+      "description": "A healthcare website using Green Haze as a primary color to promote a sense of trust, calm, and well-being.",
+      "image_url": "https://example.com/healthcare_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a balanced look.",
+    "Combine with earthy tones for a natural palette.",
+    "Use as an accent color to bring a touch of nature to minimalist designs."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Green Haze Color Meaning: Psychology, Palettes, and Design Tips",
+    "description": "Discover the meaning of Green Haze (#01A368), its psychological associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T14:41:20.668531+00:00",
+  "updated_at": "2025-06-01T14:41:20.668531+00:00",
+  "slug": "green-haze"
+}

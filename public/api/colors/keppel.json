@@ -1,0 +1,81 @@
+{
+  "id": "dcb51ce0-5cbb-460c-be40-f9488adbb7cc",
+  "color_name": "Keppel",
+  "hex_code": "#3AB09E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Keppel, a muted teal, evokes feelings of tranquility and balance. It harmoniously blends the calming properties of blue with the refreshing qualities of green, suggesting stability, growth, and a connection to nature. This color often represents sophistication and understated elegance, making it suitable for designs that aim to inspire trust and serenity.",
+  "emotional_associations": [
+    "tranquility",
+    "balance",
+    "sophistication",
+    "growth",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#B03A4C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#3AB09E",
+        "#B4CFE4",
+        "#F8F8FF",
+        "#77B5FE"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#3AB09E",
+        "#8FBC8F",
+        "#DEB887",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Calming app themes"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Holistic health websites"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Casual wear",
+      "Accessories like scarves"
+    ],
+    "food_beverage": null
+  },
+  "real_world_examples": [
+    {
+      "title": "Keppel-Colored Kitchen Cabinets",
+      "description": "A modern kitchen featuring cabinets painted in a Keppel shade, creating a serene and inviting atmosphere.",
+      "image_url": "https://example.com/keppel_kitchen.jpg"
+    },
+    {
+      "title": "Keppel Accent Wall",
+      "description": "A living room with an accent wall painted Keppel, adding a touch of sophistication and tranquility to the space.",
+      "image_url": "https://example.com/keppel_accent_wall.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones for a calming effect.",
+    "Combine with warm metallics for added sophistication.",
+    "Use with complementary colors like coral for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Keppel Color Meaning: Exploring the Nuances of #3AB09E",
+    "description": "Discover the meaning and associations of Keppel (#3AB09E). Learn how to use this beautiful color in your designs and find complementary palettes."
+  },
+  "created_at": "2025-06-01T15:06:49.65077+00:00",
+  "updated_at": "2025-06-01T15:06:49.65077+00:00",
+  "slug": "keppel"
+}

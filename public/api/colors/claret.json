@@ -1,0 +1,76 @@
+{
+  "id": "ed88d902-9807-4fe6-a1b1-fd1e0d3a8168",
+  "color_name": "Claret",
+  "hex_code": "#7F1734",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Claret evokes a sense of sophistication and deep passion. It combines the energy of red with the stability of brown, suggesting maturity, luxury, and quiet confidence. This color is often associated with refined taste and a connection to tradition, making it suitable for environments seeking to project elegance and timeless appeal.",
+  "emotional_associations": [
+    "sophistication",
+    "passion",
+    "luxury",
+    "maturity",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#177E6D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Evening",
+      "swatches": [
+        "#7F1734",
+        "#D4A373",
+        "#A68A64",
+        "#594A4E"
+      ]
+    },
+    {
+      "name": "Regal Harmony",
+      "swatches": [
+        "#7F1734",
+        "#CDB4DB",
+        "#E6CFD3",
+        "#F8F6F0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Fine dining restaurant branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Claret Velvet Sofa",
+      "description": "A luxurious claret velvet sofa adds a touch of elegance to a living room.",
+      "image_url": "https://example.com/claret_sofa.jpg"
+    },
+    {
+      "title": "Claret Wine Bottle",
+      "description": "The deep color of a claret wine hints at its rich and complex flavor profile.",
+      "image_url": "https://example.com/claret_wine.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with gold accents for added luxury.",
+    "Use with dark wood tones to enhance its richness.",
+    "Contrast with teal or emerald green for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color variations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Claret Color Meaning: Understanding #7F1734",
+    "description": "Discover the meaning, psychology, and best uses of Claret (#7F1734), a sophisticated and luxurious color. Find complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:45:00.509322+00:00",
+  "updated_at": "2025-06-01T15:45:00.509322+00:00",
+  "slug": "claret"
+}

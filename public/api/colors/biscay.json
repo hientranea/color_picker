@@ -1,0 +1,77 @@
+{
+  "id": "0350d8ef-e8e9-4496-bd40-2345cd803304",
+  "color_name": "Biscay",
+  "hex_code": "#1B3162",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Biscay evokes feelings of tranquility and stability, often associated with depth and trustworthiness. It fosters a sense of calm introspection, inviting contemplation and peace. This color is also linked to sophistication and authority, suggesting reliability and quiet confidence.",
+  "emotional_associations": [
+    "calm",
+    "trust",
+    "stability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#62501B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#1B3162",
+        "#37598F",
+        "#6A89CC",
+        "#A2B7E8"
+      ]
+    },
+    {
+      "name": "Twilight Calm",
+      "swatches": [
+        "#1B3162",
+        "#504B63",
+        "#856864",
+        "#B98565"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security applications",
+      "Corporate intranet"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business casual attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Sea Exploration",
+      "description": "The color of the ocean at extreme depths, symbolizing mystery and the unknown.",
+      "image_url": "https://example.com/deep_sea.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "Used by many financial institutions to convey trustworthiness and stability.",
+      "image_url": "https://example.com/corporate_branding.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige or cream for balance.",
+    "Combine with lighter blues for a calming, monochromatic palette.",
+    "Use gold or silver accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and palettes with our color picker tool.",
+  "seo_meta": {
+    "title": "Biscay Color Meaning: Understanding #1B3162",
+    "description": "Discover the meaning, associations, and best uses for the color Biscay (#1B3162), from psychological impact to practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T14:52:12.763005+00:00",
+  "updated_at": "2025-06-01T14:52:12.763005+00:00",
+  "slug": "biscay"
+}

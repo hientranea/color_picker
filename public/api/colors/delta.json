@@ -1,0 +1,79 @@
+{
+  "id": "f331d6eb-9995-4b08-ad53-3dc300d4b569",
+  "color_name": "Delta",
+  "hex_code": "#A4A49D",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Delta represents stability, neutrality, and calmness. It evokes a sense of reliability and dependability, often associated with understated elegance and practicality. It promotes a feeling of balance and can act as a soothing backdrop, making it ideal for environments needing a touch of sophistication without being overly stimulating.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "calmness",
+    "dependability",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#9DA4A4",
+    "#676761"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#A4A49D",
+        "#D3D1C4",
+        "#73736B",
+        "#E8E6DA"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#A4A49D",
+        "#FFFFFF",
+        "#333333",
+        "#808080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for apps",
+      "Neutral interface elements"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa environments",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Classic apparel",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Neutral Interior Design",
+      "description": "A living room featuring Delta-colored walls to create a serene and balanced atmosphere.",
+      "image_url": "https://example.com/delta_interior.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A company logo using Delta to convey reliability and professionalism.",
+      "image_url": "https://example.com/delta_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for an airy feel.",
+    "Combine with muted blues or greens for a calming palette.",
+    "Add pops of vibrant color for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade for your next project!",
+  "seo_meta": {
+    "title": "Delta Color Meaning: Understanding #A4A49D",
+    "description": "Explore the meaning, psychology, and uses of Delta (#A4A49D), a neutral color that evokes stability and calmness. Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T16:05:25.86846+00:00",
+  "updated_at": "2025-06-01T16:05:25.86846+00:00",
+  "slug": "delta"
+}

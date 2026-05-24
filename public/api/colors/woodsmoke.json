@@ -1,0 +1,80 @@
+{
+  "id": "6fbba11f-01ad-4b44-9c30-07cc38902dd9",
+  "color_name": "Woodsmoke",
+  "hex_code": "#0C0D0F",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Woodsmoke evokes feelings of mystery, sophistication, and quiet strength. It's a color that suggests introspection, resilience, and a sense of grounding. The dark, muted tone can also convey a sense of formality and elegance, making it suitable for conveying understated power and dependability.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "grounding",
+    "formality",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#F3F2F0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#0C0D0F",
+        "#343538",
+        "#707173",
+        "#A9A9A9",
+        "#E1E1E1"
+      ]
+    },
+    {
+      "name": "Urban Chic",
+      "swatches": [
+        "#0C0D0F",
+        "#4A4A4A",
+        "#808080",
+        "#BDBDBD",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard backgrounds",
+      "application headers",
+      "data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "outerwear",
+      "formal wear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The woodsmoke color is used for the leather upholstery and dashboard, exuding elegance and sophistication.",
+      "image_url": "https://example.com/woodsmoke_car.jpg"
+    },
+    {
+      "title": "Modern Apartment Facade",
+      "description": "Woodsmoke is the primary color of the building's exterior, providing a sleek and contemporary look.",
+      "image_url": "https://example.com/woodsmoke_building.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic look.",
+    "Combine with metallic accents for added luxury.",
+    "Use as a background to make brighter colors pop.",
+    "Contrast with off-white for a clean, modern feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your own palettes with our color tool!",
+  "seo_meta": {
+    "title": "Woodsmoke Color Meaning: Exploring the Nuances of #0C0D0F",
+    "description": "Discover the meaning and uses of woodsmoke (#0C0D0F), a sophisticated dark gray color. Learn about its psychological effects, complementary colors, and how to incorporate it into your designs."
+  },
+  "created_at": "2025-06-01T14:46:36.935182+00:00",
+  "updated_at": "2025-06-01T14:46:36.935182+00:00",
+  "slug": "woodsmoke"
+}

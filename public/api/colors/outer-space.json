@@ -1,0 +1,80 @@
+{
+  "id": "4de69d1e-40b8-482e-810c-8bde10de2d3b",
+  "color_name": "Outer Space",
+  "hex_code": "#2D383A",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Outer Space evokes feelings of mystery, depth, and the unknown. Its dark and muted tones often suggest sophistication, introspection, and a sense of calm detachment. It can also represent vastness, exploration, and a connection to the cosmos.",
+  "emotional_associations": [
+    "mystery",
+    "depth",
+    "sophistication",
+    "introspection",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#A39896"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#2D383A",
+        "#5C6B6D",
+        "#8B9DA0",
+        "#B9CED2"
+      ]
+    },
+    {
+      "name": "Urban Night",
+      "swatches": [
+        "#2D383A",
+        "#3E4C4E",
+        "#606C70",
+        "#828E91"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds for dark mode interfaces",
+      "navigation elements",
+      "data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "meditation apps",
+      "sleep aids"
+    ],
+    "fashion": [
+      "outerwear",
+      "formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Space Image",
+      "description": "A photograph of a distant galaxy showcasing the vastness and mystery of space.",
+      "image_url": "https://example.com/space_image.jpg"
+    },
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A contemporary apartment featuring walls painted in a similar dark grey, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/apartment_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic scheme.",
+    "Combine with metallic accents for a sophisticated look.",
+    "Use with vibrant colors as a grounding neutral.",
+    "Add natural textures like wood to create warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Outer Space Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Outer Space color (#2D383A), its psychological associations, and beautiful color palettes to inspire your designs."
+  },
+  "created_at": "2025-06-01T14:59:51.760657+00:00",
+  "updated_at": "2025-06-01T14:59:51.760657+00:00",
+  "slug": "outer-space"
+}

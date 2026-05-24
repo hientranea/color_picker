@@ -1,0 +1,77 @@
+{
+  "id": "a9dd5bf7-11a9-4a9e-b1e4-e82e6594037e",
+  "color_name": "Prussian Blue",
+  "hex_code": "#003153",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Prussian Blue is associated with depth, stability, and trust. It evokes feelings of sophistication and authority while maintaining a sense of calm and order. This color often represents intelligence, loyalty, and conservatism, making it a popular choice for conveying reliability and professionalism.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "sophistication",
+    "intelligence",
+    "loyalty"
+  ],
+  "complementary_colors": [
+    "#FFC872"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic Elegance",
+      "swatches": [
+        "#003153",
+        "#A6B1E1",
+        "#FFFFFF",
+        "#435585"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#003153",
+        "#87CEEB",
+        "#E0FFFF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Data visualization",
+      "Backgrounds for dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Formal wear",
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Prussian Blue Uniform",
+      "description": "A police officer wearing a Prussian Blue uniform, projecting authority and trustworthiness.",
+      "image_url": "https://example.com/prussian_blue_uniform.jpg"
+    },
+    {
+      "title": "Prussian Blue Painting",
+      "description": "A landscape painting featuring Prussian Blue skies and water, evoking a sense of calm and vastness.",
+      "image_url": "https://example.com/prussian_blue_painting.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a sophisticated look.",
+    "Combine with gold accents for an elegant feel.",
+    "Use with lighter blues to create depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Prussian Blue Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Prussian Blue, its psychological impact, perfect color combinations, and industry use cases. Learn how to effectively use this sophisticated color in your designs."
+  },
+  "created_at": "2025-06-01T14:36:17.452024+00:00",
+  "updated_at": "2025-06-01T14:36:17.452024+00:00",
+  "slug": "prussian-blue"
+}

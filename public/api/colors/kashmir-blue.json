@@ -1,0 +1,83 @@
+{
+  "id": "47661224-62f2-481d-8a7e-2147dc2af0fa",
+  "color_name": "Kashmir Blue",
+  "hex_code": "#507096",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Kashmir Blue evokes feelings of serenity, stability, and sophistication. It combines the calming properties of blue with a subtle hint of grey, resulting in a color that is both relaxing and refined. It promotes a sense of peace and trustworthiness, making it ideal for creating environments that encourage contemplation and reliability.",
+  "emotional_associations": [
+    "serenity",
+    "stability",
+    "sophistication",
+    "trustworthiness",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#967650"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Tranquil Dusk",
+      "swatches": [
+        "#507096",
+        "#A0B4C7",
+        "#E0E8EF",
+        "#705A40",
+        "#304050"
+      ]
+    },
+    {
+      "name": "Classic Confidence",
+      "swatches": [
+        "#507096",
+        "#FFFFFF",
+        "#000000",
+        "#808080",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security applications",
+      "Corporate communication platforms"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire",
+      "Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Kashmir Blue Suit",
+      "description": "A sophisticated Kashmir Blue suit conveys professionalism and understated elegance.",
+      "image_url": "https://example.com/kashmir_blue_suit.jpg"
+    },
+    {
+      "title": "Kashmir Blue Living Room",
+      "description": "A living room painted in Kashmir Blue creates a calm and inviting atmosphere.",
+      "image_url": "https://example.com/kashmir_blue_living_room.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like white, gray, or beige for a classic look.",
+    "Combine with warm metallics like gold or copper for added sophistication.",
+    "Use with deeper blues and greens for a monochromatic palette.",
+    "Contrast with orange or coral for a vibrant and energetic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Kashmir Blue Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning, psychology, and best uses of Kashmir Blue. Find complementary colors, palettes, and real-world examples to inspire your next project."
+  },
+  "created_at": "2025-06-01T15:20:09.512572+00:00",
+  "updated_at": "2025-06-01T15:20:09.512572+00:00",
+  "slug": "kashmir-blue"
+}

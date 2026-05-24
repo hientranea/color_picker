@@ -1,0 +1,77 @@
+{
+  "id": "c9bc641a-5052-43fc-b330-43d3058b5750",
+  "color_name": "Azure Radiance",
+  "hex_code": "#007FFF",
+  "wheel_position": "primary",
+  "psychological_meaning": "Azure Radiance evokes feelings of tranquility, trust, and openness. It is associated with intelligence, efficiency, and reflection. The color promotes a sense of calm and security, making it a popular choice for creating a harmonious and reliable atmosphere.",
+  "emotional_associations": [
+    "tranquility",
+    "trust",
+    "openness",
+    "intelligence",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#FF7F00"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#007FFF",
+        "#ADD8E6",
+        "#F0FFFF"
+      ]
+    },
+    {
+      "name": "Corporate Calm",
+      "swatches": [
+        "#007FFF",
+        "#FFFFFF",
+        "#808080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "navigation bars",
+      "loading screens",
+      "data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "meditation apps",
+      "spa websites"
+    ],
+    "fashion": [
+      "swimwear",
+      "casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Swimming Pool",
+      "description": "The clear blue water of a swimming pool reflects the refreshing qualities of Azure Radiance.",
+      "image_url": "https://example.com/pool.jpg"
+    },
+    {
+      "title": "Clear Sky",
+      "description": "A bright, cloudless sky exemplifies the openness and tranquility associated with Azure Radiance.",
+      "image_url": "https://example.com/sky.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and modern look.",
+    "Combine with gray for a professional and sophisticated feel.",
+    "Use with complementary orange for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options with our color picker tool.",
+  "seo_meta": {
+    "title": "Azure Radiance Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning of Azure Radiance (#007FFF), its psychological effects, suggested palettes, and practical uses in various industries."
+  },
+  "created_at": "2025-06-01T14:38:19.831139+00:00",
+  "updated_at": "2025-06-01T14:38:19.831139+00:00",
+  "slug": "azure-radiance"
+}

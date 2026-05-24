@@ -1,0 +1,86 @@
+{
+  "id": "122a0c0b-cd54-4250-96e7-1dec8089a605",
+  "color_name": "Malachite",
+  "hex_code": "#0BDA51",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Malachite green is deeply connected to nature, representing growth, renewal, and abundance. It evokes feelings of balance, harmony, and well-being, promoting a sense of tranquility and connection to the earth. It can also symbolize prosperity and good fortune.",
+  "emotional_associations": [
+    "growth",
+    "nature",
+    "renewal",
+    "balance",
+    "prosperity"
+  ],
+  "complementary_colors": [
+    "#DA1488"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#0BDA51",
+        "#A0D6B4",
+        "#5F9EA0",
+        "#8FBC8F"
+      ]
+    },
+    {
+      "name": "Vibrant Growth",
+      "swatches": [
+        "#0BDA51",
+        "#FFD700",
+        "#FFFFFF",
+        "#228B22"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Progress bars indicating growth",
+      "Health and wellness apps",
+      "Eco-conscious technology branding"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy beverage marketing",
+      "Vegan restaurant branding"
+    ],
+    "wellness": [
+      "Spa and wellness center branding",
+      "Natural health product packaging",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Eco-friendly clothing lines",
+      "Outdoor apparel",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lush Cosmetics",
+      "description": "Lush uses shades of green, reminiscent of Malachite, in its branding to convey natural, fresh ingredients and ethical sourcing.",
+      "image_url": "https://example.com/lush_image.jpg"
+    },
+    {
+      "title": "Gardens",
+      "description": "Gardens are often abundant with colors like Malachite, representing the natural world.",
+      "image_url": "https://example.com/garden_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural feel.",
+    "Combine with gold for a touch of luxury.",
+    "Use with white for a clean and modern look.",
+    "Contrast with deep reds for a vibrant and energetic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of green and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Malachite Green Color Meaning: Symbolism, Psychology & Palettes",
+    "description": "Discover the meaning of Malachite green, its psychological effects, emotional associations, and explore beautiful color palettes for your next design project."
+  },
+  "created_at": "2025-06-07T08:16:49.060942+00:00",
+  "updated_at": "2025-06-07T08:16:49.060942+00:00",
+  "slug": "malachite"
+}

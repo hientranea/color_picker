@@ -1,0 +1,83 @@
+{
+  "id": "0a0f6eba-3892-4c3e-a602-1c34c00d6c5c",
+  "color_name": "Brown Derby",
+  "hex_code": "#492615",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Brown Derby evokes feelings of earthiness, stability, and sophistication. It's associated with reliability, comfort, and a sense of groundedness. This color can suggest a connection to nature, history, and tradition, while also implying a sense of elegance and understated luxury.",
+  "emotional_associations": [
+    "stability",
+    "comfort",
+    "reliability",
+    "sophistication",
+    "earthiness"
+  ],
+  "complementary_colors": [
+    "#153C49"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#492615",
+        "#A38262",
+        "#E8D6C0",
+        "#6B8E23",
+        "#333333"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#492615",
+        "#8B4513",
+        "#DEB887",
+        "#F5F5DC",
+        "#A0522D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Winter coats",
+      "Boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in a Brown Derby shade exudes comfort and timeless style.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Hardwood floors stained in a Brown Derby color provide a warm and inviting atmosphere.",
+      "image_url": "https://example.com/wooden_floor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for an earthy vibe.",
+    "Accent with gold for added luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Brown Derby Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Brown Derby (#492615), its psychological effects, best color combinations, and inspiring palettes for your next project."
+  },
+  "created_at": "2025-06-01T15:15:30.248906+00:00",
+  "updated_at": "2025-06-01T15:15:30.248906+00:00",
+  "slug": "brown-derby"
+}

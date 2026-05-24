@@ -1,0 +1,83 @@
+{
+  "id": "66f2dffe-04a3-41e1-92c2-922e9b82224d",
+  "color_name": "Everglade",
+  "hex_code": "#1C402E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Everglade evokes feelings of tranquility, growth, and stability. It is associated with nature, representing lush forests and serene landscapes. This color promotes a sense of peace and connection to the earth, fostering a feeling of harmony and balance. It can also symbolize resilience and endurance, like the enduring strength of a forest.",
+  "emotional_associations": [
+    "Tranquility",
+    "Growth",
+    "Stability",
+    "Nature",
+    "Peace",
+    "Harmony",
+    "Resilience"
+  ],
+  "complementary_colors": [
+    "#E3BFD1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#1C402E",
+        "#A3C4BC",
+        "#E6D5B8",
+        "#8B4513"
+      ]
+    },
+    {
+      "name": "Forest Dawn",
+      "swatches": [
+        "#1C402E",
+        "#4F7942",
+        "#B2BEB5",
+        "#F0FFF0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for nature-themed apps",
+      "Icons for environmental software"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Branding for tea and herbal remedies"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Everglade National Park",
+      "description": "The lush greenery of the Everglade National Park in Florida.",
+      "image_url": "https://example.com/everglade_park.jpg"
+    },
+    {
+      "title": "Forest Canopy",
+      "description": "The dense, green canopy of a mature forest.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones for a natural feel.",
+    "Combine with creams and beiges for a calming effect.",
+    "Use with gold accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more nature-inspired colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Everglade Color Meaning: Discover the Psychology of #1C402E",
+    "description": "Uncover the meaning behind the Everglade color (#1C402E), its emotional associations, and how to use it in design for a tranquil and natural aesthetic."
+  },
+  "created_at": "2025-06-01T14:52:47.651489+00:00",
+  "updated_at": "2025-06-01T14:52:47.651489+00:00",
+  "slug": "everglade"
+}

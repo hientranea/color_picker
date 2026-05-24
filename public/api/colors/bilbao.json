@@ -1,0 +1,82 @@
+{
+  "id": "3ac8b995-8118-44a9-bf58-8777419d008c",
+  "color_name": "Bilbao",
+  "hex_code": "#327C14",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bilbao, a deep and earthy green, evokes feelings of tranquility, nature, and growth. It suggests stability and endurance, often associated with balance and harmony. This color promotes a sense of calm and renewal, reminiscent of dense forests and fertile lands, fostering a connection with the environment and inner peace.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "growth",
+    "tranquility",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#C84830"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#327C14",
+        "#A3C4BC",
+        "#E6DDC4",
+        "#774F38"
+      ]
+    },
+    {
+      "name": "Forest Depth",
+      "swatches": [
+        "#327C14",
+        "#224B0C",
+        "#668B4D",
+        "#A8E4A0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Sustainable living platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The lush green canopy of a dense forest, symbolizing nature's abundance and vitality.",
+      "image_url": "url_to_forest_canopy_image.jpg"
+    },
+    {
+      "title": "Moss Covered Stone",
+      "description": "A moss-covered stone, representing resilience and the slow, steady passage of time.",
+      "image_url": "url_to_moss_covered_stone_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones for a balanced look.",
+    "Combine with earthy browns for a natural feel.",
+    "Use with lighter greens for a harmonious palette.",
+    "Accent with pops of gold for sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Bilbao Color Meaning: Understanding the Psychology of #327C14",
+    "description": "Discover the meaning, psychology, and best uses for Bilbao (#327C14), a calming earthy green. Explore complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T15:03:04.264162+00:00",
+  "updated_at": "2025-06-01T15:03:04.264162+00:00",
+  "slug": "bilbao"
+}

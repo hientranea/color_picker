@@ -1,0 +1,78 @@
+{
+  "id": "c6f8a1a0-3c29-498a-bc4f-26123617bd0b",
+  "color_name": "Aluminium",
+  "hex_code": "#A9ACB6",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Aluminium, as a color, evokes feelings of sleekness, modernity, and industrial efficiency. It represents a balance between sophistication and practicality, often associated with technology, engineering, and contemporary design. Its neutral nature provides a sense of stability and reliability.",
+  "emotional_associations": [
+    "modernity",
+    "sleekness",
+    "efficiency",
+    "neutrality",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#B6A9AC",
+    "#ACABB6",
+    "#B6ACA9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Urban Cool",
+      "swatches": [
+        "#A9ACB6",
+        "#6C757D",
+        "#343A40",
+        "#ADB5BD"
+      ]
+    },
+    {
+      "name": "Industrial Chic",
+      "swatches": [
+        "#A9ACB6",
+        "#D3D3D3",
+        "#808080",
+        "#2F4F4F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Settings panels",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Accessories",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Architecture",
+      "description": "Aluminium cladding on a contemporary building reflects light and creates a streamlined aesthetic.",
+      "image_url": "https://example.com/aluminium_architecture.jpg"
+    },
+    {
+      "title": "Kitchen Appliances",
+      "description": "Aluminium finishes in kitchen appliances offer a durable and modern look.",
+      "image_url": "https://example.com/aluminium_appliances.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with black for a sophisticated look.",
+    "Combine with white for a clean and minimalist design.",
+    "Use with muted blues or greens for a calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Aluminium using our color picker tool today!",
+  "seo_meta": {
+    "title": "Aluminium Color Meaning: Understanding #A9ACB6",
+    "description": "Discover the meaning, psychology, and best uses of Aluminium color (#A9ACB6) in design and branding."
+  },
+  "created_at": "2025-06-01T16:08:15.337816+00:00",
+  "updated_at": "2025-06-01T16:08:15.337816+00:00",
+  "slug": "aluminium"
+}

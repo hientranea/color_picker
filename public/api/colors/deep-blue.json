@@ -1,0 +1,81 @@
+{
+  "id": "dcd83b52-a6eb-4da7-a1ab-7f2e338f2aab",
+  "color_name": "Deep Blue",
+  "hex_code": "#220878",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Deep blue often evokes feelings of tranquility, peace, and stability. It is associated with depth, wisdom, confidence, intelligence, faith, truth, and heaven. It is a color that can promote relaxation and reduce stress, while also symbolizing loyalty and trustworthiness. However, in some contexts, it can also be associated with sadness or melancholy.",
+  "emotional_associations": [
+    "calm",
+    "trust",
+    "intelligence",
+    "serenity",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#789208"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depths",
+      "swatches": [
+        "#220878",
+        "#5D4037",
+        "#9CCC65",
+        "#E6EE9C"
+      ]
+    },
+    {
+      "name": "Royal Evening",
+      "swatches": [
+        "#220878",
+        "#4A148C",
+        "#9C27B0",
+        "#F3E5F5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "data visualization",
+      "security software",
+      "finance dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "meditation apps",
+      "sleep aids",
+      "therapy websites"
+    ],
+    "fashion": [
+      "formal wear",
+      "outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Blue Sea",
+      "description": "The vastness and mystery of the deep ocean, inspiring awe and wonder.",
+      "image_url": "https://example.com/deep_blue_sea.jpg"
+    },
+    {
+      "title": "Midnight Sky",
+      "description": "The dark blue of the night sky, speckled with stars, creates a sense of peace and contemplation.",
+      "image_url": "https://example.com/midnight_sky.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and classic look.",
+    "Combine with gold for a luxurious and sophisticated feel.",
+    "Use with lighter shades of blue for a calming and serene atmosphere.",
+    "Contrast with warm yellows or oranges for a vibrant and energetic combination."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades of blue and create your perfect palette using our color picker tool!",
+  "seo_meta": {
+    "title": "Deep Blue Color Meaning: Symbolism, Psychology & Design",
+    "description": "Discover the meaning and symbolism of deep blue, its psychological effects, and how to use it in design and branding to evoke trust and intelligence."
+  },
+  "created_at": "2025-06-01T14:54:30.448646+00:00",
+  "updated_at": "2025-06-01T14:54:30.448646+00:00",
+  "slug": "deep-blue"
+}

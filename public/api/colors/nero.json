@@ -1,0 +1,82 @@
+{
+  "id": "85b0782d-214c-426a-9394-9d5c5f20cee2",
+  "color_name": "Nero",
+  "hex_code": "#140600",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Nero, a shade of dark brown, evokes feelings of sophistication and mystery, often associated with power and control. It can also symbolize stability and groundedness, providing a sense of security. However, it may also be perceived as melancholic or somber in certain contexts, and it's therefore important to consider its use carefully.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "stability",
+    "power"
+  ],
+  "complementary_colors": [
+    "#001414",
+    "#EBF5FF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#140600",
+        "#331E00",
+        "#663C00",
+        "#A67D3D"
+      ]
+    },
+    {
+      "name": "Dark & Moody",
+      "swatches": [
+        "#140600",
+        "#281200",
+        "#3D1E00",
+        "#522A00"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Professional dashboards",
+      "Data visualization backgrounds"
+    ],
+    "food_beverage": [
+      "Chocolate packaging",
+      "Coffee branding",
+      "Whiskey labels"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening wear",
+      "Formal attire",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The interior of a high-end car featuring dark brown leather seats and trim exudes sophistication and comfort.",
+      "image_url": "https://example.com/nero_car_interior.jpg"
+    },
+    {
+      "title": "Dark Chocolate Bar",
+      "description": "Premium dark chocolate packaging using Nero to convey richness and decadence.",
+      "image_url": "https://example.com/nero_chocolate.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a touch of luxury.",
+    "Combine with lighter neutrals like beige or cream for balance.",
+    "Use as a background color to make brighter colors pop.",
+    "Contrast with cool blues for a modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Nero Color Meaning: The Psychology of Dark Brown | ColorBlog",
+    "description": "Discover the meaning and psychology behind the color Nero (#140600). Learn about its emotional associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T14:49:14.747677+00:00",
+  "updated_at": "2025-06-01T14:49:14.747677+00:00",
+  "slug": "nero"
+}

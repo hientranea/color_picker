@@ -1,0 +1,78 @@
+{
+  "id": "d9e7abf7-d1fc-4fea-b788-c73303ade4da",
+  "color_name": "Logan",
+  "hex_code": "#AAA9CD",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Logan is a cool, muted color that evokes feelings of serenity and stability. It suggests sophistication and neutrality, providing a sense of calm and dependability. Its subdued nature can also represent contemplation and introspection.",
+  "emotional_associations": [
+    "serenity",
+    "stability",
+    "sophistication",
+    "neutrality",
+    "dependability"
+  ],
+  "complementary_colors": [
+    "#CDCEAA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#AAA9CD",
+        "#D3D0CB",
+        "#9A8DA3",
+        "#E0DAD6"
+      ]
+    },
+    {
+      "name": "Subtle Contrast",
+      "swatches": [
+        "#AAA9CD",
+        "#8785A2",
+        "#C8C6D9",
+        "#74738A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Subtle text highlights"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Elegant accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring walls painted in Logan, creating a peaceful and inviting atmosphere.",
+      "image_url": "https://example.com/logan_apartment.jpg"
+    },
+    {
+      "title": "Minimalist Website Design",
+      "description": "A website using Logan as the background color for a clean and professional look.",
+      "image_url": "https://example.com/logan_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic look.",
+    "Combine with muted greens for a natural feel.",
+    "Use with cream or off-white for a soft contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Logan with our color picker tool to find the perfect hue for your project.",
+  "seo_meta": {
+    "title": "Logan Color Meaning: Understanding #AAA9CD - Color Psychology",
+    "description": "Discover the meaning, psychology, and uses of the color Logan (#AAA9CD). Learn how to incorporate this serene color into your designs and branding for a sophisticated and calm feel."
+  },
+  "created_at": "2025-06-01T16:09:34.384334+00:00",
+  "updated_at": "2025-06-01T16:09:34.384334+00:00",
+  "slug": "logan"
+}

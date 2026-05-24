@@ -1,0 +1,82 @@
+{
+  "id": "993ab9a5-86a4-415a-966d-68da31496c3d",
+  "color_name": "Black",
+  "hex_code": "#000000",
+  "wheel_position": "Achromatic",
+  "psychological_meaning": "Black is often associated with power, elegance, formality, and mystery. It can also represent death, evil, or mourning. In contrast, black can also convey sophistication, authority, and a sense of timelessness.",
+  "emotional_associations": [
+    "power",
+    "elegance",
+    "mystery",
+    "formality",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#FFFFFF",
+    "#808080"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochrome",
+      "swatches": [
+        "#000000",
+        "#333333",
+        "#666666",
+        "#999999",
+        "#CCCCCC"
+      ]
+    },
+    {
+      "name": "Elegant Contrast",
+      "swatches": [
+        "#000000",
+        "#FFFFFF",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Command line interfaces",
+      "Security software"
+    ],
+    "food_beverage": [
+      "Luxury packaging",
+      "Coffee branding",
+      "Gourmet chocolate"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening wear",
+      "Formal attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Little Black Dress",
+      "description": "A timeless and versatile fashion staple.",
+      "image_url": "https://example.com/black_dress.jpg"
+    },
+    {
+      "title": "Black Car",
+      "description": "Represents luxury and sophistication in automotive design.",
+      "image_url": "https://example.com/black_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a classic contrast.",
+    "Combine with gold or silver for elegance.",
+    "Use as a background to make other colors pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement black in your designs.",
+  "seo_meta": {
+    "title": "Black Color Meaning: Symbolism, Psychology, and Design Tips",
+    "description": "Discover the meaning of the color black, its psychological effects, emotional associations, and how to use it effectively in your designs."
+  },
+  "created_at": "2025-05-18T14:01:30.619318+00:00",
+  "updated_at": "2025-05-18T14:01:30.619318+00:00",
+  "slug": "black"
+}

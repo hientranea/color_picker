@@ -1,0 +1,80 @@
+{
+  "id": "0134e916-71c2-4f41-8fc4-bc07ec37e8e5",
+  "color_name": "Tamarillo",
+  "hex_code": "#991613",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tamarillo, a deep, rich red with brown undertones, evokes feelings of warmth, sophistication, and grounded energy. It suggests stability, passion, and a connection to the earth. This color can inspire confidence and a sense of comfort, while also hinting at a fiery inner spirit.",
+  "emotional_associations": [
+    "warmth",
+    "sophistication",
+    "passion",
+    "stability",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#16999c"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#991613",
+        "#D4A373",
+        "#E07A5F",
+        "#3D405B"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#991613",
+        "#6B2B29",
+        "#A85151",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Restaurant branding",
+      "Wine labels",
+      "Coffee packaging"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Evening wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tamarillo Jam",
+      "description": "A vibrant and flavorful tamarillo jam, showcasing the fruit's rich color and unique taste.",
+      "image_url": "https://example.com/tamarillo_jam.jpg"
+    },
+    {
+      "title": "Leather Armchair",
+      "description": "A luxurious leather armchair in a deep tamarillo hue, adding warmth and sophistication to a living space.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with warm neutrals for a cozy feel.",
+    "Pair with teal or turquoise for a vibrant contrast.",
+    "Use with gold accents for an elegant touch.",
+    "Incorporate natural materials like wood and leather."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Tamarillo Color Meaning: Understanding #991613",
+    "description": "Discover the meaning and psychology behind the tamarillo color (#991613), along with color palettes and pairing suggestions."
+  },
+  "created_at": "2025-06-01T16:00:16.39576+00:00",
+  "updated_at": "2025-06-01T16:00:16.39576+00:00",
+  "slug": "tamarillo"
+}

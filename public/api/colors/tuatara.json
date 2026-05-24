@@ -1,0 +1,79 @@
+{
+  "id": "abbf67f4-413c-42fb-b64d-276f5d1041cc",
+  "color_name": "Tuatara",
+  "hex_code": "#363534",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Tuatara, a deep, muted gray, evokes feelings of sophistication, stability, and understated elegance. It suggests a sense of calm and reliability, often associated with neutrality and balance. This color is perceived as timeless and versatile, making it suitable for conveying a sense of groundedness and practicality.",
+  "emotional_associations": [
+    "stability",
+    "sophistication",
+    "neutrality",
+    "calm",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#D4D5D6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Elegance",
+      "swatches": [
+        "#363534",
+        "#5A5958",
+        "#7E7D7C",
+        "#A2A1A0"
+      ]
+    },
+    {
+      "name": "Earthy Contrast",
+      "swatches": [
+        "#363534",
+        "#A6937C",
+        "#E3D5C4",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Icons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Tuatara used in wall paint and furniture to create a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/tuatara_apartment.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "Tuatara used in a company logo to project stability and reliability.",
+      "image_url": "https://example.com/tuatara_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic scheme.",
+    "Combine with natural wood tones for warmth.",
+    "Use as a neutral backdrop for brighter accent colors."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Tuatara Color Meaning: Discover the Elegance of #363534",
+    "description": "Uncover the psychological meaning, emotional associations, and best uses of Tuatara (#363534), a sophisticated and stable gray color. Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T15:04:19.18259+00:00",
+  "updated_at": "2025-06-01T15:04:19.18259+00:00",
+  "slug": "tuatara"
+}

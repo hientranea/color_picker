@@ -1,0 +1,84 @@
+{
+  "id": "26d98f7f-5f85-435b-b22d-9551c5b540b4",
+  "color_name": "Fresh Eggplant",
+  "hex_code": "#990066",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fresh Eggplant evokes feelings of sophistication, mystery, and creativity. Its deep, rich tone suggests luxury and exclusivity, while also retaining a touch of earthiness and natural beauty. It can inspire introspection and contemplation, making it ideal for environments that promote thoughtfulness and creativity.",
+  "emotional_associations": [
+    "luxury",
+    "sophistication",
+    "mystery",
+    "creativity",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#669900"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#990066",
+        "#333366",
+        "#666699",
+        "#CCCCCC",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#990066",
+        "#663300",
+        "#996633",
+        "#CC9966",
+        "#FFCC99"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Premium app interfaces"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Gourmet food packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessory design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Hotel Lobby",
+      "description": "A high-end hotel uses Fresh Eggplant as an accent color in its lobby to create a sophisticated and inviting atmosphere.",
+      "image_url": "https://example.com/hotel_lobby.jpg"
+    },
+    {
+      "title": "Fashion Designer's Collection",
+      "description": "A fashion designer incorporates Fresh Eggplant into their latest collection to convey a sense of elegance and mystery.",
+      "image_url": "https://example.com/fashion_collection.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for a luxurious feel.",
+    "Combine with cool grays for a modern aesthetic.",
+    "Use with creams and off-whites for a softer, more elegant look.",
+    "Accent with teals or greens for a touch of nature."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator.",
+  "seo_meta": {
+    "title": "Fresh Eggplant Color Meaning: Psychology, Combinations & Use Cases",
+    "description": "Discover the meaning of Fresh Eggplant (#990066), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:00:01.806399+00:00",
+  "updated_at": "2025-06-01T16:00:01.806399+00:00",
+  "slug": "fresh-eggplant"
+}

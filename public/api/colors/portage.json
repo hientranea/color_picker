@@ -1,0 +1,80 @@
+{
+  "id": "64112ee3-d57e-4ec4-9e29-d779e736c277",
+  "color_name": "Portage",
+  "hex_code": "#8B9FEE",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Portage is a soothing and calming color, evoking feelings of tranquility and peace. It is often associated with trust, stability, and intelligence, making it a versatile choice for creating a sense of reassurance and reliability. Portage can also stimulate creativity and imagination, fostering a sense of openness and possibility.",
+  "emotional_associations": [
+    "calm",
+    "trust",
+    "stability",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#EE9F8B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Skies",
+      "swatches": [
+        "#8B9FEE",
+        "#BBD4FF",
+        "#E6F0FF",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Creative Confidence",
+      "swatches": [
+        "#8B9FEE",
+        "#708090",
+        "#A9A9A9",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation menus",
+      "Backgrounds for data visualization",
+      "Progress bars"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Evening gowns",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Portage Colored Living Room",
+      "description": "A living room featuring Portage walls, creating a calming and inviting atmosphere.",
+      "image_url": "https://example.com/portage_living_room.jpg"
+    },
+    {
+      "title": "Portage Colored Business Cards",
+      "description": "Business cards using Portage as a primary color, conveying trust and professionalism.",
+      "image_url": "https://example.com/portage_business_cards.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Combine with complementary colors for a vibrant contrast.",
+    "Use in a monochromatic scheme for a calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your own palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Portage Color Meaning: Discover the Psychology of #8B9FEE",
+    "description": "Uncover the meaning of the color Portage (#8B9FEE), its psychological impact, and how to use it in design and branding for tranquility and trust."
+  },
+  "created_at": "2025-06-01T15:53:01.525196+00:00",
+  "updated_at": "2025-06-01T15:53:01.525196+00:00",
+  "slug": "portage"
+}

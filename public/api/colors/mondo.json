@@ -1,0 +1,81 @@
+{
+  "id": "15fe817b-3639-40cd-9052-e4a5ee45bede",
+  "color_name": "Mondo",
+  "hex_code": "#4A3C30",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Mondo, a muted brown, evokes feelings of groundedness, stability, and sophistication. It represents a connection to nature and the earth, conveying a sense of reliability and understated elegance. This color is often associated with comfort and a sense of timelessness.",
+  "emotional_associations": [
+    "stability",
+    "comfort",
+    "sophistication",
+    "nature",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#303E4A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4A3C30",
+        "#D4A373",
+        "#A98467",
+        "#F2E8CF"
+      ]
+    },
+    {
+      "name": "Modern Neutral",
+      "swatches": [
+        "#4A3C30",
+        "#776E65",
+        "#BDBDBD",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Subtle interface elements for design software"
+    ],
+    "food_beverage": [
+      "Packaging for coffee and chocolate products",
+      "Restaurant interiors to create a cozy ambiance"
+    ],
+    "wellness": [
+      "Spa interiors for a calming environment",
+      "Branding for organic skincare products"
+    ],
+    "fashion": [
+      "Apparel for outerwear",
+      "Footwear such as boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in Mondo provides a comfortable and stylish seating option.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Mondo-toned wooden floors add warmth and elegance to any room.",
+      "image_url": "https://example.com/wooden_floor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream for a soft, elegant look.",
+    "Combine with deep green for a natural, earthy feel.",
+    "Use with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Mondo Color Meaning: Understanding #4A3C30",
+    "description": "Discover the meaning, psychology, and best uses for the color Mondo (#4A3C30). Explore palettes, pairings, and real-world examples of this sophisticated neutral hue."
+  },
+  "created_at": "2025-06-01T15:16:21.312765+00:00",
+  "updated_at": "2025-06-01T15:16:21.312765+00:00",
+  "slug": "mondo"
+}

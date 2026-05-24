@@ -1,0 +1,87 @@
+{
+  "id": "2b5d70cd-9e01-43b1-9221-46669ad3a95a",
+  "color_name": "Olivine",
+  "hex_code": "#9AB973",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Olivine is a gentle and reassuring color, embodying growth, renewal, and harmony. It evokes feelings of nature, peace, and well-being. Olivine can promote feelings of optimism, balance, and connection to the earth, making it a soothing and grounding choice.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "peace",
+    "balance",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#B97A9A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#9AB973",
+        "#D4E29E",
+        "#7A8C5A",
+        "#A6937C",
+        "#E8E4DA"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#9AB973",
+        "#C6E5A3",
+        "#FFFFFF",
+        "#77DD77",
+        "#90EE90"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background accents",
+      "Confirmation messages",
+      "Data visualization"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Natural ingredient labeling",
+      "Restaurant ambiance"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studio design",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Accessories",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Tree",
+      "description": "The leaves of the olive tree exhibit a distinctive olivine hue, symbolizing peace and prosperity.",
+      "image_url": "https://example.com/olive_tree.jpg"
+    },
+    {
+      "title": "Olivine Gemstone",
+      "description": "The gemstone peridot, often referred to as olivine, showcases the color's natural beauty and vibrancy.",
+      "image_url": "https://example.com/olivine_gemstone.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with earthy browns for a natural look.",
+    "Use with creams or whites for a soft, serene palette.",
+    "Accent with gold for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades with our color palette generator to find your perfect match!",
+  "seo_meta": {
+    "title": "Olivine Color Meaning: Understanding the Power of #9AB973",
+    "description": "Discover the meaning and psychology behind the olivine color (#9AB973). Learn about its emotional associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:01:14.450348+00:00",
+  "updated_at": "2025-06-01T16:01:14.450348+00:00",
+  "slug": "olivine"
+}

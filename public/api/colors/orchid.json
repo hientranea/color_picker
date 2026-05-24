@@ -1,0 +1,87 @@
+{
+  "id": "df52a358-bf05-4bce-9e13-704b36843fdd",
+  "color_name": "Orchid",
+  "hex_code": "#DA70D6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Orchid is a captivating color that blends the tranquility of blue with the passion of red. It evokes feelings of creativity, mystery, and spirituality. Often associated with luxury and elegance, orchid also promotes a sense of individuality and imagination, inspiring uniqueness and self-expression. It encourages introspection and can foster a calming yet invigorating atmosphere.",
+  "emotional_associations": [
+    "creativity",
+    "mystery",
+    "luxury",
+    "spirituality",
+    "imagination",
+    "uniqueness"
+  ],
+  "complementary_colors": [
+    "#70DADA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Bloom",
+      "swatches": [
+        "#DA70D6",
+        "#F8E8FF",
+        "#B284BE",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Mystic Garden",
+      "swatches": [
+        "#DA70D6",
+        "#558B2F",
+        "#A5D6A7",
+        "#E8F5E9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Highlighting user interface elements to indicate premium features",
+      "Creating a calming yet engaging user experience in meditation apps",
+      "Designing elegant and modern website layouts for creative agencies"
+    ],
+    "food_beverage": [
+      "Branding for gourmet desserts and artisanal chocolates",
+      "Packaging for exotic teas and herbal infusions",
+      "Creating a sophisticated atmosphere in upscale restaurants"
+    ],
+    "wellness": [
+      "Designing serene and luxurious spa environments",
+      "Branding for aromatherapy products and essential oils",
+      "Creating a sense of tranquility and balance in yoga studios"
+    ],
+    "fashion": [
+      "Creating elegant and statement pieces in haute couture",
+      "Designing sophisticated evening wear and accessories",
+      "Adding a touch of mystery and allure to everyday outfits"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Orchid Flower",
+      "description": "The delicate petals of an orchid flower showcase the color's natural beauty and elegance.",
+      "image_url": "https://example.com/orchid_flower.jpg"
+    },
+    {
+      "title": "Orchid Evening Gown",
+      "description": "A flowing orchid evening gown exudes sophistication and grace on the red carpet.",
+      "image_url": "https://example.com/orchid_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural and calming palette.",
+    "Combine with silver or gold for a luxurious and elegant feel.",
+    "Use with contrasting yellows to create a vibrant and energetic combination.",
+    "Balance with neutral grays for a sophisticated and modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore the depths of Orchid and experiment with your own color schemes using our color palette generator!",
+  "seo_meta": {
+    "title": "Orchid Color Meaning: Symbolism, Psychology, and Design Ideas",
+    "description": "Discover the meaning, symbolism, and psychology of the color Orchid. Explore design ideas, complementary colors, and palette suggestions for this captivating hue."
+  },
+  "created_at": "2025-06-01T16:33:53.290933+00:00",
+  "updated_at": "2025-06-01T16:33:53.290933+00:00",
+  "slug": "orchid"
+}

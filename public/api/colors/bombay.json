@@ -1,0 +1,85 @@
+{
+  "id": "74b725da-564f-44e2-9f7d-34b001f421f3",
+  "color_name": "Bombay",
+  "hex_code": "#AFB1B8",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Bombay is a sophisticated, muted gray that evokes feelings of calmness and neutrality. It is often associated with practicality, reliability, and stability. This color is perceived as timeless and unobtrusive, making it an excellent backdrop for showcasing other bolder colors or elements. Bombay is a versatile color that communicates professionalism and understated elegance.",
+  "emotional_associations": [
+    "neutrality",
+    "calmness",
+    "sophistication",
+    "stability",
+    "professionalism"
+  ],
+  "complementary_colors": [
+    "#B8AFB1",
+    "#545659"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochrome Elegance",
+      "swatches": [
+        "#D3D5D8",
+        "#AFB1B8",
+        "#8B8D91",
+        "#67696D",
+        "#434548"
+      ]
+    },
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#AFB1B8",
+        "#9CB4CC",
+        "#C0D6DF",
+        "#E2D8C3",
+        "#A3B18A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard backgrounds",
+      "form fields",
+      "subtle dividers"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa interiors",
+      "meditation apps",
+      "yoga studios"
+    ],
+    "fashion": [
+      "casual wear",
+      "outerwear",
+      "formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Bombay walls, creating a serene and sophisticated atmosphere.",
+      "image_url": "https://example.com/bombay_apartment.jpg"
+    },
+    {
+      "title": "Corporate Office Space",
+      "description": "Bombay is used as the primary color for the office walls to promote a sense of calm and professionalism.",
+      "image_url": "https://example.com/bombay_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted pastels for a soft, calming effect.",
+    "Combine with brighter accents like teal or mustard for contrast.",
+    "Use with natural wood tones for a warm and inviting feel.",
+    "Create a monochromatic palette with lighter and darker grays."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints using our color picker to find the perfect Bombay variation for your project!",
+  "seo_meta": {
+    "title": "Bombay Color Meaning: Understanding #AFB1B8 | Color Psychology",
+    "description": "Discover the meaning and psychology behind the color Bombay (#AFB1B8). Learn about its emotional associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T16:13:42.551584+00:00",
+  "updated_at": "2025-06-01T16:13:42.551584+00:00",
+  "slug": "bombay"
+}

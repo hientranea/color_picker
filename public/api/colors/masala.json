@@ -1,0 +1,79 @@
+{
+  "id": "e6f75535-de1e-4d93-93f1-4ad22c50a435",
+  "color_name": "Masala",
+  "hex_code": "#403B38",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Masala, a deep and earthy brown, evokes a sense of groundedness, stability, and comfort. It is associated with reliability, resilience, and a connection to the natural world. This color suggests warmth and security, making it a comforting and dependable choice.",
+  "emotional_associations": [
+    "comfort",
+    "stability",
+    "warmth",
+    "reliability",
+    "earthiness"
+  ],
+  "complementary_colors": [
+    "#BFAF8F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#403B38",
+        "#73626B",
+        "#A68A86",
+        "#D9B8B0"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#403B38",
+        "#5E544D",
+        "#8B7E74",
+        "#B8A89E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Winter coats",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a masala color provides a comfortable and stylish seating option.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Dark wooden flooring in a masala hue adds warmth and sophistication to any room.",
+      "image_url": "https://example.com/wooden_flooring.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a soft contrast.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with natural textures like wood and stone for an earthy feel.",
+    "Contrast with teal or turquoise for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Masala Color Meaning: Discover its Psychology and Uses",
+    "description": "Uncover the meaning behind the color Masala (#403B38), its psychological associations, and how to use it in design and branding. Explore palettes, examples, and pairing tips."
+  },
+  "created_at": "2025-06-01T15:10:58.715405+00:00",
+  "updated_at": "2025-06-01T15:10:58.715405+00:00",
+  "slug": "masala"
+}

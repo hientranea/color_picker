@@ -1,0 +1,82 @@
+{
+  "id": "26891bc2-4423-4c83-8085-1eda5b5042d8",
+  "color_name": "Bottle Green",
+  "hex_code": "#093624",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bottle Green evokes feelings of tranquility, nature, and growth. It symbolizes ambition, greed, and jealousy. It is often associated with wealth, stability, and endurance. It has a grounding and calming effect, making it a popular choice for environments where focus and serenity are desired.",
+  "emotional_associations": [
+    "nature",
+    "tranquility",
+    "growth",
+    "stability",
+    "wealth"
+  ],
+  "complementary_colors": [
+    "#E691A7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#093624",
+        "#A3B18A",
+        "#DAD7CD",
+        "#588157"
+      ]
+    },
+    {
+      "name": "Forest Calm",
+      "swatches": [
+        "#093624",
+        "#344E41",
+        "#3A5A40",
+        "#588157"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data Visualization",
+      "Sustainable Tech Apps"
+    ],
+    "food_beverage": [
+      "Organic Food Packaging",
+      "Tea Branding"
+    ],
+    "wellness": [
+      "Spa Interiors",
+      "Yoga Studio Design"
+    ],
+    "fashion": [
+      "Outdoor Apparel",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Hunter Boots",
+      "description": "Classic Bottle Green Hunter rain boots, symbolizing practicality and countryside style.",
+      "image_url": "https://example.com/hunter_boots.jpg"
+    },
+    {
+      "title": "Vintage Office",
+      "description": "A vintage office with bottle green walls evoking a sense of professionalism and trust",
+      "image_url": "https://example.com/bottle_green_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with neutral tones like beige or gray for a balanced look.",
+    "Use with lighter greens for a monochromatic color scheme.",
+    "Contrast with soft pinks to add a touch of femininity."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our intuitive color picker tool today!",
+  "seo_meta": {
+    "title": "Bottle Green Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Bottle Green, explore beautiful color palettes, and get inspired with design ideas for your next project."
+  },
+  "created_at": "2025-06-01T14:45:10.792596+00:00",
+  "updated_at": "2025-06-01T14:45:10.792596+00:00",
+  "slug": "bottle-green"
+}

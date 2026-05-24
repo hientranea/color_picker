@@ -1,0 +1,78 @@
+{
+  "id": "98e68b4c-80b6-48c2-9c9d-2460da152fa9",
+  "color_name": "Bunker",
+  "hex_code": "#0D1117",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Bunker is a dark, muted shade that evokes feelings of security, protection, and introspection. It represents resilience and a strong foundation, often associated with reliability and steadfastness. While it can signify safety, it can also suggest confinement or a need for inner reflection, depending on the context.",
+  "emotional_associations": [
+    "security",
+    "resilience",
+    "stability",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#F2EEDA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Refuge",
+      "swatches": [
+        "#0D1117",
+        "#413F42",
+        "#777777",
+        "#B1A7A6",
+        "#E0DCCF"
+      ]
+    },
+    {
+      "name": "Urban Dusk",
+      "swatches": [
+        "#0D1117",
+        "#2E3A46",
+        "#5D737E",
+        "#91AA9D",
+        "#CAD2C5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Control panels",
+      "Security software"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Outerwear",
+      "Workwear",
+      "Accessories (belts, bags)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Concrete Bunker",
+      "description": "A reinforced concrete bunker, designed for protection and security.",
+      "image_url": "https://example.com/bunker_image.jpg"
+    },
+    {
+      "title": "Dark Steel Watch",
+      "description": "A modern watch with a dark steel casing, exuding durability and sophistication.",
+      "image_url": "https://example.com/watch_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for contrast.",
+    "Use with metallic accents for a modern feel.",
+    "Combine with warm woods for a grounded aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Bunker Color Meaning: Understanding #0D1117",
+    "description": "Explore the meaning, psychology, and design applications of the Bunker color (#0D1117). Discover complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T14:47:12.993597+00:00",
+  "updated_at": "2025-06-01T14:47:12.993597+00:00",
+  "slug": "bunker"
+}

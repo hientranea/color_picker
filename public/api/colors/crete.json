@@ -1,0 +1,83 @@
+{
+  "id": "f866e22d-8f36-49ba-9a14-da3e9aa66e28",
+  "color_name": "Crete",
+  "hex_code": "#737829",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Crete is a muted, earthy green that evokes feelings of stability, nature, and understated elegance. It suggests maturity, wisdom, and a connection to the earth, promoting a sense of calm and groundedness. It's often associated with reliability and organic qualities.",
+  "emotional_associations": [
+    "stability",
+    "nature",
+    "understated elegance",
+    "maturity",
+    "wisdom",
+    "calm",
+    "groundedness",
+    "reliability",
+    "organic"
+  ],
+  "complementary_colors": [
+    "#787329"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#737829",
+        "#A2A98F",
+        "#D1D7C5",
+        "#F0F2EB"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#737829",
+        "#8C7853",
+        "#B8860B",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic food brands",
+      "Restaurant decor aiming for a natural ambiance"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories with a natural, earthy tone"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Grove",
+      "description": "Rolling hills of olive trees in Crete, Greece, showcase the natural beauty of this muted green.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    },
+    {
+      "title": "Stone Pathway",
+      "description": "A weathered stone pathway winding through a garden, highlighting the earthy tones of Crete.",
+      "image_url": "https://example.com/stone_pathway.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, elegant look.",
+    "Combine with browns and beiges for an earthy palette.",
+    "Use with gold accents for a touch of sophistication.",
+    "Contrast with deep reds for a vibrant and bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Crete Color Meaning: Understanding #737829",
+    "description": "Discover the meaning, psychology, and best uses of the color Crete (#737829). Find complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:37:47.279259+00:00",
+  "updated_at": "2025-06-01T15:37:47.279259+00:00",
+  "slug": "crete"
+}

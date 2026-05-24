@@ -1,0 +1,79 @@
+{
+  "id": "ed2c236f-9f1f-4d6d-97f1-e76872abb5cc",
+  "color_name": "Waikawa Gray",
+  "hex_code": "#5A6E9C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Waikawa Gray evokes feelings of stability, calmness, and sophistication. It is a muted, cool-toned gray that suggests reliability and trustworthiness. The color can also promote a sense of peace and introspection, making it suitable for environments where focus and contemplation are desired.",
+  "emotional_associations": [
+    "stability",
+    "calmness",
+    "sophistication",
+    "reliability",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#9C885A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#5A6E9C",
+        "#7A8AB5",
+        "#9AA7CE"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#5A6E9C",
+        "#A38B64",
+        "#E6D4B9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization dashboards",
+      "Subtle accents in enterprise software",
+      "Navigation elements in professional applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Packaging for sleep aids"
+    ],
+    "fashion": [
+      "Business attire",
+      "Casual wear",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Living room featuring Waikawa Gray walls, creating a serene and sophisticated atmosphere.",
+      "image_url": "https://example.com/waikawa_gray_apartment.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A company logo utilizing Waikawa Gray to convey trustworthiness and professionalism.",
+      "image_url": "https://example.com/waikawa_gray_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for balance.",
+    "Use as a background for brighter accent colors.",
+    "Combine with other shades of gray for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Waikawa Gray Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning and uses of Waikawa Gray (#5A6E9C), including psychological associations, complementary colors, and suggested palettes for design projects."
+  },
+  "created_at": "2025-06-01T15:23:48.54499+00:00",
+  "updated_at": "2025-06-01T15:23:48.54499+00:00",
+  "slug": "waikawa-gray"
+}

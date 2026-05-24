@@ -1,0 +1,83 @@
+{
+  "id": "bb74ca71-6c26-4a74-9723-ace2d5c6c625",
+  "color_name": "Jungle Green",
+  "hex_code": "#29AB87",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jungle Green evokes feelings of nature, growth, and tranquility. It is often associated with freshness, health, and harmony. This color can be both calming and energizing, promoting a sense of balance and well-being. It also represents abundance and prosperity, reminding us of the vitality and richness of the natural world.",
+  "emotional_associations": [
+    "Nature",
+    "Growth",
+    "Tranquility",
+    "Health",
+    "Harmony",
+    "Freshness"
+  ],
+  "complementary_colors": [
+    "#AB2945"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Tropical Escape",
+      "swatches": [
+        "#29AB87",
+        "#F0E68C",
+        "#A0522D",
+        "#708090"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#29AB87",
+        "#6B8E23",
+        "#8FBC8F",
+        "#DEB887"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health apps",
+      "Environmental dashboards"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Smoothie bars"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Meditation apps",
+      "Eco-friendly product branding"
+    ],
+    "fashion": [
+      "Activewear",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lush Rainforest",
+      "description": "A vibrant image of a rainforest canopy, showcasing the rich green hues of the jungle.",
+      "image_url": "https://example.com/rainforest.jpg"
+    },
+    {
+      "title": "Herbal Tea Packaging",
+      "description": "Packaging for an herbal tea blend, using Jungle Green to convey natural ingredients and health benefits.",
+      "image_url": "https://example.com/herbaltea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural feel.",
+    "Combine with golds for a luxurious look.",
+    "Use with creams and whites for a clean, modern style."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints of Jungle Green with our color picker tool to find the perfect hue for your next project.",
+  "seo_meta": {
+    "title": "Jungle Green Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Jungle Green, its psychological effects, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T14:58:13.697043+00:00",
+  "updated_at": "2025-06-01T14:58:13.697043+00:00",
+  "slug": "jungle-green"
+}

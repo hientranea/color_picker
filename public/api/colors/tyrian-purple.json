@@ -1,0 +1,83 @@
+{
+  "id": "cd5e3aed-3384-4681-bf16-29cd5c38625c",
+  "color_name": "Tyrian Purple",
+  "hex_code": "#66023C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tyrian Purple, historically associated with royalty and emperors, evokes feelings of power, luxury, and ambition. It suggests sophistication, creativity, and a hint of mystery. The color also carries connotations of spirituality, transformation, and the unconventional.",
+  "emotional_associations": [
+    "royalty",
+    "luxury",
+    "power",
+    "creativity",
+    "mystery",
+    "spirituality"
+  ],
+  "complementary_colors": [
+    "#02662C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Dusk",
+      "swatches": [
+        "#66023C",
+        "#A569BD",
+        "#34495E",
+        "#F4D03F"
+      ]
+    },
+    {
+      "name": "Amethyst Dream",
+      "swatches": [
+        "#66023C",
+        "#9B59B6",
+        "#E8DAEF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Premium app design",
+      "Luxury brand websites"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Gourmet desserts packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Luxury spa branding"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Accessories for special occasions"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Royal Robes",
+      "description": "Historically, Tyrian Purple was used to dye the robes of emperors and royalty due to its rarity and expense.",
+      "image_url": "https://example.com/royal_robes.jpg"
+    },
+    {
+      "title": "Amethyst Gemstone",
+      "description": "The deep purple hue of amethysts closely resembles Tyrian Purple, often associated with spirituality and healing.",
+      "image_url": "https://example.com/amethyst.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a classic, luxurious feel.",
+    "Combine with muted greens for a sophisticated, earthy palette.",
+    "Use with silver and gray for a modern, elegant look.",
+    "Contrast with a bright yellow for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of purple and create your own stunning palettes with our color picker!",
+  "seo_meta": {
+    "title": "Tyrian Purple: The Meaning and Psychology of #66023C",
+    "description": "Discover the rich history, psychological meaning, and best uses of Tyrian Purple (#66023C), a color associated with royalty, luxury, and creativity."
+  },
+  "created_at": "2025-06-01T15:29:41.698088+00:00",
+  "updated_at": "2025-06-01T15:29:41.698088+00:00",
+  "slug": "tyrian-purple"
+}

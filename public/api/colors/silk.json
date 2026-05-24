@@ -1,0 +1,81 @@
+{
+  "id": "90edca0a-61bf-4072-a343-78a0d236958c",
+  "color_name": "Silk",
+  "hex_code": "#BDB1A8",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Silk, with its soft and muted tone, evokes feelings of tranquility, sophistication, and understated elegance. It suggests a sense of calm and serenity, promoting relaxation and a feeling of well-being. Silk represents a refined aesthetic and a connection to natural beauty.",
+  "emotional_associations": [
+    "calmness",
+    "elegance",
+    "sophistication",
+    "serenity",
+    "natural beauty"
+  ],
+  "complementary_colors": [
+    "#A8B0BD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dawn",
+      "swatches": [
+        "#BDB1A8",
+        "#E8E2D9",
+        "#D3CEC4",
+        "#A39B92"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#BDB1A8",
+        "#8C7D71",
+        "#CDB38B",
+        "#594F45"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background elements",
+      "Neutral interface themes",
+      "Text color for readability"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Bridal wear",
+      "Lingerie",
+      "Understated casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Silk Scarf",
+      "description": "A luxurious silk scarf in a soft silk color adds an element of sophistication to any outfit.",
+      "image_url": "https://example.com/silk_scarf.jpg"
+    },
+    {
+      "title": "Bedroom Interior",
+      "description": "A bedroom with silk-colored walls creates a serene and relaxing atmosphere.",
+      "image_url": "https://example.com/silk_bedroom.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with other neutrals for a minimalist look.",
+    "Combine with pastel shades for a soft and delicate palette.",
+    "Use with darker tones to create contrast and add depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades to complement Silk and create your own unique palette!",
+  "seo_meta": {
+    "title": "Silk Color Meaning: The Psychology of #BDB1A8",
+    "description": "Discover the meaning of Silk (#BDB1A8), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:22:07.404129+00:00",
+  "updated_at": "2025-06-01T16:22:07.404129+00:00",
+  "slug": "silk"
+}

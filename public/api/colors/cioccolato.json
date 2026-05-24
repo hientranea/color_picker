@@ -1,0 +1,82 @@
+{
+  "id": "a5f78c3f-aecf-4b46-bd17-483867d38a29",
+  "color_name": "Cioccolato",
+  "hex_code": "#55280C",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Cioccolato evokes feelings of comfort, warmth, and security, reminiscent of indulgence and groundedness. It's a color associated with dependability, wholesomeness, and a connection to the earth. Cioccolato promotes a sense of stability and reliability, offering a comforting and reassuring presence.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "security",
+    "indulgence",
+    "groundedness",
+    "dependability"
+  ],
+  "complementary_colors": [
+    "#0C3355"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#55280C",
+        "#A67B5B",
+        "#D2B48C",
+        "#E9DABB"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#55280C",
+        "#774F38",
+        "#B08968",
+        "#D1C0B0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for chocolate",
+      "Branding for coffee shops",
+      "Advertising for dessert products"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Winter coats",
+      "Leather accessories",
+      "Autumn apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Chocolate Bar Packaging",
+      "description": "A luxurious chocolate bar with packaging featuring deep cioccolato hues.",
+      "image_url": "url_to_chocolate_bar_image.jpg"
+    },
+    {
+      "title": "Leather Sofa",
+      "description": "A comfortable leather sofa in a rich cioccolato color, providing a warm and inviting feel to a living room.",
+      "image_url": "url_to_leather_sofa_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for a natural feel.",
+    "Accent with golds for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Cioccolato Color Meaning: Discover the Psychology of #55280C",
+    "description": "Uncover the emotional and psychological meaning of Cioccolato (#55280C). Explore its associations, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:22:08.839319+00:00",
+  "updated_at": "2025-06-01T15:22:08.839319+00:00",
+  "slug": "cioccolato"
+}

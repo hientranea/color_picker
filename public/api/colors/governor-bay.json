@@ -1,0 +1,79 @@
+{
+  "id": "f87e00ef-19e9-48d7-a1ae-8961a68b722c",
+  "color_name": "Governor Bay",
+  "hex_code": "#2F3CB3",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Governor Bay is a sophisticated and calming blue-purple, evoking feelings of trust, stability, and intelligence. It suggests a sense of authority balanced with creativity and introspection, making it a color that inspires confidence and thoughtful decision-making. It can promote a sense of calm reliability, ideal for creating environments that inspire trust and creativity.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intelligence",
+    "creativity",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#B3762F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#2F3CB3",
+        "#A2A9D1",
+        "#D4D9EA",
+        "#E6E8EF"
+      ]
+    },
+    {
+      "name": "Confident Calm",
+      "swatches": [
+        "#2F3CB3",
+        "#6174B0",
+        "#93A5AD",
+        "#C5D6AA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Security applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Therapy websites"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Evening gowns"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Evening Sky",
+      "description": "The deep blue-purple of the twilight sky just after sunset.",
+      "image_url": "https://example.com/evening_sky.jpg"
+    },
+    {
+      "title": "Iris Flower",
+      "description": "The rich and complex color of some iris petals.",
+      "image_url": "https://example.com/iris_flower.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for a luxurious feel.",
+    "Combine with grays for a professional look.",
+    "Use with lighter blues for a calming atmosphere."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades with our interactive color palette generator.",
+  "seo_meta": {
+    "title": "Governor Bay Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning and symbolism of Governor Bay (#2F3CB3), including color psychology, complementary colors, and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:00:56.440473+00:00",
+  "updated_at": "2025-06-01T15:00:56.440473+00:00",
+  "slug": "governor-bay"
+}

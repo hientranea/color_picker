@@ -1,0 +1,77 @@
+{
+  "id": "f77321ea-899c-492d-adbd-e5f9b6cab52e",
+  "color_name": "Tundora",
+  "hex_code": "#4A4244",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Tundora evokes feelings of stability, neutrality, and understated sophistication. It's often associated with reliability and practicality, making it a grounded and dependable color. While it can sometimes be perceived as somber, it also possesses an elegant and timeless quality.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "sophistication",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#444C4A",
+    "#B5BDB7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4A4244",
+        "#A39485",
+        "#D5CEC6",
+        "#736961"
+      ]
+    },
+    {
+      "name": "Monochrome Mood",
+      "swatches": [
+        "#4A4244",
+        "#665D5F",
+        "#82787A",
+        "#9E9496"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "subtle backgrounds",
+      "text color for improved readability",
+      "dividers"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "outerwear",
+      "classic accessories",
+      "business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Buildings",
+      "description": "The color of aged stone, conveying permanence.",
+      "image_url": "https://example.com/stone_building.jpg"
+    },
+    {
+      "title": "Vintage Leather",
+      "description": "Similar to the color of worn leather goods.",
+      "image_url": "https://example.com/vintage_leather.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a soft contrast.",
+    "Use with metallic accents for a touch of elegance.",
+    "Combine with muted greens for an earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Tundora Color Meaning: Understanding #4A4244",
+    "description": "Discover the meaning, psychology, and best uses for the Tundora color (#4A4244). Explore palettes and complementary colors."
+  },
+  "created_at": "2025-06-01T15:16:28.678765+00:00",
+  "updated_at": "2025-06-01T15:16:28.678765+00:00",
+  "slug": "tundora"
+}

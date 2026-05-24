@@ -1,0 +1,78 @@
+{
+  "id": "c054b520-c126-449e-a55f-519c9c6c3824",
+  "color_name": "Royal Blue",
+  "hex_code": "#4169E1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Royal Blue is often associated with feelings of trust, loyalty, wisdom, confidence, intelligence, faith, truth, and heaven. It is considered beneficial to the mind and body. It slows human metabolism and produces a calming effect. Royal Blue is strongly associated with tranquility and calmness.",
+  "emotional_associations": [
+    "trust",
+    "loyalty",
+    "wisdom",
+    "confidence",
+    "intelligence"
+  ],
+  "complementary_colors": [
+    "#E1B341",
+    "#FFC87F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal",
+      "swatches": [
+        "#4169E1",
+        "#A0CED9",
+        "#E6E2C3"
+      ]
+    },
+    {
+      "name": "Oceanic",
+      "swatches": [
+        "#4169E1",
+        "#7DF9FF",
+        "#008080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Loading screens",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Royal Blue Sapphire",
+      "description": "A gemstone known for its deep blue color and association with royalty.",
+      "image_url": "https://example.com/royal_blue_sapphire.jpg"
+    },
+    {
+      "title": "Royal Blue Suit",
+      "description": "A popular choice for formal occasions, conveying sophistication and confidence.",
+      "image_url": "https://example.com/royal_blue_suit.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with white for a clean and crisp look.",
+    "Use with gray for a modern and sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to create stunning color combinations with Royal Blue!",
+  "seo_meta": {
+    "title": "Royal Blue Color Meaning: Understanding the Psychology of #4169E1",
+    "description": "Explore the meaning, psychology, and uses of Royal Blue (#4169E1). Discover complementary colors, palettes, and real-world examples of this sophisticated color."
+  },
+  "created_at": "2025-06-01T15:12:17.251551+00:00",
+  "updated_at": "2025-06-01T15:12:17.251551+00:00",
+  "slug": "royal-blue"
+}

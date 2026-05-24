@@ -1,0 +1,80 @@
+{
+  "id": "74eb0e9e-03dd-41a8-ba4a-ec30662dbec8",
+  "color_name": "Avocado",
+  "hex_code": "#888D65",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Avocado green evokes feelings of nature, health, and freshness. It is often associated with wellness, sustainability, and a connection to the earth. This color can also represent calmness, sophistication, and a sense of well-being, making it a popular choice for brands focused on natural and organic products.",
+  "emotional_associations": [
+    "nature",
+    "health",
+    "freshness",
+    "calmness",
+    "sophistication",
+    "sustainability"
+  ],
+  "complementary_colors": [
+    "#D1888D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#888D65",
+        "#A39E93",
+        "#D4CABD",
+        "#594A42"
+      ]
+    },
+    {
+      "name": "Fresh Start",
+      "swatches": [
+        "#888D65",
+        "#F0E68C",
+        "#B0E57C",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Restaurant branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Avocado Bathroom",
+      "description": "An avocado colored bathroom to give a retro but modern feel",
+      "image_url": "https://example.com/avocado_bathroom.jpg"
+    },
+    {
+      "title": "Fresh Avocados",
+      "description": "A pile of fresh avocados at the local farmers market",
+      "image_url": "https://example.com/avocados.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, natural look.",
+    "Combine with browns for an earthy palette.",
+    "Use with golds for a touch of luxury.",
+    "Contrast with purples for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of green and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Avocado Color Meaning: Understanding the Psychology of #888D65",
+    "description": "Discover the meaning and associations of Avocado green (#888D65). Learn about its psychological effects, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:50:53.157409+00:00",
+  "updated_at": "2025-06-01T15:50:53.157409+00:00",
+  "slug": "avocado"
+}

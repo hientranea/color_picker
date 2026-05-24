@@ -1,0 +1,80 @@
+{
+  "id": "0e7bd6ff-4fd2-4c90-89a8-41966ae3dc91",
+  "color_name": "Bistre",
+  "hex_code": "#3D2B1F",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Bistre evokes a sense of earthiness, stability, and understated elegance. It's often associated with nature, history, and a quiet sophistication. This color can represent a grounding influence, offering a feeling of comfort and reliability. It suggests a connection to the past and a sense of enduring quality.",
+  "emotional_associations": [
+    "earthiness",
+    "stability",
+    "understated elegance",
+    "comfort",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#1F313D",
+    "#FFFFFF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#3D2B1F",
+        "#A68B64",
+        "#D4A373",
+        "#F2D7B8"
+      ]
+    },
+    {
+      "name": "Monochromatic",
+      "swatches": [
+        "#3D2B1F",
+        "#523C2C",
+        "#664D39",
+        "#7A5E46"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Leather Furniture",
+      "description": "A classic leather armchair in a bistre shade, adding warmth and character to a library.",
+      "image_url": "https://example.com/bistre_leather_chair.jpg"
+    },
+    {
+      "title": "Dark Chocolate Packaging",
+      "description": "Premium dark chocolate bars featuring bistre-colored packaging for a luxurious feel.",
+      "image_url": "https://example.com/bistre_chocolate_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a classic look.",
+    "Combine with deep greens for a natural and calming palette.",
+    "Use gold or bronze accents for added elegance.",
+    "Contrast with teal or turquoise for a modern twist."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Bistre Color Meaning: Understanding #3D2B1F",
+    "description": "Discover the meaning, associations, and best uses for the bistre color (#3D2B1F) in design and branding. Explore complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T15:08:45.562968+00:00",
+  "updated_at": "2025-06-01T15:08:45.562968+00:00",
+  "slug": "bistre"
+}

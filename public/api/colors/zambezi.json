@@ -1,0 +1,81 @@
+{
+  "id": "8f414231-6e66-4656-a7a0-369932632cfe",
+  "color_name": "Zambezi",
+  "hex_code": "#685558",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Zambezi, a muted and earthy brown, evokes feelings of stability, reliability, and groundedness. It represents a connection to nature and a sense of calm practicality. Zambezi suggests dependability and a no-nonsense approach, often associated with resilience and a comforting presence.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "groundedness",
+    "calm",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#586B68"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#685558",
+        "#A69B97",
+        "#D4CEC9",
+        "#827371"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#685558",
+        "#B08968",
+        "#F1DDCF",
+        "#4A4E69"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist apps",
+      "Subtle color accents in data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for coffee or chocolate",
+      "Restaurant interiors to create a cozy atmosphere"
+    ],
+    "wellness": [
+      "Yoga studio design",
+      "Meditation app interface"
+    ],
+    "fashion": [
+      "Outerwear and accessories",
+      "Casual wear and comfortable clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Earthenware Pottery",
+      "description": "Handcrafted pottery with a rich Zambezi-colored glaze.",
+      "image_url": "https://example.com/pottery.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "Classic leather boots in a durable Zambezi hue.",
+      "image_url": "https://example.com/boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a soft, natural look.",
+    "Combine with muted greens and blues for an earthy palette.",
+    "Use as a grounding base with pops of brighter accent colors."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Zambezi Color Meaning: Understanding #685558",
+    "description": "Discover the meaning and psychology behind Zambezi (#685558), a muted brown color. Explore its associations, complementary colors, and practical uses."
+  },
+  "created_at": "2025-06-01T15:30:57.666773+00:00",
+  "updated_at": "2025-06-01T15:30:57.666773+00:00",
+  "slug": "zambezi"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1b52c0cc-5050-47ae-b1de-2215ca9ab5dd",
+  "color_name": "Cola",
+  "hex_code": "#3F2500",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Cola, with its deep brown hue, evokes feelings of comfort, nostalgia, and reliability. It is often associated with classic brands and enduring appeal, suggesting a sense of grounded stability and familiarity. This color can also represent richness and indulgence, reminiscent of the satisfying taste of cola beverages.",
+  "emotional_associations": [
+    "comfort",
+    "nostalgia",
+    "reliability",
+    "richness"
+  ],
+  "complementary_colors": [
+    "#002A3F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic Comfort",
+      "swatches": [
+        "#3F2500",
+        "#A67B5B",
+        "#E3D1C7",
+        "#736357"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#3F2500",
+        "#C8B2A3",
+        "#F2EBDD",
+        "#59463D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Soft drink branding",
+      "Coffee packaging",
+      "Chocolate products"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather goods",
+      "Fall/Winter apparel",
+      "Accessories (belts, bags)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coca-Cola Branding",
+      "description": "The classic Coca-Cola logo utilizes a similar brown hue to convey tradition and familiarity.",
+      "image_url": "https://example.com/coca-cola.jpg"
+    },
+    {
+      "title": "Leather Furniture",
+      "description": "Cola-colored leather furniture adds a touch of sophistication and comfort to living spaces.",
+      "image_url": "https://example.com/leather-furniture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a classic look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with muted greens or blues for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Cola Color Meaning: The Psychology of #3F2500",
+    "description": "Discover the meaning and associations of the Cola color (#3F2500). Explore its psychological impact, complementary colors, and design applications."
+  },
+  "created_at": "2025-06-01T15:09:48.531257+00:00",
+  "updated_at": "2025-06-01T15:09:48.531257+00:00",
+  "slug": "cola"
+}

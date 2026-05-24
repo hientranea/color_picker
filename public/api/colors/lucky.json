@@ -1,0 +1,80 @@
+{
+  "id": "38d9be71-5c7d-4ca8-a6d1-17edb554709c",
+  "color_name": "Lucky",
+  "hex_code": "#AF9F1C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lucky embodies feelings of optimism, fortune, and prosperity. It is often associated with growth, abundance, and a positive outlook on life. This color suggests stability and trustworthiness, while also hinting at the exciting possibilities that lie ahead. It promotes a sense of well-being and encourages a hopeful approach to challenges.",
+  "emotional_associations": [
+    "optimism",
+    "fortune",
+    "prosperity",
+    "growth",
+    "abundance",
+    "trustworthiness"
+  ],
+  "complementary_colors": [
+    "#1C2CAF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#AF9F1C",
+        "#6B8E23",
+        "#D2B48C",
+        "#A9A9A9"
+      ]
+    },
+    {
+      "name": "Golden Hour",
+      "swatches": [
+        "#AF9F1C",
+        "#F0E68C",
+        "#DAA520",
+        "#556B2F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food branding",
+      "Healthy snack packaging"
+    ],
+    "wellness": [
+      "Natural remedy labels",
+      "Eco-friendly product design"
+    ],
+    "fashion": [
+      "Accessories",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Four-Leaf Clover",
+      "description": "A symbol of good luck and fortune, the four-leaf clover embodies the essence of the color Lucky.",
+      "image_url": "https://example.com/four_leaf_clover.jpg"
+    },
+    {
+      "title": "Ripe Olives",
+      "description": "The subtle green-gold of ripe olives evokes feelings of abundance and natural goodness, aligning with the Lucky color.",
+      "image_url": "https://example.com/ripe_olives.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a balanced look.",
+    "Use with earthy tones for a natural feel.",
+    "Combine with gold accents for a touch of luxury.",
+    "Contrast with deep blues for a vibrant effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Lucky Color Meaning: Exploring the Psychology of #AF9F1C",
+    "description": "Discover the meaning, associations, and best uses for the color Lucky (#AF9F1C). Learn how to incorporate this color into your designs and evoke feelings of optimism and prosperity."
+  },
+  "created_at": "2025-06-01T16:13:27.476414+00:00",
+  "updated_at": "2025-06-01T16:13:27.476414+00:00",
+  "slug": "lucky"
+}

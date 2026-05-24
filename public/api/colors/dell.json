@@ -1,0 +1,79 @@
+{
+  "id": "9cd6b9b7-beb4-447c-a908-9c99c932cc78",
+  "color_name": "Dell",
+  "hex_code": "#396413",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Dell is a deep, earthy green that evokes feelings of nature, stability, and growth. It suggests a connection to the environment, promoting a sense of calm and groundedness. Dell can also represent prosperity, health, and a quiet confidence, often associated with established brands and reliability.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "growth",
+    "calm",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#643913",
+    "#D6A273"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#396413",
+        "#A9B388",
+        "#F2E8CF",
+        "#845444"
+      ]
+    },
+    {
+      "name": "Forest Depths",
+      "swatches": [
+        "#396413",
+        "#224519",
+        "#558B2F",
+        "#90A4AE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Health food branding"
+    ],
+    "wellness": [
+      "Eco-friendly product labels",
+      "Nature-inspired spa design"
+    ],
+    "fashion": [
+      "Outdoor clothing",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Outdoor Gear Store",
+      "description": "Used as a primary brand color to convey ruggedness and reliability.",
+      "image_url": "https://example.com/image1.jpg"
+    },
+    {
+      "title": "Organic Farm Logo",
+      "description": "Represents the farm's commitment to natural and sustainable practices.",
+      "image_url": "https://example.com/image2.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones for a sophisticated look.",
+    "Combine with light greens for a fresh, natural palette.",
+    "Use with warm browns for an earthy, grounded feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Dell Color Meaning: Understanding #396413",
+    "description": "Explore the meaning, associations, and best uses of the Dell color (#396413), a deep, earthy green. Discover complementary colors, palette ideas, and industry applications."
+  },
+  "created_at": "2025-06-01T15:06:05.990877+00:00",
+  "updated_at": "2025-06-01T15:06:05.990877+00:00",
+  "slug": "dell"
+}

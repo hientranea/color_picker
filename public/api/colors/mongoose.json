@@ -1,0 +1,81 @@
+{
+  "id": "5bccbba6-1897-428c-8a64-2ac07096a132",
+  "color_name": "Mongoose",
+  "hex_code": "#B5A27F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mongoose, a muted and earthy brown, evokes feelings of stability, reliability, and understated elegance. It suggests a connection to nature and a sense of groundedness. This color is often associated with sophistication, maturity, and a quiet confidence, making it suitable for conveying a sense of trustworthiness and enduring quality.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "sophistication",
+    "groundedness",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#7FA8B5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#B5A27F",
+        "#D4CBB7",
+        "#736D5C",
+        "#A68E6B",
+        "#E9E5DC"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#B5A27F",
+        "#8C7853",
+        "#C6B38E",
+        "#604A3A",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic coffee",
+      "Branding for artisanal bread"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories (belts, bags)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in a living room setting.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Stone Architecture",
+      "description": "A building facade constructed from natural stone.",
+      "image_url": "https://example.com/stone_building.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural look.",
+    "Combine with creams and whites for elegance.",
+    "Use with darker browns for depth.",
+    "Contrast with soft blues for balance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Mongoose!",
+  "seo_meta": {
+    "title": "Mongoose Color Meaning: Understanding #B5A27F",
+    "description": "Explore the meaning, psychology, and best uses of the Mongoose color (#B5A27F). Discover palettes, pairings, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:17:11.373381+00:00",
+  "updated_at": "2025-06-01T16:17:11.373381+00:00",
+  "slug": "mongoose"
+}

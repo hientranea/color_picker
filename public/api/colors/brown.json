@@ -1,0 +1,81 @@
+{
+  "id": "4409066e-5477-4fd5-9ff0-a292829c886e",
+  "color_name": "Brown",
+  "hex_code": "#964B00",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Brown is often associated with earth, stability, and reliability. It evokes a sense of comfort, security, and wholesomeness. Brown can also represent simplicity, honesty, and naturalness, and is often perceived as a neutral and grounding color.",
+  "emotional_associations": [
+    "earthy",
+    "stable",
+    "reliable",
+    "comfortable",
+    "wholesome"
+  ],
+  "complementary_colors": [
+    "#009651",
+    "#BEE7FF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#964B00",
+        "#A0522D",
+        "#CD853F",
+        "#DEB887"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#964B00",
+        "#654321",
+        "#8B4513",
+        "#D2691E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Organic food labels"
+    ],
+    "wellness": [
+      "Natural skincare products",
+      "Eco-friendly brands"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Outdoor clothing",
+      "Bohemian styles"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wooden Furniture",
+      "description": "Brown wooden furniture brings a sense of warmth and nature indoors.",
+      "image_url": "https://example.com/wooden_furniture.jpg"
+    },
+    {
+      "title": "Coffee Beans",
+      "description": "The rich brown color of coffee beans is associated with warmth, comfort, and energy.",
+      "image_url": "https://example.com/coffee_beans.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with greens for an earthy feel.",
+    "Combine with creams for a sophisticated look.",
+    "Use with blues for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of brown and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Brown Color Meaning: Symbolism, Associations & Palettes",
+    "description": "Discover the meaning of brown, its psychological effects, and how to use it in your designs with complementary colors and palettes."
+  },
+  "created_at": "2025-06-01T15:58:15.314863+00:00",
+  "updated_at": "2025-06-01T15:58:15.314863+00:00",
+  "slug": "brown"
+}

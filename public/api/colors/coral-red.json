@@ -1,0 +1,88 @@
+{
+  "id": "82e0e5ce-6e4c-443f-af9a-6c7a7861e720",
+  "color_name": "Coral Red",
+  "hex_code": "#FF5733",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Coral Red is a vibrant and energetic color that combines the passion of red with the optimism of orange. It evokes feelings of warmth, enthusiasm, and creativity. This color can also represent sociability, adventure, and a zest for life. Coral Red is often associated with the sea and tropical environments, bringing a sense of relaxation and exoticism.",
+  "emotional_associations": [
+    "energy",
+    "passion",
+    "warmth",
+    "enthusiasm",
+    "creativity",
+    "sociability",
+    "adventure"
+  ],
+  "complementary_colors": [
+    "#33BBFF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Tropical Sunset",
+      "swatches": [
+        "#FF5733",
+        "#FFC300",
+        "#DAF7A6",
+        "#900C3F"
+      ]
+    },
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#FF5733",
+        "#A7D1AB",
+        "#66B2FF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Call to action buttons",
+      "Highlighting key features",
+      "Energetic app themes"
+    ],
+    "food_beverage": [
+      "Restaurant branding",
+      "Packaging for exotic fruits",
+      "Spice blends labels"
+    ],
+    "wellness": [
+      "Fitness app interfaces",
+      "Health food product packaging",
+      "Motivational content"
+    ],
+    "fashion": [
+      "Summer clothing lines",
+      "Swimwear",
+      "Accent colors in accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coral Reef",
+      "description": "Vibrant coral reefs showcasing the beauty and diversity of marine life.",
+      "image_url": "https://example.com/coral_reef.jpg"
+    },
+    {
+      "title": "Tropical Flowers",
+      "description": "Bright coral red hibiscus flowers blooming in a lush garden.",
+      "image_url": "https://example.com/tropical_flowers.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with teal for a vibrant contrast.",
+    "Combine with warm neutrals for a balanced look.",
+    "Use with gold accents for a touch of luxury.",
+    "Mix with pastel blues and greens for a summery feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette using our color picker tool!",
+  "seo_meta": {
+    "title": "Coral Red Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Coral Red, its emotional associations, complementary colors, and how to use it effectively in design and branding."
+  },
+  "created_at": "2025-05-17T09:24:10.802956+00:00",
+  "updated_at": "2025-05-17T09:24:10.802956+00:00",
+  "slug": "coral-red"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "a02791ad-2b42-4962-a518-ff3915abab5d",
+  "color_name": "Goblin",
+  "hex_code": "#3D7D52",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Goblin, a muted shade of green, evokes feelings of nature, growth, and a touch of mystery. It suggests stability and endurance, while also hinting at the hidden and unknown aspects of the natural world. It represents balance and harmony, often associated with healing and renewal, but with an earthy, grounded quality that prevents it from being overly idealistic.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "mystery",
+    "stability",
+    "healing",
+    "earthiness"
+  ],
+  "complementary_colors": [
+    "#7D3D68"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#3D7D52",
+        "#A7D1AB",
+        "#735F32",
+        "#E0CBA8"
+      ]
+    },
+    {
+      "name": "Mystic Forest",
+      "swatches": [
+        "#3D7D52",
+        "#264A33",
+        "#593B2F",
+        "#C6B3A1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Sustainable technology interfaces"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Natural skincare products",
+      "Meditation app design"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Undergrowth",
+      "description": "The color of dense forest undergrowth, representing natural beauty and hidden life.",
+      "image_url": "url_to_forest_image.jpg"
+    },
+    {
+      "title": "Vintage Military Uniform",
+      "description": "A classic military uniform, signifying history, resilience, and a grounded perspective.",
+      "image_url": "url_to_military_uniform.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with muted browns for an earthy feel.",
+    "Pair with gold accents for a touch of elegance.",
+    "Use with creams and off-whites for a calming effect.",
+    "Contrast with shades of purple for visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Goblin Color Meaning: Understanding #3D7D52",
+    "description": "Discover the meaning and symbolism of the Goblin color (#3D7D52). Explore its psychological associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:08:52.899853+00:00",
+  "updated_at": "2025-06-01T15:08:52.899853+00:00",
+  "slug": "goblin"
+}

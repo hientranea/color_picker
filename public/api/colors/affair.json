@@ -1,0 +1,81 @@
+{
+  "id": "27f1dc3d-f815-4ef9-a253-722e823c3871",
+  "color_name": "Affair",
+  "hex_code": "#714693",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Affair, a sophisticated shade of purple, evokes feelings of mystery, creativity, and introspection. It blends the stability of blue with the energy of red, resulting in a color that can be both calming and stimulating. It often represents luxury, ambition, and independence, but can also be associated with melancholy and nostalgia.",
+  "emotional_associations": [
+    "mystery",
+    "luxury",
+    "creativity",
+    "introspection",
+    "ambition"
+  ],
+  "complementary_colors": [
+    "#937146"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance",
+      "swatches": [
+        "#714693",
+        "#A084C3",
+        "#D0B2D5",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Twilight",
+      "swatches": [
+        "#714693",
+        "#4A306D",
+        "#24184F",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces for creative tools",
+      "Dark mode themes for luxury apps"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Packaging for gourmet desserts"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Accessories for a sophisticated look"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Hotel Lobby",
+      "description": "The walls are painted in a deep 'Affair' purple, creating an atmosphere of opulence and tranquility.",
+      "image_url": "https://example.com/hotel_lobby.jpg"
+    },
+    {
+      "title": "Designer's Portfolio Website",
+      "description": "The website uses 'Affair' as a primary color to showcase creativity and artistic flair.",
+      "image_url": "https://example.com/portfolio_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with golds for a luxurious feel.",
+    "Use with grays for a modern and sophisticated look.",
+    "Combine with whites to create a clean and elegant design."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades to complement 'Affair'.",
+  "seo_meta": {
+    "title": "Affair Color Meaning: The Psychology of #714693",
+    "description": "Discover the meaning, psychology, and best uses for the color 'Affair' (#714693). Explore palettes and examples."
+  },
+  "created_at": "2025-06-01T15:35:53.158628+00:00",
+  "updated_at": "2025-06-01T15:35:53.158628+00:00",
+  "slug": "affair"
+}

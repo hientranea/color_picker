@@ -1,0 +1,82 @@
+{
+  "id": "e6bac11c-76b2-4602-a600-d3b458a80041",
+  "color_name": "Lima",
+  "hex_code": "#76BD17",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lima is a vibrant and energetic green that evokes feelings of freshness, growth, and vitality. It is associated with nature, health, and renewal, conveying a sense of optimism and well-being. This color can inspire feelings of balance and harmony, promoting a sense of connection with the natural world and encouraging a positive outlook.",
+  "emotional_associations": [
+    "freshness",
+    "growth",
+    "vitality",
+    "nature",
+    "optimism",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#BD1776"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#76BD17",
+        "#A8D86E",
+        "#558B2F",
+        "#E0E7DA"
+      ]
+    },
+    {
+      "name": "Vibrant Spring",
+      "swatches": [
+        "#76BD17",
+        "#FFD700",
+        "#3CB371",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "App icons for health and wellness apps",
+      "Highlight color for eco-friendly product interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for organic and natural foods",
+      "Branding for fresh juice and smoothie bars"
+    ],
+    "wellness": [
+      "Logos for yoga studios and wellness retreats",
+      "Website design for holistic health practitioners"
+    ],
+    "fashion": [
+      "Accent color for sportswear",
+      "Print color for summer dresses"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Fresh Produce",
+      "description": "A display of fresh limes in a market, showcasing the vibrant color of the fruit.",
+      "image_url": "https://example.com/lime_produce.jpg"
+    },
+    {
+      "title": "Lush Greenery",
+      "description": "A scene of lush green plants and foliage in a tropical garden.",
+      "image_url": "https://example.com/lush_greenery.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with yellows for a bright and energetic feel.",
+    "Combine with browns and beige for an earthy, natural look.",
+    "Use with white for a clean and modern aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Lima Color Meaning: Understanding #76BD17 - Color Psychology",
+    "description": "Discover the meaning and psychology behind the Lima color (#76BD17). Explore its emotional associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:39:13.023498+00:00",
+  "updated_at": "2025-06-01T15:39:13.023498+00:00",
+  "slug": "lima"
+}

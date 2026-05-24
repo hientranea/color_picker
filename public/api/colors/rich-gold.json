@@ -1,0 +1,77 @@
+{
+  "id": "a37cd527-8047-4674-b6df-deebd663655c",
+  "color_name": "Rich Gold",
+  "hex_code": "#A85307",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rich Gold evokes feelings of luxury, prosperity, and sophistication. It combines the warmth and energy of yellow with the grounded stability of brown, creating a sense of confident abundance and established success. This color is often associated with high-end brands and items, suggesting quality and lasting value.",
+  "emotional_associations": [
+    "luxury",
+    "wealth",
+    "sophistication",
+    "warmth",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#075FA8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#A85307",
+        "#D4A373",
+        "#F2E8CF",
+        "#745842",
+        "#332C27"
+      ]
+    },
+    {
+      "name": "Gilded Age",
+      "swatches": [
+        "#A85307",
+        "#CDB380",
+        "#E8DAB2",
+        "#222222",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Luxury chocolates",
+      "Premium coffee branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "High-end accessories",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Gold Bar",
+      "description": "A solid gold bar, representing wealth and security.",
+      "image_url": "https://example.com/gold_bar.jpg"
+    },
+    {
+      "title": "Luxury Watch",
+      "description": "A gold watch symbolizing status and timeless elegance.",
+      "image_url": "https://example.com/gold_watch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep blues for a classic contrast.",
+    "Combine with creams and whites for an elegant look.",
+    "Use sparingly as an accent color to add richness."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of gold and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Rich Gold Color Meaning: Symbolism, Combinations & Palettes",
+    "description": "Discover the meaning of Rich Gold (#A85307), its psychological effects, best color combinations, and inspiring design palettes for your next project."
+  },
+  "created_at": "2025-06-01T16:06:58.123603+00:00",
+  "updated_at": "2025-06-01T16:06:58.123603+00:00",
+  "slug": "rich-gold"
+}

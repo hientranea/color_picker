@@ -1,0 +1,80 @@
+{
+  "id": "5595c5bc-8274-41b4-9aa9-730a2a68308d",
+  "color_name": "Dark Burgundy",
+  "hex_code": "#770F05",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Dark Burgundy evokes feelings of sophistication, luxury, and deep passion. It combines the power of red with the stability of brown, suggesting maturity, wealth, and understated elegance. This color often represents ambition and a refined taste, suitable for brands and designs that aim to convey quality and exclusivity.",
+  "emotional_associations": [
+    "sophistication",
+    "luxury",
+    "passion",
+    "elegance",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#056D77"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance Defined",
+      "swatches": [
+        "#770F05",
+        "#A63A2B",
+        "#D46551",
+        "#F29077",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#770F05",
+        "#593E1A",
+        "#A67B5B",
+        "#D4B399",
+        "#F2E9E1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "wine labels",
+      "chocolate packaging",
+      "coffee branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "evening gowns",
+      "leather accessories",
+      "winter coats"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Burgundy Leather Sofa",
+      "description": "A luxurious burgundy leather sofa adds a touch of elegance to any living space.",
+      "image_url": "https://example.com/burgundy_sofa.jpg"
+    },
+    {
+      "title": "Bottle of Fine Wine",
+      "description": "The deep burgundy color of a fine wine hints at its rich and complex flavor profile.",
+      "image_url": "https://example.com/burgundy_wine.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with cream or beige for a classic look.",
+    "Use with dark greens for a sophisticated contrast.",
+    "Accent with muted blues for a modern touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations with our color palette generator now!",
+  "seo_meta": {
+    "title": "Dark Burgundy Color Meaning, Code & Combinations",
+    "description": "Discover the meaning of Dark Burgundy (#770F05), its psychological effects, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:39:26.909224+00:00",
+  "updated_at": "2025-06-01T15:39:26.909224+00:00",
+  "slug": "dark-burgundy"
+}

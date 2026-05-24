@@ -1,0 +1,85 @@
+{
+  "id": "560fc4aa-1f56-433f-9fe5-22f09ff3435c",
+  "color_name": "Butterfly Bush",
+  "hex_code": "#624E9A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Butterfly Bush, a captivating shade of purple, evokes feelings of creativity, intuition, and spiritual connection. It's a color often associated with royalty, mystery, and the subconscious mind. This hue can inspire introspection and a sense of wonder, inviting us to explore the depths of our imagination and connect with something larger than ourselves.",
+  "emotional_associations": [
+    "creativity",
+    "intuition",
+    "spirituality",
+    "mystery",
+    "royalty",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#9A624E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dawn",
+      "swatches": [
+        "#624E9A",
+        "#A384BC",
+        "#D4C2E8",
+        "#FFFFFF",
+        "#333333"
+      ]
+    },
+    {
+      "name": "Royal Garden",
+      "swatches": [
+        "#624E9A",
+        "#4E9A62",
+        "#9AB24E",
+        "#A384BC",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Loading screens",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual retreats",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Jewelry",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purples and intricate formations of an amethyst geode embody the beauty and mystery associated with the color Butterfly Bush.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    },
+    {
+      "title": "Butterfly Bush Flower",
+      "description": "The namesake flower, with its vibrant purple blooms, perfectly captures the essence of this color.",
+      "image_url": "https://example.com/butterfly_bush_flower.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural, calming effect.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with whites and creams for a clean, modern look.",
+    "Contrast with its complementary color for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our intuitive color palette generator.",
+  "seo_meta": {
+    "title": "Butterfly Bush Color Meaning: Psychology, Combinations & More",
+    "description": "Discover the meaning of Butterfly Bush (#624E9A), its emotional associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:27:20.825715+00:00",
+  "updated_at": "2025-06-01T15:27:20.825715+00:00",
+  "slug": "butterfly-bush"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "af0a8378-c547-49e1-86a6-a4cffb67dd80",
+  "color_name": "Bay of Many",
+  "hex_code": "#273A81",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bay of Many evokes feelings of stability, trust, and intelligence. Its deep blue-purple hue suggests sophistication and introspection, often associated with contemplation and inner peace. It can inspire confidence and a sense of security, making it a calming yet powerful color choice.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intelligence",
+    "sophistication",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#817027"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#273A81",
+        "#5072A4",
+        "#7AA9C7",
+        "#A3E1EA",
+        "#CCE8FF"
+      ]
+    },
+    {
+      "name": "Twilight Haze",
+      "swatches": [
+        "#273A81",
+        "#483D8B",
+        "#6A5ACD",
+        "#7B68EE",
+        "#8A2BE2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces",
+      "Corporate communication platforms"
+    ],
+    "food_beverage": null,
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal accessories",
+      "Winter outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Headquarters Lobby",
+      "description": "A modern lobby featuring Bay of Many accents to inspire trust and professionalism.",
+      "image_url": "https://example.com/lobby.jpg"
+    },
+    {
+      "title": "Luxury Yacht Interior",
+      "description": "Bay of Many used in the yacht's interior design to create a calming and sophisticated ambiance.",
+      "image_url": "https://example.com/yacht.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light greys for a modern look.",
+    "Combine with gold accents for luxury.",
+    "Use with teal for a contrasting yet harmonious palette.",
+    "Consider cream or off-white for a soft, calming feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Bay of Many Color Meaning: Psychology, Palettes & Uses - [Your Brand]",
+    "description": "Discover the meaning and uses of Bay of Many (#273A81). Explore its psychology, find complementary colors, and get inspiration for your designs."
+  },
+  "created_at": "2025-06-01T14:56:50.702182+00:00",
+  "updated_at": "2025-06-01T14:56:50.702182+00:00",
+  "slug": "bay-of-many"
+}

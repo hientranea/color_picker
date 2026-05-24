@@ -1,0 +1,79 @@
+{
+  "id": "b29d9fed-8cad-4d33-acfd-5c9132064e5a",
+  "color_name": "Trout",
+  "hex_code": "#4A4E5A",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Trout, a muted gray, evokes feelings of sophistication, neutrality, and calmness. It can also represent maturity and reliability. This color is often associated with stability and a sense of timelessness, making it a versatile choice for conveying a sense of understated elegance and trustworthiness.",
+  "emotional_associations": [
+    "sophistication",
+    "neutrality",
+    "calmness",
+    "maturity",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#E5E1D5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#4A4E5A",
+        "#6A6E7A",
+        "#8A8E9A",
+        "#AAAAAA"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#4A4E5A",
+        "#A3978E",
+        "#D4CEC6",
+        "#786A61"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation bars",
+      "Text highlighting"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Classic outerwear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Trout is used as a primary wall color to create a sophisticated and calming living space.",
+      "image_url": "https://example.com/trout_apartment.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "Trout is incorporated into a company logo to convey stability and trustworthiness.",
+      "image_url": "https://example.com/trout_logo.png"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean look.",
+    "Use with natural wood tones for warmth.",
+    "Combine with brighter colors as an accent."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Trout Color Meaning: Understanding #4A4E5A",
+    "description": "Explore the meaning, psychology, and uses of Trout color (#4A4E5A). Discover complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:16:42.896682+00:00",
+  "updated_at": "2025-06-01T15:16:42.896682+00:00",
+  "slug": "trout"
+}

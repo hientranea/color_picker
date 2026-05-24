@@ -1,0 +1,78 @@
+{
+  "id": "6718473d-a3ac-434e-93f0-c52597afe35c",
+  "color_name": "Pickled Bean",
+  "hex_code": "#6E4826",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pickled Bean is a grounding and comforting color, evoking feelings of stability and warmth. It suggests reliability, simplicity, and a connection to nature. This color often represents a sense of history, tradition, and understated elegance.",
+  "emotional_associations": [
+    "comfort",
+    "stability",
+    "nature",
+    "understated elegance",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#266E48"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#6E4826",
+        "#A3825A",
+        "#D8BCA4",
+        "#E9E1D9"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#6E4826",
+        "#926F3E",
+        "#C6A375",
+        "#F0E6D2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee shops branding",
+      "Gourmet food packaging"
+    ],
+    "wellness": [
+      "Spas",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Leather Sofa",
+      "description": "A classic leather sofa in a 'Pickled Bean' hue adds warmth and sophistication to a living room.",
+      "image_url": "https://example.com/vintage_sofa.jpg"
+    },
+    {
+      "title": "Rustic Wooden Cabin",
+      "description": "The exterior of a rustic cabin painted in 'Pickled Bean' blends seamlessly with the natural surroundings.",
+      "image_url": "https://example.com/cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with greens and browns for a natural palette.",
+    "Use with gold accents for an elegant touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Pickled Bean Color Meaning: Psychology, Palettes & HEX Code",
+    "description": "Discover the meaning of Pickled Bean (#6E4826), its psychological associations, complementary colors, and suggested palettes for your design projects."
+  },
+  "created_at": "2025-06-01T15:33:52.444049+00:00",
+  "updated_at": "2025-06-01T15:33:52.444049+00:00",
+  "slug": "pickled-bean"
+}

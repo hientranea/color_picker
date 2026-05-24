@@ -1,0 +1,82 @@
+{
+  "id": "c36d8414-4c57-441a-9193-1f5c04bfa825",
+  "color_name": "Cardinal Pink",
+  "hex_code": "#8C055E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cardinal Pink is a sophisticated and passionate color, blending the energy of red with the purity of white. It evokes feelings of love, romance, and tenderness, while also possessing a sense of power and elegance. It is often associated with confidence, creativity, and a touch of playfulness.",
+  "emotional_associations": [
+    "passion",
+    "elegance",
+    "confidence",
+    "creativity",
+    "romance"
+  ],
+  "complementary_colors": [
+    "#058C33"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Romantic Dusk",
+      "swatches": [
+        "#8C055E",
+        "#D3B0C6",
+        "#522B50",
+        "#E6E2DD",
+        "#A079BF"
+      ]
+    },
+    {
+      "name": "Bold & Beautiful",
+      "swatches": [
+        "#8C055E",
+        "#FFD700",
+        "#000000",
+        "#FFFFFF",
+        "#40E0D0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Gourmet desserts packaging"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Aromatherapy packaging"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Lingerie design",
+      "Cosmetics packaging"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Elegant Restaurant Interior",
+      "description": "A high-end restaurant uses Cardinal Pink in its velvet seating and accent lighting to create a luxurious and romantic atmosphere.",
+      "image_url": "https://example.com/restaurant.jpg"
+    },
+    {
+      "title": "Fashion Designer's Collection",
+      "description": "A renowned fashion designer features Cardinal Pink prominently in their latest collection, showcasing its versatility and sophistication.",
+      "image_url": "https://example.com/fashion.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious look.",
+    "Combine with gray for a sophisticated feel.",
+    "Use with teal for a vibrant contrast.",
+    "Soften with pastel shades for a gentle ambiance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Cardinal Pink Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning and psychology of Cardinal Pink, explore beautiful color palettes, and find inspiration for your next design project."
+  },
+  "created_at": "2025-06-01T15:53:29.668681+00:00",
+  "updated_at": "2025-06-01T15:53:29.668681+00:00",
+  "slug": "cardinal-pink"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "aef7dec6-7c09-4377-abd2-c7fe7a660610",
+  "color_name": "Brown Pod",
+  "hex_code": "#401801",
+  "wheel_position": "Compound",
+  "psychological_meaning": "Brown Pod evokes feelings of stability, security, and connection to nature. It suggests reliability, warmth, and a grounded presence. The color is often associated with the earth, wood, and natural materials, providing a sense of comfort and reassurance.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "reliability",
+    "comfort",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#012940"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#401801",
+        "#A67B5B",
+        "#D2B48C",
+        "#E6D8B9"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#401801",
+        "#734F37",
+        "#B8860B",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee Packaging",
+      "Chocolate Branding"
+    ],
+    "wellness": [
+      "Spa Design",
+      "Meditation Spaces"
+    ],
+    "fashion": [
+      "Leather Goods",
+      "Outdoor Apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wooden Furniture",
+      "description": "A classic wooden table showcasing the richness of Brown Pod tones.",
+      "image_url": "https://example.com/wooden_table.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "Stylish leather boots in a deep Brown Pod shade, perfect for autumn.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a neutral palette.",
+    "Use with greens for a natural, earthy feel.",
+    "Combine with metallics like gold or copper for a touch of luxury.",
+    "Contrast with teal or turquoise for a vibrant look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color possibilities with our color palette generator!",
+  "seo_meta": {
+    "title": "Brown Pod Color Meaning: Understanding #401801",
+    "description": "Explore the meaning, psychology, and uses of Brown Pod (#401801). Discover complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:10:44.986467+00:00",
+  "updated_at": "2025-06-01T15:10:44.986467+00:00",
+  "slug": "brown-pod"
+}

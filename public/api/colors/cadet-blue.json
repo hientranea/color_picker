@@ -1,0 +1,83 @@
+{
+  "id": "2f67e841-afd3-41bd-9caf-f45aea3202f4",
+  "color_name": "Cadet Blue",
+  "hex_code": "#A9B2C3",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cadet Blue evokes feelings of calmness, tranquility, and stability. It's often associated with trust, reliability, and a sense of security. The color can also suggest professionalism, authority, and a quiet confidence. It is a mature and sophisticated color that promotes clear thinking and serenity.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "trust",
+    "security",
+    "professionalism"
+  ],
+  "complementary_colors": [
+    "#C3BCA9",
+    "#C3A9B2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#A9B2C3",
+        "#D8E2DC",
+        "#C6B8A3",
+        "#736A62"
+      ]
+    },
+    {
+      "name": "Modern Corporate",
+      "swatches": [
+        "#A9B2C3",
+        "#FFFFFF",
+        "#333333",
+        "#E0E0E0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Settings panels"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business casual attire",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Office Interiors",
+      "description": "Cadet Blue walls create a calm and productive work environment.",
+      "image_url": "https://example.com/cadet_blue_office.jpg"
+    },
+    {
+      "title": "Branding Material",
+      "description": "Cadet Blue can be used in logos and websites to convey trustworthiness and reliability.",
+      "image_url": "https://example.com/cadet_blue_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with whites for a clean and modern look.",
+    "Combine with grays for a sophisticated palette.",
+    "Use with muted yellows for a touch of warmth.",
+    "Contrast with deeper blues for added depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Cadet Blue Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning, associations, and best color combinations for Cadet Blue (#A9B2C3) and learn how to use it in your designs."
+  },
+  "created_at": "2025-06-01T16:08:21.999396+00:00",
+  "updated_at": "2025-06-01T16:08:21.999396+00:00",
+  "slug": "cadet-blue"
+}

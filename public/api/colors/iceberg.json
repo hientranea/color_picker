@@ -1,0 +1,75 @@
+{
+  "id": "26f87e66-ec4f-4f6f-9f7d-e2fd846cfb2d",
+  "color_name": "Iceberg",
+  "hex_code": "#DAF4F0",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Iceberg evokes feelings of tranquility, clarity, and freshness. It is reminiscent of glacial landscapes, symbolizing purity, coolness, and a sense of calm expansiveness. This color can also represent new beginnings, cleanliness, and a refreshing perspective.",
+  "emotional_associations": [
+    "calm",
+    "freshness",
+    "purity",
+    "clarity",
+    "tranquility"
+  ],
+  "complementary_colors": [
+    "#F0DAD4"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Escape",
+      "swatches": [
+        "#DAF4F0",
+        "#A0D6B4",
+        "#74B49B",
+        "#4A9586"
+      ]
+    },
+    {
+      "name": "Winter Morning",
+      "swatches": [
+        "#DAF4F0",
+        "#FFFFFF",
+        "#E5E7EB",
+        "#9CA3AF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Meditation apps",
+      "Weather applications"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Mental health resources"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Glacier National Park",
+      "description": "The pristine waters of Glacier National Park reflect the crisp, clean color of Iceberg.",
+      "image_url": "https://example.com/glacier.jpg"
+    },
+    {
+      "title": "Minimalist Bathroom Design",
+      "description": "A modern bathroom utilizes Iceberg tiles to create a sense of serenity and cleanliness.",
+      "image_url": "https://example.com/bathroom.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft grays for a modern look.",
+    "Combine with natural wood tones for warmth.",
+    "Use with deeper teals for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Iceberg Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Iceberg (#DAF4F0), its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:34:22.308999+00:00",
+  "updated_at": "2025-06-01T16:34:22.308999+00:00",
+  "slug": "iceberg"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "4674bea3-d267-466e-b8d8-f962c37e52e4",
+  "color_name": "Cornflower",
+  "hex_code": "#93CCEA",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cornflower blue evokes feelings of calmness and serenity. It's often associated with trustworthiness, intelligence, and stability. This color promotes relaxation and reduces stress, making it a popular choice for creating a peaceful and harmonious environment. It can also be perceived as sophisticated and reliable, lending an air of professionalism and competence.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "trustworthiness",
+    "intelligence",
+    "stability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#EA9693"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Harmony",
+      "swatches": [
+        "#93CCEA",
+        "#C4DCEF",
+        "#E7F2F7",
+        "#A3D9E1"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#93CCEA",
+        "#66A3C7",
+        "#397094",
+        "#F0F4F8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Backgrounds for data visualization",
+      "Call-to-action buttons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Casual shirts",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cornflowers in a Field",
+      "description": "A field of vibrant cornflowers swaying gently in the breeze.",
+      "image_url": "https://example.com/cornflower_field.jpg"
+    },
+    {
+      "title": "Cornflower Blue Pottery",
+      "description": "A beautifully glazed ceramic bowl in cornflower blue.",
+      "image_url": "https://example.com/cornflower_pottery.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals like beige or cream for a calming effect.",
+    "Combine with complementary colors like coral or peach for a vibrant contrast.",
+    "Use with other shades of blue for a monochromatic scheme.",
+    "Incorporate metallic accents like silver or gold for added sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Cornflower Color Meaning: The Psychology of #93CCEA",
+    "description": "Discover the meaning and psychology behind Cornflower (#93CCEA), its emotional associations, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:57:19.331045+00:00",
+  "updated_at": "2025-06-01T15:57:19.331045+00:00",
+  "slug": "cornflower"
+}

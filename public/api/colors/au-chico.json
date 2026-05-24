@@ -1,0 +1,83 @@
+{
+  "id": "1a3ac472-acfc-4dd6-8ec7-64f78e77b67c",
+  "color_name": "Au Chico",
+  "hex_code": "#97605D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Au Chico evokes feelings of warmth, stability, and earthiness. It's a comforting color, often associated with reliability and a sense of groundedness. This color promotes a feeling of security and can be perceived as sophisticated and subtly luxurious, making it ideal for creating an inviting and trustworthy atmosphere.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "earthiness",
+    "comfort",
+    "reliability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#60979A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#97605D",
+        "#D4A373",
+        "#F2E8CF",
+        "#6B705C"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#97605D",
+        "#A98467",
+        "#795548",
+        "#E0CBA8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces",
+      "Natural health product packaging"
+    ],
+    "fashion": [
+      "Autumnal clothing lines",
+      "Leather goods",
+      "Accessory design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in Au Chico adds warmth and sophistication to any living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Coffee Packaging",
+      "description": "Au Chico is often used in coffee packaging to convey a sense of richness and quality.",
+      "image_url": "https://example.com/coffee_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with deep greens for an earthy feel.",
+    "Use with gold accents for a touch of luxury.",
+    "Contrast with teal for a modern vibe."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities and create your perfect palette using our color picker tool!",
+  "seo_meta": {
+    "title": "Au Chico Color Meaning: Discover the Psychology of #97605D",
+    "description": "Explore the meaning, psychology, and best uses of Au Chico (#97605D), a warm and earthy color. Discover complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:58:57.6016+00:00",
+  "updated_at": "2025-06-01T15:58:57.6016+00:00",
+  "slug": "au-chico"
+}

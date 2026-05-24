@@ -1,0 +1,78 @@
+{
+  "id": "60742f8e-3760-4230-a453-dd521decf9f8",
+  "color_name": "Aqua Forest",
+  "hex_code": "#5FA777",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Aqua Forest evokes feelings of tranquility, growth, and natural harmony. It combines the calming aspects of blue with the rejuvenating qualities of green, suggesting a connection to nature and a sense of balance. This color promotes feelings of serenity and encourages introspection, making it a restful and grounding presence.",
+  "emotional_associations": [
+    "calm",
+    "growth",
+    "nature",
+    "balance",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#A75F85"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#5FA777",
+        "#A3C4BC",
+        "#735E53",
+        "#D4A373"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#5FA777",
+        "#B0E2FF",
+        "#FFFFFF",
+        "#77BFC7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Wellness app interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Living Room",
+      "description": "A living room painted in Aqua Forest, creating a serene and inviting atmosphere with natural light.",
+      "image_url": "url_to_coastal_living_room_image.jpg"
+    },
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "Product packaging using Aqua Forest to convey a sense of sustainability and natural ingredients.",
+      "image_url": "url_to_eco_packaging_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted neutrals for a natural look.",
+    "Combine with soft blues for a calming effect.",
+    "Use with warm browns for an earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Aqua Forest with our color picker tool to find the perfect hue for your project!",
+  "seo_meta": {
+    "title": "Aqua Forest Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Aqua Forest (#5FA777), its psychological associations, best color combinations, and industry use cases for this calming and natural color."
+  },
+  "created_at": "2025-06-01T15:25:54.733837+00:00",
+  "updated_at": "2025-06-01T15:25:54.733837+00:00",
+  "slug": "aqua-forest"
+}

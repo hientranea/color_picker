@@ -1,0 +1,81 @@
+{
+  "id": "f18ff11c-fb7a-4852-ad71-248bf341629e",
+  "color_name": "Woody Brown",
+  "hex_code": "#483131",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Woody Brown evokes feelings of stability, reliability, and nature. It represents earthiness, comfort, and a sense of being grounded. It can also suggest maturity, simplicity, and a connection to the natural world, promoting feelings of warmth and security.",
+  "emotional_associations": [
+    "stability",
+    "comfort",
+    "earthiness",
+    "security",
+    "simplicity"
+  ],
+  "complementary_colors": [
+    "#314848"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#483131",
+        "#A68A5A",
+        "#D3B997",
+        "#F2EBD3"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#483131",
+        "#774F38",
+        "#B08968",
+        "#E6CCB2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for calming apps",
+      "Neutral color schemes for productivity tools"
+    ],
+    "food_beverage": [
+      "Packaging for coffee and chocolate products",
+      "Restaurant interiors to create a cozy atmosphere"
+    ],
+    "wellness": [
+      "Branding for natural skincare products",
+      "Color schemes for meditation apps"
+    ],
+    "fashion": [
+      "Autumn and winter clothing lines",
+      "Leather goods and accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wooden Cabin Interior",
+      "description": "The interior of a log cabin showcasing the warm and inviting tones of woody brown.",
+      "image_url": "https://example.com/cabin_interior.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "A pair of well-worn leather boots in a rich woody brown color.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural look.",
+    "Combine with greens for an earthy palette.",
+    "Use with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of brown and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Woody Brown Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning, associations, and best uses of Woody Brown (#483131) for branding, design, and more. Explore complementary colors and create stunning palettes."
+  },
+  "created_at": "2025-06-01T15:15:08.927477+00:00",
+  "updated_at": "2025-06-01T15:15:08.927477+00:00",
+  "slug": "woody-brown"
+}

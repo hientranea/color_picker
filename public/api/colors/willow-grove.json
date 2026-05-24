@@ -1,0 +1,86 @@
+{
+  "id": "9cca9ecf-0ee7-48ab-8fe6-08d289da1f67",
+  "color_name": "Willow Grove",
+  "hex_code": "#65745D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Willow Grove evokes feelings of tranquility, growth, and connection to nature. It suggests stability, health, and a sense of grounding. This color promotes feelings of harmony, peace, and renewal, often associated with springtime and new beginnings. It can also represent a quiet strength and resilience, much like the willow tree itself.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "nature",
+    "stability",
+    "health",
+    "peace",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#746570"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#65745D",
+        "#A7C496",
+        "#D0E7C9",
+        "#4E6151",
+        "#82987D"
+      ]
+    },
+    {
+      "name": "Natural Harmony",
+      "swatches": [
+        "#65745D",
+        "#F0E68C",
+        "#8FBC8F",
+        "#BDB76B",
+        "#6B8E23"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding",
+      "Healthy snack marketing"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design",
+      "Meditation app interface"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel",
+      "Accessories with natural tones"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Willow Grove National Park",
+      "description": "The lush greenery of Willow Grove National Park offers a stunning example of this color in its natural environment.",
+      "image_url": "https://example.com/willow_grove_park.jpg"
+    },
+    {
+      "title": "Willow Grove Tea Packaging",
+      "description": "A popular herbal tea brand uses Willow Grove as the primary color in its packaging, conveying a sense of natural wellness.",
+      "image_url": "https://example.com/willow_grove_tea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, natural look.",
+    "Combine with deeper greens and browns for an earthy palette.",
+    "Use with gold accents for a touch of elegance.",
+    "Contrast with muted reds for a balanced and sophisticated feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Willow Grove Color Meaning: Understanding #65745D",
+    "description": "Discover the meaning, psychology, and best uses of Willow Grove (#65745D). Explore palettes, pairings, and real-world examples of this tranquil color."
+  },
+  "created_at": "2025-06-01T15:29:14.107043+00:00",
+  "updated_at": "2025-06-01T15:29:14.107043+00:00",
+  "slug": "willow-grove"
+}

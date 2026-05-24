@@ -1,0 +1,77 @@
+{
+  "id": "bf13dd0c-ea70-4b3d-a2f7-af6e5b25853a",
+  "color_name": "Honey Flower",
+  "hex_code": "#4F1C70",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Honey Flower evokes feelings of creativity, mystery, and sophistication. It is often associated with imagination and introspection, offering a sense of calm and contemplation. This color can also suggest luxury and elegance, making it suitable for designs that aim to project a sense of high quality and refinement.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "creativity",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#704E1C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#4F1C70",
+        "#A283B3",
+        "#D5BCD8",
+        "#F2E7F5"
+      ]
+    },
+    {
+      "name": "Royal Garden",
+      "swatches": [
+        "#4F1C70",
+        "#34621F",
+        "#87A867",
+        "#E2E593"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Creative software applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual retreats branding"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Luxury accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "An amethyst geode displaying rich purple crystals, representing the natural beauty and calming energy associated with the Honey Flower color.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    },
+    {
+      "title": "Velvet Evening Gown",
+      "description": "A velvet evening gown in a deep Honey Flower shade, showcasing the color's elegance and suitability for high-end fashion.",
+      "image_url": "https://example.com/velvet_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold accents for a luxurious feel.",
+    "Combine with muted greens for a natural, earthy palette.",
+    "Use with lighter purples and pinks for a softer, more romantic look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades and palettes for your next project.",
+  "seo_meta": {
+    "title": "Honey Flower Color Meaning: Understanding #4F1C70",
+    "description": "Discover the meaning, psychology, and best uses of Honey Flower (#4F1C70). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:19:19.685449+00:00",
+  "updated_at": "2025-06-01T15:19:19.685449+00:00",
+  "slug": "honey-flower"
+}

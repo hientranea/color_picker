@@ -1,0 +1,81 @@
+{
+  "id": "f93d4d1d-e1a0-4b09-afbf-50357a13692f",
+  "color_name": "Bright Turquoise",
+  "hex_code": "#08E8DE",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bright Turquoise represents openness and clarity of thought. It is associated with balance, serenity, and sophistication. This color can inspire feelings of tranquility, honesty, and emotional balance. It encourages communication and self-expression while promoting a sense of calm and rejuvenation.",
+  "emotional_associations": [
+    "tranquility",
+    "clarity",
+    "communication",
+    "balance",
+    "rejuvenation"
+  ],
+  "complementary_colors": [
+    "#E80812"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#08E8DE",
+        "#A7D9ED",
+        "#FFFFFF",
+        "#2C3E50"
+      ]
+    },
+    {
+      "name": "Tropical Getaway",
+      "swatches": [
+        "#08E8DE",
+        "#FFD700",
+        "#FA8072",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Chat applications",
+      "Data visualization dashboards",
+      "Educational platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Summer dresses",
+      "Jewelry accents"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Turquoise Waters",
+      "description": "The crystal-clear turquoise waters of the Caribbean Sea evoke feelings of peace and tranquility.",
+      "image_url": "https://example.com/turquoise_waters.jpg"
+    },
+    {
+      "title": "Bright Turquoise Jewelry",
+      "description": "A statement necklace featuring bright turquoise stones adds a pop of color and sophistication to any outfit.",
+      "image_url": "https://example.com/turquoise_necklace.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral colors like white, beige, or gray for a balanced look.",
+    "Combine with complementary colors like coral or red for a vibrant contrast.",
+    "Use with other shades of blue and green for a calming and harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our color palette generator and find the perfect shades for your next project!",
+  "seo_meta": {
+    "title": "Bright Turquoise Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of bright turquoise, its psychological effects, and how to use it in design and branding. Explore color palettes and complementary colors."
+  },
+  "created_at": "2025-06-01T14:44:42.771186+00:00",
+  "updated_at": "2025-06-01T14:44:42.771186+00:00",
+  "slug": "bright-turquoise"
+}

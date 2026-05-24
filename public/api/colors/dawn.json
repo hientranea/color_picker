@@ -1,0 +1,80 @@
+{
+  "id": "f14c17d9-2559-4f8d-a458-84f5618e86d4",
+  "color_name": "Dawn",
+  "hex_code": "#A6A29A",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Dawn, represented by the hex code #A6A29A, evokes a sense of tranquility, calm, and new beginnings. It suggests a fresh start and a peaceful atmosphere. The color often symbolizes hope and optimism, bringing a sense of clarity and serenity to its surroundings. It is associated with neutrality and balance, providing a comforting and grounding effect.",
+  "emotional_associations": [
+    "calm",
+    "tranquility",
+    "peace",
+    "hope",
+    "neutrality"
+  ],
+  "complementary_colors": [
+    "#9EA2A6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Morning",
+      "swatches": [
+        "#A6A29A",
+        "#D3D0CB",
+        "#807D77",
+        "#F0EAD6"
+      ]
+    },
+    {
+      "name": "Balanced Hues",
+      "swatches": [
+        "#A6A29A",
+        "#C8C6C2",
+        "#73716F",
+        "#E8E6E1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "User interface backgrounds",
+      "Neutral color schemes",
+      "Calming app themes"
+    ],
+    "wellness": [
+      "Spa and relaxation branding",
+      "Meditation app design",
+      "Yoga studio aesthetics"
+    ],
+    "fashion": [
+      "Neutral clothing items",
+      "Accessory accents",
+      "Minimalist design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Dawn Sky",
+      "description": "The subtle hues of the sky at dawn represent a sense of new beginnings and hope.",
+      "image_url": "url_to_dawn_sky_image.jpg"
+    },
+    {
+      "title": "Minimalist Interior",
+      "description": "A living room painted in dawn hues creates a calm and peaceful atmosphere.",
+      "image_url": "url_to_minimalist_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a subtle effect.",
+    "Combine with blues and greens for a calming palette.",
+    "Use with metallic accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to create your own stunning palettes with Dawn!",
+  "seo_meta": {
+    "title": "Dawn Color Meaning: Understanding the Psychology of #A6A29A",
+    "description": "Explore the meaning, psychology, and best uses of Dawn (#A6A29A). Discover complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T16:06:37.351078+00:00",
+  "updated_at": "2025-06-01T16:06:37.351078+00:00",
+  "slug": "dawn"
+}

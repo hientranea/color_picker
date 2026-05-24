@@ -1,0 +1,78 @@
+{
+  "id": "d3b1ab29-4f7e-4550-8364-f85612b18211",
+  "color_name": "Luxor Gold",
+  "hex_code": "#A7882C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Luxor Gold evokes feelings of wealth, sophistication, and timeless elegance. It symbolizes prosperity, abundance, and high quality. This color connects to tradition and history, suggesting wisdom and knowledge gained over time. It can also represent stability, reliability, and refined taste.",
+  "emotional_associations": [
+    "Wealth",
+    "Elegance",
+    "Sophistication",
+    "Stability",
+    "Wisdom"
+  ],
+  "complementary_colors": [
+    "#2CA7A6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Dusk",
+      "swatches": [
+        "#A7882C",
+        "#33292A",
+        "#E0CBA8",
+        "#6B5E54"
+      ]
+    },
+    {
+      "name": "Golden Harvest",
+      "swatches": [
+        "#A7882C",
+        "#736357",
+        "#F2EBD3",
+        "#403837"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Premium apps",
+      "Luxury branding"
+    ],
+    "food_beverage": [
+      "High-end chocolates",
+      "Whiskey labels"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Formal wear accents",
+      "Jewelry design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Pharaoh's Mask",
+      "description": "The golden mask of Tutankhamun is a prime example of the timeless appeal and regal association of this color.",
+      "image_url": "https://example.com/tutankhamun.jpg"
+    },
+    {
+      "title": "Luxury Watch",
+      "description": "High-end watches often utilize gold plating to convey status and sophistication.",
+      "image_url": "https://example.com/luxurywatch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep browns for a classic look.",
+    "Use with cream or ivory for subtle elegance.",
+    "Combine with dark teal for a striking contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and create your perfect color scheme using our color palette generator!",
+  "seo_meta": {
+    "title": "Luxor Gold Color Meaning: Symbolism, Palettes & Design Tips",
+    "description": "Discover the meaning of Luxor Gold, its psychological associations, and how to use it in your designs for a luxurious and sophisticated aesthetic."
+  },
+  "created_at": "2025-06-01T16:06:51.146937+00:00",
+  "updated_at": "2025-06-01T16:06:51.146937+00:00",
+  "slug": "luxor-gold"
+}

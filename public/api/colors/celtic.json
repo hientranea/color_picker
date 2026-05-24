@@ -1,0 +1,81 @@
+{
+  "id": "29c5a976-c56f-4fd9-bb5d-c5460b328ffe",
+  "color_name": "Celtic",
+  "hex_code": "#163222",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Celtic green embodies growth, harmony, and stability, rooted in nature and tradition. It evokes feelings of balance, endurance, and connection to the earth, often associated with the mystical and historical aspects of Celtic culture. This color promotes a sense of tranquility, renewal, and groundedness, fostering an environment of growth and well-being.",
+  "emotional_associations": [
+    "growth",
+    "harmony",
+    "stability",
+    "nature",
+    "tradition",
+    "balance",
+    "endurance",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#E9D3D9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthly Serenity",
+      "swatches": [
+        "#163222",
+        "#5F6B4B",
+        "#A7B382",
+        "#DEDFCD"
+      ]
+    },
+    {
+      "name": "Mystic Forest",
+      "swatches": [
+        "#163222",
+        "#385937",
+        "#658A5E",
+        "#9ABBA5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Eco-friendly spas"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Celtic Knot Jewelry",
+      "description": "Intricate Celtic knot designs in jewelry often feature deep greens, symbolizing eternal life and interconnectedness.",
+      "image_url": "https://example.com/celtic_jewelry.jpg"
+    },
+    {
+      "title": "Irish Landscapes",
+      "description": "The lush green landscapes of Ireland are a quintessential example of the color's natural beauty and association with the Celtic heritage.",
+      "image_url": "https://example.com/irish_landscape.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, natural look.",
+    "Combine with browns and golds for a rustic, earthy feel.",
+    "Use with muted grays for a sophisticated and calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Celtic Green Color Meaning: Symbolism and Design Inspiration",
+    "description": "Discover the meaning, symbolism, and design applications of Celtic green. Explore its emotional associations, complementary colors, and inspiring palettes."
+  },
+  "created_at": "2025-06-01T14:50:12.077939+00:00",
+  "updated_at": "2025-06-01T14:50:12.077939+00:00",
+  "slug": "celtic"
+}

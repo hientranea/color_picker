@@ -1,0 +1,82 @@
+{
+  "id": "33c1f2c4-7405-4de4-9150-d0f5bd3a0d86",
+  "color_name": "Dull Lavender",
+  "hex_code": "#A899E6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Dull Lavender evokes a sense of calm and serenity with a hint of mystery. Its muted tone suggests sophistication and refinement, while its association with lavender flowers brings about feelings of relaxation and tranquility. It's often perceived as a mature and contemplative color, promoting introspection and peacefulness.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "mystery",
+    "sophistication",
+    "peacefulness"
+  ],
+  "complementary_colors": [
+    "#E6A299"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dreams",
+      "swatches": [
+        "#A899E6",
+        "#D8BFD8",
+        "#E6E6FA",
+        "#F0F8FF"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#A899E6",
+        "#BDB2FF",
+        "#8E9AAF",
+        "#9CB4CC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Sleep trackers",
+      "Educational platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Yoga studios",
+      "Aromatherapy products"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Lingerie",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lavender Fields",
+      "description": "Vast fields of lavender in Provence, France, inspire feelings of peace and tranquility.",
+      "image_url": "https://example.com/lavender_fields.jpg"
+    },
+    {
+      "title": "Amethyst Geode",
+      "description": "The subtle hues of an amethyst geode showcase the natural beauty of Dull Lavender.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft greys for a modern look.",
+    "Combine with creams and whites for a classic feel.",
+    "Add a touch of gold for a luxurious accent.",
+    "Use with greens for a natural harmony."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator today!",
+  "seo_meta": {
+    "title": "Dull Lavender Color Meaning: Psychology, Palettes & More",
+    "description": "Discover the meaning and psychology of Dull Lavender, its emotional associations, complementary colors, and inspiring palettes for your design projects."
+  },
+  "created_at": "2025-06-01T16:07:24.615091+00:00",
+  "updated_at": "2025-06-01T16:07:24.615091+00:00",
+  "slug": "dull-lavender"
+}

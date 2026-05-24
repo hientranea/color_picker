@@ -1,0 +1,84 @@
+{
+  "id": "9bafb132-2955-449a-80b9-67f2d9430c50",
+  "color_name": "Port Gore",
+  "hex_code": "#251F4F",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Port Gore evokes a sense of mystery, sophistication, and introspection. Its deep, muted purple hue suggests creativity, wisdom, and a connection to the subconscious. This color can inspire contemplation and a desire for deeper understanding, while also providing a sense of calm and stability.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "introspection",
+    "creativity",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#F0E620"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#251F4F",
+        "#4A446B",
+        "#706A87",
+        "#9590A3",
+        "#BBB6BF"
+      ]
+    },
+    {
+      "name": "Mystic Garden",
+      "swatches": [
+        "#251F4F",
+        "#558B2F",
+        "#A5D6A7",
+        "#E8F5E9",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Security software",
+      "Creative applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spiritual retreats"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purple crystals of an amethyst geode showcase the natural beauty and calming energy associated with Port Gore.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Vintage Velvet Gown",
+      "description": "A luxurious velvet gown in Port Gore exudes elegance and timeless style, perfect for a sophisticated evening.",
+      "image_url": "https://example.com/velvet_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with cool grays for a modern and sophisticated look.",
+    "Use with greens for a natural and calming palette.",
+    "Contrast with a bright yellow for a bold and energetic effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your own palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Port Gore Color Meaning: Psychology, Palettes & More",
+    "description": "Discover the meaning of Port Gore (#251F4F), its psychological effects, complementary colors, and inspiring palettes for your next project."
+  },
+  "created_at": "2025-06-01T14:55:41.329581+00:00",
+  "updated_at": "2025-06-01T14:55:41.329581+00:00",
+  "slug": "port-gore"
+}

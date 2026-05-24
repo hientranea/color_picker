@@ -1,0 +1,81 @@
+{
+  "id": "3e0a37af-a7ff-46fa-ad6b-734f3cae2771",
+  "color_name": "Light Wisteria",
+  "hex_code": "#C9A0DC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Light Wisteria evokes feelings of serenity, creativity, and nostalgia. It blends the calming aspects of blue with the imaginative qualities of purple and the purity of white, creating a soothing and slightly dreamy atmosphere. This color is often associated with spirituality and intuition, encouraging reflection and a sense of wonder.",
+  "emotional_associations": [
+    "serenity",
+    "creativity",
+    "nostalgia",
+    "spirituality",
+    "intuition"
+  ],
+  "complementary_colors": [
+    "#A0DCC9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dream",
+      "swatches": [
+        "#C9A0DC",
+        "#F0D5EF",
+        "#B0E2FF",
+        "#FFB347",
+        "#D3D3D3"
+      ]
+    },
+    {
+      "name": "Wisteria Garden",
+      "swatches": [
+        "#C9A0DC",
+        "#87CEEB",
+        "#E6E6FA",
+        "#90EE90",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Relaxation apps",
+      "Meditation platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Spring collections",
+      "Bridal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wisteria Lane in 'Desperate Housewives'",
+      "description": "The fictional street evokes a sense of idyllic suburban life, often concealing secrets and hidden complexities.",
+      "image_url": "https://example.com/wisteria_lane.jpg"
+    },
+    {
+      "title": "Wisteria Flowers",
+      "description": "The cascading blooms of wisteria create a visually stunning and fragrant display, often symbolizing long life and immortality.",
+      "image_url": "https://example.com/wisteria_flowers.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft greens for a natural, calming effect.",
+    "Combine with creams and whites for a classic, elegant look.",
+    "Use with muted golds for a touch of luxury and warmth.",
+    "Contrast with deep blues or purples for a more dramatic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Light Wisteria Color Meaning: Symbolism, Combinations & Uses",
+    "description": "Discover the meaning of Light Wisteria, its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:31:50.884379+00:00",
+  "updated_at": "2025-06-01T16:31:50.884379+00:00",
+  "slug": "light-wisteria"
+}

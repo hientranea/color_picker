@@ -1,0 +1,81 @@
+{
+  "id": "25bc3edb-ae0a-41f5-887c-422580ef7d97",
+  "color_name": "Kelp",
+  "hex_code": "#454936",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Kelp, a muted green-brown, evokes feelings of groundedness, stability, and connection to nature. It suggests reliability, endurance, and a sense of being rooted. Kelp also carries associations with tranquility, resilience, and the quiet strength found in natural environments.",
+  "emotional_associations": [
+    "groundedness",
+    "stability",
+    "nature",
+    "tranquility",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#A39F45"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#454936",
+        "#7A746E",
+        "#A39F45",
+        "#D1CDB3"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#454936",
+        "#6A897D",
+        "#94B49F",
+        "#C1D9CD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Navigation elements"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors emphasizing natural themes"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories promoting a natural look"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Floor",
+      "description": "The forest floor is covered with Kelp-colored fallen leaves.",
+      "image_url": "https://example.com/forest_floor.jpg"
+    },
+    {
+      "title": "Kelp Forest",
+      "description": "Underwater kelp forests are ecosystems providing shelter.",
+      "image_url": "https://example.com/kelp_forest.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a sophisticated look.",
+    "Combine with lighter greens for a natural palette.",
+    "Use with warm browns for added earthiness."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator tool today!",
+  "seo_meta": {
+    "title": "Kelp Color Meaning: Understanding #454936",
+    "description": "Discover the meaning, associations, and best uses for Kelp (#454936), a grounded and natural color. Explore palettes, examples, and pairing tips."
+  },
+  "created_at": "2025-06-01T15:13:50.651613+00:00",
+  "updated_at": "2025-06-01T15:13:50.651613+00:00",
+  "slug": "kelp"
+}

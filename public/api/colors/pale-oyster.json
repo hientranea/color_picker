@@ -1,0 +1,83 @@
+{
+  "id": "bb71ef45-9d8b-42c2-9086-eb82b4815261",
+  "color_name": "Pale Oyster",
+  "hex_code": "#988D77",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pale Oyster evokes a sense of calm, sophistication, and understated elegance. It blends the grounding qualities of brown with the neutrality of gray, suggesting stability and reliability. This color communicates a subtle luxury and can create a feeling of tranquility and timelessness.",
+  "emotional_associations": [
+    "Calm",
+    "Sophistication",
+    "Elegance",
+    "Stability",
+    "Neutrality"
+  ],
+  "complementary_colors": [
+    "#778298"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#988D77",
+        "#D4C4B4",
+        "#706457",
+        "#E8E2D4"
+      ]
+    },
+    {
+      "name": "Coastal Serenity",
+      "swatches": [
+        "#988D77",
+        "#B0C4DE",
+        "#E6E6FA",
+        "#8FBC8F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Subtle accents",
+      "Data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for artisanal goods",
+      "Restaurant decor"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Neutral clothing staples",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Apartment Interior",
+      "description": "The walls are painted in Pale Oyster to create a serene and sophisticated living space.",
+      "image_url": "https://example.com/pale_oyster_apartment.jpg"
+    },
+    {
+      "title": "High-End Fashion Boutique",
+      "description": "Pale Oyster is used as the primary color in the boutique's branding and interior design.",
+      "image_url": "https://example.com/pale_oyster_boutique.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues for a calming effect.",
+    "Combine with gold accents for added luxury.",
+    "Use with dark browns to enhance the earthiness.",
+    "Contrast with brighter colors for a pop of energy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our interactive color picker!",
+  "seo_meta": {
+    "title": "Pale Oyster Color Meaning: Discover its Psychology and Uses",
+    "description": "Uncover the meaning of Pale Oyster, its emotional associations, and how to use it effectively in design and branding."
+  },
+  "created_at": "2025-06-01T15:59:47.890735+00:00",
+  "updated_at": "2025-06-01T15:59:47.890735+00:00",
+  "slug": "pale-oyster"
+}

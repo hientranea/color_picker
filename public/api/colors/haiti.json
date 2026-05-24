@@ -1,0 +1,81 @@
+{
+  "id": "7d79c708-a348-4074-a0c9-921f416ed798",
+  "color_name": "Haiti",
+  "hex_code": "#1B1035",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Haiti, a deep, muted purple, evokes feelings of mystery, sophistication, and introspection. It often represents a connection to the subconscious and spiritual realms. This color can also symbolize creativity, wisdom, and a sense of calm, contemplative energy.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "introspection",
+    "creativity",
+    "wisdom"
+  ],
+  "complementary_colors": [
+    "#E4EFCA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nocturnal Calm",
+      "swatches": [
+        "#1B1035",
+        "#34284A",
+        "#5A4A66",
+        "#897E8F"
+      ]
+    },
+    {
+      "name": "Ethereal Dream",
+      "swatches": [
+        "#1B1035",
+        "#A99BBA",
+        "#D4CED9",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Premium app features",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purple hues of an amethyst geode capture the essence of Haiti, representing inner peace and spiritual growth.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Twilight Sky",
+      "description": "The colors of a twilight sky, as the sun dips below the horizon, often mirror the depth and mystery of Haiti.",
+      "image_url": "https://example.com/twilight.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold accents for elegance.",
+    "Combine with lavender or lighter purples for a calming effect.",
+    "Use with contrasting yellows or greens for a vibrant look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors and create your own palettes with our color picker tool.",
+  "seo_meta": {
+    "title": "Haiti Color Meaning: The Psychology of #1B1035",
+    "description": "Discover the meaning, associations, and best uses for the color Haiti (#1B1035) in design, branding, and more."
+  },
+  "created_at": "2025-06-01T14:51:45.407066+00:00",
+  "updated_at": "2025-06-01T14:51:45.407066+00:00",
+  "slug": "haiti"
+}

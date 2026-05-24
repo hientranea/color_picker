@@ -1,0 +1,79 @@
+{
+  "id": "c8b7c48a-be6a-4a25-9c1c-b8370bc19224",
+  "color_name": "Brown Rust",
+  "hex_code": "#AF593E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Brown Rust evokes feelings of warmth, stability, and a connection to the earth. It suggests a sense of history, resilience, and understated elegance. This color is often associated with reliability, comfort, and a grounded perspective, creating a feeling of security and familiarity.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "earthiness",
+    "resilience",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#59AFAF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#AF593E",
+        "#D4A373",
+        "#E9C46A",
+        "#F4A261",
+        "#2A9D8F"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#AF593E",
+        "#786A62",
+        "#A98D80",
+        "#F2E8CF",
+        "#D8C6B3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Whiskey packaging",
+      "Restaurant interiors"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Outerwear",
+      "Leather accessories",
+      "Autumnal collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rustic Leather Sofa",
+      "description": "A comfortable brown rust leather sofa provides a warm and inviting seating option for any living room.",
+      "image_url": "https://example.com/rust_sofa.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "The changing leaves in autumn display beautiful shades of brown rust, signaling the arrival of fall.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with teal for a balanced contrast.",
+    "Combine with creams and beiges for a neutral palette.",
+    "Use with deep greens for an earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Brown Rust Color Meaning: Symbolism, Palettes & Uses",
+    "description": "Discover the meaning of Brown Rust, its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:13:06.183153+00:00",
+  "updated_at": "2025-06-01T16:13:06.183153+00:00",
+  "slug": "brown-rust"
+}

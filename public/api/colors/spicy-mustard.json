@@ -1,0 +1,80 @@
+{
+  "id": "d799d737-4668-4174-951a-7a55dcf70a25",
+  "color_name": "Spicy Mustard",
+  "hex_code": "#74640D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Spicy Mustard evokes feelings of warmth, earthiness, and subtle sophistication. It suggests a grounded, natural aesthetic while retaining a hint of energy and vibrancy. This color is often associated with comfort, heritage, and a connection to the outdoors, conveying a sense of understated elegance and reliability.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "sophistication",
+    "comfort",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#0D1D74"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#74640D",
+        "#A68B34",
+        "#D9B35B",
+        "#F2D77D",
+        "#403608"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#74640D",
+        "#4A3F0B",
+        "#A67B5B",
+        "#D9B396",
+        "#F2E3D5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for gourmet mustards",
+      "Restaurant interiors aiming for a rustic feel"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio accents"
+    ],
+    "fashion": [
+      "Autumn outerwear",
+      "Accessories like scarves and bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rustic Kitchen",
+      "description": "A kitchen featuring spicy mustard-colored cabinets and warm lighting.",
+      "image_url": "https://example.com/rustic_kitchen.jpg"
+    },
+    {
+      "title": "Autumn Scarf",
+      "description": "A cozy autumn scarf in a spicy mustard hue.",
+      "image_url": "https://example.com/autumn_scarf.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep blues for contrast",
+    "Combine with neutrals for a sophisticated look",
+    "Use with earthy tones for a natural feel"
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Spicy Mustard Color Meaning: Psychology, Palettes & More",
+    "description": "Discover the meaning of Spicy Mustard (#74640D), including its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:38:02.152631+00:00",
+  "updated_at": "2025-06-01T15:38:02.152631+00:00",
+  "slug": "spicy-mustard"
+}

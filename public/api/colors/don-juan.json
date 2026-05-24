@@ -1,0 +1,79 @@
+{
+  "id": "90d447a1-2f9d-4c63-b632-7101b652a2dc",
+  "color_name": "Don Juan",
+  "hex_code": "#5D4C51",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Don Juan, a muted, dusty rose-brown, evokes a sense of understated elegance and sophistication. It blends the warmth of earth tones with a hint of romanticism, suggesting stability, maturity, and a quiet confidence. It can also represent nostalgia and a connection to the past, offering a comforting and grounding presence.",
+  "emotional_associations": [
+    "sophistication",
+    "stability",
+    "nostalgia",
+    "comfort",
+    "grounding"
+  ],
+  "complementary_colors": [
+    "#4C5D58"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#5D4C51",
+        "#A99283",
+        "#D3CEC4",
+        "#7A6C5D"
+      ]
+    },
+    {
+      "name": "Vintage Romance",
+      "swatches": [
+        "#5D4C51",
+        "#C8B4AA",
+        "#E8DAD3",
+        "#826F66"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Leather Sofa",
+      "description": "A classic leather sofa in Don Juan, adding a touch of timeless elegance to a living space.",
+      "image_url": "https://example.com/sofa.jpg"
+    },
+    {
+      "title": "Antique Book Cover",
+      "description": "The aged cover of a vintage book, showcasing the subtle beauty of the Don Juan hue.",
+      "image_url": "https://example.com/book.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a classic look.",
+    "Combine with deep greens for an earthy palette.",
+    "Add metallic accents (gold or copper) for a touch of luxury.",
+    "Use with other muted tones for a sophisticated feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Don Juan Color Meaning: Psychology, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Don Juan (#5D4C51), its psychological associations, complementary colors, and design inspiration for various industries."
+  },
+  "created_at": "2025-06-01T15:24:44.389815+00:00",
+  "updated_at": "2025-06-01T15:24:44.389815+00:00",
+  "slug": "don-juan"
+}

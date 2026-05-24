@@ -1,0 +1,77 @@
+{
+  "id": "38c95604-8d54-4ee8-ae11-5fa4363f0ab8",
+  "color_name": "Rebel",
+  "hex_code": "#3C1206",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Rebel embodies a sense of grounded defiance and unconventional strength. It suggests a departure from the norm, hinting at resilience, hidden depths, and a quiet revolution. This color evokes feelings of both introspection and the courage to stand apart, making it a powerful choice for those seeking to express individuality.",
+  "emotional_associations": [
+    "strength",
+    "defiance",
+    "resilience",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#06363C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Contrast",
+      "swatches": [
+        "#3C1206",
+        "#A66140",
+        "#E5B799",
+        "#F2E8DF"
+      ]
+    },
+    {
+      "name": "Subtle Rebellion",
+      "swatches": [
+        "#3C1206",
+        "#59291A",
+        "#8C513A",
+        "#BFA58F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode accents",
+      "Security applications"
+    ],
+    "food_beverage": [
+      "Coffee branding",
+      "Whiskey packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather accessories",
+      "Statement boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Leather Journal",
+      "description": "A worn leather journal, symbolizing stories untold and a history of rebellion against the ordinary.",
+      "image_url": "https://example.com/image1.jpg"
+    },
+    {
+      "title": "Dark Chocolate Bar",
+      "description": "A dark chocolate bar, its intense flavor representing the bold and uncompromising nature of the Rebel color.",
+      "image_url": "https://example.com/image2.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a sophisticated look.",
+    "Use with metallic accents for a touch of edge.",
+    "Combine with teal or forest green for a natural contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find your perfect 'Rebel' palette!",
+  "seo_meta": {
+    "title": "Rebel Color Meaning: Understanding #3C1206 | Color Psychology",
+    "description": "Discover the meaning behind the Rebel color (#3C1206), its psychological associations, and how to use it in design and branding to convey strength and individuality."
+  },
+  "created_at": "2025-06-01T15:07:46.930643+00:00",
+  "updated_at": "2025-06-01T15:07:46.930643+00:00",
+  "slug": "rebel"
+}

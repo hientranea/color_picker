@@ -1,0 +1,75 @@
+{
+  "id": "f94f34a7-22ff-4fb7-a33b-7c3cc60b3095",
+  "color_name": "Red Violet",
+  "hex_code": "#C71585",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Red Violet combines the energy of red with the stability of violet, creating a color associated with ambition, creativity, and a touch of royalty. It's often linked to individuals who are passionate, driven, and possess a unique perspective. This color can also symbolize unconventionality and a desire to stand out from the crowd, reflecting a blend of boldness and introspection.",
+  "emotional_associations": [
+    "ambition",
+    "creativity",
+    "passion",
+    "unconventionality",
+    "royalty"
+  ],
+  "complementary_colors": [
+    "#15C757"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Twilight",
+      "swatches": [
+        "#C71585",
+        "#6A5ACD",
+        "#483D8B",
+        "#E6E6FA"
+      ]
+    },
+    {
+      "name": "Passionate Bloom",
+      "swatches": [
+        "#C71585",
+        "#FF69B4",
+        "#DB7093",
+        "#F08080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual retreats"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Gemstone",
+      "description": "Amethyst, a popular gemstone, exhibits the captivating color of Red Violet, often associated with tranquility and healing properties.",
+      "image_url": "url_to_amethyst_image.jpg"
+    },
+    {
+      "title": "Orchid Flower",
+      "description": "Certain orchid varieties display beautiful Red Violet hues, symbolizing love, beauty, and refinement.",
+      "image_url": "url_to_orchid_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with greens for a vibrant contrast.",
+    "Use with neutrals like gray or beige for a sophisticated look.",
+    "Combine with other purples and pinks for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Red Violet and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Red Violet Color Meaning: Symbolism, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Red Violet, its emotional associations, and how to use it in your designs. Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:29:59.375221+00:00",
+  "updated_at": "2025-06-01T16:29:59.375221+00:00",
+  "slug": "red-violet"
+}

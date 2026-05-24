@@ -1,0 +1,84 @@
+{
+  "id": "1267d3e2-17e4-4a2a-bb44-ce6eace471a8",
+  "color_name": "Muesli",
+  "hex_code": "#AA8B5B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Muesli, a muted and earthy brown, evokes a sense of groundedness, stability, and natural comfort. It represents simplicity, honesty, and a connection to the earth. This color often inspires feelings of reassurance and dependability, reminiscent of wholesome foods and a comforting, rustic environment.",
+  "emotional_associations": [
+    "stability",
+    "comfort",
+    "natural",
+    "wholesome",
+    "reassurance"
+  ],
+  "complementary_colors": [
+    "#5BAAAA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#AA8B5B",
+        "#D4A373",
+        "#E9C46A",
+        "#2A9D8F",
+        "#264653"
+      ]
+    },
+    {
+      "name": "Rustic Harmony",
+      "swatches": [
+        "#AA8B5B",
+        "#F4F1DE",
+        "#E07A5F",
+        "#3D405B",
+        "#81B29A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic cereals",
+      "Branding for coffee shops",
+      "Menu design for farm-to-table restaurants"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Autumn/Winter clothing lines",
+      "Leather accessories",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Muesli Packaging",
+      "description": "A cereal box featuring a 'Muesli' colored background to convey natural ingredients.",
+      "image_url": "https://example.com/muesli_packaging.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "A pair of leather boots in 'Muesli' color, symbolizing durability and style.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural palette.",
+    "Combine with creams for a soft, comforting feel.",
+    "Use with burnt orange for a warm and inviting aesthetic.",
+    "Contrast with teal for a balanced look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our interactive color picker tool!",
+  "seo_meta": {
+    "title": "Muesli Color Meaning: Discover the Psychology of #AA8B5B",
+    "description": "Uncover the meaning and associations of the 'Muesli' color (#AA8B5B). Explore palettes, industry uses, and how to pair this earthy brown for your designs."
+  },
+  "created_at": "2025-06-01T16:09:12.325015+00:00",
+  "updated_at": "2025-06-01T16:09:12.325015+00:00",
+  "slug": "muesli"
+}

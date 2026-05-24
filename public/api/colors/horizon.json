@@ -1,0 +1,80 @@
+{
+  "id": "ba863fb1-190d-4dc7-ab35-5b8b6912adbc",
+  "color_name": "Horizon",
+  "hex_code": "#5A87A0",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Horizon evokes feelings of serenity, stability, and trustworthiness. It promotes a sense of calmness and can be associated with intellect and efficiency. It suggests reliability and inspires confidence, offering a balanced and reassuring presence.",
+  "emotional_associations": [
+    "serenity",
+    "stability",
+    "trustworthiness",
+    "calmness",
+    "intellect",
+    "efficiency",
+    "reliability",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#A0735A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#5A87A0",
+        "#B1C2B2",
+        "#E3DCDA",
+        "#8C7853"
+      ]
+    },
+    {
+      "name": "Professional Trust",
+      "swatches": [
+        "#5A87A0",
+        "#34495E",
+        "#A2B9BC",
+        "#F2F2F2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Navigation menus"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Relaxation products"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Website Redesign",
+      "description": "A tech company uses Horizon in their website redesign to convey trust and stability, aiming to build stronger customer relationships.",
+      "image_url": "https://example.com/horizon_website.jpg"
+    },
+    {
+      "title": "Meditation App Interface",
+      "description": "The app's UI leverages Horizon as its primary color to promote a sense of calm and relaxation, encouraging users to engage with mindfulness practices.",
+      "image_url": "https://example.com/horizon_app.png"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Combine with warm hues for balance.",
+    "Use as an accent color against a white or cream background."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator today!",
+  "seo_meta": {
+    "title": "Horizon Color Meaning: Psychology, Palettes & Hex Code",
+    "description": "Discover the meaning of the Horizon color (#5A87A0), its psychological associations, complementary colors, and suggested palettes for your next design project."
+  },
+  "created_at": "2025-06-01T15:23:55.978846+00:00",
+  "updated_at": "2025-06-01T15:23:55.978846+00:00",
+  "slug": "horizon"
+}

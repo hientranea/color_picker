@@ -1,0 +1,78 @@
+{
+  "id": "7426f90e-206a-4bb5-bd05-1f89c42833a8",
+  "color_name": "Ironside Gray",
+  "hex_code": "#676662",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Ironside Gray evokes feelings of sophistication, stability, and neutrality. It represents a balance between boldness and restraint, making it a versatile choice for designs aiming to project an image of competence and understated elegance. This color is often associated with professionalism and reliability.",
+  "emotional_associations": [
+    "Sophistication",
+    "Stability",
+    "Neutrality",
+    "Professionalism",
+    "Reliability"
+  ],
+  "complementary_colors": [
+    "#626367",
+    "#A09B62"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#676662",
+        "#8A8985",
+        "#AAAAA6",
+        "#C7C6C3"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#676662",
+        "#A38B6A",
+        "#D1B083",
+        "#F2E4D0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Text highlighting"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Formal wear",
+      "Business attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Office Building",
+      "description": "The exterior of a modern office building utilizes Ironside Gray to convey a sense of corporate strength and stability.",
+      "image_url": "https://example.com/ironside_gray_office.jpg"
+    },
+    {
+      "title": "Luxury Sedan",
+      "description": "A luxury sedan painted in Ironside Gray exudes an aura of understated elegance and refined taste.",
+      "image_url": "https://example.com/ironside_gray_sedan.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm wood tones for a balanced aesthetic.",
+    "Use with brighter accent colors for a pop of energy.",
+    "Combine with other neutrals for a sophisticated monochrome look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Ironside Gray Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of Ironside Gray (#676662), its psychological associations, best color pairings, and industry applications. Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:30:28.88801+00:00",
+  "updated_at": "2025-06-01T15:30:28.88801+00:00",
+  "slug": "ironside-gray"
+}

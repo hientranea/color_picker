@@ -1,0 +1,79 @@
+{
+  "id": "870e9c0b-1715-470c-8621-6deaa479d00a",
+  "color_name": "St Tropaz",
+  "hex_code": "#2D569B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "St Tropaz evokes feelings of tranquility, stability, and trust. It's a color often associated with professionalism and reliability, promoting a sense of calmness and security. This shade is also linked to intellect and reflection, making it a great choice for creating a thoughtful and composed atmosphere.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "calmness",
+    "intellect",
+    "professionalism"
+  ],
+  "complementary_colors": [
+    "#9B722D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Shores",
+      "swatches": [
+        "#2D569B",
+        "#A0C4FF",
+        "#E1EFFF",
+        "#748DA6"
+      ]
+    },
+    {
+      "name": "Corporate Confidence",
+      "swatches": [
+        "#2D569B",
+        "#3E64FF",
+        "#B2BEB5",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Security applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business casual"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Website",
+      "description": "A clean and professional website design utilizing St Tropaz as the primary brand color to convey trust and reliability.",
+      "image_url": "https://example.com/corporate_website.jpg"
+    },
+    {
+      "title": "Mobile Banking App",
+      "description": "A mobile banking app using St Tropaz for its interface to inspire confidence and security in its users.",
+      "image_url": "https://example.com/banking_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a modern and sophisticated look.",
+    "Combine with off-whites for a calm and inviting atmosphere.",
+    "Use with contrasting yellows for a vibrant and energetic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "St Tropaz Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of St Tropaz (#2D569B), its psychological effects, complementary colors, and suggested palettes for your design projects."
+  },
+  "created_at": "2025-06-01T14:59:58.702522+00:00",
+  "updated_at": "2025-06-01T14:59:58.702522+00:00",
+  "slug": "st-tropaz"
+}

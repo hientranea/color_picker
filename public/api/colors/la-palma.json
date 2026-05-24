@@ -1,0 +1,87 @@
+{
+  "id": "5e40a898-e142-4b1a-9166-e05b13ebad9d",
+  "color_name": "La Palma",
+  "hex_code": "#368716",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "La Palma, a shade of green, evokes feelings of nature, growth, and tranquility. It is often associated with balance, harmony, and renewal, promoting a sense of calm and well-being. This color can also represent prosperity, health, and generosity, making it a versatile choice for conveying positive and reassuring messages.",
+  "emotional_associations": [
+    "growth",
+    "nature",
+    "calm",
+    "health",
+    "prosperity"
+  ],
+  "complementary_colors": [
+    "#871836"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#368716",
+        "#A3C991",
+        "#748E63",
+        "#E9E581",
+        "#5C4B51"
+      ]
+    },
+    {
+      "name": "Vibrant Growth",
+      "swatches": [
+        "#368716",
+        "#F2BB13",
+        "#D90368",
+        "#2E294E",
+        "#005082"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Health trackers",
+      "Educational platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding",
+      "Vegan restaurant design"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel",
+      "Natural fiber textiles"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lush Forest",
+      "description": "A dense forest canopy displaying the rich green of La Palma.",
+      "image_url": "https://example.com/forest.jpg"
+    },
+    {
+      "title": "Organic Product Label",
+      "description": "A label on an organic food product utilizing La Palma to convey natural goodness.",
+      "image_url": "https://example.com/organic_label.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a grounded feel.",
+    "Combine with warm yellows or oranges for an energetic contrast.",
+    "Use with blues for a calming and harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of green and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "La Palma Color Meaning: Symbolism, Psychology & Design Tips",
+    "description": "Discover the meaning and psychology behind the color La Palma (#368716), its emotional associations, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:04:41.12155+00:00",
+  "updated_at": "2025-06-01T15:04:41.12155+00:00",
+  "slug": "la-palma"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "d23c3866-dccf-4254-8d4b-337382147413",
+  "color_name": "Stack",
+  "hex_code": "#8A8F8A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Stack, a muted gray, often evokes feelings of neutrality, stability, and practicality. It suggests a sense of groundedness and reliability, while also potentially conveying a feeling of reserve or formality. Stack can act as a calming influence, promoting balance and reducing feelings of overwhelming emotion, making it ideal for environments where focus and composure are valued.",
+  "emotional_associations": [
+    "neutrality",
+    "stability",
+    "practicality",
+    "calm",
+    "reserve"
+  ],
+  "complementary_colors": [
+    "#8F8A8F",
+    "#8A8A8F",
+    "#757A75"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#F0F0F0",
+        "#D3D3D3",
+        "#8A8F8A",
+        "#696969",
+        "#363636"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#8A8F8A",
+        "#A6937C",
+        "#C6B49D",
+        "#E6D4C3",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization dashboards",
+      "Neutral interface elements for software applications",
+      "Subtle accents in professional websites"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spas and wellness centers",
+      "Meditation rooms",
+      "Healthcare waiting areas"
+    ],
+    "fashion": [
+      "Classic suit",
+      "Understated overcoat",
+      "Versatile accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A contemporary apartment living room featuring Stack-colored walls, creating a calm and sophisticated ambiance.",
+      "image_url": "https://example.com/stack_apartment.jpg"
+    },
+    {
+      "title": "Professional Business Attire",
+      "description": "A sleek business suit in a Stack shade, conveying professionalism and confidence.",
+      "image_url": "https://example.com/stack_suit.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and minimalist look.",
+    "Combine with blues or greens for a calming palette.",
+    "Accent with brighter colors like yellow or orange for contrast.",
+    "Use with wood tones for an organic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to discover harmonious color combinations with Stack!",
+  "seo_meta": {
+    "title": "Stack Color Meaning: Psychology, Combinations & Palettes - [Your Blog Name]",
+    "description": "Uncover the meaning of Stack (#8A8F8A), its psychological effects, emotional associations, and how to use it in design, branding, and art."
+  },
+  "created_at": "2025-06-01T15:51:57.982301+00:00",
+  "updated_at": "2025-06-01T15:51:57.982301+00:00",
+  "slug": "stack"
+}

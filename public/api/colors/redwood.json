@@ -1,0 +1,80 @@
+{
+  "id": "c3d87665-55d9-4be1-ac6a-209fca617b3d",
+  "color_name": "Redwood",
+  "hex_code": "#5D1E0F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Redwood embodies feelings of stability, strength, and natural warmth. Its earthy undertones evoke a sense of groundedness and connection to nature, while its reddish hues suggest a subtle passion and energy. It is often associated with resilience, endurance, and a comforting sense of security.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "strength",
+    "groundedness",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#1E5D6E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#5D1E0F",
+        "#A34A29",
+        "#E67E22",
+        "#FAD7A0",
+        "#7B3F00"
+      ]
+    },
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#5D1E0F",
+        "#8B4513",
+        "#C04000",
+        "#DEB887",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee and chocolate",
+      "Restaurant interiors for a cozy atmosphere"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Redwood Forest",
+      "description": "The towering redwood trees are a classic example of this color in nature.",
+      "image_url": "url_to_redwood_forest_image.jpg"
+    },
+    {
+      "title": "Leather Sofa",
+      "description": "A comfortable leather sofa in a redwood color adds warmth to a living space.",
+      "image_url": "url_to_redwood_sofa_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with teal or turquoise for a contrasting effect.",
+    "Combine with other earthy tones for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades like Redwood and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Redwood Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Redwood (#5D1E0F), its emotional associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:24:37.251158+00:00",
+  "updated_at": "2025-06-01T15:24:37.251158+00:00",
+  "slug": "redwood"
+}

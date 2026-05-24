@@ -1,0 +1,83 @@
+{
+  "id": "0f44877f-f04b-4f3d-a70e-d23132973ec6",
+  "color_name": "Monsoon",
+  "hex_code": "#8A8389",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Monsoon evokes feelings of calmness and stability, similar to a cloudy day. It represents neutrality, balance, and a sense of understated elegance. This color is often associated with maturity, responsibility, and a subtle sophistication, making it a popular choice for conveying trust and reliability.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "neutrality",
+    "sophistication",
+    "trust"
+  ],
+  "complementary_colors": [
+    "#838A82",
+    "#82898A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#8A8389",
+        "#C0B283",
+        "#A29171",
+        "#6F4E37"
+      ]
+    },
+    {
+      "name": "Monochrome Mood",
+      "swatches": [
+        "#8A8389",
+        "#A39D9F",
+        "#706A70",
+        "#575257"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization",
+      "Neutral tones in user dashboards",
+      "Subtle button treatments"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Relaxation product packaging"
+    ],
+    "fashion": [
+      "Sophisticated outerwear",
+      "Professional attire",
+      "Understated accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring walls painted in a shade of Monsoon, creating a serene and sophisticated atmosphere.",
+      "image_url": "https://example.com/monsoon_apartment.jpg"
+    },
+    {
+      "title": "Business Website Redesign",
+      "description": "A website utilizes Monsoon as a primary background color to convey trustworthiness and professionalism.",
+      "image_url": "https://example.com/monsoon_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted gold for a touch of luxury.",
+    "Use with deep blues for a calming effect.",
+    "Combine with natural wood tones for an earthy feel.",
+    "Contrast with bright accents for visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Monsoon Color Meaning: Psychology, Combinations, and Design Ideas",
+    "description": "Discover the meaning of Monsoon (#8A8389), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:51:50.031194+00:00",
+  "updated_at": "2025-06-01T15:51:50.031194+00:00",
+  "slug": "monsoon"
+}

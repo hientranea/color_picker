@@ -1,0 +1,78 @@
+{
+  "id": "77023086-6d07-42f3-ac1b-21c93134ba07",
+  "color_name": "Gothic",
+  "hex_code": "#6D92A1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gothic, a muted blue-gray, evokes feelings of sophistication, introspection, and a touch of melancholy. It suggests a sense of history, depth, and understated elegance. This color bridges the gap between classic and contemporary, making it ideal for designs that want to project both stability and subtle intrigue.",
+  "emotional_associations": [
+    "Sophistication",
+    "Introspection",
+    "Melancholy",
+    "Elegance",
+    "Stability"
+  ],
+  "complementary_colors": [
+    "#A1786D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#6D92A1",
+        "#D3DEDF",
+        "#A69CAC",
+        "#36454F"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#6D92A1",
+        "#E0CBA8",
+        "#8C7853",
+        "#4A3B30"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist designs",
+      "Subtle accents to highlight key features"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear",
+      "Accessories"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Gothic Architecture",
+      "description": "The color is reminiscent of the stone used in Gothic cathedrals.",
+      "image_url": "https://example.com/gothic_architecture.jpg"
+    },
+    {
+      "title": "Foggy Landscapes",
+      "description": "Evokes the serene, muted tones of a foggy landscape.",
+      "image_url": "https://example.com/foggy_landscape.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, classic look.",
+    "Combine with darker grays for a sophisticated monochrome palette.",
+    "Use with metallic accents like silver or bronze for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Gothic Color Meaning: Understanding #6D92A1",
+    "description": "Discover the meaning, associations, and best uses of the Gothic color (#6D92A1). Learn how to incorporate this sophisticated blue-gray into your designs."
+  },
+  "created_at": "2025-06-01T15:33:31.45657+00:00",
+  "updated_at": "2025-06-01T15:33:31.45657+00:00",
+  "slug": "gothic"
+}

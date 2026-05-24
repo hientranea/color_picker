@@ -1,0 +1,81 @@
+{
+  "id": "cdbfa0a7-03b3-476e-aee5-843e3b1bd60c",
+  "color_name": "Punga",
+  "hex_code": "#4D3D14",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Punga, a deep and earthy brown, evokes feelings of stability, reliability, and connection to the natural world. It suggests groundedness and resilience, offering a sense of comfort and security. This color is often associated with maturity, sophistication, and a no-nonsense approach to life, symbolizing honesty and authenticity.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "comfort",
+    "groundedness",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#14244D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4D3D14",
+        "#A6937C",
+        "#D4C4AD",
+        "#736357",
+        "#EBE2D0"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#4D3D14",
+        "#8C7853",
+        "#C6AC8F",
+        "#F2E2CE",
+        "#604A3F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Natural health product packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a rich Punga color adds warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a wooden cabin stained in Punga blends seamlessly with the surrounding forest.",
+      "image_url": "https://example.com/wooden_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a neutral palette.",
+    "Combine with greens for an earthy, natural feel.",
+    "Accent with metallics like gold or bronze for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Punga Color Meaning: Understanding #4D3D14",
+    "description": "Discover the meaning and associations of Punga (#4D3D14), including its psychological effects, complementary colors, and best uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:18:00.40694+00:00",
+  "updated_at": "2025-06-01T15:18:00.40694+00:00",
+  "slug": "punga"
+}

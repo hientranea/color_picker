@@ -1,0 +1,78 @@
+{
+  "id": "f0deb3dc-85d5-4974-9f05-b413c57ffa56",
+  "color_name": "Jacksons Purple",
+  "hex_code": "#20208D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jacksons Purple evokes feelings of creativity, mystery, and sophistication. It is often associated with royalty, spirituality, and intuition, lending a sense of depth and intrigue. This color promotes introspection and can inspire artistic expression, while also providing a calming and serene atmosphere.",
+  "emotional_associations": [
+    "creativity",
+    "mystery",
+    "sophistication",
+    "spirituality",
+    "intuition"
+  ],
+  "complementary_colors": [
+    "#8D8D20"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#20208D",
+        "#A398BF",
+        "#D4D0CE",
+        "#706993"
+      ]
+    },
+    {
+      "name": "Royal Contrast",
+      "swatches": [
+        "#20208D",
+        "#F0E68C",
+        "#7B68EE",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Creative software dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual retreats branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Luxury accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ametrine Jewelry",
+      "description": "Ametrine gemstones showcasing the blend of amethyst and citrine, reflecting both the purple and yellow aspects of the color spectrum.",
+      "image_url": "https://example.com/ametrine.jpg"
+    },
+    {
+      "title": "Iris Flower",
+      "description": "The deep purple petals of an Iris flower, exemplifying the beauty and elegance of the color in nature.",
+      "image_url": "https://example.com/iris.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with soft grays for a sophisticated look.",
+    "Use with white for a clean and modern aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations of Jacksons Purple with our color palette generator!",
+  "seo_meta": {
+    "title": "Jacksons Purple Color Meaning: Psychology, Palettes & Design Tips",
+    "description": "Discover the meaning of Jacksons Purple, its psychological impact, complementary colors, and how to use it in your designs for a sophisticated and creative touch."
+  },
+  "created_at": "2025-06-01T14:54:02.750009+00:00",
+  "updated_at": "2025-06-01T14:54:02.750009+00:00",
+  "slug": "jacksons-purple"
+}

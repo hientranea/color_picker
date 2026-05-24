@@ -1,0 +1,86 @@
+{
+  "id": "1f216c2d-0db8-44c7-bb67-0560db44006f",
+  "color_name": "Sandal",
+  "hex_code": "#AA8D6F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sandal evokes feelings of warmth, comfort, and understated elegance. It is often associated with natural materials, grounding, and a sense of calm sophistication. This color suggests reliability, stability, and a connection to the earth, making it a reassuring and versatile choice.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "elegance",
+    "stability",
+    "grounding"
+  ],
+  "complementary_colors": [
+    "#6FAA80"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#AA8D6F",
+        "#D4A373",
+        "#F2E8CF",
+        "#A9927D"
+      ]
+    },
+    {
+      "name": "Desert Sunset",
+      "swatches": [
+        "#AA8D6F",
+        "#E0B48B",
+        "#C68B59",
+        "#734F30"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Neutral accents",
+      "Subtle buttons"
+    ],
+    "food_beverage": [
+      "Coffee shops",
+      "Natural food packaging",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spas",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Footwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sandal Leather Boots",
+      "description": "Classic leather boots in a warm sandal shade, perfect for everyday wear.",
+      "image_url": "https://example.com/sandal_boots.jpg"
+    },
+    {
+      "title": "Sandal Colored Walls",
+      "description": "Living room with walls painted in a muted Sandal tone, creating a calming atmosphere.",
+      "image_url": "https://example.com/sandal_walls.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with muted greens for a natural feel.",
+    "Pair with cream or ivory for a classic look.",
+    "Accent with bronze or gold for added elegance.",
+    "Use with darker browns for a grounded palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Sandal Color Meaning: Understanding the Psychology of #AA8D6F",
+    "description": "Discover the meaning and symbolism of Sandal (#AA8D6F), its emotional associations, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T16:09:19.384186+00:00",
+  "updated_at": "2025-06-01T16:09:19.384186+00:00",
+  "slug": "sandal"
+}

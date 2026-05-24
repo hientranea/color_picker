@@ -1,0 +1,82 @@
+{
+  "id": "b48efb7a-679c-45dd-9ec1-88b0ebb776c9",
+  "color_name": "Blue Stone",
+  "hex_code": "#016162",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Stone evokes feelings of tranquility, stability, and sophistication. It combines the calming properties of blue with the grounding aspects of grey and hints of green, resulting in a color that promotes mental clarity and a sense of calm confidence. It's often associated with professionalism, reliability, and understated elegance.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "sophistication",
+    "professionalism",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#620101"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Escape",
+      "swatches": [
+        "#016162",
+        "#A7D1AB",
+        "#E0E7E2",
+        "#525E75"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#016162",
+        "#8E715B",
+        "#CBBBA1",
+        "#3C403D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Finance applications",
+      "Security software"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire",
+      "Accessories (jewelry, bags)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Blue Stone Office Lobby",
+      "description": "A modern office lobby featuring Blue Stone accent walls, creating a professional and calming atmosphere.",
+      "image_url": "https://example.com/blue_stone_office.jpg"
+    },
+    {
+      "title": "Blue Stone Evening Gown",
+      "description": "An elegant evening gown in a Blue Stone hue, conveying sophistication and grace.",
+      "image_url": "https://example.com/blue_stone_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use with gold or silver accents for added elegance.",
+    "Combine with lighter blues and greens for a calming effect.",
+    "Contrast with orange or coral for a vibrant statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Blue Stone Color Meaning: Symbolism, Palettes, and Design Ideas",
+    "description": "Discover the meaning and symbolism of Blue Stone color. Explore color palettes, design inspiration, and industry use cases for this sophisticated hue."
+  },
+  "created_at": "2025-06-01T14:40:45.47251+00:00",
+  "updated_at": "2025-06-01T14:40:45.47251+00:00",
+  "slug": "blue-stone"
+}

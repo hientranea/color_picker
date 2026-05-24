@@ -1,0 +1,79 @@
+{
+  "id": "ba71e849-b077-40ac-86a8-02ded9e44509",
+  "color_name": "Seaweed",
+  "hex_code": "#1B2F11",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Seaweed green evokes feelings of tranquility, nature, and growth. It is often associated with the ocean and marine life, creating a sense of calmness and serenity. This color can also represent balance, stability, and environmental awareness, making it a popular choice for brands that want to project a sense of harmony and connection to the natural world.",
+  "emotional_associations": [
+    "tranquility",
+    "nature",
+    "growth",
+    "calmness",
+    "stability",
+    "environmental awareness"
+  ],
+  "complementary_colors": [
+    "#F1C232"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depths",
+      "swatches": [
+        "#1B2F11",
+        "#2E8B57",
+        "#708090",
+        "#ADD8E6"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#1B2F11",
+        "#A9A9A9",
+        "#F0E68C",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Seaweed snacks branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Monterey Bay Aquarium",
+      "description": "The Monterey Bay Aquarium uses seaweed green in its exhibits to simulate underwater environments.",
+      "image_url": "https://example.com/monterey_bay_aquarium.jpg"
+    },
+    {
+      "title": "Patagonia's Sustainable Line",
+      "description": "Patagonia incorporates seaweed green in its sustainable clothing line to emphasize its eco-friendly practices.",
+      "image_url": "https://example.com/patagonia_seaweed.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones for a natural feel.",
+    "Combine with light blues for a coastal vibe.",
+    "Use with white for a clean and modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Seaweed Color Meaning: Understanding the Psychology of #1B2F11",
+    "description": "Discover the meaning and associations of seaweed green (#1B2F11), its emotional impact, and how to use it effectively in design and branding."
+  },
+  "created_at": "2025-06-01T14:52:05.876254+00:00",
+  "updated_at": "2025-06-01T14:52:05.876254+00:00",
+  "slug": "seaweed"
+}

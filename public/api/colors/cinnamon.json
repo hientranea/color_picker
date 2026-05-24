@@ -1,0 +1,83 @@
+{
+  "id": "442b4cfd-5560-4246-88a5-5732fdb5bdcb",
+  "color_name": "Cinnamon",
+  "hex_code": "#7B3F00",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cinnamon evokes feelings of warmth, comfort, and security. It is often associated with autumn, spice, and home. This color suggests stability, reliability, and a down-to-earth sensibility. It can also represent sophistication and understated elegance.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "security",
+    "stability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#007B73"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Spice",
+      "swatches": [
+        "#7B3F00",
+        "#D2691E",
+        "#A0522D",
+        "#F4A460",
+        "#DEB887"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#7B3F00",
+        "#C04000",
+        "#4A4A4A",
+        "#E0B0FF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee shops",
+      "Bakeries",
+      "Spice companies",
+      "Chocolate brands"
+    ],
+    "wellness": [
+      "Aromatherapy products",
+      "Natural skincare brands"
+    ],
+    "fashion": [
+      "Autumn/Winter clothing lines",
+      "Leather goods",
+      "Accessories (belts, bags)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cinnamon Sticks",
+      "description": "Dried cinnamon sticks, a classic spice used in cooking and baking.",
+      "image_url": "https://example.com/cinnamon_sticks.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "A pair of stylish leather boots in a rich cinnamon color.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a warm, inviting palette.",
+    "Combine with teals and blues for a sophisticated contrast.",
+    "Use with golds and oranges for a luxurious feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Find more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Cinnamon Color Meaning: The Psychology of #7B3F00",
+    "description": "Explore the meaning of Cinnamon (#7B3F00), its psychological associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:42:31.781464+00:00",
+  "updated_at": "2025-06-01T15:42:31.781464+00:00",
+  "slug": "cinnamon"
+}

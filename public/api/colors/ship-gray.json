@@ -1,0 +1,83 @@
+{
+  "id": "4f80f064-fba7-4f8f-b6ca-44d4784c1580",
+  "color_name": "Ship Gray",
+  "hex_code": "#3E3A44",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Ship Gray evokes a sense of calm, neutrality, and sophistication. It is often associated with reliability, stability, and understated elegance. This color can also represent a sense of formality and professionalism, making it suitable for environments where a serious and composed atmosphere is desired.",
+  "emotional_associations": [
+    "calm",
+    "neutrality",
+    "sophistication",
+    "reliability",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#44483E",
+    "#A5A9B0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#3E3A44",
+        "#57535E",
+        "#716E78",
+        "#8B8892"
+      ]
+    },
+    {
+      "name": "Professional Blues",
+      "swatches": [
+        "#3E3A44",
+        "#2E5984",
+        "#6495ED",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Button hover states",
+      "Text highlights"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire",
+      "Winter coats"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Naval Vessels",
+      "description": "Used extensively on naval vessels to provide camouflage and a sense of authority.",
+      "image_url": "https://example.com/ship_gray_naval.jpg"
+    },
+    {
+      "title": "Modern Architecture",
+      "description": "A popular choice for modern buildings, offering a sleek and minimalist aesthetic.",
+      "image_url": "https://example.com/ship_gray_architecture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, minimalist look.",
+    "Combine with blues for a calming effect.",
+    "Add a pop of color like yellow or orange for contrast.",
+    "Use with wood tones for a natural and balanced feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of gray and find the perfect color palette for your next project with our color picker tool.",
+  "seo_meta": {
+    "title": "Ship Gray Color Meaning: Understanding #3E3A44",
+    "description": "Explore the meaning, psychology, and uses of Ship Gray (#3E3A44), a versatile neutral color. Discover complementary colors, palettes, and design tips."
+  },
+  "created_at": "2025-06-01T15:09:27.747838+00:00",
+  "updated_at": "2025-06-01T15:09:27.747838+00:00",
+  "slug": "ship-gray"
+}

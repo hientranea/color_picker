@@ -1,0 +1,80 @@
+{
+  "id": "d26db557-e2bf-456f-a42d-34946de0df9a",
+  "color_name": "Camelot",
+  "hex_code": "#893456",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Camelot, with its muted reddish-purple hue, evokes a sense of sophistication and mystery. It blends the passion of red with the tranquility of purple, suggesting a balance between energy and calmness. This color can represent creativity, nobility, and a touch of the unconventional, often associated with luxury and refined taste.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "creativity",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#568977"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Dusk",
+      "swatches": [
+        "#893456",
+        "#B26686",
+        "#D999B7",
+        "#F2CCD9"
+      ]
+    },
+    {
+      "name": "Ethereal Bloom",
+      "swatches": [
+        "#893456",
+        "#5B3256",
+        "#322B56",
+        "#567C89"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle accents in design dashboards",
+      "Elegant themes for productivity apps"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Luxury chocolate packaging"
+    ],
+    "wellness": [
+      "Meditation app backgrounds",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Winter scarves"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Velvet Curtains",
+      "description": "Luxurious velvet curtains in a deep Camelot shade adding warmth and opulence to a living room.",
+      "image_url": "https://example.com/velvet_curtains.jpg"
+    },
+    {
+      "title": "Aromatic Candle",
+      "description": "A scented candle in a Camelot-colored glass jar, designed to create a relaxing and inviting atmosphere.",
+      "image_url": "https://example.com/candle.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with teal or muted greens for a complementary contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Camelot Color Meaning: Symbolism, Psychology & Combinations",
+    "description": "Discover the meaning of Camelot (#893456), its psychological effects, best color combinations, and industry use cases for your design projects."
+  },
+  "created_at": "2025-06-01T15:51:00.49732+00:00",
+  "updated_at": "2025-06-01T15:51:00.49732+00:00",
+  "slug": "camelot"
+}

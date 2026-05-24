@@ -1,0 +1,87 @@
+{
+  "id": "f0693786-8673-4b14-a5bc-e5abf586a27f",
+  "color_name": "Peat",
+  "hex_code": "#716B56",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Peat represents stability, groundedness, and a connection to nature. It evokes feelings of comfort, reliability, and a sense of history. This color is often associated with earthy tones and natural materials, creating a calming and reassuring atmosphere.",
+  "emotional_associations": [
+    "stability",
+    "groundedness",
+    "comfort",
+    "reliability",
+    "earthiness"
+  ],
+  "complementary_colors": [
+    "#56716B",
+    "#B56B71"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#716B56",
+        "#A8A29E",
+        "#DEDBD8",
+        "#594A42"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#716B56",
+        "#C8B3A2",
+        "#8E7963",
+        "#E0D6C5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Buttons",
+      "Text highlighting"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors",
+      "Coffee branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Peat Moss",
+      "description": "Natural peat moss used in gardening and landscaping.",
+      "image_url": "https://example.com/peat_moss.jpg"
+    },
+    {
+      "title": "Vintage Leather Sofa",
+      "description": "A classic leather sofa in a deep peat color.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a soft contrast.",
+    "Combine with greens for a natural palette.",
+    "Use with metallic accents for a touch of elegance.",
+    "Contrast with brighter colors like coral for a pop of energy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more earthy tones and create your perfect palette using our color picker!",
+  "seo_meta": {
+    "title": "Peat Color Meaning: Understanding #716B56",
+    "description": "Discover the meaning and psychology of the peat color (#716B56), its emotional associations, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:36:22.278043+00:00",
+  "updated_at": "2025-06-01T15:36:22.278043+00:00",
+  "slug": "peat"
+}

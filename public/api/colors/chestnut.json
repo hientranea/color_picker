@@ -1,0 +1,84 @@
+{
+  "id": "e3a3020d-72cc-42bc-bcfa-f70fe675819d",
+  "color_name": "Chestnut",
+  "hex_code": "#B94E48",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Chestnut evokes feelings of warmth, stability, and comfort. It is often associated with nature, tradition, and reliability. This color can also represent resilience and groundedness, reminding us of the enduring strength found in the earth and natural materials. Its rich, earthy tones promote a sense of security and well-being.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "stability",
+    "reliability",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#48B5B9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#B94E48",
+        "#E29578",
+        "#F0D7C3",
+        "#6B8E23",
+        "#A8A293"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#B94E48",
+        "#5D4037",
+        "#A1887F",
+        "#EFEBE9",
+        "#795548"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Restaurant interiors (rustic themes)"
+    ],
+    "wellness": [
+      "Spas (earthy themes)",
+      "Meditation spaces",
+      "Natural health product packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Outerwear",
+      "Boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic chestnut leather sofa adds warmth and sophistication to any living space.",
+      "image_url": "https://example.com/chestnut_sofa.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "The vibrant chestnut hues of falling leaves create a stunning seasonal display.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with deep greens for an earthy feel.",
+    "Use with gold accents for a touch of luxury.",
+    "Contrast with teal for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Chestnut Color Meaning: Shades, Palettes and Design Tips",
+    "description": "Discover the meaning and symbolism of the chestnut color. Explore color palettes, design tips, and emotional associations to enhance your creative projects."
+  },
+  "created_at": "2025-06-01T16:19:50.837491+00:00",
+  "updated_at": "2025-06-01T16:19:50.837491+00:00",
+  "slug": "chestnut"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "1c29ce89-8bf2-4070-9b42-968ae4ccfc89",
+  "color_name": "Gunsmoke",
+  "hex_code": "#828685",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Gunsmoke, a muted gray, evokes feelings of neutrality, calmness, and sophistication. It represents stability, practicality, and a sense of understated elegance. The color can also suggest maturity, reliability, and a subtle strength, often associated with a sense of resilience and timelessness.",
+  "emotional_associations": [
+    "neutrality",
+    "calmness",
+    "sophistication",
+    "stability",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#858286",
+    "#A5A1A2",
+    "#C8C4C5",
+    "#5F5C5B",
+    "#3C3938"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#828685",
+        "#A0A4A3",
+        "#BEBEBD",
+        "#DCDDDC",
+        "#FAFAFA"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#828685",
+        "#A69A8B",
+        "#C8BCAE",
+        "#EADED2",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "borders",
+      "text"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "outerwear",
+      "formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Gunsmoke walls provide a sophisticated backdrop in a modern living space.",
+      "image_url": "https://example.com/gunsmoke_apartment.jpg"
+    },
+    {
+      "title": "Classic Car",
+      "description": "A vintage car painted in a subtle gunsmoke gray exudes timeless elegance.",
+      "image_url": "https://example.com/gunsmoke_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with whites for a clean, modern look.",
+    "Combine with wood tones for warmth and texture.",
+    "Use as a neutral backdrop for pops of color.",
+    "Mix with other shades of gray for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints with our color picker tool!",
+  "seo_meta": {
+    "title": "Gunsmoke Color Meaning: Understanding #828685",
+    "description": "Discover the meaning, psychology, and best uses of Gunsmoke (#828685). Explore palettes, complementary colors, and real-world examples of this sophisticated gray shade."
+  },
+  "created_at": "2025-06-01T15:47:53.145902+00:00",
+  "updated_at": "2025-06-01T15:47:53.145902+00:00",
+  "slug": "gunsmoke"
+}

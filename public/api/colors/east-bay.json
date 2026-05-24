@@ -1,0 +1,81 @@
+{
+  "id": "62be8f2a-f301-425e-9883-7290e98f84bc",
+  "color_name": "East Bay",
+  "hex_code": "#414C7D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "East Bay evokes feelings of stability, trust, and intellect. It is often associated with depth, sophistication, and a sense of calm authority. This color suggests reliability and introspection, making it a good choice for environments that require focus and contemplation.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intellect",
+    "sophistication",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#7D7041"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Harmony",
+      "swatches": [
+        "#414C7D",
+        "#525E9B",
+        "#6471B9",
+        "#7584D7"
+      ]
+    },
+    {
+      "name": "Analogous Serenity",
+      "swatches": [
+        "#414C7D",
+        "#3A436A",
+        "#47558F",
+        "#5367A2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Navigation menus for enterprise software",
+      "Authentication screens for secure applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa branding materials",
+      "Therapy center websites"
+    ],
+    "fashion": [
+      "Formal wear for evening events",
+      "Sophisticated business attire",
+      "Understated accessories like handbags and wallets"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Naval Academy Uniforms",
+      "description": "Many naval academies utilize colors similar to East Bay in their uniform designs, symbolizing discipline and maritime tradition.",
+      "image_url": "https://example.com/naval_uniform.jpg"
+    },
+    {
+      "title": "Corporate Office Interiors",
+      "description": "East Bay is often found in corporate office spaces to create an environment of trust and professionalism.",
+      "image_url": "https://example.com/corporate_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with greys for a modern, sophisticated look.",
+    "Combine with lighter blues for a calming effect.",
+    "Use with metallic accents like silver or gold for elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and find the perfect shade for your project with our color palette generator!",
+  "seo_meta": {
+    "title": "East Bay Color Meaning: Understanding #414C7D",
+    "description": "Discover the meaning, psychology, and best uses for East Bay (#414C7D), a sophisticated and calming color. Learn how to pair it and use it in design."
+  },
+  "created_at": "2025-06-01T15:12:10.635267+00:00",
+  "updated_at": "2025-06-01T15:12:10.635267+00:00",
+  "slug": "east-bay"
+}

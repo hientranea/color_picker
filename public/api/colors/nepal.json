@@ -1,0 +1,82 @@
+{
+  "id": "92326e21-b60e-4c04-bea6-0ebf5a825685",
+  "color_name": "Nepal",
+  "hex_code": "#8EABC1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Nepal, a muted blue-gray, evokes feelings of tranquility and stability. It suggests reliability and dependability, similar to the steadfastness of the Himalayan mountains. This color encourages introspection and can foster a sense of calm and collectedness, promoting mental clarity and a peaceful atmosphere.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "peace",
+    "dependability",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#C1928E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#8EABC1",
+        "#D3D9DA",
+        "#A9B7B3",
+        "#E6E0D4"
+      ]
+    },
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#8EABC1",
+        "#A2B4C6",
+        "#E0D8C0",
+        "#738E96"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Settings menus",
+      "Navigation bars"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Himalayan Sky",
+      "description": "The color of the sky above the Himalayas on a clear day.",
+      "image_url": "https://example.com/himalayan_sky.jpg"
+    },
+    {
+      "title": "Modern Minimalist Apartment",
+      "description": "A living room featuring Nepal-colored walls for a calming effect.",
+      "image_url": "https://example.com/apartment_living_room.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals for a relaxing vibe.",
+    "Use with warm grays for a sophisticated look.",
+    "Combine with muted yellows for a touch of warmth.",
+    "Contrast with terracotta for a grounded feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades using our color palette generator tool!",
+  "seo_meta": {
+    "title": "Nepal Color Meaning: Understanding #8EABC1 | Color Psychology",
+    "description": "Discover the meaning, psychology, and best uses of the color Nepal (#8EABC1), including complementary colors and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:55:19.745962+00:00",
+  "updated_at": "2025-06-01T15:55:19.745962+00:00",
+  "slug": "nepal"
+}

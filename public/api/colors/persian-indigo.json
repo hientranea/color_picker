@@ -1,0 +1,82 @@
+{
+  "id": "4ec09d38-d12e-4ad4-a283-f73a2b1cc2d7",
+  "color_name": "Persian Indigo",
+  "hex_code": "#32127A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Persian Indigo evokes feelings of mystery, sophistication, and depth. It's a color that blends the stability of blue with the energy of violet, suggesting introspection and intuition. It can inspire creativity while also promoting a sense of calm and reflection, often associated with wisdom and spiritual insight.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "intuition",
+    "calm",
+    "wisdom"
+  ],
+  "complementary_colors": [
+    "#7A5812"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#32127A",
+        "#7A609F",
+        "#B2A4C7",
+        "#E8E3EE",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Indigo Dreams",
+      "swatches": [
+        "#32127A",
+        "#5E35B1",
+        "#9575CD",
+        "#D1C4E9",
+        "#EDE7F6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Data visualization",
+      "Security applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purple hues of an amethyst geode showcase the beauty and natural occurrence of indigo shades.",
+      "image_url": "url_to_amethyst_image.jpg"
+    },
+    {
+      "title": "Twilight Sky",
+      "description": "The twilight sky just after sunset often displays a range of indigo colors as the day transitions to night.",
+      "image_url": "url_to_twilight_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft grays for a sophisticated look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with lighter shades of purple for a harmonious palette.",
+    "Contrast with warm yellows for a vibrant effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Persian Indigo Color Meaning: Shades, Palettes & Uses",
+    "description": "Discover the meaning of Persian Indigo, its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:02:36.011831+00:00",
+  "updated_at": "2025-06-01T15:02:36.011831+00:00",
+  "slug": "persian-indigo"
+}

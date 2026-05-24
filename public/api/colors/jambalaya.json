@@ -1,0 +1,78 @@
+{
+  "id": "f362ff97-d6e8-4dfc-98ae-8cb8c635aa0d",
+  "color_name": "Jambalaya",
+  "hex_code": "#5B3013",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Jambalaya, a deep and earthy brown, evokes feelings of stability, comfort, and connection to the natural world. It suggests a sense of history, grounding, and reliability. This color promotes feelings of reassurance and can be associated with rustic charm and understated elegance.",
+  "emotional_associations": [
+    "stability",
+    "comfort",
+    "grounding",
+    "reliability",
+    "rustic"
+  ],
+  "complementary_colors": [
+    "#135B38"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#5B3013",
+        "#A67B5B",
+        "#D2B48C",
+        "#E6D7B3"
+      ]
+    },
+    {
+      "name": "Rustic Retreat",
+      "swatches": [
+        "#5B3013",
+        "#8B4513",
+        "#C04000",
+        "#F08080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee",
+      "Branding for organic food products"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a Jambalaya hue adds warmth and sophistication to a living space.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Hardwood flooring stained in a Jambalaya tone creates a cozy and inviting atmosphere.",
+      "image_url": "https://example.com/wooden_flooring.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with greens and blues for a natural palette.",
+    "Accent with metallic golds for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Jambalaya!",
+  "seo_meta": {
+    "title": "Jambalaya Color Meaning: Understanding #5B3013",
+    "description": "Discover the meaning, associations, and best uses of Jambalaya (#5B3013), a deep and earthy brown color. Explore palettes and examples."
+  },
+  "created_at": "2025-06-01T15:24:03.08134+00:00",
+  "updated_at": "2025-06-01T15:24:03.08134+00:00",
+  "slug": "jambalaya"
+}

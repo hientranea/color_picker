@@ -1,0 +1,76 @@
+{
+  "id": "f2786d5b-714f-4a76-9fdb-318f1cc2ac1f",
+  "color_name": "Concord",
+  "hex_code": "#7C7B7A",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Concord, a muted gray, evokes feelings of stability, neutrality, and sophistication. It suggests a sense of calm and balance, often associated with practicality and reliability. While it can be seen as conservative, it also possesses an understated elegance, making it a versatile choice for conveying both professionalism and serenity.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "sophistication",
+    "calm",
+    "balance",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#7A7B7C",
+    "#B3B2B1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#7C7B7A",
+        "#A9A8A7",
+        "#D6D5D4"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#7C7B7A",
+        "#A69A8B",
+        "#C0B5A8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Icons"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Walls painted in Concord gray create a sophisticated and calming atmosphere in this modern apartment.",
+      "image_url": "https://example.com/concord_apartment.jpg"
+    },
+    {
+      "title": "Business Professional Attire",
+      "description": "A Concord gray suit conveys professionalism and understated elegance in a business setting.",
+      "image_url": "https://example.com/concord_suit.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and modern look.",
+    "Combine with muted blues or greens for a calming palette.",
+    "Use with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Concord Color Meaning: Understanding #7C7B7A",
+    "description": "Discover the meaning, psychology, and uses of Concord (#7C7B7A), a sophisticated and versatile gray color. Learn how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:43:43.547851+00:00",
+  "updated_at": "2025-06-01T15:43:43.547851+00:00",
+  "slug": "concord"
+}

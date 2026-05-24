@@ -1,0 +1,83 @@
+{
+  "id": "d85fdbbc-e2ea-403c-9879-97e783dce02e",
+  "color_name": "Cab Sav",
+  "hex_code": "#4D0A18",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Cab Sav, a deep and luxurious reddish-brown, evokes feelings of sophistication, indulgence, and stability. It suggests maturity, comfort, and a grounded sense of being. This color embodies richness and can be associated with history, tradition, and the finer things in life, fostering a sense of warmth and security.",
+  "emotional_associations": [
+    "luxury",
+    "sophistication",
+    "stability",
+    "comfort",
+    "warmth"
+  ],
+  "complementary_colors": [
+    "#184D3F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4D0A18",
+        "#7A2938",
+        "#A64758",
+        "#D36578",
+        "#F08398"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#4D0A18",
+        "#614434",
+        "#757E50",
+        "#89B86C",
+        "#9DD288"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Chocolate packaging",
+      "Coffee branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Leather accessories",
+      "Winter outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Burgundy Leather Sofa",
+      "description": "A luxurious burgundy leather sofa adds a touch of elegance to any living room.",
+      "image_url": "https://example.com/burgundy_sofa.jpg"
+    },
+    {
+      "title": "Cabernet Sauvignon Wine Bottle",
+      "description": "The deep red hue of Cabernet Sauvignon wine is often reflected in its label design.",
+      "image_url": "https://example.com/cabernet_wine.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with cream or beige for a classic look.",
+    "Use with forest green for an earthy palette.",
+    "Accent with charcoal gray for a modern touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Cab Sav Color Meaning: The Psychology of #4D0A18",
+    "description": "Discover the meaning, psychology, and best uses of Cab Sav (#4D0A18). Explore palettes, pairings, and real-world examples of this sophisticated color."
+  },
+  "created_at": "2025-06-01T15:17:25.306398+00:00",
+  "updated_at": "2025-06-01T15:17:25.306398+00:00",
+  "slug": "cab-sav"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "b2c65c51-41f9-42c2-8b1a-e32f6e71a149",
+  "color_name": "Russett",
+  "hex_code": "#755A57",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Russett evokes feelings of warmth, comfort, and stability. It is associated with the earth, nature, and autumn, suggesting a sense of groundedness and reliability. This color often represents a connection to the past and a sense of tradition, while also conveying a subtle sense of sophistication and understated elegance.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "stability",
+    "earthiness",
+    "tradition"
+  ],
+  "complementary_colors": [
+    "#577275"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#755A57",
+        "#A68A64",
+        "#D9BFA0",
+        "#594A42"
+      ]
+    },
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#755A57",
+        "#B08968",
+        "#E6CCB2",
+        "#4A3B36"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Autumn-themed beverages"
+    ],
+    "wellness": [
+      "Natural skincare products",
+      "Eco-friendly spa designs"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Leather accessories",
+      "Bohemian-inspired clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Autumn Leaves",
+      "description": "The vibrant russet hues of autumn leaves create a beautiful and comforting landscape.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "Classic russet leather boots offer both style and durability, embodying a sense of timelessness.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, neutral look.",
+    "Combine with teal or turquoise for a contrasting pop.",
+    "Use with gold or bronze accents for a touch of luxury.",
+    "Blend with other earthy tones for a harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator!",
+  "seo_meta": {
+    "title": "Russett Color Meaning: Discover the Symbolism and Design Uses",
+    "description": "Uncover the meaning of russett, its emotional associations, and how to use it effectively in design and branding. Explore color palettes and industry use cases for this earthy tone."
+  },
+  "created_at": "2025-06-01T15:38:45.062457+00:00",
+  "updated_at": "2025-06-01T15:38:45.062457+00:00",
+  "slug": "russett"
+}

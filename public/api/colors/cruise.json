@@ -1,0 +1,84 @@
+{
+  "id": "d9ea5aa7-7203-420d-99e9-6bdcbb9a6131",
+  "color_name": "Cruise",
+  "hex_code": "#B5ECDF",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Cruise evokes feelings of tranquility and rejuvenation, reminiscent of clear skies and calm seas. It promotes a sense of peace, optimism, and mental clarity, fostering creativity and open communication. This color is often associated with healing, growth, and a balanced emotional state.",
+  "emotional_associations": [
+    "tranquility",
+    "rejuvenation",
+    "peace",
+    "optimism",
+    "clarity",
+    "healing",
+    "growth"
+  ],
+  "complementary_colors": [
+    "#DFB7B5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#B5ECDF",
+        "#E0FFFF",
+        "#A0D6B4",
+        "#5F9EA0"
+      ]
+    },
+    {
+      "name": "Pastel Serenity",
+      "swatches": [
+        "#B5ECDF",
+        "#F0E68C",
+        "#ADD8E6",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Mobile app backgrounds"
+    ],
+    "food_beverage": [
+      "Packaging for bottled water",
+      "Restaurant decor with a coastal theme"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Living Room",
+      "description": "A living room design incorporating Cruise-colored walls and light, natural furniture to create a relaxing and inviting atmosphere.",
+      "image_url": "https://example.com/coastal_living.jpg"
+    },
+    {
+      "title": "Spa Retreat",
+      "description": "A spa interior featuring Cruise-colored tiles and soft lighting to promote relaxation and well-being.",
+      "image_url": "https://example.com/spa_retreat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals like beige or cream.",
+    "Combine with other pastels for a gentle palette.",
+    "Use with darker blues for a nautical feel.",
+    "Contrast with warm yellows for a vibrant look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to discover more harmonious color combinations.",
+  "seo_meta": {
+    "title": "Cruise Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of the color Cruise (#B5ECDF), its psychological effects, best color combinations, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T16:17:32.810681+00:00",
+  "updated_at": "2025-06-01T16:17:32.810681+00:00",
+  "slug": "cruise"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "cc6fc18c-0f95-4478-ae83-56c7293a78c8",
+  "color_name": "West Coast",
+  "hex_code": "#625119",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "West Coast, a muted olive green, evokes feelings of groundedness and stability. It represents a connection to nature, suggesting maturity, reliability, and a sense of calm. This color is often associated with wisdom, endurance, and a subtle sophistication.",
+  "emotional_associations": [
+    "stability",
+    "nature",
+    "wisdom",
+    "endurance",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#192A62"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#625119",
+        "#A39061",
+        "#D4C191",
+        "#E9E5D7"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#625119",
+        "#8B7349",
+        "#C4A484",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant interiors with a focus on sustainability"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories such as belts and bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Grove",
+      "description": "An expansive olive grove showcasing the natural beauty of the West Coast color.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    },
+    {
+      "title": "Vintage Leather Furniture",
+      "description": "A classic leather sofa in a West Coast hue, exuding sophistication and comfort.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with browns for an earthy feel.",
+    "Accent with gold for a touch of elegance.",
+    "Contrast with deep blues for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to discover more shades and create your perfect palette!",
+  "seo_meta": {
+    "title": "West Coast Color Meaning: Understanding #625119",
+    "description": "Discover the meaning and psychology behind West Coast (#625119), its emotional associations, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:27:27.992003+00:00",
+  "updated_at": "2025-06-01T15:27:27.992003+00:00",
+  "slug": "west-coast"
+}

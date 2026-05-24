@@ -1,0 +1,81 @@
+{
+  "id": "3c003035-a453-47b3-9f24-5f68d5e68aa6",
+  "color_name": "Eagle",
+  "hex_code": "#B6BAA4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Eagle, a muted and sophisticated grayish-green, often evokes feelings of tranquility, balance, and understated elegance. It suggests a connection to nature and a sense of calm assurance. This color is associated with stability and reliability, while also hinting at a refined aesthetic and subtle power.",
+  "emotional_associations": [
+    "Tranquility",
+    "Balance",
+    "Elegance",
+    "Stability",
+    "Reliability"
+  ],
+  "complementary_colors": [
+    "#A4B6C2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#B6BAA4",
+        "#D8D4C4",
+        "#78866B",
+        "#A6937C",
+        "#E9E5D6"
+      ]
+    },
+    {
+      "name": "Subtle Sophistication",
+      "swatches": [
+        "#B6BAA4",
+        "#C0B8A7",
+        "#8A8C7A",
+        "#EDEBE6",
+        "#60645B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral color accents"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Understated casual wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "The walls are painted in a light Eagle shade, creating a calming and sophisticated living space.",
+      "image_url": "https://example.com/eagle_apartment.jpg"
+    },
+    {
+      "title": "Luxury Car Exterior",
+      "description": "A luxury sedan with an 'Eagle' colored paint job, exuding elegance and class.",
+      "image_url": "https://example.com/eagle_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with creams and off-whites for a soft look.",
+    "Pair with deeper greens or browns for an earthy feel.",
+    "Use with metallics like gold or silver for added elegance.",
+    "Contrast with soft blues to add subtle pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Eagle Color Meaning: Understanding the Psychology of #B6BAA4",
+    "description": "Discover the meaning, associations, and best uses of the 'Eagle' color (#B6BAA4). Learn how to incorporate this sophisticated grayish-green hue into your design projects."
+  },
+  "created_at": "2025-06-01T16:18:01.482677+00:00",
+  "updated_at": "2025-06-01T16:18:01.482677+00:00",
+  "slug": "eagle"
+}

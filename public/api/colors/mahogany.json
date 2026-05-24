@@ -1,0 +1,82 @@
+{
+  "id": "73ae6662-145c-4a41-9c48-5545ff1122c2",
+  "color_name": "Mahogany",
+  "hex_code": "#4E0606",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mahogany evokes feelings of warmth, stability, and sophistication. It is associated with natural materials like wood, suggesting reliability and a connection to the earth. This color can also convey a sense of luxury and timelessness, often seen in classic designs and settings.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "sophistication",
+    "luxury",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#064E4E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4E0606",
+        "#A3825A",
+        "#D4A373",
+        "#F2E3D5"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#4E0606",
+        "#7A3E3E",
+        "#C68B59",
+        "#EBDCBC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Chocolate packaging",
+      "Coffee branding",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studios",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter collections",
+      "Classic accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mahogany Desk",
+      "description": "An antique mahogany desk symbolizes status and traditional craftsmanship.",
+      "image_url": "https://example.com/mahogany_desk.jpg"
+    },
+    {
+      "title": "Mahogany Furniture Set",
+      "description": "A complete living room set in mahogany color, featuring couches, coffee table, and sideboards. Offers warmth and traditional elegance to interior design.",
+      "image_url": "https://example.com/mahogany_set.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with gold accents for a luxurious feel.",
+    "Use with deep greens for a natural palette.",
+    "Contrast with teal for a modern twist."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Mahogany and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Mahogany Color Meaning: Shades, Palettes, and Design Inspiration",
+    "description": "Discover the meaning of Mahogany, its psychological effects, and how to use it in your designs. Explore palettes, pairings, and industry use cases."
+  },
+  "created_at": "2025-06-01T15:18:22.825685+00:00",
+  "updated_at": "2025-06-01T15:18:22.825685+00:00",
+  "slug": "mahogany"
+}

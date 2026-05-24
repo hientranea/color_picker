@@ -1,0 +1,81 @@
+{
+  "id": "8b98f055-1cc2-49b2-a928-863a8a3affe0",
+  "color_name": "Picton Blue",
+  "hex_code": "#45B1E8",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Picton Blue evokes feelings of trust, peace, and serenity. It is often associated with the ocean and the sky, symbolizing stability, depth, and openness. This color can promote relaxation and encourage communication, making it a popular choice for creating a calming and inviting atmosphere.",
+  "emotional_associations": [
+    "trust",
+    "peace",
+    "serenity",
+    "stability",
+    "openness"
+  ],
+  "complementary_colors": [
+    "#E87C45"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#45B1E8",
+        "#A7D9ED",
+        "#FFFFFF",
+        "#2E6B8F"
+      ]
+    },
+    {
+      "name": "Tranquil Waters",
+      "swatches": [
+        "#45B1E8",
+        "#78C8EF",
+        "#B0E2FF",
+        "#0080C0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Call-to-action buttons",
+      "Loading screens"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear",
+      "Casual shirts"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "LinkedIn Logo",
+      "description": "The LinkedIn logo uses a blue color, similar to Picton Blue, to represent professionalism and trust.",
+      "image_url": "url_to_linkedin_logo"
+    },
+    {
+      "title": "Airline Branding",
+      "description": "Several airlines use blue in their branding to convey reliability and safety.",
+      "image_url": "url_to_airline_branding"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and crisp look.",
+    "Combine with grays for a sophisticated palette.",
+    "Use orange as a complementary accent color."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and variations of blue with our color picker tool.",
+  "seo_meta": {
+    "title": "Picton Blue Color Meaning, Combinations, and Design Ideas",
+    "description": "Discover the meaning of Picton Blue, its psychological effects, and how to use it effectively in your designs. Find complementary colors and palette suggestions."
+  },
+  "created_at": "2025-06-01T15:14:04.763246+00:00",
+  "updated_at": "2025-06-01T15:14:04.763246+00:00",
+  "slug": "picton-blue"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "301c9ef9-9214-462a-a0ac-bf7e3aea7cd3",
+  "color_name": "Squirrel",
+  "hex_code": "#8F8176",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Squirrel evokes feelings of groundedness, reliability, and a connection to nature. It represents stability and practicality, often associated with resourcefulness and preparedness. It can also suggest a sense of calm and neutrality, blending harmoniously into its surroundings.",
+  "emotional_associations": [
+    "Stability",
+    "Resourcefulness",
+    "Calm",
+    "Natural",
+    "Reliable"
+  ],
+  "complementary_colors": [
+    "#76848F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#8F8176",
+        "#C6B3A3",
+        "#594D43",
+        "#E6D8C9"
+      ]
+    },
+    {
+      "name": "Autumnal Calm",
+      "swatches": [
+        "#8F8176",
+        "#D4A373",
+        "#6B483A",
+        "#F2E8D5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds for dashboards",
+      "Neutral color for data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Branding for coffee shops"
+    ],
+    "wellness": [
+      "Calming color for meditation apps",
+      "Backgrounds for nature-themed content"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Squirrel Fur",
+      "description": "The natural color of a squirrel's fur provides excellent camouflage.",
+      "image_url": "https://example.com/squirrel_fur.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a wooden cabin blends seamlessly with the surrounding forest.",
+      "image_url": "https://example.com/wooden_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural palette.",
+    "Combine with creams and whites for a sophisticated look.",
+    "Use with deep browns for a rich and earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your own palettes with our color tool!",
+  "seo_meta": {
+    "title": "Squirrel Color Meaning: Psychology, Associations, and Palettes",
+    "description": "Discover the meaning of the color Squirrel, its psychological effects, emotional associations, and how to use it in your designs. Explore complementary colors and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:55:49.149138+00:00",
+  "updated_at": "2025-06-01T15:55:49.149138+00:00",
+  "slug": "squirrel"
+}

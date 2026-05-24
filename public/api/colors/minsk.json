@@ -1,0 +1,82 @@
+{
+  "id": "9641fece-f5ee-442e-8833-8e28c8784f8d",
+  "color_name": "Minsk",
+  "hex_code": "#3F307F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Minsk is a deep, complex purple that evokes feelings of mystery, sophistication, and creativity. It blends the stability of blue with the energy of red, suggesting a balance between power and tranquility. This color is often associated with royalty, ambition, and independence, while also hinting at introspection and spiritual awareness.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "creativity",
+    "royalty",
+    "ambition"
+  ],
+  "complementary_colors": [
+    "#7F6E30"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Royal Dusk",
+      "swatches": [
+        "#3F307F",
+        "#A394D3",
+        "#594A8F",
+        "#1A0B5E",
+        "#8C7DA2"
+      ]
+    },
+    {
+      "name": "Mystic Forest",
+      "swatches": [
+        "#3F307F",
+        "#6E8A6A",
+        "#A6BFA3",
+        "#263A29",
+        "#90849B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Premium app interfaces",
+      "Dark mode themes"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Aromatherapy product packaging"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Statement jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purple hues of an amethyst geode showcase the natural beauty and calming energy associated with this color.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Royal Robes",
+      "description": "Historically, purple dyes were expensive, leading to its association with royalty and power.",
+      "image_url": "https://example.com/royal_robes.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Use with muted greens for a natural, earthy palette.",
+    "Combine with greys for a modern, sophisticated look.",
+    "Contrast with its complementary yellow-orange for a vibrant statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with Minsk and other captivating colors using our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Minsk Color Meaning: Psychology, Palettes, and Design Tips",
+    "description": "Explore the meaning, associations, and best uses of Minsk (#3F307F), a captivating deep purple. Discover complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:10:03.653278+00:00",
+  "updated_at": "2025-06-01T15:10:03.653278+00:00",
+  "slug": "minsk"
+}

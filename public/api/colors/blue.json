@@ -1,0 +1,80 @@
+{
+  "id": "5904cc93-8a42-42f9-9228-b77aae602663",
+  "color_name": "Blue",
+  "hex_code": "#0000FF",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Blue is often associated with feelings of calmness, serenity, and stability. It can also represent trust, loyalty, wisdom, confidence, intelligence, faith, truth, and heaven. Blue is considered beneficial to the mind and body, slowing human metabolism and producing a calming effect.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "trust",
+    "loyalty",
+    "wisdom",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#FFFF00"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#0000FF",
+        "#ADD8E6",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Classic Blue",
+      "swatches": [
+        "#0000FF",
+        "#808080",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "System alerts",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Denim",
+      "Formal wear",
+      "Athletic apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Blueberries",
+      "description": "The vibrant blue hue of blueberries is appealing and healthy.",
+      "image_url": "https://example.com/blueberry.jpg"
+    },
+    {
+      "title": "The Ocean",
+      "description": "The deep blue sea evokes feelings of calmness and vastness.",
+      "image_url": "https://example.com/ocean.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with yellow for a vibrant contrast.",
+    "Use with white for a clean and classic look.",
+    "Combine with gray for a sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of blue and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Blue Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of blue, its psychological effects, how to pair it with other colors, and inspiring blue color palettes."
+  },
+  "created_at": "2025-05-18T14:01:50.75352+00:00",
+  "updated_at": "2025-05-18T14:01:50.75352+00:00",
+  "slug": "blue"
+}

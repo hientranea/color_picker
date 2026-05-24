@@ -1,0 +1,80 @@
+{
+  "id": "290bf1ad-ce87-417f-af7f-06748f6712cd",
+  "color_name": "Mamba",
+  "hex_code": "#8E8190",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mamba is a sophisticated and mysterious color, often associated with elegance and subtlety. It conveys a sense of quiet confidence and understated power, suggesting a refined aesthetic and a connection to the enigmatic aspects of life. It can evoke feelings of calm introspection and a sense of timeless beauty.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "elegance",
+    "calm",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#818E8E",
+    "#908E81",
+    "#81908E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#8E8190",
+        "#D3CEDF",
+        "#A29B9A",
+        "#776B5D"
+      ]
+    },
+    {
+      "name": "Urban Serenity",
+      "swatches": [
+        "#8E8190",
+        "#BDBDBD",
+        "#616161",
+        "#E0E0E0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "subtle backgrounds",
+      "sophisticated icons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa decor",
+      "meditation spaces"
+    ],
+    "fashion": [
+      "evening wear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mamba Silk Scarf",
+      "description": "A luxurious silk scarf in a deep mamba hue, adding a touch of elegance to any outfit.",
+      "image_url": "https://example.com/mamba_scarf.jpg"
+    },
+    {
+      "title": "Mamba Painted Wall",
+      "description": "An interior wall painted in mamba color, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/mamba_wall.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft grays for a calming effect.",
+    "Combine with metallic accents for added elegance.",
+    "Use with muted blues and greens for a natural feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to create stunning color schemes with Mamba!",
+  "seo_meta": {
+    "title": "Mamba Color Meaning: Understanding #8E8190",
+    "description": "Explore the meaning, psychology, and uses of Mamba color (#8E8190). Discover complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:55:12.545708+00:00",
+  "updated_at": "2025-06-01T15:55:12.545708+00:00",
+  "slug": "mamba"
+}

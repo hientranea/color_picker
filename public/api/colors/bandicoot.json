@@ -1,0 +1,84 @@
+{
+  "id": "86437d7c-87ba-44c8-9a1e-80f25448cd28",
+  "color_name": "Bandicoot",
+  "hex_code": "#858470",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bandicoot, a muted grayish-brown, evokes feelings of groundedness, stability, and reliability. It represents a connection to nature and a sense of calm neutrality. This color often suggests a practical and dependable approach, creating a soothing and understated atmosphere.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "groundedness",
+    "dependability"
+  ],
+  "complementary_colors": [
+    "#708584"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#858470",
+        "#D3D1C4",
+        "#5C5B4D",
+        "#A6A494"
+      ]
+    },
+    {
+      "name": "Subtle Serenity",
+      "swatches": [
+        "#858470",
+        "#B0AFA0",
+        "#E8E6D9",
+        "#616055"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization",
+      "Neutral color for app interfaces",
+      "Subtle accents in software design"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors with a natural theme",
+      "Labels for artisanal goods"
+    ],
+    "wellness": [
+      "Spa interiors for a calming effect",
+      "Branding for natural skincare products",
+      "Meditation app backgrounds"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Casual wear",
+      "Accessories like belts and bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone House Facade",
+      "description": "A charming stone house with a Bandicoot-colored facade blends seamlessly into the natural landscape.",
+      "image_url": "https://example.com/stone_house.jpg"
+    },
+    {
+      "title": "Woven Basket",
+      "description": "A handcrafted woven basket in a Bandicoot hue showcases the beauty of natural materials.",
+      "image_url": "https://example.com/woven_basket.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with lighter neutrals for a calming palette.",
+    "Pair with muted greens and blues for a natural feel.",
+    "Use with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Bandicoot Color Meaning: Understanding #858470",
+    "description": "Explore the meaning, associations, and best uses of Bandicoot (#858470), a versatile and grounding grayish-brown color."
+  },
+  "created_at": "2025-06-01T15:48:45.660331+00:00",
+  "updated_at": "2025-06-01T15:48:45.660331+00:00",
+  "slug": "bandicoot"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "9562271e-7603-4e80-a18b-eb5cffd7b9ff",
+  "color_name": "Acapulco",
+  "hex_code": "#7CB0A1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Acapulco evokes feelings of tranquility and balance. It is often associated with nature, promoting a sense of calm and well-being. This color encourages introspection and can foster a feeling of harmony and stability.",
+  "emotional_associations": [
+    "tranquility",
+    "balance",
+    "nature",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#B07C8B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Shores",
+      "swatches": [
+        "#7CB0A1",
+        "#A0D6B4",
+        "#D4E9BE",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#7CB0A1",
+        "#8B7C6B",
+        "#A68A73",
+        "#C2997B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Mobile app design"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio websites",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Activewear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Home Decor",
+      "description": "A living room featuring Acapulco-colored walls, creating a calming and inviting atmosphere.",
+      "image_url": "https://example.com/acapulco_living_room.jpg"
+    },
+    {
+      "title": "Spa Logo",
+      "description": "A wellness center using Acapulco in their logo to convey a sense of relaxation and rejuvenation.",
+      "image_url": "https://example.com/acapulco_spa_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with warm tones like coral or gold for a vibrant contrast.",
+    "Use with other shades of green and blue for a nature-inspired palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Acapulco Color Meaning: Discover the Psychology of #7CB0A1",
+    "description": "Uncover the meaning of Acapulco (#7CB0A1), its emotional associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:44:12.11999+00:00",
+  "updated_at": "2025-06-01T15:44:12.11999+00:00",
+  "slug": "acapulco"
+}

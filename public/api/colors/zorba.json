@@ -1,0 +1,82 @@
+{
+  "id": "9de3b352-743b-4536-8994-51e2d2202930",
+  "color_name": "Zorba",
+  "hex_code": "#A59B91",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Zorba, a muted and sophisticated gray-brown, evokes feelings of stability, reliability, and understated elegance. It represents a sense of groundedness and comfort, often associated with natural materials and a quiet, contemplative atmosphere. It suggests a classic, timeless appeal, avoiding extremes and embracing a refined neutrality.",
+  "emotional_associations": [
+    "sophistication",
+    "stability",
+    "neutrality",
+    "comfort",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#919AA5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#A59B91",
+        "#D3CEC7",
+        "#7A726A",
+        "#E8E4DE"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#A59B91",
+        "#FFFFFF",
+        "#333333",
+        "#F0F0F0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization dashboards",
+      "Neutral color for interactive elements"
+    ],
+    "food_beverage": [
+      "Packaging for artisanal products",
+      "Restaurant interiors to create a calming atmosphere"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Branding for holistic health products"
+    ],
+    "fashion": [
+      "Sophisticated outerwear",
+      "Elegant accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Fireplace",
+      "description": "A natural stone fireplace with Zorba-colored stones creates a cozy and inviting living space.",
+      "image_url": "https://example.com/stone_fireplace.jpg"
+    },
+    {
+      "title": "Leather Handbag",
+      "description": "A Zorba-colored leather handbag is a timeless and versatile accessory.",
+      "image_url": "https://example.com/leather_handbag.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with crisp whites for a clean, modern look.",
+    "Combine with deep blues or greens for a nature-inspired palette.",
+    "Use as a neutral backdrop to make brighter colors pop.",
+    "Accent with metallic golds or silvers for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints of Zorba using our color palette generator!",
+  "seo_meta": {
+    "title": "Zorba Color Meaning: Understanding #A59B91 - Color Psychology",
+    "description": "Discover the meaning, psychology, and best uses for Zorba (#A59B91). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:05:54.372194+00:00",
+  "updated_at": "2025-06-01T16:05:54.372194+00:00",
+  "slug": "zorba"
+}

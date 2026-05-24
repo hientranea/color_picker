@@ -1,0 +1,81 @@
+{
+  "id": "1bdc39ca-20c2-45e1-a263-3d02c6e9a067",
+  "color_name": "Marigold",
+  "hex_code": "#B98D28",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Marigold evokes feelings of warmth, comfort, and creativity. It's associated with optimism, playfulness, and a touch of vintage charm. This earthy, muted yellow-orange can also suggest a sense of groundedness and approachability, making it a welcoming and inviting color.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "creativity",
+    "optimism",
+    "playfulness",
+    "vintage",
+    "groundedness",
+    "approachability"
+  ],
+  "complementary_colors": [
+    "#2860B9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#B98D28",
+        "#D4A373",
+        "#8C6A44",
+        "#594534",
+        "#A67B5B"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#B98D28",
+        "#E0C2A3",
+        "#735239",
+        "#C2B280",
+        "#59423F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Branding for autumn-themed food products"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Autumnal clothing lines",
+      "Accessories with a vintage aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Marigold Flowers",
+      "description": "The vibrant petals of marigold flowers bring a cheerful touch to gardens.",
+      "image_url": "https://example.com/marigold_flower.jpg"
+    },
+    {
+      "title": "Vintage Furniture",
+      "description": "A marigold-colored armchair adds a warm, retro feel to a living room.",
+      "image_url": "https://example.com/marigold_armchair.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep blues for a contrasting look.",
+    "Combine with creams and whites for a vintage feel.",
+    "Use with earthy browns and greens for a natural palette.",
+    "Accent with gold for a luxurious touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Marigold and create your own perfect palette using our color picker!",
+  "seo_meta": {
+    "title": "Marigold Color Meaning: Symbolism, Psychology, and Design",
+    "description": "Discover the meaning, symbolism, and psychology of the color Marigold. Explore complementary colors, palettes, and design inspiration for this warm and inviting hue."
+  },
+  "created_at": "2025-06-01T16:20:05.056446+00:00",
+  "updated_at": "2025-06-01T16:20:05.056446+00:00",
+  "slug": "marigold"
+}

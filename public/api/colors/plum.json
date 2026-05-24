@@ -1,0 +1,84 @@
+{
+  "id": "25f4c58c-4172-4ae9-afe2-e64c7afa4497",
+  "color_name": "Plum",
+  "hex_code": "#843179",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Plum is a sophisticated and regal color, often associated with luxury, creativity, and mystery. It blends the passion of red with the stability of blue, resulting in a hue that inspires imagination while maintaining a sense of calm and composure. Plum can evoke feelings of nostalgia and introspection, making it suitable for environments that value contemplation and artistic expression.",
+  "emotional_associations": [
+    "luxury",
+    "creativity",
+    "mystery",
+    "nostalgia",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#31843C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegant Dusk",
+      "swatches": [
+        "#843179",
+        "#D8BFD8",
+        "#4A235A",
+        "#F5F5DC",
+        "#6A5ACD"
+      ]
+    },
+    {
+      "name": "Mystic Garden",
+      "swatches": [
+        "#843179",
+        "#A9D08F",
+        "#5B2C6F",
+        "#E6B8AF",
+        "#34495E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Premium app themes",
+      "Elegant website backgrounds"
+    ],
+    "food_beverage": [
+      "Packaging for gourmet jams",
+      "Branding for upscale wineries"
+    ],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa treatment branding"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Statement jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Plum Velvet Sofa",
+      "description": "A luxurious plum velvet sofa adds a touch of regal elegance to a modern living room.",
+      "image_url": "https://example.com/plum_sofa.jpg"
+    },
+    {
+      "title": "Plum Orchids",
+      "description": "Rare plum-colored orchids, symbolizing refinement and beauty.",
+      "image_url": "https://example.com/plum_orchids.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with muted greens for a natural palette.",
+    "Use with creams and grays for a sophisticated look.",
+    "Contrast with teal for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator to create your perfect Plum-inspired design!",
+  "seo_meta": {
+    "title": "Plum Color Meaning: Symbolism, Psychology & Design Tips",
+    "description": "Discover the meaning of the color Plum, its psychological effects, and how to use it in your designs for luxury and sophistication."
+  },
+  "created_at": "2025-06-01T15:48:23.720428+00:00",
+  "updated_at": "2025-06-01T15:48:23.720428+00:00",
+  "slug": "plum"
+}

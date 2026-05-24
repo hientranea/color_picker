@@ -1,0 +1,84 @@
+{
+  "id": "26b0cbdb-a7c1-4776-902b-33b1057ac443",
+  "color_name": "Rio Grande",
+  "hex_code": "#BBD009",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rio Grande, a lively yellowish-green, evokes feelings of freshness, growth, and vitality. It blends the optimism of yellow with the calming nature of green, suggesting a sense of renewal and balance. This color often symbolizes nature, energy, and a connection to the environment, promoting a sense of well-being and harmony.",
+  "emotional_associations": [
+    "freshness",
+    "growth",
+    "vitality",
+    "optimism",
+    "renewal",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#D009BB"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#BBD009",
+        "#7A8B07",
+        "#D3B673",
+        "#664D03",
+        "#F2EBD3"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#BBD009",
+        "#90EE90",
+        "#FFFFFF",
+        "#ADD8E6",
+        "#77DD77"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization for environmental impact",
+      "Dashboard indicators for growth metrics"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Branding for health-focused beverages"
+    ],
+    "wellness": [
+      "Design elements for eco-friendly spas",
+      "Color schemes for yoga studios"
+    ],
+    "fashion": [
+      "Accent color in sustainable fashion lines",
+      "Athleisure wear inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "Rio Grande is used to highlight the natural and sustainable aspects of a product.",
+      "image_url": "url_to_eco_packaging_image.jpg"
+    },
+    {
+      "title": "Spring Fashion Collection",
+      "description": "Featured as a vibrant accent color in a spring fashion line.",
+      "image_url": "url_to_spring_fashion_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a sophisticated look.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with brighter blues or purples for a bold contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Rio Grande Color Meaning: Psychology, Palettes & Uses | ColorMeanings.com",
+    "description": "Discover the meaning of Rio Grande (#BBD009), its psychological associations, and how to use it in your designs for a fresh and vibrant aesthetic."
+  },
+  "created_at": "2025-06-01T16:21:31.530136+00:00",
+  "updated_at": "2025-06-01T16:21:31.530136+00:00",
+  "slug": "rio-grande"
+}

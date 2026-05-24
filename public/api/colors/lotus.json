@@ -1,0 +1,78 @@
+{
+  "id": "95768ab5-be9c-4cdb-bf21-394868a279de",
+  "color_name": "Lotus",
+  "hex_code": "#863C3C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lotus, a muted and earthy red, evokes feelings of groundedness, stability, and quiet strength. It suggests a connection to nature and a sense of history, offering a comforting and reliable presence. It can also represent a refined elegance and a subtle passion, suggesting a calm yet determined spirit.",
+  "emotional_associations": [
+    "groundedness",
+    "stability",
+    "comfort",
+    "elegance",
+    "understated passion"
+  ],
+  "complementary_colors": [
+    "#3C8686"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#863C3C",
+        "#A66156",
+        "#C6866F",
+        "#E6AB89"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#863C3C",
+        "#593737",
+        "#A67749",
+        "#D4A373"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for artisanal coffee",
+      "Restaurant interiors aiming for a cozy atmosphere"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Autumnal clothing lines",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Autumn Leaves",
+      "description": "The color of leaves changing in the fall, creating a sense of warmth and nostalgia.",
+      "image_url": "url_to_autumn_leaves_image.jpg"
+    },
+    {
+      "title": "Vintage Leather",
+      "description": "The hue of aged leather, representing quality and timeless style.",
+      "image_url": "url_to_vintage_leather_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with greens and browns for a natural palette.",
+    "Accent with gold for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade of Lotus for your next project!",
+  "seo_meta": {
+    "title": "Lotus Color Meaning: Understanding #863C3C",
+    "description": "Discover the meaning, psychology, and best uses of Lotus (#863C3C), a muted and earthy red color. Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:49:13.967195+00:00",
+  "updated_at": "2025-06-01T15:49:13.967195+00:00",
+  "slug": "lotus"
+}

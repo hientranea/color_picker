@@ -1,0 +1,75 @@
+{
+  "id": "c9df023c-c74d-4f14-b1e7-080133a6a999",
+  "color_name": "Chathams Blue",
+  "hex_code": "#175579",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Chathams Blue evokes feelings of tranquility, stability, and trust. It is often associated with intelligence, efficiency, and reflection. This color promotes a sense of calm and order, making it ideal for environments where focus and clear communication are valued.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intelligence",
+    "calm",
+    "efficiency"
+  ],
+  "complementary_colors": [
+    "#793F17"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Sea",
+      "swatches": [
+        "#175579",
+        "#B0C4DE",
+        "#E6E6FA"
+      ]
+    },
+    {
+      "name": "Corporate Calm",
+      "swatches": [
+        "#175579",
+        "#607B8B",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Navigation menus"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Healthcare websites"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Office Lobby",
+      "description": "A modern office lobby featuring Chathams Blue accent walls to create a welcoming and professional atmosphere.",
+      "image_url": "https://example.com/chathams_blue_office.jpg"
+    },
+    {
+      "title": "Mobile App Interface",
+      "description": "A sleek mobile app interface using Chathams Blue for key interactive elements to enhance user experience.",
+      "image_url": "https://example.com/chathams_blue_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light greys for a modern feel.",
+    "Combine with warm neutrals to balance the cool tones.",
+    "Use as an accent color against a white background."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Chathams Blue Color Meaning, Combinations, and Palettes",
+    "description": "Discover the meaning, psychology, and best uses of Chathams Blue (#175579) in design, branding, and art."
+  },
+  "created_at": "2025-06-01T14:50:40.627703+00:00",
+  "updated_at": "2025-06-01T14:50:40.627703+00:00",
+  "slug": "chathams-blue"
+}

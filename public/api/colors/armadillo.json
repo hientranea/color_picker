@@ -1,0 +1,86 @@
+{
+  "id": "900b6486-47e2-4609-8cf5-0489c1e88bcc",
+  "color_name": "Armadillo",
+  "hex_code": "#433E37",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Armadillo evokes a sense of stability, resilience, and grounding. It suggests a connection to nature and the earth, implying dependability and a quiet strength. This color often represents a sense of security and protection, fostering feelings of calm and composure.",
+  "emotional_associations": [
+    "stability",
+    "resilience",
+    "grounding",
+    "dependability",
+    "security",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#373D43",
+    "#D6DADD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#433E37",
+        "#A9A18F",
+        "#E5DCCF",
+        "#736A62"
+      ]
+    },
+    {
+      "name": "Modern Rustic",
+      "swatches": [
+        "#433E37",
+        "#8A817A",
+        "#C6BDB4",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text colors (paired with lighter shades)",
+      "Neutral accents"
+    ],
+    "food_beverage": [
+      "Packaging for organic or natural products",
+      "Restaurant interiors emphasizing a rustic feel"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories (belts, bags)",
+      "Footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Fireplace",
+      "description": "A natural stone fireplace featuring the Armadillo color, providing warmth and a sense of grounded comfort.",
+      "image_url": "https://example.com/image1.jpg"
+    },
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in Armadillo color, exuding sophistication and timeless appeal.",
+      "image_url": "https://example.com/image2.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft creams for a classic look.",
+    "Combine with deep greens for a natural palette.",
+    "Use with metallic accents (gold, bronze) for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Armadillo Color Meaning: The Psychology of #433E37",
+    "description": "Discover the meaning and associations of Armadillo color (#433E37). Learn how to use this grounded neutral in design, branding, and more."
+  },
+  "created_at": "2025-06-01T15:13:08.657401+00:00",
+  "updated_at": "2025-06-01T15:13:08.657401+00:00",
+  "slug": "armadillo"
+}

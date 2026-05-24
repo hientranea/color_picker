@@ -1,0 +1,82 @@
+{
+  "id": "f24cef1d-0305-48f4-b0cf-b921422e0c1d",
+  "color_name": "Aubergine",
+  "hex_code": "#3B0910",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Aubergine, a dark purple hue, evokes feelings of sophistication, mystery, and luxury. It combines the stability of blue with the energy of red, resulting in a color that suggests power, ambition, and creativity. Aubergine can also represent royalty, nobility, and spirituality, often associated with wisdom and intuition.",
+  "emotional_associations": [
+    "Sophistication",
+    "Mystery",
+    "Luxury",
+    "Power",
+    "Creativity",
+    "Spirituality"
+  ],
+  "complementary_colors": [
+    "#09323B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance",
+      "swatches": [
+        "#3B0910",
+        "#701A28",
+        "#A62B40",
+        "#D16A7F",
+        "#F7B2C1"
+      ]
+    },
+    {
+      "name": "Moody & Rich",
+      "swatches": [
+        "#3B0910",
+        "#222222",
+        "#555555",
+        "#888888",
+        "#BBBBBB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Plum preserves packaging"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Winter coats"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Eggplant",
+      "description": "The deep purple color of an eggplant is a perfect example of Aubergine in nature.",
+      "image_url": "https://example.com/eggplant.jpg"
+    },
+    {
+      "title": "Velvet Curtains",
+      "description": "Luxurious Aubergine velvet curtains add a touch of elegance to any room.",
+      "image_url": "https://example.com/curtains.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with creams for a softer look.",
+    "Use with greens for a natural contrast.",
+    "Accent with silvers for a modern touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Aubergine Color Meaning: Symbolism, Psychology & Palettes",
+    "description": "Discover the meaning of Aubergine, its psychological effects, emotional associations, and how to use this sophisticated color in your designs."
+  },
+  "created_at": "2025-06-01T15:07:04.264003+00:00",
+  "updated_at": "2025-06-01T15:07:04.264003+00:00",
+  "slug": "aubergine"
+}

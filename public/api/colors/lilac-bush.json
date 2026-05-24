@@ -1,0 +1,81 @@
+{
+  "id": "38ae64dd-855a-45d9-a108-7727550f0b74",
+  "color_name": "Lilac Bush",
+  "hex_code": "#9874D3",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Lilac Bush, a muted purple, evokes feelings of tranquility, creativity, and nostalgia. It is often associated with springtime and renewal, fostering a sense of peace and imagination. The color balances the energy of red with the stability of blue, creating a harmonious and contemplative atmosphere.",
+  "emotional_associations": [
+    "tranquility",
+    "creativity",
+    "nostalgia",
+    "peace",
+    "imagination"
+  ],
+  "complementary_colors": [
+    "#749822"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#9874D3",
+        "#B2BEB5",
+        "#E2D8CE",
+        "#77DD77"
+      ]
+    },
+    {
+      "name": "Vintage Romance",
+      "swatches": [
+        "#9874D3",
+        "#D8BFD8",
+        "#FAF0E6",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "calming backgrounds for meditation apps",
+      "subtle accents in design software",
+      "user interface elements promoting relaxation"
+    ],
+    "wellness": [
+      "branding for aromatherapy products",
+      "color schemes for yoga studios",
+      "packaging for sleep aids"
+    ],
+    "fashion": [
+      "spring dresses",
+      "accessories such as scarves and handbags",
+      "formal wear with a touch of whimsy"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lilac Fields in Provence",
+      "description": "The vast lavender fields of Provence, with their hues reminiscent of Lilac Bush, create a breathtaking landscape that inspires awe and serenity.",
+      "image_url": "https://example.com/lavender_fields.jpg"
+    },
+    {
+      "title": "Vintage Pottery",
+      "description": "Antique pottery pieces in shades of Lilac Bush showcase the timeless elegance and nostalgic charm of this subtle color.",
+      "image_url": "https://example.com/vintage_pottery.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural, calming palette.",
+    "Combine with soft neutrals like beige or gray for a sophisticated look.",
+    "Use with gold accents for a touch of luxury.",
+    "Contrast with a vibrant yellow for an unexpected pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore the endless color possibilities with our color picker tool!",
+  "seo_meta": {
+    "title": "Lilac Bush Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning, psychology, and best uses of Lilac Bush (#9874D3). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:59:26.312397+00:00",
+  "updated_at": "2025-06-01T15:59:26.312397+00:00",
+  "slug": "lilac-bush"
+}

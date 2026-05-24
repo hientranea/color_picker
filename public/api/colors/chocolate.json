@@ -1,0 +1,82 @@
+{
+  "id": "70013802-2948-4c44-9155-e6a0193b3b22",
+  "color_name": "Chocolate",
+  "hex_code": "#370202",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Chocolate brown evokes feelings of warmth, comfort, and security. It's associated with earthiness, reliability, and wholesomeness, creating a sense of stability and groundedness. While it can be perceived as simple and natural, it can also represent sophistication and indulgence, depending on the context.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "security",
+    "earthiness",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#023737",
+    "#6E5050"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#370202",
+        "#A87954",
+        "#E3D5CA",
+        "#6B5B95",
+        "#355C7D"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#370202",
+        "#774F38",
+        "#E0B873",
+        "#F1DDBF",
+        "#BCBABE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Bakery signage"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Natural product packaging"
+    ],
+    "fashion": [
+      "Fall and winter clothing",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Chocolate Bar Wrapper",
+      "description": "A rich chocolate brown wrapper evokes a sense of indulgence and premium quality.",
+      "image_url": "url_to_chocolate_wrapper_image"
+    },
+    {
+      "title": "Leather Sofa",
+      "description": "A chocolate brown leather sofa provides a comfortable and inviting focal point in a living room.",
+      "image_url": "url_to_leather_sofa_image"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with greens for an earthy palette.",
+    "Use with golds for a luxurious feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades and create stunning palettes!",
+  "seo_meta": {
+    "title": "Chocolate Color Meaning: Symbolism, Psychology & Design Tips",
+    "description": "Discover the meaning of chocolate brown, its psychological effects, and how to use it in design for a warm and inviting aesthetic."
+  },
+  "created_at": "2025-06-01T15:04:48.481083+00:00",
+  "updated_at": "2025-06-01T15:04:48.481083+00:00",
+  "slug": "chocolate"
+}

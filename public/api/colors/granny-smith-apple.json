@@ -1,0 +1,84 @@
+{
+  "id": "d224c927-e623-431f-a909-36c9ff82e3ff",
+  "color_name": "Granny Smith Apple",
+  "hex_code": "#9DE093",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Granny Smith Apple green evokes feelings of freshness, optimism, and health. It is associated with nature, growth, and renewal, promoting a sense of well-being and balance. This color can also represent abundance and prosperity, while its slightly tart association keeps it from being overly sentimental.",
+  "emotional_associations": [
+    "freshness",
+    "optimism",
+    "health",
+    "growth",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#E0939D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Morning",
+      "swatches": [
+        "#9DE093",
+        "#D4EDDA",
+        "#FFFFFF",
+        "#A9D6A1",
+        "#7CB342"
+      ]
+    },
+    {
+      "name": "Orchard Harvest",
+      "swatches": [
+        "#9DE093",
+        "#F2E7DC",
+        "#BFA180",
+        "#6B8E23",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health tracking apps",
+      "Sustainable living platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Smoothie brands"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Athletic wear",
+      "Summer dresses"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Granny Smith Apple",
+      "description": "A crisp and tart variety of apple, known for its vibrant green color.",
+      "image_url": "https://example.com/granny_smith_apple.jpg"
+    },
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "Sustainable packaging often utilizes this green to convey an environmentally conscious message.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with muted yellows for a cheerful palette.",
+    "Contrast with deep reds for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of green and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Granny Smith Apple Color Meaning: #9DE093 Hex Code",
+    "description": "Discover the meaning, associations, and best uses for Granny Smith Apple green (#9DE093). Explore palettes, industry applications, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:02:11.188747+00:00",
+  "updated_at": "2025-06-01T16:02:11.188747+00:00",
+  "slug": "granny-smith-apple"
+}

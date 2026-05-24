@@ -1,0 +1,76 @@
+{
+  "id": "02185ac2-8f6d-44fb-8c83-12b1ff452979",
+  "color_name": "Jaguar",
+  "hex_code": "#080110",
+  "wheel_position": "",
+  "psychological_meaning": "Jaguar, a deep and mysterious shade, evokes feelings of power, sophistication, and the unknown. It suggests a sense of hidden strength and quiet confidence, often associated with luxury and exclusivity. This color represents introspection and a connection to the deeper, more enigmatic aspects of life.",
+  "emotional_associations": [
+    "mystery",
+    "power",
+    "luxury",
+    "sophistication",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#F7F0E9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Midnight Elegance",
+      "swatches": [
+        "#080110",
+        "#29232E",
+        "#544E5D",
+        "#8B8592",
+        "#C7C3C9"
+      ]
+    },
+    {
+      "name": "Dark Jewel",
+      "swatches": [
+        "#080110",
+        "#1A0F2D",
+        "#361F56",
+        "#5D3985",
+        "#8E5AC0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Security applications"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Lingerie",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The interior of a high-end luxury car featuring deep black leather seats.",
+      "image_url": "https://example.com/jaguar_car_interior.jpg"
+    },
+    {
+      "title": "Elegant Evening Gown",
+      "description": "A stunning evening gown in a deep, dark shade, exuding sophistication and grace.",
+      "image_url": "https://example.com/jaguar_evening_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with metallic accents like gold or silver for a luxurious feel.",
+    "Use with lighter neutral colors to create contrast and balance.",
+    "Combine with jewel tones for a rich and opulent palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Jaguar Color Meaning: The Psychology of #080110",
+    "description": "Discover the meaning and psychology behind the color Jaguar (#080110). Learn about its emotional associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T14:44:13.954899+00:00",
+  "updated_at": "2025-06-01T14:44:13.954899+00:00",
+  "slug": "jaguar"
+}

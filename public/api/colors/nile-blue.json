@@ -1,0 +1,81 @@
+{
+  "id": "b14aec31-2378-40c5-a8ad-ec0cdda2e577",
+  "color_name": "Nile Blue",
+  "hex_code": "#193751",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Nile Blue evokes feelings of tranquility, stability, and sophistication. It is often associated with trust, loyalty, and wisdom, promoting a sense of calm and security. This color can also represent a connection to nature, specifically water, and its soothing properties.",
+  "emotional_associations": [
+    "calm",
+    "trust",
+    "stability",
+    "wisdom",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#513319"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#193751",
+        "#345B7A",
+        "#7697B3",
+        "#B9D0D6"
+      ]
+    },
+    {
+      "name": "Serene Dusk",
+      "swatches": [
+        "#193751",
+        "#5E548E",
+        "#9F86C0",
+        "#E0BBE4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Backgrounds for data visualization",
+      "Loading screens"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Accessories",
+      "Athleisure"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Nile River at Sunset",
+      "description": "The serene waters of the Nile reflect a tranquil blue as the sun sets.",
+      "image_url": "https://example.com/nile_sunset.jpg"
+    },
+    {
+      "title": "Classic Navy Suit",
+      "description": "A timeless navy suit exudes sophistication and professionalism.",
+      "image_url": "https://example.com/navy_suit.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for an elegant look.",
+    "Combine with mustard yellow for a striking contrast.",
+    "Use with other blues and greens for a calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Nile Blue Color Meaning: Shades, Palettes & Design Ideas",
+    "description": "Discover the meaning of Nile Blue, its psychological effects, and how to use it in design, branding, and fashion. Explore complementary colors and inspiring palettes."
+  },
+  "created_at": "2025-06-01T14:51:09.259462+00:00",
+  "updated_at": "2025-06-01T14:51:09.259462+00:00",
+  "slug": "nile-blue"
+}

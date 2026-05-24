@@ -1,0 +1,79 @@
+{
+  "id": "0dca989d-7531-4ae8-a2ca-5ded16714c65",
+  "color_name": "El Paso",
+  "hex_code": "#1E1708",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "El Paso, a deep, muted olive, evokes feelings of earthiness, stability, and quiet strength. It suggests a connection to nature and the outdoors, while also hinting at sophistication and understated elegance. This color can inspire a sense of grounding and reliability, making it a solid choice for conveying trust and maturity.",
+  "emotional_associations": [
+    "stability",
+    "earthiness",
+    "sophistication",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#081F16",
+    "#D9D1C0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#1E1708",
+        "#524B35",
+        "#A69B86",
+        "#D9D1C0"
+      ]
+    },
+    {
+      "name": "Desert Dusk",
+      "swatches": [
+        "#1E1708",
+        "#362E1D",
+        "#6E6450",
+        "#A69B86"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Olive oil branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Leather Sofa",
+      "description": "A classic leather sofa in a deep El Paso shade, conveying comfort and timeless style.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Olive Grove",
+      "description": "An expansive olive grove bathed in golden sunlight, showcasing the natural beauty and tranquility associated with the color.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a sophisticated look.",
+    "Combine with metallic accents like gold or bronze for added elegance.",
+    "Use with natural materials like wood and stone for an organic feel.",
+    "Contrast with lighter, brighter colors to create visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "El Paso Color Meaning: Psychology, Associations & Palettes",
+    "description": "Discover the meaning of El Paso (#1E1708), its psychological associations, complementary colors, and inspiring palettes for your next project."
+  },
+  "created_at": "2025-06-07T08:17:03.033685+00:00",
+  "updated_at": "2025-06-07T08:17:03.033685+00:00",
+  "slug": "el-paso"
+}

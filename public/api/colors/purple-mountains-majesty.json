@@ -1,0 +1,78 @@
+{
+  "id": "9f5ee19b-10a1-4cfb-b995-008e82ae687d",
+  "color_name": "Purple Mountain's Majesty",
+  "hex_code": "#9678B6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Purple Mountain's Majesty evokes feelings of creativity, mystery, and sophistication. It combines the stability of blue with the energy of red, often associated with royalty and ambition. This color can also inspire introspection and a sense of calm, making it suitable for environments that require both focus and creativity.",
+  "emotional_associations": [
+    "creativity",
+    "mystery",
+    "sophistication",
+    "royalty",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#72B696"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#9678B6",
+        "#D8BFD8",
+        "#E6E6FA",
+        "#F8F8FF"
+      ]
+    },
+    {
+      "name": "Regal Harmony",
+      "swatches": [
+        "#9678B6",
+        "#5E5A80",
+        "#C0B2D6",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Creative app designs"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purples found in amethyst geodes reflect the natural beauty and calming energy of Purple Mountain's Majesty.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Lavender Fields",
+      "description": "The serene and fragrant fields of lavender embody the relaxing and introspective qualities of this sophisticated hue.",
+      "image_url": "https://example.com/lavender.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a balanced look.",
+    "Combine with greens for a natural feel.",
+    "Use with metallics for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator today!",
+  "seo_meta": {
+    "title": "Purple Mountain's Majesty Color Meaning, Hex Code #9678B6",
+    "description": "Discover the meaning, psychology, and best uses for Purple Mountain's Majesty (#9678B6), a color associated with creativity and sophistication. Find palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T15:58:29.647111+00:00",
+  "updated_at": "2025-06-01T15:58:29.647111+00:00",
+  "slug": "purple-mountains-majesty"
+}

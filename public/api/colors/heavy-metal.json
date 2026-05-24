@@ -1,0 +1,77 @@
+{
+  "id": "93a52ac8-33df-4e4e-b2ac-3b7a89daa7fb",
+  "color_name": "Heavy Metal",
+  "hex_code": "#2B3228",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Heavy Metal evokes feelings of strength, stability, and sophistication. It suggests a grounded and reliable presence, often associated with industrial aesthetics and a sense of understated power. This color can also represent resilience and timelessness, making it a versatile choice for conveying a sense of solidity and dependability.",
+  "emotional_associations": [
+    "strength",
+    "stability",
+    "sophistication",
+    "reliability",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#D4CE9F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Urban Decay",
+      "swatches": [
+        "#2B3228",
+        "#778899",
+        "#A9A9A9",
+        "#D3D3D3"
+      ]
+    },
+    {
+      "name": "Industrial Chic",
+      "swatches": [
+        "#2B3228",
+        "#556B2F",
+        "#8FBC8F",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Backgrounds for data visualization",
+      "Application headers"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Outerwear",
+      "Accessories (belts, bags)",
+      "Urban clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Loft Apartment",
+      "description": "A loft featuring Heavy Metal accents in furniture and architectural details.",
+      "image_url": "https://example.com/loft.jpg"
+    },
+    {
+      "title": "Urban Streetwear Collection",
+      "description": "A clothing line showcasing Heavy Metal in jackets and pants.",
+      "image_url": "https://example.com/streetwear.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a balanced look.",
+    "Combine with natural wood tones for warmth.",
+    "Use with metallic accents for an industrial feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our color palette generator today!",
+  "seo_meta": {
+    "title": "Heavy Metal Color Meaning: Discover its Uses and Psychological Impact",
+    "description": "Uncover the meaning behind Heavy Metal (#2B3228), its psychological effects, and how to effectively use it in design and branding."
+  },
+  "created_at": "2025-06-01T14:59:09.906586+00:00",
+  "updated_at": "2025-06-01T14:59:09.906586+00:00",
+  "slug": "heavy-metal"
+}

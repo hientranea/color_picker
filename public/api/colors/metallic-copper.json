@@ -1,0 +1,81 @@
+{
+  "id": "e3f08cc5-beb0-437b-8531-7bf3b0cc88ba",
+  "color_name": "Metallic Copper",
+  "hex_code": "#71291D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Metallic Copper embodies a sense of grounded luxury and warmth. It evokes feelings of stability, comfort, and sophistication, blending the earthiness of brown with the opulence of metallic finishes. This color suggests a balance between tradition and modernity, promoting a feeling of secure elegance and understated richness.",
+  "emotional_associations": [
+    "warmth",
+    "luxury",
+    "stability",
+    "sophistication",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#1D6A71"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#71291D",
+        "#A67B5B",
+        "#DBC3A7",
+        "#E9E2D0"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#71291D",
+        "#5E433D",
+        "#917868",
+        "#C4B0A1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Button highlights",
+      "Progress bars",
+      "Subtle accents"
+    ],
+    "food_beverage": [
+      "Packaging for artisanal products",
+      "Restaurant decor",
+      "Branding for coffee or chocolate"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Jewelry",
+      "Accessories",
+      "Autumn/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Copper Cookware",
+      "description": "High-end copper cookware adds a touch of sophistication to any kitchen.",
+      "image_url": "https://example.com/copper_cookware.jpg"
+    },
+    {
+      "title": "Metallic Copper Jewelry",
+      "description": "Copper jewelry provides a warm and elegant accent to any outfit.",
+      "image_url": "https://example.com/copper_jewelry.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with teal or turquoise for a vibrant contrast.",
+    "Use with dark browns and blacks for a masculine feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette tool!",
+  "seo_meta": {
+    "title": "Metallic Copper Color Meaning: Shades, Palettes & Design Tips",
+    "description": "Discover the meaning of Metallic Copper, its emotional associations, complementary colors, and how to use it in your designs to create a sense of grounded luxury."
+  },
+  "created_at": "2025-06-01T15:35:45.878452+00:00",
+  "updated_at": "2025-06-01T15:35:45.878452+00:00",
+  "slug": "metallic-copper"
+}

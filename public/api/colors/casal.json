@@ -1,0 +1,83 @@
+{
+  "id": "1688e3d9-33cc-4cb2-8130-f3f15aae8077",
+  "color_name": "Casal",
+  "hex_code": "#2F6168",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Casal, a muted teal, evokes a sense of tranquility and sophistication. It blends the calming qualities of blue with the grounding influence of green, creating a balanced and harmonious effect. This color often suggests stability, reliability, and a connection to nature, making it suitable for environments where trust and serenity are desired.",
+  "emotional_associations": [
+    "Tranquility",
+    "Sophistication",
+    "Stability",
+    "Reliability",
+    "Nature"
+  ],
+  "complementary_colors": [
+    "#682F28"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#2F6168",
+        "#A3B18A",
+        "#766A56",
+        "#E0CBA8"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#2F6168",
+        "#89B0AE",
+        "#BEE3DB",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Meditation apps",
+      "Security software interfaces"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation rooms"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Active wear",
+      "Business casual"
+    ],
+    "food_beverage": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Teal Interior Design",
+      "description": "A living room featuring Casal-colored accent walls and furniture, creating a serene and inviting atmosphere.",
+      "image_url": "https://example.com/teal_living_room.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A company using Casal in its logo and website to convey a sense of trustworthiness and stability.",
+      "image_url": "https://example.com/teal_company_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige or cream.",
+    "Combine with gold or brass accents for elegance.",
+    "Use with natural wood tones for a balanced look.",
+    "Contrast with coral or peach for a vibrant feel.",
+    "Mix with other shades of blue and green for a calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your own palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Casal Color Meaning: Understanding #2F6168 - Color Meanings",
+    "description": "Discover the meaning, psychology, and best uses of Casal (#2F6168), a muted teal color. Explore complementary colors, palettes, and real-world examples for your design projects."
+  },
+  "created_at": "2025-06-01T15:01:17.228571+00:00",
+  "updated_at": "2025-06-01T15:01:17.228571+00:00",
+  "slug": "casal"
+}

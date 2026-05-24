@@ -1,0 +1,77 @@
+{
+  "id": "36ee118d-827e-4ac2-8248-9719c3c22437",
+  "color_name": "Sangria",
+  "hex_code": "#92000A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sangria, a deep red hue, evokes feelings of passion, sophistication, and intensity. It's often associated with romance, energy, and excitement, while also carrying a sense of luxury and indulgence. This color can inspire confidence and draw attention, suggesting a vibrant and engaging personality.",
+  "emotional_associations": [
+    "passion",
+    "sophistication",
+    "romance",
+    "energy",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#0A8278"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#92000A",
+        "#D4A373",
+        "#7A6952",
+        "#E8E2DA"
+      ]
+    },
+    {
+      "name": "Passionate Sunset",
+      "swatches": [
+        "#92000A",
+        "#FF8C42",
+        "#F0E68C",
+        "#A2D2FF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Restaurant branding",
+      "Chocolate packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Lipstick shades",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sangria Wine",
+      "description": "The color of Sangria wine itself, representing its rich and fruity character.",
+      "image_url": "url_to_sangria_wine_image.jpg"
+    },
+    {
+      "title": "Red Velvet Cake",
+      "description": "The deep red hue of Red Velvet cake, signifying indulgence and celebration.",
+      "image_url": "url_to_red_velvet_cake_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with neutral tones like beige or gray for balance.",
+    "Use with teal or turquoise for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette using our color picker tool!",
+  "seo_meta": {
+    "title": "Sangria Color Meaning: Discover its Psychology and Uses",
+    "description": "Uncover the meaning and associations of Sangria (#92000A), a deep red color. Explore its psychological effects, complementary colors, and ideal uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:56:37.22284+00:00",
+  "updated_at": "2025-06-01T15:56:37.22284+00:00",
+  "slug": "sangria"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "37e4d2f8-e5d7-4cb3-a7f6-f69fd4f2aaea",
+  "color_name": "Empress",
+  "hex_code": "#817377",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Empress, a muted gray with hints of brown, evokes feelings of sophistication, stability, and understated elegance. It suggests a sense of timelessness and refined taste, offering a calming and grounded presence. This color often resonates with those seeking a sense of composure and quiet confidence.",
+  "emotional_associations": [
+    "Sophistication",
+    "Stability",
+    "Elegance",
+    "Calmness",
+    "Understated"
+  ],
+  "complementary_colors": [
+    "#77817B",
+    "#817773"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#817377",
+        "#D3CEC4",
+        "#A69E93",
+        "#59524E"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#817377",
+        "#FFFFFF",
+        "#333333",
+        "#E0E0E0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral text color",
+      "Elegant dividers"
+    ],
+    "food_beverage": [
+      "Sophisticated packaging",
+      "Restaurant interiors",
+      "Coffee branding"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Classic apparel",
+      "Elegant accessories",
+      "Understated patterns"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Apartment Interior",
+      "description": "Empress used as a dominant wall color in a modern, minimalist apartment to create a sense of calm and sophistication.",
+      "image_url": "https://example.com/empress_apartment.jpg"
+    },
+    {
+      "title": "High-End Fashion Brand Logo",
+      "description": "Empress used as a subtle background color in a high-end fashion brand's logo to convey elegance and timelessness.",
+      "image_url": "https://example.com/empress_fashion_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with off-whites for a soft, elegant look.",
+    "Combine with deep blues or greens for a sophisticated contrast.",
+    "Use with metallic accents for a touch of luxury.",
+    "Contrast with brighter accent colors for a more dynamic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect Empress-inspired shade for your next project!",
+  "seo_meta": {
+    "title": "Empress Color Meaning: The Psychology of #817377",
+    "description": "Discover the meaning, associations, and best uses of the Empress color (#817377). Explore palettes, pairings, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:47:31.055018+00:00",
+  "updated_at": "2025-06-01T15:47:31.055018+00:00",
+  "slug": "empress"
+}

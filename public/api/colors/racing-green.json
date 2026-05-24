@@ -1,0 +1,79 @@
+{
+  "id": "08ce268b-5556-4d62-9193-bea4c882b2c3",
+  "color_name": "Racing Green",
+  "hex_code": "#0C1911",
+  "wheel_position": "secondary",
+  "psychological_meaning": "Racing Green evokes feelings of prestige, tradition, and sophistication. It represents a connection to nature, symbolizing growth and endurance. This deep, earthy green is often associated with wealth, status, and classic elegance, reflecting a sense of history and established excellence.",
+  "emotional_associations": [
+    "prestige",
+    "tradition",
+    "sophistication",
+    "nature",
+    "wealth"
+  ],
+  "complementary_colors": [
+    "#F3E6D8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#0C1911",
+        "#435A42",
+        "#A2B188",
+        "#D0C9B5"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#0C1911",
+        "#594A4E",
+        "#A68A64",
+        "#F2E3D5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "premium olive oil packaging",
+      "gourmet tea branding"
+    ],
+    "wellness": [
+      "organic skincare packaging",
+      "eco-friendly spa branding"
+    ],
+    "fashion": [
+      "luxury outerwear",
+      "classic car interiors"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Aston Martin Racing Green",
+      "description": "The iconic color associated with British racing heritage, symbolizing speed and luxury.",
+      "image_url": "https://example.com/aston_martin_racing_green.jpg"
+    },
+    {
+      "title": "Hunter Boots",
+      "description": "A practical and stylish choice, these boots embody the color's association with the outdoors and durability.",
+      "image_url": "https://example.com/hunter_boots_green.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with cream or ivory for a classic look.",
+    "Use with natural wood tones for an earthy palette.",
+    "Contrast with a bright pop of color for visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades of green and create your perfect color scheme with our color palette generator!",
+  "seo_meta": {
+    "title": "Racing Green Color Meaning: Symbolism, Psychology & Palettes",
+    "description": "Discover the meaning of Racing Green, its psychological effects, and how to use it in your designs for a sophisticated and classic aesthetic."
+  },
+  "created_at": "2025-06-01T14:46:43.865914+00:00",
+  "updated_at": "2025-06-01T14:46:43.865914+00:00",
+  "slug": "racing-green"
+}

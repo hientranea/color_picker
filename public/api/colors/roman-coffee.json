@@ -1,0 +1,81 @@
+{
+  "id": "a6f29713-5df0-46c7-be63-67688097a6fa",
+  "color_name": "Roman Coffee",
+  "hex_code": "#795D4C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Roman Coffee evokes feelings of warmth, comfort, and sophistication. It is a grounded color that suggests reliability and stability. It can also represent tradition and a connection to nature, fostering a sense of calm and reassurance.",
+  "emotional_associations": [
+    "comfort",
+    "sophistication",
+    "reliability",
+    "warmth",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#4C7279"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#795D4C",
+        "#A38268",
+        "#D1B39A",
+        "#E9D8BE"
+      ]
+    },
+    {
+      "name": "Autumnal Harmony",
+      "swatches": [
+        "#795D4C",
+        "#C29572",
+        "#E6B88A",
+        "#F2D7B6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Subtle accents in dashboard designs"
+    ],
+    "food_beverage": [
+      "Coffee shop branding",
+      "Packaging for artisanal chocolates"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation app themes"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Armchair",
+      "description": "A classic leather armchair in a Roman Coffee hue exudes timeless elegance.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    },
+    {
+      "title": "Coffee Packaging",
+      "description": "A bag of gourmet coffee beans features a Roman Coffee colored label for a premium feel.",
+      "image_url": "https://example.com/coffee_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, neutral palette.",
+    "Combine with teal or turquoise for a sophisticated contrast.",
+    "Use with gold or brass accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Roman Coffee Color Meaning: Psychology, Palettes & More",
+    "description": "Discover the meaning of Roman Coffee color (#795D4C), its psychological associations, complementary colors, suggested palettes, and industry use cases."
+  },
+  "created_at": "2025-06-01T15:41:05.554636+00:00",
+  "updated_at": "2025-06-01T15:41:05.554636+00:00",
+  "slug": "roman-coffee"
+}

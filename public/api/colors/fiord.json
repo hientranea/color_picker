@@ -1,0 +1,79 @@
+{
+  "id": "e7861b23-ef32-46e2-926d-c3decec6f63b",
+  "color_name": "Fiord",
+  "hex_code": "#405169",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Fiord, a muted grayish-blue, evokes feelings of tranquility, stability, and sophistication. It suggests reliability and trustworthiness, often associated with a sense of calm and introspection. Its understated nature can also convey a sense of formality and professionalism, while hinting at creativity beneath the surface.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "sophistication",
+    "trust",
+    "professionalism"
+  ],
+  "complementary_colors": [
+    "#695840"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#405169",
+        "#A9B7C6",
+        "#E5E8EB",
+        "#708090"
+      ]
+    },
+    {
+      "name": "Modern Elegance",
+      "swatches": [
+        "#405169",
+        "#FFFFFF",
+        "#2E3A47",
+        "#B8860B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Settings menus"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Office Interior",
+      "description": "A modern office space using Fiord as a primary color for walls and furniture, creating a calm and productive environment.",
+      "image_url": "https://example.com/office_fiord.jpg"
+    },
+    {
+      "title": "Website Design",
+      "description": "A clean and professional website design incorporating Fiord in the background and navigation elements, conveying trustworthiness and reliability.",
+      "image_url": "https://example.com/website_fiord.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige or cream for a balanced look.",
+    "Combine with lighter blues and grays for a monochromatic scheme.",
+    "Use gold or brass accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints of Fiord and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Fiord Color Meaning: Psychology, Combinations, and Design Ideas",
+    "description": "Discover the meaning and uses of Fiord (#405169). Explore its psychological impact, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:11:13.343843+00:00",
+  "updated_at": "2025-06-01T15:11:13.343843+00:00",
+  "slug": "fiord"
+}

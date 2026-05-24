@@ -1,0 +1,81 @@
+{
+  "id": "25042d75-8998-4438-aac2-ba5f44a83988",
+  "color_name": "Finch",
+  "hex_code": "#626649",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Finch, a muted olive green, evokes feelings of tranquility and groundedness. It is associated with nature, stability, and a sense of calm. This color promotes a feeling of security and connection to the earth, fostering introspection and peace.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "calm",
+    "peace",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#66627F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#626649",
+        "#A3A487",
+        "#D5D6B4",
+        "#8C7853",
+        "#4A452A"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#626649",
+        "#B8860B",
+        "#F0E68C",
+        "#CD853F",
+        "#A0522D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Natural health drink labels"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Grove",
+      "description": "An image of a serene olive grove at sunset, showcasing the natural beauty and calming effect of the Finch color.",
+      "image_url": "url_to_olive_grove_image.jpg"
+    },
+    {
+      "title": "Sustainable Fashion",
+      "description": "A dress made from eco-friendly fabric, dyed in Finch, promoting the color's association with nature and sustainability.",
+      "image_url": "url_to_sustainable_dress_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like beige and cream for a calming effect.",
+    "Combine with earthy browns and rusts for a rustic feel.",
+    "Use with pops of gold or yellow for a touch of warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to discover more harmonious shades and create your perfect palette!",
+  "seo_meta": {
+    "title": "Finch Color Meaning: Discover the Psychology of #626649",
+    "description": "Uncover the meaning and emotional associations of Finch (#626649). Learn how to use this calming color in your designs and branding for a sense of nature and stability."
+  },
+  "created_at": "2025-06-01T15:27:35.03431+00:00",
+  "updated_at": "2025-06-01T15:27:35.03431+00:00",
+  "slug": "finch"
+}

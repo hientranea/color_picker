@@ -1,0 +1,77 @@
+{
+  "id": "74ae2952-8f7c-4f5d-9e20-3247acd574a2",
+  "color_name": "Husk",
+  "hex_code": "#B7A458",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Husk evokes a sense of natural, earthy comfort. It suggests stability, resilience, and a connection to the outdoors. This color often implies a grounding influence, promoting feelings of security and understated elegance. It can also represent maturity, wisdom, and a quiet strength.",
+  "emotional_associations": [
+    "earthiness",
+    "stability",
+    "comfort",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#586BB7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Calm",
+      "swatches": [
+        "#B7A458",
+        "#D4C184",
+        "#8A7942",
+        "#E9DAC4"
+      ]
+    },
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#B7A458",
+        "#7A6A3D",
+        "#A68DAD",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant interiors emphasizing natural elements"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Autumn outerwear",
+      "Bohemian-inspired accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wheat Fields at Sunset",
+      "description": "The golden-brown hue of ripening wheat fields during the evening, conveying warmth and abundance.",
+      "image_url": "https://example.com/wheat_field.jpg"
+    },
+    {
+      "title": "Vintage Leather Furniture",
+      "description": "The worn, rich color of aged leather furniture, representing comfort and timeless style.",
+      "image_url": "https://example.com/leather_furniture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, natural look.",
+    "Combine with deep blues for a sophisticated contrast.",
+    "Use with metallics like gold or bronze for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more earthy tones and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Husk Color Meaning: Understanding the Psychology of #B7A458",
+    "description": "Explore the meaning and associations of the color Husk (#B7A458). Discover its psychological impact, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:18:44.37955+00:00",
+  "updated_at": "2025-06-01T16:18:44.37955+00:00",
+  "slug": "husk"
+}

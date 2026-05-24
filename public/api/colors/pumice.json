@@ -1,0 +1,85 @@
+{
+  "id": "8dc317c1-1f44-413c-a05e-b02d877310fe",
+  "color_name": "Pumice",
+  "hex_code": "#C2CAC4",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Pumice, with its soft, grayish tone, evokes feelings of calm, serenity, and neutrality. It suggests stability and dependability, while also conveying a sense of quiet sophistication. It is often associated with simplicity, cleanliness, and a lack of strong emotional stimulation, making it a versatile choice for backgrounds and designs that require a subtle touch.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "neutrality",
+    "stability",
+    "dependability",
+    "sophistication",
+    "simplicity",
+    "cleanliness"
+  ],
+  "complementary_colors": [
+    "#CAC2CA",
+    "#C4C2CA",
+    "#A5A1A3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#C2CAC4",
+        "#A8A29E",
+        "#D1CDBF",
+        "#B3ABA5"
+      ]
+    },
+    {
+      "name": "Monochrome Calm",
+      "swatches": [
+        "#C2CAC4",
+        "#D4D1D0",
+        "#A9A3A0",
+        "#8F8A87"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "modals",
+      "neutral accents"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa branding",
+      "meditation apps"
+    ],
+    "fashion": [
+      "casual wear",
+      "outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Walls painted in a pumice-like color create a serene and inviting living space.",
+      "image_url": "https://example.com/pumice_apartment.jpg"
+    },
+    {
+      "title": "Minimalist Website Design",
+      "description": "A website using pumice as a background color for a clean and professional look.",
+      "image_url": "https://example.com/pumice_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft greens for a natural feel.",
+    "Combine with darker grays for a sophisticated look.",
+    "Use as a neutral backdrop for brighter accent colors.",
+    "Excellent with natural wood tones."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations and find the perfect shade with our color picker tool!",
+  "seo_meta": {
+    "title": "Pumice Color Meaning: Understanding #C2CAC4",
+    "description": "Explore the meaning, psychology, and uses of the pumice color (#C2CAC4). Discover complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T16:25:55.817807+00:00",
+  "updated_at": "2025-06-01T16:25:55.817807+00:00",
+  "slug": "pumice"
+}

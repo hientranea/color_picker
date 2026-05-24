@@ -1,0 +1,79 @@
+{
+  "id": "3a4cc2b3-a01b-4061-9244-aa6305042338",
+  "color_name": "Black Olive",
+  "hex_code": "#242E16",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Black Olive evokes feelings of sophistication, nature, and subtle strength. It suggests a connection to the earth, providing a sense of stability and understated elegance. This color can represent maturity, wisdom, and a grounded perspective, while also hinting at hidden depths and complexity.",
+  "emotional_associations": [
+    "Sophistication",
+    "Nature",
+    "Stability",
+    "Wisdom",
+    "Maturity"
+  ],
+  "complementary_colors": [
+    "#E1D724"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#242E16",
+        "#A39771",
+        "#D5CEA3",
+        "#586A6A"
+      ]
+    },
+    {
+      "name": "Subtle Sophistication",
+      "swatches": [
+        "#242E16",
+        "#4A4A4A",
+        "#808080",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for olive oil",
+      "Labels for gourmet foods"
+    ],
+    "wellness": [
+      "Branding for natural skincare",
+      "Spa interiors"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Grove",
+      "description": "A sprawling olive grove under the Tuscan sun.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    },
+    {
+      "title": "Military Uniform",
+      "description": "A subdued Black Olive tone used in military uniforms.",
+      "image_url": "https://example.com/military_uniform.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with other earth tones for a harmonious palette.",
+    "Contrast with brighter colors for a modern feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator today!",
+  "seo_meta": {
+    "title": "Black Olive Color Meaning: Understanding #242E16",
+    "description": "Explore the meaning, psychology, and best uses of Black Olive (#242E16). Discover complementary colors and palette ideas for your next design project."
+  },
+  "created_at": "2025-06-01T14:55:12.739101+00:00",
+  "updated_at": "2025-06-01T14:55:12.739101+00:00",
+  "slug": "black-olive"
+}

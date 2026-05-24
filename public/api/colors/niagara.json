@@ -1,0 +1,81 @@
+{
+  "id": "5ef4c042-6de1-4540-b7ed-9f27bee34aad",
+  "color_name": "Niagara",
+  "hex_code": "#06A189",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Niagara, a serene and calming teal, evokes feelings of tranquility, balance, and growth. It harmonizes the refreshing qualities of blue with the revitalizing aspects of green, creating a sense of peaceful renewal and natural harmony. This color often represents stability, reliability, and a connection to nature, promoting a sense of well-being and emotional balance.",
+  "emotional_associations": [
+    "tranquility",
+    "balance",
+    "growth",
+    "serenity",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#A1061E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#06A189",
+        "#A7D1AB",
+        "#E0F2F1",
+        "#70A9A1"
+      ]
+    },
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#06A189",
+        "#558B2F",
+        "#AEC672",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces for monitoring systems",
+      "Calming themes for meditation apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Restaurant decor promoting a healthy lifestyle"
+    ],
+    "wellness": [
+      "Spa branding and interior design",
+      "Yoga studio websites and marketing materials"
+    ],
+    "fashion": [
+      "Summer dresses and casual wear",
+      "Swimwear collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tropical Lagoon",
+      "description": "A pristine tropical lagoon showcasing the vibrant teal color of the water.",
+      "image_url": "https://example.com/lagoon.jpg"
+    },
+    {
+      "title": "Coastal Interior",
+      "description": "A modern living room with Niagara-colored accent walls and natural textures.",
+      "image_url": "https://example.com/interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with natural wood tones for an earthy feel.",
+    "Use with pops of coral or gold for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our color picker tool and create your perfect palette today!",
+  "seo_meta": {
+    "title": "Niagara Color Meaning: Understanding the Teal Hue | [Your Blog Name]",
+    "description": "Discover the meaning, psychology, and best uses of Niagara (#06A189), a calming teal color. Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T14:43:59.446989+00:00",
+  "updated_at": "2025-06-01T14:43:59.446989+00:00",
+  "slug": "niagara"
+}

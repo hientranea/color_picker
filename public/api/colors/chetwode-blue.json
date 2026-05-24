@@ -1,0 +1,75 @@
+{
+  "id": "9108eec2-199f-492c-9a90-3a3d0c9264d5",
+  "color_name": "Chetwode Blue",
+  "hex_code": "#8581D9",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Chetwode Blue is often associated with calmness, trust, and stability. It evokes feelings of serenity and peace, while also suggesting intelligence and reliability. Its cool undertones can promote a sense of introspection and focus, making it suitable for environments where concentration and clarity are valued.",
+  "emotional_associations": [
+    "calmness",
+    "trust",
+    "stability",
+    "serenity",
+    "peace",
+    "intelligence",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#D98185"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#8581D9",
+        "#B0C4DE",
+        "#E6E6FA",
+        "#778899"
+      ]
+    },
+    {
+      "name": "Royal Dusk",
+      "swatches": [
+        "#8581D9",
+        "#483D8B",
+        "#2F4F4F",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "data visualization",
+      "dashboard interfaces"
+    ],
+    "wellness": [
+      "meditation apps",
+      "relaxation tools"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Chetwode Blue Living Room",
+      "description": "A living room featuring Chetwode Blue walls, creating a serene and inviting space.",
+      "image_url": "https://example.com/chetwode_living_room.jpg"
+    },
+    {
+      "title": "Chetwode Blue Logo Design",
+      "description": "A logo design using Chetwode Blue to convey trust and reliability for a financial institution.",
+      "image_url": "https://example.com/chetwode_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or white for a sophisticated look.",
+    "Combine with complementary colors for a vibrant contrast.",
+    "Use with analogous colors for a harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Chetwode Blue Color Meaning, Code, and Palettes",
+    "description": "Discover the meaning of Chetwode Blue (#8581D9), its psychological effects, complementary colors, and suggested palettes for design inspiration."
+  },
+  "created_at": "2025-06-01T15:48:38.071569+00:00",
+  "updated_at": "2025-06-01T15:48:38.071569+00:00",
+  "slug": "chetwode-blue"
+}

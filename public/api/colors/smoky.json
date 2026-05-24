@@ -1,0 +1,81 @@
+{
+  "id": "1b081c26-cd2c-4700-8633-c07ed664268f",
+  "color_name": "Smoky",
+  "hex_code": "#605B73",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Smoky colors evoke a sense of sophistication, mystery, and calmness. They can represent neutrality, subtlety, and a quiet strength. These colors often bring feelings of groundedness and stability, while also hinting at hidden depths and unexplored potential. Smoky hues are associated with introspection and contemplation, suggesting a thoughtful and reserved nature.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "calmness",
+    "neutrality",
+    "stability",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#73604C",
+    "#B3A680",
+    "#D9CDA6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#605B73",
+        "#A29EAE",
+        "#D4D0D9",
+        "#F0EDF5"
+      ]
+    },
+    {
+      "name": "Urban Concrete",
+      "swatches": [
+        "#605B73",
+        "#7F778F",
+        "#A6A2B3",
+        "#C6C3D1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Buttons"
+    ],
+    "wellness": [
+      "Spa Design",
+      "Meditation Apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Smoky Quartz",
+      "description": "A semi-precious gemstone known for its grounding properties.",
+      "image_url": "https://example.com/smoky_quartz.jpg"
+    },
+    {
+      "title": "Smoky Mountains",
+      "description": "The Smoky Mountains displaying a hazy bluish hue.",
+      "image_url": "https://example.com/smoky_mountains.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for elegance.",
+    "Combine with off-whites for a minimalist look.",
+    "Use with teal for a contrasting, modern style."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Smoky Color Meaning: The Psychology of #605B73",
+    "description": "Discover the meaning and associations of the smoky color #605B73, its psychological impact, and how to use it in design and art."
+  },
+  "created_at": "2025-06-01T15:26:16.034268+00:00",
+  "updated_at": "2025-06-01T15:26:16.034268+00:00",
+  "slug": "smoky"
+}

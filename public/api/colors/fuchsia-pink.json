@@ -1,0 +1,77 @@
+{
+  "id": "2d7fa2c8-3d43-4de9-ae63-b2978534dcd0",
+  "color_name": "Fuchsia Pink",
+  "hex_code": "#C154C1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fuchsia pink is a vibrant and energetic color that blends the passion of red with the calmness of blue. It often represents confidence, creativity, and unconventional thinking. It can evoke feelings of playfulness and can be associated with individuality and a desire to stand out. Its intensity can also suggest a sense of extravagance and drama.",
+  "emotional_associations": [
+    "confidence",
+    "creativity",
+    "individuality",
+    "playfulness",
+    "energy"
+  ],
+  "complementary_colors": [
+    "#54C154"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vibrant Energy",
+      "swatches": [
+        "#C154C1",
+        "#FFA07A",
+        "#B0E2FF",
+        "#90EE90"
+      ]
+    },
+    {
+      "name": "Sophisticated Glamour",
+      "swatches": [
+        "#C154C1",
+        "#483D8B",
+        "#D8BFD8",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Highlighting interactive elements",
+      "Creating a playful brand identity"
+    ],
+    "fashion": [
+      "Statement pieces",
+      "Bold accents in accessories"
+    ],
+    "wellness": [
+      "Fitness apparel",
+      "Energy-boosting supplements"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Fuchsia Lipstick",
+      "description": "A bold fuchsia lipstick adds a pop of color and confidence to any look.",
+      "image_url": "https://example.com/fuchsia_lipstick.jpg"
+    },
+    {
+      "title": "Fuchsia Flowers",
+      "description": "Fuchsia flowers brighten gardens with their vibrant and unique shape.",
+      "image_url": "https://example.com/fuchsia_flowers.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with teals and greens for a vibrant contrast.",
+    "Use with grays and blacks for a sophisticated look.",
+    "Combine with other pinks and purples for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies using our color picker tool!",
+  "seo_meta": {
+    "title": "Fuchsia Pink Color Meaning, Combinations, and Design Ideas",
+    "description": "Discover the meaning of fuchsia pink, its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:24:54.054939+00:00",
+  "updated_at": "2025-06-01T16:24:54.054939+00:00",
+  "slug": "fuchsia-pink"
+}

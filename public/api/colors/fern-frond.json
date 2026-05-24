@@ -1,0 +1,78 @@
+{
+  "id": "c5067bc3-c034-4bb0-8267-77fc69c4111d",
+  "color_name": "Fern Frond",
+  "hex_code": "#657220",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fern Frond, a subdued and earthy green, evokes feelings of tranquility, growth, and connection to nature. It suggests stability, health, and a sense of groundedness, making it ideal for designs seeking to create a calming and balanced atmosphere.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "nature",
+    "stability",
+    "health"
+  ],
+  "complementary_colors": [
+    "#206572"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#657220",
+        "#A7B981",
+        "#3E4919",
+        "#8A9577"
+      ]
+    },
+    {
+      "name": "Serene Forest",
+      "swatches": [
+        "#657220",
+        "#D4E9C5",
+        "#4B5320",
+        "#A3BC8C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy snacks branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Retreat Cabin",
+      "description": "The exterior siding of a forest cabin blends seamlessly with the surrounding trees.",
+      "image_url": "https://example.com/forest_cabin.jpg"
+    },
+    {
+      "title": "Yoga Studio Interior",
+      "description": "The walls of a yoga studio are painted Fern Frond to promote relaxation.",
+      "image_url": "https://example.com/yoga_studio.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a calming effect.",
+    "Combine with earthy browns for a natural palette.",
+    "Use with pops of brighter greens for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Fern Frond Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Fern Frond (#657220), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:29:06.626632+00:00",
+  "updated_at": "2025-06-01T15:29:06.626632+00:00",
+  "slug": "fern-frond"
+}

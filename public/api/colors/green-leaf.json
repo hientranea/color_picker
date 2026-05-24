@@ -1,0 +1,80 @@
+{
+  "id": "a5ad973d-bc69-4f4d-a130-61a163c8560d",
+  "color_name": "Green Leaf",
+  "hex_code": "#436A0D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Green Leaf evokes feelings of nature, growth, and tranquility. It's associated with health, renewal, and the environment, often symbolizing balance and harmony. This color can be calming and reassuring, promoting a sense of well-being and connection to the natural world.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "health",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#6A430D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#436A0D",
+        "#A9A18F",
+        "#73624A",
+        "#E3DAC9"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#436A0D",
+        "#90EE90",
+        "#F0FFF0",
+        "#77DD77"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Health food branding",
+      "Herbal tea marketing"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studios",
+      "Natural health product packaging"
+    ],
+    "fashion": [
+      "Outdoor clothing",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lush Forest",
+      "description": "A dense forest with vibrant green leaves.",
+      "image_url": "https://example.com/forest.jpg"
+    },
+    {
+      "title": "Organic Farm",
+      "description": "Rows of leafy green vegetables at an organic farm.",
+      "image_url": "https://example.com/farm.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with browns for an earthy feel.",
+    "Combine with light yellows for a fresh look.",
+    "Use with creams for a sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Green Leaf Color Meaning: Shades, Palettes, and Psychology",
+    "description": "Discover the meaning and associations of Green Leaf color. Explore palettes, industry use cases, and emotional connections to this natural hue."
+  },
+  "created_at": "2025-06-01T15:13:22.022625+00:00",
+  "updated_at": "2025-06-01T15:13:22.022625+00:00",
+  "slug": "green-leaf"
+}

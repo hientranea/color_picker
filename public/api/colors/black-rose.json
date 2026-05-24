@@ -1,0 +1,73 @@
+{
+  "id": "44ac2e1e-6345-48d9-a10a-393c315e9229",
+  "color_name": "Black Rose",
+  "hex_code": "#67032D",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Black Rose, a deep and somber shade of red, evokes a sense of mystery, sophistication, and hidden beauty. It blends the passion and intensity of red with the darkness and intrigue of black, suggesting a complex emotional landscape. This color can represent a love that is both profound and melancholic, or a beauty that is tinged with sorrow.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "melancholy",
+    "passion",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#036137"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vintage Romance",
+      "swatches": [
+        "#67032D",
+        "#A98D82",
+        "#D3CEC4",
+        "#8A7A5F"
+      ]
+    },
+    {
+      "name": "Dark Academia",
+      "swatches": [
+        "#67032D",
+        "#33292A",
+        "#73626B",
+        "#A2958F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "evening wear",
+      "gothic fashion",
+      "lingerie"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Black Rose Lipstick",
+      "description": "A deep, sultry lipstick shade that adds a touch of drama to any look.",
+      "image_url": "https://example.com/black_rose_lipstick.jpg"
+    },
+    {
+      "title": "Velvet Gown",
+      "description": "An elegant velvet gown in a Black Rose hue, perfect for a formal occasion.",
+      "image_url": "https://example.com/black_rose_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Use with gold accents for a touch of luxury.",
+    "Combine with lighter shades of pink for a romantic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to create your perfect Black Rose palette!",
+  "seo_meta": {
+    "title": "Black Rose Color Meaning: Shades, Palettes & Design Tips",
+    "description": "Discover the meaning of Black Rose color, explore its psychological associations, and find beautiful color palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T15:30:15.17908+00:00",
+  "updated_at": "2025-06-01T15:30:15.17908+00:00",
+  "slug": "black-rose"
+}

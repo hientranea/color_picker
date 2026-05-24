@@ -1,0 +1,80 @@
+{
+  "id": "08ae4a2d-8f4a-42df-9cae-5a298cad75e2",
+  "color_name": "Patina",
+  "hex_code": "#639A8F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Patina, often associated with aged copper and bronze, evokes feelings of history, wisdom, and timeless beauty. It blends the tranquility of green with the stability of blue, suggesting a calming yet enduring presence. This color can represent growth, resilience, and a connection to the past, reminding us of the value in weathering challenges and embracing change.",
+  "emotional_associations": [
+    "History",
+    "Tranquility",
+    "Wisdom",
+    "Resilience",
+    "Endurance"
+  ],
+  "complementary_colors": [
+    "#9A636A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#639A8F",
+        "#A7A37E",
+        "#D3CBB6",
+        "#8E7A6B",
+        "#4A3D32"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#639A8F",
+        "#B0E2FF",
+        "#7DF9FF",
+        "#FFFFFF",
+        "#2E8B57"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Vintage-inspired designs"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Statue of Liberty",
+      "description": "The iconic Statue of Liberty, with its distinctive patina finish, symbolizes freedom and democracy.",
+      "image_url": "https://example.com/statue_of_liberty.jpg"
+    },
+    {
+      "title": "Vintage Copper Teapot",
+      "description": "A beautifully aged copper teapot showcasing the characteristic green-blue patina.",
+      "image_url": "https://example.com/copper_teapot.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Combine with gold or brass accents to enhance its vintage appeal.",
+    "Use with soft whites for a clean and serene palette.",
+    "Contrast with deep reds or oranges for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Patina Color Meaning: Symbolism, Palettes, and Design Ideas",
+    "description": "Explore the meaning of Patina (#639A8F), its emotional associations, complementary colors, and inspiring design palettes. Learn how to use this unique color in your next project."
+  },
+  "created_at": "2025-06-01T15:27:42.088502+00:00",
+  "updated_at": "2025-06-01T15:27:42.088502+00:00",
+  "slug": "patina"
+}

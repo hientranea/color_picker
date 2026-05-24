@@ -1,0 +1,83 @@
+{
+  "id": "fe976536-5afc-4fd5-876f-3998f8ee7b55",
+  "color_name": "Periwinkle Gray",
+  "hex_code": "#C3CDE6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Periwinkle Gray combines the calming serenity of periwinkle with the neutrality of gray, evoking feelings of tranquility, sophistication, and understated elegance. It suggests a sense of stability and peace, with a hint of creativity and imagination. This color is often associated with wisdom, thoughtfulness, and a quiet sense of confidence.",
+  "emotional_associations": [
+    "tranquility",
+    "sophistication",
+    "understated elegance",
+    "stability",
+    "peace",
+    "wisdom",
+    "thoughtfulness"
+  ],
+  "complementary_colors": [
+    "#E6DBC3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Dream",
+      "swatches": [
+        "#C3CDE6",
+        "#F0F4F8",
+        "#A9B4C2",
+        "#707B87"
+      ]
+    },
+    {
+      "name": "Modern Vintage",
+      "swatches": [
+        "#C3CDE6",
+        "#D4AC0D",
+        "#7FB3D5",
+        "#34495E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist websites",
+      "Subtle accents in app design",
+      "Neutral color schemes for dashboards"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Elegant dresses",
+      "Sophisticated scarves",
+      "Neutral-toned outerwear"
+    ],
+    "food_beverage": null
+  },
+  "real_world_examples": [
+    {
+      "title": "Bedroom Interior",
+      "description": "A bedroom featuring walls painted in Periwinkle Gray, creating a calming and restful atmosphere.",
+      "image_url": "https://example.com/periwinkle_gray_bedroom.jpg"
+    },
+    {
+      "title": "Modern Office Space",
+      "description": "A modern office space with Periwinkle Gray accents, promoting a sense of focus and tranquility.",
+      "image_url": "https://example.com/periwinkle_gray_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a clean look.",
+    "Combine with muted yellows for a touch of warmth.",
+    "Use with dark blues for a sophisticated contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our color palette generator today!",
+  "seo_meta": {
+    "title": "Periwinkle Gray Color Meaning: Understanding the Psychology of #C3CDE6",
+    "description": "Explore the meaning, psychology, and usage of Periwinkle Gray (#C3CDE6). Discover palettes, pairings, and industry applications for this sophisticated color."
+  },
+  "created_at": "2025-06-01T16:26:40.262516+00:00",
+  "updated_at": "2025-06-01T16:26:40.262516+00:00",
+  "slug": "periwinkle-gray"
+}

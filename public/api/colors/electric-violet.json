@@ -1,0 +1,80 @@
+{
+  "id": "e88af065-a50d-4d83-b764-d248c99ad8ad",
+  "color_name": "Electric Violet",
+  "hex_code": "#8B00FF",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Electric Violet is associated with creativity, innovation, and futuristic thinking. It combines the stability of blue with the energy of red, resulting in a color that sparks imagination and a sense of individuality. It can also represent luxury, sophistication, and unconventionality.",
+  "emotional_associations": [
+    "creativity",
+    "innovation",
+    "futuristic",
+    "luxury",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#FF7700"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Modern Gradient",
+      "swatches": [
+        "#8B00FF",
+        "#A950FF",
+        "#C7A0FF",
+        "#E5F0FF"
+      ]
+    },
+    {
+      "name": "Creative Spark",
+      "swatches": [
+        "#8B00FF",
+        "#FFD700",
+        "#00FFFF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "futuristic apps",
+      "AI interfaces",
+      "modern dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "meditation apps",
+      "spiritual retreats"
+    ],
+    "fashion": [
+      "avant-garde clothing",
+      "accessories for the bold"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Electric Violet Amethyst",
+      "description": "A stunning amethyst geode showcasing the intense color of electric violet.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Fashion Runway",
+      "description": "A designer showcases an electric violet dress at Paris Fashion Week.",
+      "image_url": "https://example.com/dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or white for a modern look.",
+    "Combine with gold for a luxurious feel.",
+    "Use with teal or turquoise for a vibrant contrast.",
+    "Soften with pastel pinks or purples."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with Electric Violet and create your perfect palette using our color tool!",
+  "seo_meta": {
+    "title": "Electric Violet Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Explore the meaning of Electric Violet (#8B00FF), its psychological effects, complementary colors, and find stunning color palettes for your next project."
+  },
+  "created_at": "2025-06-01T15:52:11.967499+00:00",
+  "updated_at": "2025-06-01T15:52:11.967499+00:00",
+  "slug": "electric-violet"
+}

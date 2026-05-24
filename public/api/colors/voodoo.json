@@ -1,0 +1,85 @@
+{
+  "id": "f64aadda-edff-4980-a310-bda02e77c08c",
+  "color_name": "Voodoo",
+  "hex_code": "#533455",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Voodoo is a complex color, often associated with mystery, the occult, and the unknown. It can also represent power, transformation, and intuition. This deep, enigmatic hue can evoke feelings of curiosity and intrigue, but it can also be perceived as slightly unsettling or ominous, depending on the context.",
+  "emotional_associations": [
+    "mystery",
+    "power",
+    "intuition",
+    "transformation",
+    "intrigue"
+  ],
+  "complementary_colors": [
+    "#A295A0",
+    "#555353"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#533455",
+        "#7A607C",
+        "#A18CA3",
+        "#C8B9CA",
+        "#EEE6F1"
+      ]
+    },
+    {
+      "name": "Enchanted Forest",
+      "swatches": [
+        "#533455",
+        "#3D405B",
+        "#81B29A",
+        "#F2CC8F",
+        "#E07A5F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes for apps and websites",
+      "Luxury brand websites"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Packaging for gourmet chocolates"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual guidance websites"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Accessories with a gothic or mysterious vibe"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ametrine Gemstone",
+      "description": "The unique color blends in ametrine gemstones showcase a blend of purple and gold hues, embodying a balance of power and serenity.",
+      "image_url": "https://example.com/ametrine.jpg"
+    },
+    {
+      "title": "Velvet Curtains",
+      "description": "Deep purple velvet curtains add a touch of luxury and mystery to a living room.",
+      "image_url": "https://example.com/velvet_curtains.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with muted greens for a natural, earthy vibe.",
+    "Use with silver for a modern, sophisticated look.",
+    "Contrast with light pinks to create balance"
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and build your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Voodoo Color Meaning: Symbolism, Psychology, and Design Ideas",
+    "description": "Uncover the meaning of the color Voodoo. Learn about its psychological impact, emotional associations, and how to use it in your designs for a powerful and mysterious effect."
+  },
+  "created_at": "2025-06-01T15:21:20.652945+00:00",
+  "updated_at": "2025-06-01T15:21:20.652945+00:00",
+  "slug": "voodoo"
+}

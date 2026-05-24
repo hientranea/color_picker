@@ -1,0 +1,83 @@
+{
+  "id": "2c537f07-b01c-4ea6-9064-7695ad2775bd",
+  "color_name": "Mariner",
+  "hex_code": "#286ACD",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Mariner evokes feelings of trustworthiness, stability, and depth. It is often associated with intellect, confidence, and security. This color can promote a sense of calm and order, making it suitable for environments where focus and reliability are valued. Mariner also symbolizes loyalty and integrity.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intellect",
+    "confidence",
+    "security",
+    "loyalty"
+  ],
+  "complementary_colors": [
+    "#CD9128"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nautical Calm",
+      "swatches": [
+        "#286ACD",
+        "#ADD8E6",
+        "#FFFFFF",
+        "#808080"
+      ]
+    },
+    {
+      "name": "Corporate Trust",
+      "swatches": [
+        "#286ACD",
+        "#E0E0E0",
+        "#333333",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Call-to-action buttons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Accessories",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Bank Corporate Identity",
+      "description": "A bank uses Mariner in its branding to convey trust and reliability.",
+      "image_url": "https://example.com/bank_logo.jpg"
+    },
+    {
+      "title": "Website Navigation",
+      "description": "A tech company uses Mariner for the navigation bar on its website to provide a sense of stability.",
+      "image_url": "https://example.com/website_navigation.png"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a professional look.",
+    "Combine with white for a clean, modern aesthetic.",
+    "Use with a muted yellow for a balanced contrast.",
+    "Integrate with other blues for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator to find the perfect match for your project.",
+  "seo_meta": {
+    "title": "Mariner Color Meaning: The Psychology of #286ACD",
+    "description": "Explore the meaning, associations, and best uses of Mariner (#286ACD), a color that evokes trust, stability, and intellect. Discover complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T14:57:31.637839+00:00",
+  "updated_at": "2025-06-01T14:57:31.637839+00:00",
+  "slug": "mariner"
+}

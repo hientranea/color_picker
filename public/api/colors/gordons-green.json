@@ -1,0 +1,79 @@
+{
+  "id": "37453d2f-d743-4c20-91f7-bfa4e77b4f65",
+  "color_name": "Gordons Green",
+  "hex_code": "#0B1107",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Gordons Green is a deep, muted green that evokes feelings of stability, groundedness, and a connection to nature. It suggests maturity, sophistication, and a sense of calm. This color can represent a quiet strength and a reliable presence, often associated with wealth, tradition, and understated elegance.",
+  "emotional_associations": [
+    "stability",
+    "groundedness",
+    "maturity",
+    "sophistication",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#110B0F",
+    "#F4E6D8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#0B1107",
+        "#4A6158",
+        "#A7B7A8",
+        "#D4DCD6"
+      ]
+    },
+    {
+      "name": "Forest Depth",
+      "swatches": [
+        "#0B1107",
+        "#223320",
+        "#556644",
+        "#889977"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Tea branding"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Floor",
+      "description": "The rich, dark green of a forest floor after rainfall.",
+      "image_url": "https://example.com/forest_floor.jpg"
+    },
+    {
+      "title": "Vintage Library",
+      "description": "The color of aged leather-bound books in a classic library.",
+      "image_url": "https://example.com/vintage_library.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beige for a sophisticated look.",
+    "Combine with gold or brass accents for a touch of luxury.",
+    "Use with natural wood tones for an earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Gordons Green Color Meaning: Discover its Psychology and Uses",
+    "description": "Uncover the meaning and symbolism behind Gordons Green (#0B1107). Learn about its psychological effects, ideal pairings, and industry applications."
+  },
+  "created_at": "2025-06-01T14:46:16.501471+00:00",
+  "updated_at": "2025-06-01T14:46:16.501471+00:00",
+  "slug": "gordons-green"
+}

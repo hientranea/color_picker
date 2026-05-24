@@ -1,0 +1,82 @@
+{
+  "id": "d7988117-13f5-426a-afd5-d2e6c78fb3d3",
+  "color_name": "Bitter Lemon",
+  "hex_code": "#CAE00D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bitter Lemon evokes a sense of vibrancy and freshness, blending the energy of yellow with the natural calmness of green. It often symbolizes optimism, growth, and a forward-looking perspective, while also hinting at a playful, slightly rebellious attitude. This color is associated with mental clarity and the ability to embrace new beginnings with enthusiasm.",
+  "emotional_associations": [
+    "energy",
+    "optimism",
+    "freshness",
+    "growth",
+    "clarity"
+  ],
+  "complementary_colors": [
+    "#0DCA6F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Citrus Burst",
+      "swatches": [
+        "#CAE00D",
+        "#FFDB58",
+        "#F28482",
+        "#96B6C5"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#CAE00D",
+        "#A7D1AB",
+        "#E2F0CB",
+        "#73A9AD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Call-to-action buttons",
+      "Progress bars",
+      "Interactive elements"
+    ],
+    "food_beverage": [
+      "Lemonade branding",
+      "Energy drink packaging",
+      "Healthy snack promotions"
+    ],
+    "wellness": [
+      "Eco-friendly product labels",
+      "Mental health app interfaces",
+      "Sustainable living campaigns"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Product Packaging",
+      "description": "Bitter Lemon is used on packaging for an eco-friendly cleaning product, emphasizing its natural and refreshing qualities.",
+      "image_url": "https://example.com/bitter_lemon_packaging.jpg"
+    },
+    {
+      "title": "Tech Startup Website",
+      "description": "A tech startup uses Bitter Lemon as an accent color on its website to convey innovation and a forward-thinking approach.",
+      "image_url": "https://example.com/bitter_lemon_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with neutral grays for a modern look.",
+    "Pair with deep blues for contrast and balance.",
+    "Use with other citrus tones for a vibrant palette.",
+    "Accent with earthy browns for a natural feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Bitter Lemon Color Meaning: Understanding #CAE00D",
+    "description": "Discover the meaning, psychology, and best uses of Bitter Lemon (#CAE00D), a vibrant color that signifies energy and growth."
+  },
+  "created_at": "2025-06-01T16:33:10.593921+00:00",
+  "updated_at": "2025-06-01T16:33:10.593921+00:00",
+  "slug": "bitter-lemon"
+}

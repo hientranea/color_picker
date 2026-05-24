@@ -1,0 +1,85 @@
+{
+  "id": "35e7f95a-d717-4509-a355-c028ec34292a",
+  "color_name": "Camarone",
+  "hex_code": "#00581A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Camarone, a deep and earthy green, evokes feelings of nature, growth, and stability. It is often associated with prosperity, freshness, and renewal. This color can inspire a sense of calm and security, connecting us to the natural world and promoting a feeling of balance and well-being. It is also seen as a color of abundance and good fortune.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "stability",
+    "prosperity",
+    "freshness",
+    "renewal",
+    "calm",
+    "security",
+    "balance",
+    "abundance"
+  ],
+  "complementary_colors": [
+    "#A5008B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#00581A",
+        "#A8A495",
+        "#E5DDC8",
+        "#6B8E23"
+      ]
+    },
+    {
+      "name": "Forest Depths",
+      "swatches": [
+        "#00581A",
+        "#228B22",
+        "#006400",
+        "#3CB371"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant interiors emphasizing natural ingredients"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amazon Rainforest",
+      "description": "The lush greenery of the Amazon rainforest showcases the vibrant and diverse shades of green found in nature.",
+      "image_url": "https://example.com/amazon_rainforest.jpg"
+    },
+    {
+      "title": "Emerald Gemstone",
+      "description": "Emeralds are prized for their deep green color, symbolizing growth and renewal.",
+      "image_url": "https://example.com/emerald_gemstone.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with creams and beiges for a calming palette.",
+    "Contrast with bright yellows for an energetic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Camarone Color Meaning: Psychology, Palettes, and Design Ideas",
+    "description": "Discover the meaning and uses of Camarone (#00581A), a deep earthy green. Explore color palettes, emotional associations, and design inspiration."
+  },
+  "created_at": "2025-06-01T14:37:32.029573+00:00",
+  "updated_at": "2025-06-01T14:37:32.029573+00:00",
+  "slug": "camarone"
+}

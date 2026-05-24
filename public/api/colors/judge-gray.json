@@ -1,0 +1,81 @@
+{
+  "id": "e20b60a8-7136-48e7-8f30-0c63ff7198fb",
+  "color_name": "Judge Gray",
+  "hex_code": "#544333",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Judge Gray evokes feelings of stability, reliability, and sophistication. It is often associated with neutrality, balance, and a sense of calm contemplation. The color can also represent formality, tradition, and a quiet confidence.",
+  "emotional_associations": [
+    "Stability",
+    "Neutrality",
+    "Sophistication",
+    "Reliability",
+    "Calm"
+  ],
+  "complementary_colors": [
+    "#334454"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#544333",
+        "#A69A8B",
+        "#D4CABD",
+        "#736357"
+      ]
+    },
+    {
+      "name": "Monochrome Calm",
+      "swatches": [
+        "#544333",
+        "#6E5D4F",
+        "#88776B",
+        "#A29183"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Text contrast",
+      "Navigation elements"
+    ],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Restaurant interiors"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Formal wear",
+      "Classic accessories",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Buildings",
+      "description": "The color of aged stone buildings conveying strength and history.",
+      "image_url": "https://example.com/stone_building.jpg"
+    },
+    {
+      "title": "Leather Goods",
+      "description": "High-quality leather products showcase the richness of Judge Gray.",
+      "image_url": "https://example.com/leather_goods.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream for a soft contrast.",
+    "Combine with deep blues for a sophisticated look.",
+    "Use with metallic accents for an elegant touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Judge Gray Color Meaning, Code #544333 - Color Psychology",
+    "description": "Explore the meaning, psychology, and uses of Judge Gray (#544333). Find complementary colors and create stunning palettes."
+  },
+  "created_at": "2025-06-01T15:21:47.673842+00:00",
+  "updated_at": "2025-06-01T15:21:47.673842+00:00",
+  "slug": "judge-gray"
+}

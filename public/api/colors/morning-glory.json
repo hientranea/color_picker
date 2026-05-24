@@ -1,0 +1,85 @@
+{
+  "id": "9d3facdf-275b-4a8e-b256-fc8eb549337d",
+  "color_name": "Morning Glory",
+  "hex_code": "#9EDEE0",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Morning Glory is a serene and calming color, often associated with peace, tranquility, and clarity. It evokes feelings of freshness, cleanliness, and openness, promoting a sense of emotional balance and mental well-being. This gentle hue can inspire creativity and foster a positive and optimistic outlook.",
+  "emotional_associations": [
+    "calm",
+    "peace",
+    "clarity",
+    "freshness",
+    "optimism"
+  ],
+  "complementary_colors": [
+    "#E09E9D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Breeze",
+      "swatches": [
+        "#9EDEE0",
+        "#FFFFFF",
+        "#B0E2FF",
+        "#77DD77"
+      ]
+    },
+    {
+      "name": "Zen Garden",
+      "swatches": [
+        "#9EDEE0",
+        "#E0EEE0",
+        "#C1CDC1",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Mobile app backgrounds"
+    ],
+    "food_beverage": [
+      "Packaging for mineral water",
+      "Branding for health food restaurants"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior",
+      "description": "A spa uses Morning Glory as the primary wall color to create a relaxing and rejuvenating atmosphere.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Mobile App Design",
+      "description": "A health and fitness app utilizes Morning Glory as a background color for a clean and user-friendly interface.",
+      "image_url": "https://example.com/mobile_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and modern look.",
+    "Combine with gray for a sophisticated and calming palette.",
+    "Use with light greens for a natural and refreshing feel.",
+    "Accent with coral for a pop of energy and contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and create your perfect palette using our color picker tool!",
+  "seo_meta": {
+    "title": "Morning Glory Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Morning Glory (#9EDEE0), its psychological effects, complementary colors, suggested palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T16:03:01.717003+00:00",
+  "updated_at": "2025-06-01T16:03:01.717003+00:00",
+  "slug": "morning-glory"
+}

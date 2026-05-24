@@ -1,0 +1,82 @@
+{
+  "id": "3cbf0a39-369a-432c-8f00-1bd3e001945f",
+  "color_name": "Chinook",
+  "hex_code": "#A8E3BD",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Chinook evokes feelings of freshness, tranquility, and natural harmony. It is associated with growth, renewal, and a sense of balance. This color promotes a calming atmosphere and inspires creativity, making it suitable for spaces where relaxation and focus are desired.",
+  "emotional_associations": [
+    "freshness",
+    "tranquility",
+    "growth",
+    "harmony",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#E3A8C2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#A8E3BD",
+        "#D3FFCE",
+        "#74C69D",
+        "#34A0A4"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#A8E3BD",
+        "#BEE9DE",
+        "#62B6CB",
+        "#5FA8D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces for environmental monitoring apps",
+      "Wellness app designs promoting calm and balance"
+    ],
+    "food_beverage": [
+      "Packaging for organic and natural food products",
+      "Branding for herbal teas and health drinks"
+    ],
+    "wellness": [
+      "Spa and wellness center interiors",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Activewear and yoga apparel",
+      "Summer dresses and casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Retreat",
+      "description": "The walls of the spa are painted in chinook green to promote relaxation.",
+      "image_url": "https://example.com/spa_retreat.jpg"
+    },
+    {
+      "title": "Herbal Tea Packaging",
+      "description": "The packaging of the herbal tea features chinook green to convey natural freshness.",
+      "image_url": "https://example.com/herbal_tea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a sophisticated look.",
+    "Combine with soft blues for a serene atmosphere.",
+    "Use with warm browns for an earthy feel.",
+    "Accent with pops of coral or peach for vibrancy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Chinook using our color palette generator!",
+  "seo_meta": {
+    "title": "Chinook Color Meaning: The Psychology of #A8E3BD",
+    "description": "Discover the meaning, associations, and best uses for the color Chinook (#A8E3BD). Explore palettes and real-world examples to inspire your next project."
+  },
+  "created_at": "2025-06-01T16:08:01.069704+00:00",
+  "updated_at": "2025-06-01T16:08:01.069704+00:00",
+  "slug": "chinook"
+}

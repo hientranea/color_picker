@@ -1,0 +1,78 @@
+{
+  "id": "f70974e4-cbe1-47b9-84d2-933e4b48b254",
+  "color_name": "Blue Diamond",
+  "hex_code": "#380474",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Diamond represents sophistication, luxury, and rarity. It combines the calming and trustworthy aspects of blue with the richness and opulence associated with diamonds. This color evokes feelings of elegance, exclusivity, and a sense of inner peace and confidence.",
+  "emotional_associations": [
+    "luxury",
+    "sophistication",
+    "confidence",
+    "peace",
+    "rarity"
+  ],
+  "complementary_colors": [
+    "#743804"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Evening",
+      "swatches": [
+        "#380474",
+        "#A98DCE",
+        "#0A1931",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Deep Sea Treasure",
+      "swatches": [
+        "#380474",
+        "#003049",
+        "#D62828",
+        "#F77F00"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Premium app themes",
+      "Luxury website design"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "High-end spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Jewelry design",
+      "Evening wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Blue Diamond Jewelry",
+      "description": "A rare blue diamond ring, symbolizing ultimate luxury and commitment.",
+      "image_url": "https://example.com/blue_diamond_ring.jpg"
+    },
+    {
+      "title": "Luxury Car Interior",
+      "description": "The interior of a high-end vehicle featuring Blue Diamond accents and detailing.",
+      "image_url": "https://example.com/luxury_car_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for classic elegance.",
+    "Use with silver for a modern, sleek look.",
+    "Combine with muted grays for a sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Blue Diamond Color Meaning: Symbolism and Design Tips",
+    "description": "Discover the meaning of Blue Diamond color, its symbolism, emotional associations, and how to use it in your design projects."
+  },
+  "created_at": "2025-06-01T15:05:22.639111+00:00",
+  "updated_at": "2025-06-01T15:05:22.639111+00:00",
+  "slug": "blue-diamond"
+}

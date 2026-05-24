@@ -1,0 +1,77 @@
+{
+  "id": "6f9287c5-e591-476f-99bb-d48949b8677b",
+  "color_name": "Conch",
+  "hex_code": "#C9D9D2",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Conch, with its muted grayish-green tone, evokes a sense of tranquility, calmness, and serenity. It promotes feelings of peace and relaxation, reminiscent of the ocean and natural environments. This color often symbolizes stability, security, and a connection to nature, providing a grounding and soothing effect.",
+  "emotional_associations": [
+    "Tranquility",
+    "Calmness",
+    "Serenity",
+    "Stability",
+    "Nature"
+  ],
+  "complementary_colors": [
+    "#D2C2C9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Seaside Harmony",
+      "swatches": [
+        "#C9D9D2",
+        "#A0B4A7",
+        "#D8E2DC",
+        "#E2EBEA"
+      ]
+    },
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#C9D9D2",
+        "#BDBDBD",
+        "#E0E0E0",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for calming apps",
+      "Minimalist website designs"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Relaxed summer attire",
+      "Neutral accessory accents"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Bedroom",
+      "description": "A bedroom with walls painted in a conch-like hue, creating a relaxing and peaceful atmosphere.",
+      "image_url": "https://example.com/conch_bedroom.jpg"
+    },
+    {
+      "title": "Spa Retreat",
+      "description": "A spa designed with conch-colored accents to promote relaxation and tranquility.",
+      "image_url": "https://example.com/conch_spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with off-whites for a serene look.",
+    "Combine with natural wood tones for an earthy feel.",
+    "Accent with metallic details for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors using our color palette generator!",
+  "seo_meta": {
+    "title": "Conch Color Meaning: Discover the Serenity of #C9D9D2",
+    "description": "Uncover the meaning and psychology of the color Conch (#C9D9D2). Explore its emotional associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:32:27.298323+00:00",
+  "updated_at": "2025-06-01T16:32:27.298323+00:00",
+  "slug": "conch"
+}

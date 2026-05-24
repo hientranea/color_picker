@@ -1,0 +1,83 @@
+{
+  "id": "94da9c6f-953d-42a6-8c75-a8c47da30ff3",
+  "color_name": "Conifer",
+  "hex_code": "#ACDD4D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Conifer green evokes feelings of nature, growth, and tranquility, often associated with balance and harmony, promoting a sense of well-being and connection to the environment.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "balance",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#DD4DAC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#ACDD4D",
+        "#77DD77",
+        "#A2C523",
+        "#6B8E23",
+        "#8FBC8F"
+      ]
+    },
+    {
+      "name": "Forest Dawn",
+      "swatches": [
+        "#ACDD4D",
+        "#E6E6FA",
+        "#BDBDBD",
+        "#556B2F",
+        "#FAF0E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly app interfaces",
+      "Sustainable technology websites"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Branding for vegan restaurants"
+    ],
+    "wellness": [
+      "Spa and retreat branding",
+      "Yoga studio websites"
+    ],
+    "fashion": [
+      "Outdoor apparel lines",
+      "Sustainable clothing brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The dense, vibrant green canopy of a coniferous forest, providing shelter and sustenance for countless species.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Sustainable Packaging",
+      "description": "Eco-friendly packaging utilizing conifer green to emphasize natural and sustainable qualities.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural look.",
+    "Use with creams and whites for a calming effect.",
+    "Combine with yellows for a bright and cheerful palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our color palette generator tool!",
+  "seo_meta": {
+    "title": "Conifer Color Meaning: Exploring #ACDD4D",
+    "description": "Discover the meaning, psychology, and best uses of Conifer green (#ACDD4D) for your next design project."
+  },
+  "created_at": "2025-06-01T16:11:42.064035+00:00",
+  "updated_at": "2025-06-01T16:11:42.064035+00:00",
+  "slug": "conifer"
+}

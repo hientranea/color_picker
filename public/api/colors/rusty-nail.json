@@ -1,0 +1,77 @@
+{
+  "id": "65fb40de-8409-49c7-8925-47b373c441c3",
+  "color_name": "Rusty Nail",
+  "hex_code": "#86560A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rusty Nail evokes feelings of earthiness, resilience, and a touch of vintage charm. It's a color that suggests stability, history, and a connection to the natural world. It can also represent a sense of steadfastness and durability, like the aged metal it's named after. This color can inspire a feeling of being grounded and secure.",
+  "emotional_associations": [
+    "earthiness",
+    "resilience",
+    "vintage",
+    "stability",
+    "history"
+  ],
+  "complementary_colors": [
+    "#0A3E86"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#86560A",
+        "#D4A373",
+        "#E9C46A",
+        "#264653",
+        "#A3B18A"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#86560A",
+        "#A98467",
+        "#6B705D",
+        "#F2E8CF",
+        "#355070"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for gourmet coffee",
+      "Restaurant decor with a rustic theme"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather accessories",
+      "Fall/Winter clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Old Barn",
+      "description": "The weathered planks of an old barn, showcasing the color's connection to age and nature.",
+      "image_url": "https://example.com/barn.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "A pair of worn leather boots, exemplifying the color's association with durability and ruggedness.",
+      "image_url": "https://example.com/boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for an earthy feel.",
+    "Combine with creams and off-whites for a vintage look.",
+    "Use with deep blues to create contrast and depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Rusty Nail Color Meaning: The Psychology of #86560A",
+    "description": "Discover the meaning and associations of Rusty Nail color (#86560A), including its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:49:35.800344+00:00",
+  "updated_at": "2025-06-01T15:49:35.800344+00:00",
+  "slug": "rusty-nail"
+}

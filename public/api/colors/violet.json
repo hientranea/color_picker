@@ -1,0 +1,80 @@
+{
+  "id": "0d5cdc7a-01d9-40be-823a-628263e39ff8",
+  "color_name": "Violet",
+  "hex_code": "#240A40",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Violet embodies creativity and spirituality. It combines the stability of blue and the energy of red. Often associated with royalty, luxury, and ambition, violet can also represent wisdom, dignity, independence, creativity, mystery, and magic. It evokes contemplation and introspection, encouraging a connection to one's deeper self.",
+  "emotional_associations": [
+    "spirituality",
+    "creativity",
+    "royalty",
+    "wisdom",
+    "mystery"
+  ],
+  "complementary_colors": [
+    "#A08F09"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#240A40",
+        "#46344E",
+        "#685D63",
+        "#8A8678",
+        "#ACAFA0"
+      ]
+    },
+    {
+      "name": "Royal Garden",
+      "swatches": [
+        "#240A40",
+        "#6A0DAD",
+        "#9400D3",
+        "#BA55D3",
+        "#DA70D6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Creative software"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Luxury brands",
+      "Evening wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Gemstone",
+      "description": "Amethyst, a violet variety of quartz, is often associated with tranquility and healing.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Lavender Fields",
+      "description": "Lavender fields evoke a sense of calm and relaxation, often associated with aromatherapy and well-being.",
+      "image_url": "https://example.com/lavender.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with greens for a natural and balanced palette.",
+    "Use with grays for a sophisticated and modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades of Violet for your project!",
+  "seo_meta": {
+    "title": "Violet Color Meaning: Symbolism, Psychology, and Design Ideas",
+    "description": "Discover the meaning of violet, its psychological effects, and how to use it in your design projects. Explore violet color palettes, complementary colors, and real-world examples."
+  },
+  "created_at": "2025-06-01T14:54:51.863622+00:00",
+  "updated_at": "2025-06-01T14:54:51.863622+00:00",
+  "slug": "violet"
+}

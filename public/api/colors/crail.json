@@ -1,0 +1,78 @@
+{
+  "id": "5f1896fe-2dc5-4c9b-bc25-fe73e7afe2f7",
+  "color_name": "Crail",
+  "hex_code": "#B95140",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Crail, a muted reddish-brown, evokes feelings of warmth, earthiness, and stability. It suggests a connection to nature and a sense of groundedness. The color can also represent maturity, resilience, and a quiet strength, reminding one of aged wood or weathered landscapes.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "stability",
+    "maturity",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#40B2B9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#B95140",
+        "#E28D6F",
+        "#F2D7B6",
+        "#A3B18A"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#B95140",
+        "#7A4437",
+        "#D4A373",
+        "#EAE0D5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee",
+      "Branding for artisan bread"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio interiors"
+    ],
+    "fashion": [
+      "Autumnal outerwear",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Aged Leather Sofa",
+      "description": "A luxurious sofa upholstered in aged leather, showcasing the color's sophisticated and timeless appeal.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Rustic Barn Door",
+      "description": "A weathered barn door painted in a similar hue, highlighting the color's association with rural landscapes and craftsmanship.",
+      "image_url": "https://example.com/barn_door.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with teal or turquoise for a complementary contrast.",
+    "Combine with other earthy tones for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar colors and create your own palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Crail Color Meaning: Understanding #B95140",
+    "description": "Discover the meaning, psychology, and best uses for the color Crail (#B95140). Explore palettes, pairings, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:19:57.822307+00:00",
+  "updated_at": "2025-06-01T16:19:57.822307+00:00",
+  "slug": "crail"
+}

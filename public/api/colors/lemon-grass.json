@@ -1,0 +1,81 @@
+{
+  "id": "d2881c1c-9791-4e30-9b7e-6c94d9129770",
+  "color_name": "Lemon Grass",
+  "hex_code": "#9B9E8F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lemon Grass evokes feelings of tranquility, nature, and subtle sophistication. It's a calming color that promotes a sense of peace and well-being. The muted green-gray hue is often associated with stability, balance, and understated elegance, making it a versatile choice for various design applications.",
+  "emotional_associations": [
+    "calm",
+    "natural",
+    "sophisticated",
+    "peaceful",
+    "balanced"
+  ],
+  "complementary_colors": [
+    "#E6E3F0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#9B9E8F",
+        "#D3D1C3",
+        "#737775",
+        "#BDBBB0"
+      ]
+    },
+    {
+      "name": "Modern Neutral",
+      "swatches": [
+        "#9B9E8F",
+        "#FFFFFF",
+        "#333333",
+        "#EFEFEF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background colors for dashboard interfaces.",
+      "Neutral tones for data visualization."
+    ],
+    "food_beverage": [
+      "Packaging for organic or natural food products.",
+      "Restaurant interiors aiming for a calming atmosphere."
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Relaxed, comfortable clothing lines.",
+      "Accessories that complement neutral outfits."
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Scandinavian Interior Design",
+      "description": "Lemon Grass walls create a calming and inviting space in a Scandinavian-style living room.",
+      "image_url": "https://example.com/scandinavian_interior.jpg"
+    },
+    {
+      "title": "Natural Cosmetics Packaging",
+      "description": "Lemon Grass labels give a natural and earthy feel to cosmetic product packaging.",
+      "image_url": "https://example.com/cosmetics_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and minimalist look.",
+    "Combine with other earthy tones for a natural palette.",
+    "Use with pops of brighter colors for a modern contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Lemon Grass Color Meaning: Understanding #9B9E8F",
+    "description": "Discover the meaning and associations of Lemon Grass color (#9B9E8F). Explore its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:01:35.472433+00:00",
+  "updated_at": "2025-06-01T16:01:35.472433+00:00",
+  "slug": "lemon-grass"
+}

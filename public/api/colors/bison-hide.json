@@ -1,0 +1,76 @@
+{
+  "id": "59b45a7b-bb2c-4443-8e7d-d51aaf5be9ed",
+  "color_name": "Bison Hide",
+  "hex_code": "#C1B7A4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bison Hide, a muted and earthy tone, evokes a sense of tranquility and groundedness. It's reminiscent of natural landscapes and raw textures, promoting feelings of stability, comfort, and subtle sophistication. This color fosters an atmosphere of quiet strength and understated elegance, suitable for creating calming and refined spaces.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "comfort",
+    "understated elegance",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#A4ACC1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#C1B7A4",
+        "#E9E5D8",
+        "#A69A84",
+        "#595240"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#C1B7A4",
+        "#8C7853",
+        "#D4A373",
+        "#4A3B30"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Meditation studios"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Neutral basics"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in a Bison Hide color adds a touch of timeless elegance to any living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Stone Fireplace",
+      "description": "A stone fireplace crafted from natural stone in a Bison Hide hue brings warmth and a rustic feel to a home.",
+      "image_url": "https://example.com/stone_fireplace.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep browns for a grounding effect.",
+    "Use with creams and whites for a soft, airy feel.",
+    "Contrast with muted blues for a balanced palette.",
+    "Add metallic accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Bison Hide Color Meaning: Psychology, Palettes, and Design Ideas",
+    "description": "Discover the meaning and psychology of Bison Hide (#C1B7A4). Explore complementary colors, suggested palettes, and real-world examples for design inspiration."
+  },
+  "created_at": "2025-06-01T16:25:08.376197+00:00",
+  "updated_at": "2025-06-01T16:25:08.376197+00:00",
+  "slug": "bison-hide"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "74856888-b351-4f94-a85c-04dc7e88460d",
+  "color_name": "Burnt Maroon",
+  "hex_code": "#420303",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Burnt Maroon evokes feelings of sophistication, warmth, and stability. It combines the passion of red with the grounded nature of brown, creating a sense of understated elegance and maturity. This color can also suggest a connection to the earth and a sense of comfort, while its darker tone hints at a depth of experience and resilience.",
+  "emotional_associations": [
+    "sophistication",
+    "warmth",
+    "stability",
+    "elegance",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#034242"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#420303",
+        "#D4A373",
+        "#A9927D",
+        "#797D62",
+        "#355C7D"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#420303",
+        "#744F4F",
+        "#A67979",
+        "#D9A3A3",
+        "#F2D7D7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Fall/Winter apparel",
+      "Leather goods",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Armchair",
+      "description": "A classic burnt maroon leather armchair adds a touch of elegance to any living space.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "The vibrant hues of burnt maroon leaves during the fall season create a stunning natural landscape.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with greens and golds for an autumnal feel.",
+    "Combine with teals and blues for a sophisticated contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Burnt Maroon with our color picker tool to find the perfect hue for your next project.",
+  "seo_meta": {
+    "title": "Burnt Maroon Color Meaning: Shades, Palettes & Design Tips",
+    "description": "Discover the meaning of Burnt Maroon, its emotional associations, and how to use it in design, along with complementary colors and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:12:31.980095+00:00",
+  "updated_at": "2025-06-01T15:12:31.980095+00:00",
+  "slug": "burnt-maroon"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "f8a8ac1a-2ca1-4642-b06c-a9e2f9976618",
+  "color_name": "Taupe",
+  "hex_code": "#483C32",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Taupe is often associated with sophistication, practicality, and timelessness. It evokes a sense of calm neutrality, reliability, and understated elegance. Taupe can also represent groundedness and stability, providing a comforting and secure feeling. It bridges the gap between warm and cool tones, making it a versatile choice for various applications.",
+  "emotional_associations": [
+    "Neutrality",
+    "Sophistication",
+    "Calm",
+    "Timelessness",
+    "Stability"
+  ],
+  "complementary_colors": [
+    "#324248"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#483C32",
+        "#A9A18F",
+        "#D4CEC6",
+        "#736C61"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#483C32",
+        "#FFFFFF",
+        "#808080",
+        "#E6E6E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist apps",
+      "Neutral color schemes for data visualization",
+      "Professional themes for business software"
+    ],
+    "food_beverage": [
+      "Packaging for coffee and tea products",
+      "Restaurant interiors with a sophisticated ambiance",
+      "Marketing materials for organic food brands"
+    ],
+    "wellness": [
+      "Spa and wellness center designs",
+      "Meditation app interfaces",
+      "Branding for natural skincare products"
+    ],
+    "fashion": [
+      "Neutral clothing staples",
+      "Sophisticated accessories",
+      "Elegant footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Taupe Living Room",
+      "description": "A living room featuring taupe walls, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/taupe_living_room.jpg"
+    },
+    {
+      "title": "Taupe Business Suit",
+      "description": "A classic taupe business suit, conveying professionalism and understated elegance.",
+      "image_url": "https://example.com/taupe_suit.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a serene look.",
+    "Combine with darker browns for added depth.",
+    "Use as a neutral base for bolder accent colors.",
+    "Incorporate metallic accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade of taupe for your next project!",
+  "seo_meta": {
+    "title": "Taupe Color Meaning: Understanding the Psychology of Taupe | Color Meanings",
+    "description": "Discover the meaning of taupe, its psychological effects, and how to use it in design. Explore taupe color palettes and inspiration."
+  },
+  "created_at": "2025-06-01T15:15:16.520537+00:00",
+  "updated_at": "2025-06-01T15:15:16.520537+00:00",
+  "slug": "taupe"
+}

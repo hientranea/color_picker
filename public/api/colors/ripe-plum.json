@@ -1,0 +1,78 @@
+{
+  "id": "03b2a91b-b017-422b-acdf-8a21005de57a",
+  "color_name": "Ripe Plum",
+  "hex_code": "#410056",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Ripe Plum, a deep and luxurious shade of purple, evokes feelings of sophistication, mystery, and creativity. It combines the stability of blue with the energy of red, creating a balanced yet intriguing effect. This color often represents royalty, wisdom, and spiritual awareness, making it suitable for brands that want to project an image of elegance and authority.",
+  "emotional_associations": [
+    "luxury",
+    "mystery",
+    "creativity",
+    "sophistication",
+    "royalty"
+  ],
+  "complementary_colors": [
+    "#005641"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance",
+      "swatches": [
+        "#410056",
+        "#A98D75",
+        "#F2EBD3",
+        "#645CAA"
+      ]
+    },
+    {
+      "name": "Creative Spirit",
+      "swatches": [
+        "#410056",
+        "#E6B8AF",
+        "#9AC6C5",
+        "#6639A6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Plum preserves packaging"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Luxury accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Plum Velvet Couch",
+      "description": "A luxurious plum velvet couch adds a touch of elegance to any living room.",
+      "image_url": "https://example.com/plum_couch.jpg"
+    },
+    {
+      "title": "Ripe Plum Lipstick",
+      "description": "A bold and sophisticated lipstick shade perfect for evening wear.",
+      "image_url": "https://example.com/plum_lipstick.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with cream for a soft contrast.",
+    "Use with teal for a complementary palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your own unique color palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Ripe Plum Color Meaning: Understanding #410056",
+    "description": "Discover the meaning, associations, and best uses of the Ripe Plum color (#410056). Explore palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T15:11:34.896562+00:00",
+  "updated_at": "2025-06-01T15:11:34.896562+00:00",
+  "slug": "ripe-plum"
+}

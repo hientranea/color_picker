@@ -1,0 +1,75 @@
+{
+  "id": "4cc33f3c-5b46-47e9-acde-a54b51f359fc",
+  "color_name": "Suva Gray",
+  "hex_code": "#888387",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Suva Gray represents neutrality, balance, and sophistication. It is often associated with calmness, maturity, and understated elegance. This color evokes a sense of practicality and reliability, making it a versatile choice for various applications.",
+  "emotional_associations": [
+    "Neutrality",
+    "Balance",
+    "Sophistication",
+    "Calmness",
+    "Reliability"
+  ],
+  "complementary_colors": [
+    "#878883",
+    "#838788"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#888387",
+        "#A09B9F",
+        "#6F6B70"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#888387",
+        "#B09B84",
+        "#6B5E52"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text color",
+      "Icons"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Suva Gray walls and furniture, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/suva-gray-apartment.jpg"
+    },
+    {
+      "title": "Elegant Business Suit",
+      "description": "A business suit in Suva Gray, exuding professionalism and understated style.",
+      "image_url": "https://example.com/suva-gray-suit.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft blues for a calming effect.",
+    "Combine with brighter colors like teal or mustard for contrast.",
+    "Use with wood tones to add warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Suva Gray Color Meaning: Discover Its Psychology and Uses",
+    "description": "Learn about the meaning of Suva Gray, its emotional associations, and how to use it in design and fashion. Explore complementary colors and palette suggestions."
+  },
+  "created_at": "2025-06-01T15:50:46.361985+00:00",
+  "updated_at": "2025-06-01T15:50:46.361985+00:00",
+  "slug": "suva-gray"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "aa8c7cdc-699f-48b0-8d87-d4e4238bc4e5",
+  "color_name": "Blue Zodiac",
+  "hex_code": "#13264D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Zodiac is a deep, sophisticated blue that evokes feelings of trust, stability, and intelligence. It promotes contemplation and can help create a sense of calm and order. It's a color associated with authority and professionalism, making it a solid choice for conveying dependability and expertise.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intelligence",
+    "calm",
+    "authority",
+    "professionalism"
+  ],
+  "complementary_colors": [
+    "#4D3A13"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Corporate Trust",
+      "swatches": [
+        "#13264D",
+        "#A9B7C9",
+        "#FFFFFF",
+        "#333333"
+      ]
+    },
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#13264D",
+        "#36454F",
+        "#778899",
+        "#B0C4DE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Data visualization",
+      "Backgrounds"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Website",
+      "description": "A financial institution uses Blue Zodiac in its website to project trustworthiness and reliability.",
+      "image_url": "https://example.com/corporate_website.jpg"
+    },
+    {
+      "title": "Luxury Watch",
+      "description": "The deep blue of the watch face conveys elegance and sophistication.",
+      "image_url": "https://example.com/luxury_watch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray and white for a professional look.",
+    "Combine with lighter blues and teals for an aquatic feel.",
+    "Use gold or silver accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints of Blue Zodiac with our color picker tool today!",
+  "seo_meta": {
+    "title": "Blue Zodiac Color Meaning: Understanding #13264D",
+    "description": "Explore the meaning, psychology, and best uses of Blue Zodiac (#13264D). Discover palettes and pairing tips for this sophisticated blue hue."
+  },
+  "created_at": "2025-06-01T14:49:00.341998+00:00",
+  "updated_at": "2025-06-01T14:49:00.341998+00:00",
+  "slug": "blue-zodiac"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "0a72a649-25dc-4f46-bce0-c3a269e927ec",
+  "color_name": "Violet Eggplant",
+  "hex_code": "#991199",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Violet Eggplant, a deep and mysterious hue, evokes feelings of sophistication, creativity, and introspection. It combines the stability of blue with the energy of red, leaning towards the contemplative nature of violet. This color often represents luxury, ambition, and non-conformity, suggesting a unique and artistic perspective. It can also inspire a sense of calm and spiritual awareness.",
+  "emotional_associations": [
+    "luxury",
+    "mystery",
+    "creativity",
+    "sophistication",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#119911"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Dusk",
+      "swatches": [
+        "#991199",
+        "#330066",
+        "#CC88CC",
+        "#222233",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Creative Calm",
+      "swatches": [
+        "#991199",
+        "#7733AA",
+        "#BB77CC",
+        "#EEDDFF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Premium app features",
+      "Navigation elements"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Gourmet desserts",
+      "Exotic fruit packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Statement pieces"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "A naturally formed amethyst geode displays rich shades of violet eggplant.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    },
+    {
+      "title": "Evening Sky",
+      "description": "The evening sky just after sunset, with a deep violet eggplant hue.",
+      "image_url": "https://example.com/evening_sky.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for a luxurious feel.",
+    "Combine with grays for a sophisticated look.",
+    "Use with lighter purples and pinks for a harmonious palette.",
+    "Contrast with greens for an eye-catching effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Violet Eggplant Color Meaning: Shades, Palettes, and Design Inspiration",
+    "description": "Discover the meaning of Violet Eggplant, its emotional associations, complementary colors, and how to use it in your design projects. Get inspired with color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T16:00:08.997442+00:00",
+  "updated_at": "2025-06-01T16:00:08.997442+00:00",
+  "slug": "violet-eggplant"
+}

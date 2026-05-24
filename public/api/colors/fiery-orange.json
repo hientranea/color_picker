@@ -1,0 +1,81 @@
+{
+  "id": "68f0115f-b706-4287-b3a8-00e488b6c930",
+  "color_name": "Fiery Orange",
+  "hex_code": "#B35213",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fiery Orange evokes feelings of excitement, enthusiasm, and warmth, blending the energy of red with the cheerfulness of yellow. It suggests a sense of adventure, creativity, and sociability, making it a compelling choice for designs aiming to capture attention and inspire action.",
+  "emotional_associations": [
+    "excitement",
+    "enthusiasm",
+    "warmth",
+    "adventure",
+    "creativity",
+    "sociability"
+  ],
+  "complementary_colors": [
+    "#1364B3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#B35213",
+        "#D98E42",
+        "#A67333",
+        "#594026",
+        "#E6CDB3"
+      ]
+    },
+    {
+      "name": "Sunset Blaze",
+      "swatches": [
+        "#B35213",
+        "#FF8C42",
+        "#FFDAB9",
+        "#6A5ACD",
+        "#483D8B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Call-to-action buttons",
+      "Highlighting key features"
+    ],
+    "food_beverage": [
+      "Restaurant branding",
+      "Packaging for spicy or citrus-flavored products"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Autumn apparel",
+      "Statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Autumn Leaves",
+      "description": "The vibrant color of autumn leaves turning during the fall season.",
+      "image_url": "url_to_autumn_leaves_image.jpg"
+    },
+    {
+      "title": "Burning Ember",
+      "description": "The warm, glowing color of a burning ember in a fireplace.",
+      "image_url": "url_to_burning_ember_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with blues or teals for a vibrant contrast.",
+    "Use with other warm colors for an energetic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color picker tool.",
+  "seo_meta": {
+    "title": "Fiery Orange Color Meaning, Code & Combinations",
+    "description": "Discover the meaning, psychology, and best uses of Fiery Orange (#B35213). Find complementary colors, palettes, and design inspiration for your projects."
+  },
+  "created_at": "2025-06-01T16:15:59.91948+00:00",
+  "updated_at": "2025-06-01T16:15:59.91948+00:00",
+  "slug": "fiery-orange"
+}

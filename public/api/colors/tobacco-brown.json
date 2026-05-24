@@ -1,0 +1,83 @@
+{
+  "id": "e2c61eeb-a594-4a3a-8d0b-8d5b64897cd3",
+  "color_name": "Tobacco Brown",
+  "hex_code": "#715D47",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tobacco Brown evokes feelings of warmth, comfort, and dependability. It is often associated with nature, stability, and a sense of grounding. This color can also suggest sophistication and a connection to traditional values, making it a versatile choice for designs that aim to create a welcoming and reliable atmosphere.",
+  "emotional_associations": [
+    "comfort",
+    "stability",
+    "warmth",
+    "dependability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#47715D",
+    "#5D4771"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#715D47",
+        "#A68A64",
+        "#D4C4B1",
+        "#E9E3DA"
+      ]
+    },
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#715D47",
+        "#E67E22",
+        "#F39C12",
+        "#A04000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee",
+      "Branding for breweries",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Leather goods",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Armchair",
+      "description": "A classic tobacco brown leather armchair exudes comfort and timeless style.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    },
+    {
+      "title": "Coffee Packaging",
+      "description": "The rich, warm color of tobacco brown is often used in coffee packaging to convey a sense of quality and tradition.",
+      "image_url": "https://example.com/coffee_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a neutral palette.",
+    "Combine with gold or brass for a luxurious feel.",
+    "Use with greens for a natural, earthy look.",
+    "Contrast with teal or turquoise for a vibrant pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Tobacco Brown Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning and symbolism of Tobacco Brown (#715D47). Explore color palettes, design inspiration, and industry use cases for this earthy and sophisticated color."
+  },
+  "created_at": "2025-06-01T15:36:07.058669+00:00",
+  "updated_at": "2025-06-01T15:36:07.058669+00:00",
+  "slug": "tobacco-brown"
+}

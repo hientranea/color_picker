@@ -1,0 +1,82 @@
+{
+  "id": "900adc1c-dc51-4b56-badd-035b383104da",
+  "color_name": "Log Cabin",
+  "hex_code": "#242A1D",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Log Cabin evokes feelings of comfort, stability, and connection to nature. It represents a grounded and reliable presence, reminiscent of rustic simplicity and warmth. This color suggests a sense of history, tradition, and quiet strength, often associated with feelings of security and home.",
+  "emotional_associations": [
+    "stability",
+    "comfort",
+    "nature",
+    "security",
+    "warmth"
+  ],
+  "complementary_colors": [
+    "#1D242A",
+    "#A59F96"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Retreat",
+      "swatches": [
+        "#242A1D",
+        "#524B35",
+        "#A89A83",
+        "#E5DCCB"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#242A1D",
+        "#7A6952",
+        "#C6B08E",
+        "#F2E8D5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Whiskey labels",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Leather accessories",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Log Cabin Home",
+      "description": "A traditional log cabin nestled in the woods, painted in a natural brown to blend with the environment.",
+      "image_url": "https://example.com/logcabin.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "Durable leather boots in a rich, earthy brown, perfect for outdoor adventures.",
+      "image_url": "https://example.com/leatherboots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, natural look.",
+    "Combine with deep greens for a forest-inspired palette.",
+    "Use as a neutral backdrop for brighter accent colors."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints with our color picker tool!",
+  "seo_meta": {
+    "title": "Log Cabin Color Meaning: Understanding #242A1D",
+    "description": "Discover the meaning, psychology, and uses of the Log Cabin color (#242A1D). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T14:55:05.371342+00:00",
+  "updated_at": "2025-06-01T14:55:05.371342+00:00",
+  "slug": "log-cabin"
+}

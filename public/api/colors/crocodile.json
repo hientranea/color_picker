@@ -1,0 +1,80 @@
+{
+  "id": "732a2cbb-8aad-4109-9f2e-558cdd8fa8c1",
+  "color_name": "Crocodile",
+  "hex_code": "#736D58",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Crocodile is a muted, earthy tone that evokes feelings of nature, stability, and resilience. It suggests a sense of groundedness and practicality, often associated with the outdoors and a connection to the earth. This color can also convey a sense of timelessness and understated elegance.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "resilience",
+    "groundedness",
+    "practicality",
+    "timelessness"
+  ],
+  "complementary_colors": [
+    "#58736D",
+    "#D7CDB2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#736D58",
+        "#A39A84",
+        "#D3CEC3",
+        "#EAE5DA"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#736D58",
+        "#8B7E66",
+        "#B1A38B",
+        "#D7CBB2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Military Uniforms",
+      "description": "Many military uniforms utilize colors similar to Crocodile for camouflage and blending into natural environments.",
+      "image_url": "https://example.com/military_uniform.jpg"
+    },
+    {
+      "title": "Outdoor Gear",
+      "description": "Backpacks, tents, and other outdoor equipment often come in earthy tones like Crocodile to minimize visibility and match the surrounding landscape.",
+      "image_url": "https://example.com/outdoor_gear.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural look.",
+    "Combine with greens and browns for an earthy palette.",
+    "Use as a neutral backdrop for bolder accent colors.",
+    "Contrast with metallic tones for an elevated feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to find the perfect shades to complement Crocodile for your next project!",
+  "seo_meta": {
+    "title": "Crocodile Color Meaning: Understanding #736D58",
+    "description": "Discover the meaning, psychology, and best uses for the Crocodile color (#736D58), a muted earthy tone associated with nature, stability, and resilience."
+  },
+  "created_at": "2025-06-01T15:37:40.21953+00:00",
+  "updated_at": "2025-06-01T15:37:40.21953+00:00",
+  "slug": "crocodile"
+}

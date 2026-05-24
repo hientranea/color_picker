@@ -1,0 +1,82 @@
+{
+  "id": "08b556fa-22e2-48f7-96cb-55819c3d2b58",
+  "color_name": "International Klein Blue",
+  "hex_code": "#002FA7",
+  "wheel_position": "Primary",
+  "psychological_meaning": "International Klein Blue (IKB) is a deep, vivid blue that evokes feelings of vastness, transcendence, and intellectual stimulation. It's often associated with the infinite, the spiritual, and a sense of calm depth. The color's intensity can also inspire creativity and a sense of wonder.",
+  "emotional_associations": [
+    "depth",
+    "spirituality",
+    "intellect",
+    "calm",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#FFA500"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Deep Sea",
+      "swatches": [
+        "#002FA7",
+        "#001A66",
+        "#336699",
+        "#ADD8E6"
+      ]
+    },
+    {
+      "name": "Modern Art",
+      "swatches": [
+        "#002FA7",
+        "#FFFFFF",
+        "#FF0000",
+        "#00FF00"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Minimalist app designs",
+      "Backgrounds for tech presentations"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Statement dresses",
+      "Accessories",
+      "Athleisure wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Yves Klein's monochrome paintings",
+      "description": "Yves Klein famously used IKB in his monochrome paintings to achieve a sense of pure color and spiritual depth.",
+      "image_url": "https://example.com/klein_painting.jpg"
+    },
+    {
+      "title": "Fashion Runway",
+      "description": "Designers have incorporated IKB into runway collections, often in minimalist designs to emphasize the color's boldness.",
+      "image_url": "https://example.com/ikb_fashion.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with gold for a luxurious feel.",
+    "Use with orange for a vibrant contrast.",
+    "Soften with pastel blues for a calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations with our color picker tool!",
+  "seo_meta": {
+    "title": "International Klein Blue: Meaning, Psychology, and Design",
+    "description": "Discover the meaning and psychological effects of International Klein Blue. Learn how to use IKB in your design projects with color palettes and pairing tips."
+  },
+  "created_at": "2025-05-18T14:02:33.740306+00:00",
+  "updated_at": "2025-05-18T14:02:33.740306+00:00",
+  "slug": "international-klein-blue"
+}

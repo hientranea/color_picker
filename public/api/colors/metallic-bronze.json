@@ -1,0 +1,84 @@
+{
+  "id": "65c6a6b6-e025-4bf4-8896-6d0ff7def0b1",
+  "color_name": "Metallic Bronze",
+  "hex_code": "#49371B",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Metallic Bronze evokes feelings of groundedness, stability, and understated luxury. It suggests maturity, reliability, and a connection to the earth, while also hinting at hidden value and sophistication. The color is often associated with resilience and endurance, carrying the strength of bronze and the natural essence of earth tones.",
+  "emotional_associations": [
+    "stability",
+    "luxury",
+    "reliability",
+    "maturity",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#1B493D",
+    "#B0A28E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#49371B",
+        "#A68B64",
+        "#D3B796",
+        "#736357",
+        "#261D10"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#49371B",
+        "#826F66",
+        "#C6BDB2",
+        "#594F4F",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Status indicators",
+      "Background accents"
+    ],
+    "food_beverage": [
+      "Packaging for premium coffee",
+      "Branding for artisan chocolates",
+      "Restaurant interiors"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Autumn outerwear",
+      "Leather accessories",
+      "Formal footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Bronze Sculpture",
+      "description": "A classic bronze sculpture depicting historical figures, symbolizing strength and artistry.",
+      "image_url": "url_to_bronze_sculpture_image.jpg"
+    },
+    {
+      "title": "Metallic Bronze Watch",
+      "description": "A luxury watch with a metallic bronze finish, representing timeless elegance and craftsmanship.",
+      "image_url": "url_to_bronze_watch_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a sophisticated look.",
+    "Combine with deep greens for an earthy feel.",
+    "Accent with gold for added luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore complementary colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Metallic Bronze Color Meaning: Symbolism, Psychology & Palettes",
+    "description": "Discover the meaning of Metallic Bronze, its psychological effects, emotional associations, and inspiring color palettes for your next design project."
+  },
+  "created_at": "2025-06-01T15:15:37.851322+00:00",
+  "updated_at": "2025-06-01T15:15:37.851322+00:00",
+  "slug": "metallic-bronze"
+}

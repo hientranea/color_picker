@@ -1,0 +1,81 @@
+{
+  "id": "3b71a86b-2228-4e62-bac5-2aafb2c99012",
+  "color_name": "Cardinal",
+  "hex_code": "#C41E3A",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Cardinal red is a vibrant and commanding color, often associated with passion, energy, and excitement. It can evoke feelings of warmth and comfort, but also power and dominance. Due to its strong presence, it is a color that grabs attention and can be used to create a sense of urgency or importance. It symbolizes courage, strength, and vitality, making it a popular choice for brands that want to project confidence and boldness.",
+  "emotional_associations": [
+    "Passion",
+    "Energy",
+    "Excitement",
+    "Warmth",
+    "Power",
+    "Courage"
+  ],
+  "complementary_colors": [
+    "#1EC4A7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#C41E3A",
+        "#7A3731",
+        "#D2B48C",
+        "#A8786E",
+        "#E3DAC9"
+      ]
+    },
+    {
+      "name": "Bold Contrast",
+      "swatches": [
+        "#C41E3A",
+        "#FFFFFF",
+        "#000000",
+        "#4A4A4A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Alerts",
+      "Call-to-action buttons"
+    ],
+    "food_beverage": [
+      "Packaging for bold flavors",
+      "Restaurant branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Statement pieces",
+      "Accents in designs"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cardinal Bird",
+      "description": "The Northern Cardinal is a striking bird known for its vibrant red plumage.",
+      "image_url": "https://example.com/cardinal_bird.jpg"
+    },
+    {
+      "title": "Ferrari",
+      "description": "The iconic Italian sports car often features a similar shade of red, symbolizing speed and luxury.",
+      "image_url": "https://example.com/ferrari.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray, beige, or white for a sophisticated look.",
+    "Combine with gold or brass accents for a touch of luxury.",
+    "Use sparingly as an accent color to avoid overwhelming the design.",
+    "Contrast with teal or green for a vibrant and energetic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Cardinal Color Meaning: The Psychology of #C41E3A",
+    "description": "Discover the meaning, associations, and best uses of Cardinal red. Learn how to pair this powerful color with other hues for stunning designs."
+  },
+  "created_at": "2025-06-01T16:27:01.527825+00:00",
+  "updated_at": "2025-06-01T16:27:01.527825+00:00",
+  "slug": "cardinal"
+}

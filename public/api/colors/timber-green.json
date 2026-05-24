@@ -1,0 +1,79 @@
+{
+  "id": "95cf93b1-7738-4596-bf09-c5a8e8156ea4",
+  "color_name": "Timber Green",
+  "hex_code": "#16322C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Timber Green evokes feelings of tranquility, stability, and a connection to nature. It is associated with growth, renewal, and balance, promoting a sense of calmness and grounding. The color suggests reliability and endurance, making it a sophisticated choice for conveying trust and organic appeal.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "nature",
+    "reliability",
+    "endurance"
+  ],
+  "complementary_colors": [
+    "#D9A3A0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#16322C",
+        "#A8BFA6",
+        "#E5DDC8",
+        "#73626B"
+      ]
+    },
+    {
+      "name": "Forest Depths",
+      "swatches": [
+        "#16322C",
+        "#336B87",
+        "#763626",
+        "#A59386"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Branding for sustainable restaurants"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories with a natural aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The dense, green canopy of a lush forest, filtering sunlight and creating a tranquil atmosphere.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Sustainable Packaging",
+      "description": "Eco-friendly packaging using Timber Green to highlight the brand's commitment to environmental responsibility.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted neutrals for a sophisticated look.",
+    "Combine with earthy tones to enhance its natural feel.",
+    "Use with light blues to create a calming ambiance.",
+    "Contrast with warm oranges for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Timber Green Color Meaning: Symbolism and Design Ideas",
+    "description": "Discover the meaning, associations, and best uses of Timber Green in design and branding. Explore complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T14:50:19.448843+00:00",
+  "updated_at": "2025-06-01T14:50:19.448843+00:00",
+  "slug": "timber-green"
+}

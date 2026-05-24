@@ -1,0 +1,82 @@
+{
+  "id": "cf2516e1-af1c-4a88-9b6b-c33c0a5537d0",
+  "color_name": "Gray Olive",
+  "hex_code": "#A9A491",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gray Olive evokes feelings of tranquility, stability, and understated elegance. It blends the neutrality of gray with the natural earthiness of olive, creating a sense of grounded sophistication. This color is often associated with wisdom, peace, and a connection to the environment, making it a versatile choice for designs that aim to convey serenity and balance.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "elegance",
+    "wisdom",
+    "peace",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#91A6A9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#A9A491",
+        "#D3D0CB",
+        "#7A776C",
+        "#EAE7E0",
+        "#524F45"
+      ]
+    },
+    {
+      "name": "Olive Grove",
+      "swatches": [
+        "#A9A491",
+        "#8F9779",
+        "#C6C3B9",
+        "#615D53",
+        "#ECEBE8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for olive oil products",
+      "Restaurant interiors with a natural aesthetic"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Neutral-toned clothing lines",
+      "Accessories for an earthy look"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Branch Home Decor",
+      "description": "A living room featuring walls painted in Gray Olive, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/gray_olive_living_room.jpg"
+    },
+    {
+      "title": "Fashion Forward",
+      "description": "A stylish trench coat in a Gray Olive shade, perfect for a timeless and versatile look.",
+      "image_url": "https://example.com/gray_olive_trench_coat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, natural look.",
+    "Combine with darker greens for added depth.",
+    "Use metallic accents like gold or bronze for sophistication.",
+    "Contrast with muted reds or pinks for a subtle pop of color."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and create your own perfect palette using our color picker tool!",
+  "seo_meta": {
+    "title": "Gray Olive Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Gray Olive, its psychological effects, complementary colors, and how to use it in your designs. Explore suggested palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T16:08:08.513915+00:00",
+  "updated_at": "2025-06-01T16:08:08.513915+00:00",
+  "slug": "gray-olive"
+}

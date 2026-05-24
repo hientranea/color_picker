@@ -1,0 +1,87 @@
+{
+  "id": "77e13530-ca41-4dea-93bf-9fe1460d030b",
+  "color_name": "Seagull",
+  "hex_code": "#80CCEA",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Seagull, with its light and airy blue hue, evokes feelings of tranquility, serenity, and freedom. It is reminiscent of clear skies and calm waters, inspiring a sense of peace and openness. This color is often associated with clarity of thought and a refreshing outlook, promoting a feeling of stability and relaxation.",
+  "emotional_associations": [
+    "tranquility",
+    "serenity",
+    "freedom",
+    "peace",
+    "openness",
+    "clarity",
+    "relaxation"
+  ],
+  "complementary_colors": [
+    "#EA8280"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#80CCEA",
+        "#FFFFFF",
+        "#B0E2FF",
+        "#778899"
+      ]
+    },
+    {
+      "name": "Sky High",
+      "swatches": [
+        "#80CCEA",
+        "#ADD8E6",
+        "#E0FFFF",
+        "#F0F8FF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Calming app interfaces",
+      "Weather applications",
+      "Meditation apps"
+    ],
+    "food_beverage": [
+      "Bottled water labels",
+      "Seafood restaurant branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear",
+      "Lightweight shirts"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Clear Blue Sky",
+      "description": "The vast expanse of a clear blue sky mirroring the openness of the ocean.",
+      "image_url": "https://example.com/sky.jpg"
+    },
+    {
+      "title": "Seagull Feather",
+      "description": "A delicate seagull feather reflecting the color of a calm sea.",
+      "image_url": "https://example.com/feather.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, airy feel.",
+    "Combine with gray for a sophisticated look.",
+    "Use with sand tones for a beachy vibe.",
+    "Contrast with coral for a vibrant touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Seagull Color Meaning: Understanding #80CCEA",
+    "description": "Explore the meaning, associations, and best uses for the color Seagull (#80CCEA). Discover complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:47:08.694685+00:00",
+  "updated_at": "2025-06-01T15:47:08.694685+00:00",
+  "slug": "seagull"
+}

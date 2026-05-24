@@ -1,0 +1,78 @@
+{
+  "id": "b9448329-1d54-483f-97a9-59cc64a99052",
+  "color_name": "Turkish Rose",
+  "hex_code": "#B57281",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Turkish Rose evokes feelings of romance, nostalgia, and gentle femininity. It suggests a subtle beauty, hinting at sophistication and a quiet strength. It is often associated with compassion and a sense of nurturing, making it a comforting and approachable color.",
+  "emotional_associations": [
+    "Romance",
+    "Nostalgia",
+    "Femininity",
+    "Compassion",
+    "Sophistication"
+  ],
+  "complementary_colors": [
+    "#7ABDB0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vintage Romance",
+      "swatches": [
+        "#B57281",
+        "#D8A8B1",
+        "#EAD6D9",
+        "#A6908A"
+      ]
+    },
+    {
+      "name": "Dusty Rose Garden",
+      "swatches": [
+        "#B57281",
+        "#8C5462",
+        "#C9ADA7",
+        "#F2E9E4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Yoga Studios",
+      "Meditation Apps"
+    ],
+    "fashion": [
+      "Bridal Wear",
+      "Evening Gowns",
+      "Lingerie"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Turkish Rug",
+      "description": "A hand-woven rug featuring Turkish Rose as a dominant color, contributing to its antique charm.",
+      "image_url": "https://example.com/turkish_rug.jpg"
+    },
+    {
+      "title": "Rose Quartz Jewelry",
+      "description": "Rose quartz pendant with Turkish Rose undertones, symbolizing love and compassion.",
+      "image_url": "https://example.com/rose_quartz_pendant.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural, balanced look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use as a grounding color with brighter pinks and purples.",
+    "Create a monochromatic palette with lighter and darker shades of rose."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Turkish Rose Color Meaning: Understanding #B57281",
+    "description": "Discover the meaning and psychology behind Turkish Rose (#B57281). Learn about its emotional associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T16:16:56.762226+00:00",
+  "updated_at": "2025-06-01T16:16:56.762226+00:00",
+  "slug": "turkish-rose"
+}

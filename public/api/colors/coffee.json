@@ -1,0 +1,78 @@
+{
+  "id": "fd61c565-1125-4946-a619-2cdb9d9ffdea",
+  "color_name": "Coffee",
+  "hex_code": "#706555",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Coffee, as a color, evokes feelings of warmth, comfort, and reliability. It is often associated with nature and stability, creating a sense of grounding and security. This color can also represent simplicity and practicality, making it a comforting and familiar choice.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "reliability",
+    "simplicity",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#556070"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#706555",
+        "#A3917A",
+        "#D6C4AD",
+        "#E9E1D9"
+      ]
+    },
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#706555",
+        "#D4A373",
+        "#F2BE22",
+        "#588157"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Neutral accents in dashboard designs"
+    ],
+    "food_beverage": [
+      "Coffee shop branding",
+      "Packaging for organic products"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Classic trench coats",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coffee Beans",
+      "description": "Roasted coffee beans embody the rich, comforting color.",
+      "image_url": "url_to_coffee_beans_image.jpg"
+    },
+    {
+      "title": "Leather Sofa",
+      "description": "A leather sofa in a coffee color adds warmth to a living space.",
+      "image_url": "url_to_leather_sofa_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, inviting feel.",
+    "Combine with greens for a natural, organic look.",
+    "Use with oranges and yellows for an autumnal palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our color palette generator!",
+  "seo_meta": {
+    "title": "Coffee Color Meaning: Discover the Psychology and Uses of #706555",
+    "description": "Explore the meaning, associations, and uses of the coffee color (#706555). Learn about its psychological impact and how to incorporate it into your designs."
+  },
+  "created_at": "2025-06-01T15:35:24.448109+00:00",
+  "updated_at": "2025-06-01T15:35:24.448109+00:00",
+  "slug": "coffee"
+}

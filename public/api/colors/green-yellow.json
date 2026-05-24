@@ -1,0 +1,87 @@
+{
+  "id": "e0556092-ea9a-441d-99dc-1b77758c3e12",
+  "color_name": "Green Yellow",
+  "hex_code": "#ADFF2F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Green-yellow is a vibrant and energetic color that combines the optimism of yellow with the growth and nature-oriented qualities of green. It often represents freshness, vitality, and a sense of new beginnings. This color can also evoke feelings of creativity, playfulness, and a connection to the natural world, suggesting a balance between intellectual stimulation and emotional harmony.",
+  "emotional_associations": [
+    "freshness",
+    "energy",
+    "optimism",
+    "growth",
+    "vitality"
+  ],
+  "complementary_colors": [
+    "#FF6A00"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#ADFF2F",
+        "#F0FFF0",
+        "#7FFF00",
+        "#FAF0E6",
+        "#98FB98"
+      ]
+    },
+    {
+      "name": "Citrus Burst",
+      "swatches": [
+        "#ADFF2F",
+        "#FFD700",
+        "#FFA500",
+        "#FFFACD",
+        "#9ACD32"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Highlighting interactive elements",
+      "Progress bars to indicate advancement",
+      "Notifications for updates or new features"
+    ],
+    "food_beverage": [
+      "Packaging for citrus fruits and drinks",
+      "Marketing materials for organic produce",
+      "Restaurant decor promoting fresh ingredients"
+    ],
+    "wellness": [
+      "Spa branding emphasizing natural treatments",
+      "Fitness apps for tracking progress",
+      "Imagery representing healthy lifestyle choices"
+    ],
+    "fashion": [
+      "Spring and summer collections",
+      "Athletic wear promoting energy",
+      "Accents in accessories like scarves or bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lime Green Sports Car",
+      "description": "A sleek sports car painted in a vibrant green-yellow hue, symbolizing speed and modernity.",
+      "image_url": "https://example.com/lime_car.jpg"
+    },
+    {
+      "title": "Fresh Lime Juice",
+      "description": "A glass of freshly squeezed lime juice, representing health and refreshment.",
+      "image_url": "https://example.com/lime_juice.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a modern look.",
+    "Combine with blues for a calming effect.",
+    "Use with oranges for an energetic and vibrant palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and combinations using our color picker tool to find the perfect hue for your project.",
+  "seo_meta": {
+    "title": "Green Yellow Color Meaning: Symbolism, Combinations, and Uses",
+    "description": "Discover the meaning of green yellow, its emotional associations, and how to effectively use this vibrant color in design and branding."
+  },
+  "created_at": "2025-06-01T16:12:25.382788+00:00",
+  "updated_at": "2025-06-01T16:12:25.382788+00:00",
+  "slug": "green-yellow"
+}

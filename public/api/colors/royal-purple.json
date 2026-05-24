@@ -1,0 +1,84 @@
+{
+  "id": "51d721ae-ea85-444e-afbe-3138a1ca678d",
+  "color_name": "Royal Purple",
+  "hex_code": "#6B3FA0",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Royal Purple is often associated with royalty, nobility, luxury, and power. It evokes feelings of ambition, wealth, and extravagance. This color also carries connotations of creativity, wisdom, dignity, and independence. It can also symbolize magic, mystery, and spiritual awareness, representing transformation and the higher self.",
+  "emotional_associations": [
+    "luxury",
+    "power",
+    "creativity",
+    "wisdom",
+    "mystery"
+  ],
+  "complementary_colors": [
+    "#A0653F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Elegance",
+      "swatches": [
+        "#6B3FA0",
+        "#D8BFD8",
+        "#483D8B",
+        "#E6E6FA",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Mystic Twilight",
+      "swatches": [
+        "#6B3FA0",
+        "#2F4F4F",
+        "#778899",
+        "#A9A9A9",
+        "#DCDCDC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Premium app features",
+      "Luxury brand websites"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Exotic fruit packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual retreats"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "British Royal Family Crest",
+      "description": "Royal purple has historically been used in the crests and emblems of the British Royal Family to symbolize sovereignty and nobility.",
+      "image_url": "url_to_royal_crest_image.jpg"
+    },
+    {
+      "title": "Cadbury Chocolate Packaging",
+      "description": "The iconic purple packaging of Cadbury chocolate is synonymous with indulgence and quality.",
+      "image_url": "url_to_cadbury_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with silver for a modern twist.",
+    "Use with cream or off-white for a sophisticated look.",
+    "Contrast with yellow for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and combinations with our color palette generator tool.",
+  "seo_meta": {
+    "title": "Royal Purple Color Meaning: Symbolism, Combinations & Design Tips",
+    "description": "Discover the meaning and symbolism of Royal Purple, explore color combinations, and get design inspiration for using this regal hue in your projects."
+  },
+  "created_at": "2025-06-01T15:32:12.222971+00:00",
+  "updated_at": "2025-06-01T15:32:12.222971+00:00",
+  "slug": "royal-purple"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "f83aaab4-ede3-489f-92a5-d99ad5bec99b",
+  "color_name": "Hippie Green",
+  "hex_code": "#53824B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Hippie Green evokes feelings of nature, peace, and harmony. It suggests growth, renewal, and a connection to the earth. This color can also represent stability, endurance, and a grounded sense of being, promoting a sense of well-being and environmental consciousness.",
+  "emotional_associations": [
+    "nature",
+    "peace",
+    "harmony",
+    "growth",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#824B53"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#53824B",
+        "#A3C4BC",
+        "#776B5D",
+        "#E0DACB"
+      ]
+    },
+    {
+      "name": "Forest Dawn",
+      "swatches": [
+        "#53824B",
+        "#3B5249",
+        "#9EB384",
+        "#C0D8C0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Sustainability platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Vegan product branding"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Sustainable clothing brands",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Living Blog",
+      "description": "A blog promoting eco-friendly practices uses Hippie Green to convey a sense of environmental responsibility.",
+      "image_url": "https://example.com/sustainable_blog.jpg"
+    },
+    {
+      "title": "Organic Food Packaging",
+      "description": "Packaging for organic products utilizes Hippie Green to communicate natural and healthy ingredients.",
+      "image_url": "https://example.com/organic_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted browns for an earthy feel.",
+    "Combine with creams for a soft, natural palette.",
+    "Use with brighter greens for a vibrant, energetic look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Hippie Green Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Hippie Green (#53824B), its psychological effects, complementary colors, and suggested palettes for your next design project."
+  },
+  "created_at": "2025-06-01T15:21:34.063646+00:00",
+  "updated_at": "2025-06-01T15:21:34.063646+00:00",
+  "slug": "hippie-green"
+}

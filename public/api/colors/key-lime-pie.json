@@ -1,0 +1,82 @@
+{
+  "id": "bbd27913-dd96-46dc-a14b-25bd14352535",
+  "color_name": "Key Lime Pie",
+  "hex_code": "#BFC921",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Key Lime Pie evokes feelings of freshness, vitality, and optimism. It's a color that suggests new beginnings and growth, often associated with health and well-being. Its bright and cheerful nature can be uplifting, inspiring creativity and a sense of playfulness.",
+  "emotional_associations": [
+    "freshness",
+    "vitality",
+    "optimism",
+    "health",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#21C9BF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Citrus Burst",
+      "swatches": [
+        "#BFC921",
+        "#F2E715",
+        "#FFDA63",
+        "#FFB747"
+      ]
+    },
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#BFC921",
+        "#A7D1AB",
+        "#73A9AD",
+        "#545E56"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Progress bars indicating positive status",
+      "Call-to-action buttons related to growth or new features"
+    ],
+    "food_beverage": [
+      "Packaging for citrus-flavored products",
+      "Restaurant branding for healthy or organic options"
+    ],
+    "wellness": [
+      "Branding for health supplements",
+      "Spa and wellness center decor"
+    ],
+    "fashion": [
+      "Spring/summer clothing lines",
+      "Accessories that add a pop of color"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lime Smoothie",
+      "description": "A vibrant and healthy lime smoothie, showcasing the color's association with fresh ingredients.",
+      "image_url": "https://example.com/lime_smoothie.jpg"
+    },
+    {
+      "title": "Spring Fashion",
+      "description": "A stylish dress in Key Lime Pie, capturing the color's lively and refreshing essence.",
+      "image_url": "https://example.com/spring_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a modern look.",
+    "Combine with other citrus tones for an energetic palette.",
+    "Use with earthy browns for a natural and balanced feel.",
+    "Contrast with deep blues for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Key Lime Pie Color Meaning: Discover the Psychology & Uses of #BFC921",
+    "description": "Uncover the meaning and uses of the Key Lime Pie color (#BFC921). Learn about its psychological effects, complementary colors, and ideal applications in design and branding."
+  },
+  "created_at": "2025-06-01T16:23:43.673761+00:00",
+  "updated_at": "2025-06-01T16:23:43.673761+00:00",
+  "slug": "key-lime-pie"
+}

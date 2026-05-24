@@ -1,0 +1,81 @@
+{
+  "id": "9a6e31f3-7103-4d2e-a288-72fa33132e9d",
+  "color_name": "Bermuda",
+  "hex_code": "#7DD8C6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bermuda, a serene blend of green and blue, evokes feelings of tranquility, clarity, and rejuvenation. It is associated with nature, growth, and balance, promoting a sense of calm and peace. This color encourages introspection and open communication, fostering emotional stability and a connection to the natural world.",
+  "emotional_associations": [
+    "tranquility",
+    "clarity",
+    "rejuvenation",
+    "peace",
+    "growth"
+  ],
+  "complementary_colors": [
+    "#D87E7D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#7DD8C6",
+        "#A0E7E5",
+        "#C4F2F0",
+        "#E8FCFA"
+      ]
+    },
+    {
+      "name": "Earthy Calm",
+      "swatches": [
+        "#7DD8C6",
+        "#8FBC8F",
+        "#BDBDBD",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Mobile app design"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Activewear",
+      "Resort wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Bermuda Ocean Water",
+      "description": "The clear turquoise waters surrounding Bermuda are a stunning example of this color in nature.",
+      "image_url": "https://example.com/bermuda_ocean.jpg"
+    },
+    {
+      "title": "Spa Retreat",
+      "description": "Many spas use Bermuda-toned accents to create a relaxing and rejuvenating atmosphere.",
+      "image_url": "https://example.com/bermuda_spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with coral or peach for a vibrant and energetic feel.",
+    "Use with other shades of blue and green for a calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Bermuda Color Meaning: Understanding #7DD8C6",
+    "description": "Discover the meaning, associations, and best uses of the Bermuda color (#7DD8C6) in design and branding. Explore palettes and pairings for this serene hue."
+  },
+  "created_at": "2025-06-01T15:44:46.521209+00:00",
+  "updated_at": "2025-06-01T15:44:46.521209+00:00",
+  "slug": "bermuda"
+}

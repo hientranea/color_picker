@@ -1,0 +1,76 @@
+{
+  "id": "86d8eb45-91ec-4934-a175-2c6d55dd4e25",
+  "color_name": "Lipstick",
+  "hex_code": "#AB0563",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lipstick red, a vibrant and confident hue, often evokes feelings of passion, energy, and excitement. It's associated with love, seduction, and courage, while also radiating a sense of power and determination. This color can be stimulating and attention-grabbing, projecting an image of boldness and self-assurance.",
+  "emotional_associations": [
+    "passion",
+    "energy",
+    "confidence",
+    "excitement",
+    "power"
+  ],
+  "complementary_colors": [
+    "#50B6E2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Bold & Beautiful",
+      "swatches": [
+        "#AB0563",
+        "#F2D7EE",
+        "#333333",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Berry Delight",
+      "swatches": [
+        "#AB0563",
+        "#670037",
+        "#E6CACA",
+        "#A67B5B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Berry-flavored drinks"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Cosmetics packaging",
+      "Evening wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lipstick Tube",
+      "description": "A classic tube of bright lipstick, signifying confidence and beauty.",
+      "image_url": "https://example.com/lipstick.jpg"
+    },
+    {
+      "title": "Berry Smoothie",
+      "description": "A vibrant berry smoothie, representing health and natural energy.",
+      "image_url": "https://example.com/smoothie.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a balanced look.",
+    "Use as an accent color to add pops of energy.",
+    "Combine with other jewel tones for a luxurious feel.",
+    "Consider metallic accents to enhance its vibrancy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Lipstick Color Meaning: Psychology, Palettes & More",
+    "description": "Discover the meaning of Lipstick (#AB0563), its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:10:02.268925+00:00",
+  "updated_at": "2025-06-01T16:10:02.268925+00:00",
+  "slug": "lipstick"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "1b649b5d-3c37-4758-ae70-20fffd5697d2",
+  "color_name": "Blackberry",
+  "hex_code": "#4D0135",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blackberry, with its deep, muted purple hue, evokes feelings of mystery, sophistication, and subtle luxury. It's a color that suggests richness and complexity, reminiscent of the fruit's depth of flavor. Blackberry can also represent creativity, introspection, and a hint of rebellion, making it a compelling choice for designs that seek to stand out.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "luxury",
+    "creativity",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#014D19"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Berry & Gold",
+      "swatches": [
+        "#4D0135",
+        "#D4AF37",
+        "#F2EBD3"
+      ]
+    },
+    {
+      "name": "Deep Dusk",
+      "swatches": [
+        "#4D0135",
+        "#2E0249",
+        "#740B64"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Premium app themes"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Gourmet food packaging"
+    ],
+    "wellness": [
+      "Meditation app interfaces",
+      "Luxury spa branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories (handbags, scarves)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Blackberry Wine",
+      "description": "A bottle of rich, dark blackberry wine.",
+      "image_url": "url_to_blackberry_wine_image.jpg"
+    },
+    {
+      "title": "Velvet Dress",
+      "description": "An elegant velvet dress in a deep blackberry color.",
+      "image_url": "url_to_blackberry_dress_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with lighter purples for a monochromatic scheme.",
+    "Use as an accent color with neutrals for a sophisticated touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Blackberry Color Meaning: Understanding the Psychology of #4D0135",
+    "description": "Discover the meaning and associations of the color Blackberry (#4D0135), including its psychological effects, complementary colors, and usage in design."
+  },
+  "created_at": "2025-06-01T15:17:18.19338+00:00",
+  "updated_at": "2025-06-01T15:17:18.19338+00:00",
+  "slug": "blackberry"
+}

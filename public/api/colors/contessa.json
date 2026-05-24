@@ -1,0 +1,78 @@
+{
+  "id": "f3bc1391-bee7-4470-8fb5-d2b92513c979",
+  "color_name": "Contessa",
+  "hex_code": "#C6726B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Contessa, with its muted reddish-brown hue, evokes feelings of warmth, sophistication, and understated elegance. It suggests a sense of history and tradition, hinting at stability and comfort. This color can also be associated with earthiness and a connection to nature, offering a sense of groundedness and reliability.",
+  "emotional_associations": [
+    "warmth",
+    "sophistication",
+    "earthiness",
+    "comfort",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#6BC6C1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#C6726B",
+        "#A68A86",
+        "#E3D5CA",
+        "#796A6A"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#C6726B",
+        "#D4A373",
+        "#A9927D",
+        "#5C524F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Autumn apparel",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Handbag",
+      "description": "A stylish leather handbag in a Contessa shade, exuding sophistication and timeless appeal.",
+      "image_url": "url_to_leather_handbag_image.jpg"
+    },
+    {
+      "title": "Vintage Wallpaper",
+      "description": "A vintage wallpaper pattern featuring Contessa, adding a touch of classic charm to a living room.",
+      "image_url": "url_to_vintage_wallpaper_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, elegant look.",
+    "Combine with olive greens for an earthy, natural feel.",
+    "Contrast with teal for a vibrant, modern aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades to complement Contessa!",
+  "seo_meta": {
+    "title": "Contessa Color Meaning: Understanding #C6726B",
+    "description": "Discover the meaning, psychology, and best uses of the Contessa color (#C6726B), including palettes, pairings, and industry examples."
+  },
+  "created_at": "2025-06-01T16:28:26.305625+00:00",
+  "updated_at": "2025-06-01T16:28:26.305625+00:00",
+  "slug": "contessa"
+}

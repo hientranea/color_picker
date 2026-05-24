@@ -1,0 +1,80 @@
+{
+  "id": "fbfc3bed-c4fa-4bff-ad98-ec2c3c12c9b5",
+  "color_name": "Congress Blue",
+  "hex_code": "#02478E",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Congress Blue evokes feelings of trust, stability, and authority. It is often associated with intelligence, confidence, and efficiency. The color can also represent loyalty, peace, and success, making it a popular choice for organizations seeking to convey a sense of reliability and professionalism.",
+  "emotional_associations": [
+    "Trust",
+    "Stability",
+    "Authority",
+    "Intelligence",
+    "Confidence",
+    "Loyalty",
+    "Peace",
+    "Success"
+  ],
+  "complementary_colors": [
+    "#8E4B02"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic Corporate",
+      "swatches": [
+        "#02478E",
+        "#FFFFFF",
+        "#E5E9EC",
+        "#3673B1"
+      ]
+    },
+    {
+      "name": "Nautical Calm",
+      "swatches": [
+        "#02478E",
+        "#ADD8E6",
+        "#F0F8FF",
+        "#77B5FE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Button backgrounds",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Suits",
+      "Formal dresses",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "U.S. Congress Seal",
+      "description": "The U.S. Congress seal features a prominent shade of blue, symbolizing authority and integrity.",
+      "image_url": "url_to_congress_seal_image"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "Many corporations use Congress Blue in their logos and branding materials to convey a sense of professionalism and trust.",
+      "image_url": "url_to_corporate_logo_image"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray and white for a professional look.",
+    "Use with lighter blues for a calming and serene palette.",
+    "Combine with yellow for a contrasting and energetic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Congress Blue: Color Meaning, Psychology, and Design",
+    "description": "Discover the meaning, psychology, and design applications of Congress Blue. Explore its emotional associations, complementary colors, and suggested palettes for your next project."
+  },
+  "created_at": "2025-06-01T14:41:41.708675+00:00",
+  "updated_at": "2025-06-01T14:41:41.708675+00:00",
+  "slug": "congress-blue"
+}

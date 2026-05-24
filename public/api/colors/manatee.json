@@ -1,0 +1,84 @@
+{
+  "id": "b320b0ea-a32c-4a77-abdc-c534669382a9",
+  "color_name": "Manatee",
+  "hex_code": "#8D90A1",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Manatee is a calming and sophisticated neutral, evoking feelings of stability and tranquility. It suggests a sense of reliability and understated elegance, often associated with neutrality and balance. Its subtle gray undertones make it a versatile choice, lending an air of quiet confidence and composed serenity.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "stability",
+    "neutrality",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#A19E8D",
+    "#908DA1",
+    "#D0CDE1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#D3D5DA",
+        "#A7ABB5",
+        "#8D90A1",
+        "#63677A",
+        "#444754"
+      ]
+    },
+    {
+      "name": "Earthy Contrast",
+      "swatches": [
+        "#8D90A1",
+        "#C6B7A3",
+        "#6E6156",
+        "#A08A77",
+        "#D8D0C3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "text",
+      "dividers"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa interiors",
+      "meditation spaces"
+    ],
+    "fashion": [
+      "outerwear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring walls painted in Manatee, creating a serene and minimalist atmosphere.",
+      "image_url": "https://example.com/manatee_apartment.jpg"
+    },
+    {
+      "title": "Elegant Business Card",
+      "description": "A business card with a Manatee background, conveying professionalism and sophistication.",
+      "image_url": "https://example.com/manatee_business_card.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic scheme.",
+    "Combine with earthy tones for a warm and inviting palette.",
+    "Use as a neutral backdrop for brighter accent colors.",
+    "Incorporate natural textures to enhance its calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades with our color palette generator!",
+  "seo_meta": {
+    "title": "Manatee Color Meaning: Understanding #8D90A1 - Color Psychology",
+    "description": "Discover the meaning of Manatee (#8D90A1), its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:54:30.56413+00:00",
+  "updated_at": "2025-06-01T15:54:30.56413+00:00",
+  "slug": "manatee"
+}

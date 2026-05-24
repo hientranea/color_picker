@@ -1,0 +1,83 @@
+{
+  "id": "c4c40707-d97f-491e-ade6-1d637f8bcbcd",
+  "color_name": "Turtle Green",
+  "hex_code": "#2A380B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Turtle Green evokes feelings of nature, stability, and growth. It represents a grounded energy and promotes a sense of calm and connection to the earth. This color often signifies prosperity, health, and environmental awareness, suggesting a harmonious balance between ambition and tranquility.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "growth",
+    "calm",
+    "prosperity",
+    "health"
+  ],
+  "complementary_colors": [
+    "#382A0B",
+    "#B0422A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#2A380B",
+        "#556B2F",
+        "#8FBC8F",
+        "#C1CDC1",
+        "#E9E4D4"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#2A380B",
+        "#708238",
+        "#D2B48C",
+        "#A0522D",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy snack branding"
+    ],
+    "wellness": [
+      "Eco-friendly spa branding",
+      "Natural health product packaging"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The lush green canopy of a dense forest, representing life and abundance.",
+      "image_url": "url_to_forest_canopy_image.jpg"
+    },
+    {
+      "title": "Olive Grove",
+      "description": "The muted green of an olive grove, symbolizing peace and ancient wisdom.",
+      "image_url": "url_to_olive_grove_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral browns for an earthy feel.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with lighter greens and creams for a natural palette.",
+    "Contrast with muted reds or oranges for a balanced design."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Turtle Green Color Meaning: Discover its Psychology and Uses",
+    "description": "Explore the meaning, associations, and best uses of Turtle Green (#2A380B). Find complementary colors, palette suggestions, and industry applications."
+  },
+  "created_at": "2025-06-01T14:58:42.841303+00:00",
+  "updated_at": "2025-06-01T14:58:42.841303+00:00",
+  "slug": "turtle-green"
+}

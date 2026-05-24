@@ -1,0 +1,78 @@
+{
+  "id": "03e5e595-ac08-4b87-8ccd-48e41c888d25",
+  "color_name": "Monarch",
+  "hex_code": "#8B0723",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Monarch is a deep, rich red that evokes feelings of passion, power, and sophistication. It suggests ambition and leadership while also hinting at a touch of mystery and luxury. It can represent courage, confidence, and a strong will, but also be associated with intensity and excitement.",
+  "emotional_associations": [
+    "passion",
+    "power",
+    "luxury",
+    "ambition",
+    "excitement"
+  ],
+  "complementary_colors": [
+    "#078B6F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Dusk",
+      "swatches": [
+        "#8B0723",
+        "#33292A",
+        "#A9927D",
+        "#DBC3A4",
+        "#F2EBD3"
+      ]
+    },
+    {
+      "name": "Ember Glow",
+      "swatches": [
+        "#8B0723",
+        "#C04000",
+        "#F77F00",
+        "#FFAD60",
+        "#FFE0B2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Fine chocolate packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Formal wear",
+      "Statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Royal Velvet Curtains",
+      "description": "Deep monarch colored velvet curtains add a touch of opulence to any room.",
+      "image_url": "https://example.com/monarch_curtains.jpg"
+    },
+    {
+      "title": "Vintage Wine Bottle",
+      "description": "A wine label using dark red hues to convey quality and tradition.",
+      "image_url": "https://example.com/monarch_wine.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with creams and beiges for a sophisticated look.",
+    "Use with charcoal gray for a modern, edgy vibe."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Monarch Color Meaning: Understanding the Power of Deep Red",
+    "description": "Explore the meaning and symbolism of Monarch (#8B0723). Discover its psychological impact, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:52:18.790079+00:00",
+  "updated_at": "2025-06-01T15:52:18.790079+00:00",
+  "slug": "monarch"
+}

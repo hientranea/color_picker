@@ -1,0 +1,82 @@
+{
+  "id": "be50a0fb-3687-4d3a-9e49-80d13e6099ad",
+  "color_name": "Cascade",
+  "hex_code": "#8BA9A5",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cascade evokes feelings of tranquility and serenity, reminiscent of gentle waterfalls and peaceful landscapes. It suggests stability and reliability, with a touch of sophistication. This color promotes a sense of calm and balance, making it ideal for creating a soothing and harmonious atmosphere.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "stability",
+    "sophistication",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#A98B8F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#8BA9A5",
+        "#D1E0DD",
+        "#F0F5F3",
+        "#A6B8B5"
+      ]
+    },
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#8BA9A5",
+        "#77ACA2",
+        "#E0DBD1",
+        "#B2BEB5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Dashboard interfaces",
+      "Application backgrounds"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio decor",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Accessories",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Cascade is used as the primary wall color in a modern apartment, creating a relaxing and sophisticated living space.",
+      "image_url": "https://example.com/cascade_apartment.jpg"
+    },
+    {
+      "title": "Wellness Center Branding",
+      "description": "A wellness center uses Cascade in its logo and website design to convey a sense of peace and tranquility.",
+      "image_url": "https://example.com/cascade_wellness.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a modern look.",
+    "Combine with soft whites for a clean and airy feel.",
+    "Use with natural wood tones for warmth.",
+    "Accent with pops of muted gold for elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more complementary colors and create your perfect palette with our color palette generator!",
+  "seo_meta": {
+    "title": "Cascade Color Meaning: Understanding #8BA9A5",
+    "description": "Discover the meaning, psychology, and best uses of Cascade (#8BA9A5), a serene and sophisticated tertiary color. Explore palettes, pairings, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:53:15.521584+00:00",
+  "updated_at": "2025-06-01T15:53:15.521584+00:00",
+  "slug": "cascade"
+}

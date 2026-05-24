@@ -1,0 +1,90 @@
+{
+  "id": "558ef7c9-147c-4c84-8d21-4087137f681b",
+  "color_name": "Cactus",
+  "hex_code": "#587156",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cactus, with its muted green tone, evokes feelings of resilience, endurance, and adaptability. It represents a quiet strength and the ability to thrive in challenging environments. It can also suggest a sense of natural harmony and grounding, promoting feelings of stability and calm.",
+  "emotional_associations": [
+    "resilience",
+    "endurance",
+    "adaptability",
+    "harmony",
+    "grounding",
+    "stability",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#715863"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Desert Bloom",
+      "swatches": [
+        "#587156",
+        "#A38D7A",
+        "#E6D5B8",
+        "#7A9D96",
+        "#D4A373"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#587156",
+        "#3E514A",
+        "#84A98C",
+        "#CAD2C5",
+        "#2F3E46"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Minimalist design"
+    ],
+    "food_beverage": [
+      "Organic product packaging",
+      "Restaurant interiors",
+      "Sustainable food branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines",
+      "Neutral accessory designs"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Succulent Garden",
+      "description": "A tranquil succulent garden featuring various shades of green, promoting a sense of calm and connection to nature.",
+      "image_url": "https://example.com/succulent_garden.jpg"
+    },
+    {
+      "title": "Modern Living Room",
+      "description": "A modern living room incorporating cactus green accents to create a grounding and sophisticated atmosphere.",
+      "image_url": "https://example.com/modern_living_room.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted browns for an earthy feel.",
+    "Combine with cream or beige for a natural look.",
+    "Use with terracotta or rust for a desert-inspired palette.",
+    "Contrast with lighter greens for a fresh and vibrant effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to discover endless color combinations and create your perfect palette!",
+  "seo_meta": {
+    "title": "Cactus Color Meaning: Symbolism, Psychology, and Design Ideas",
+    "description": "Discover the meaning and symbolism of Cactus (#587156). Explore its psychological effects, complementary colors, and inspiring design palettes for your next project."
+  },
+  "created_at": "2025-06-01T15:23:05.49378+00:00",
+  "updated_at": "2025-06-01T15:23:05.49378+00:00",
+  "slug": "cactus"
+}

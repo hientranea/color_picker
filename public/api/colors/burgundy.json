@@ -1,0 +1,73 @@
+{
+  "id": "535807bd-b29e-475d-90b7-dcf837b850cf",
+  "color_name": "Burgundy",
+  "hex_code": "#900020",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Burgundy is a deep red-purple color that evokes feelings of sophistication, ambition, and power. It combines the passion of red with the stability of purple, resulting in a color that represents wealth, luxury, and refined taste. It can also suggest maturity and a serious demeanor.",
+  "emotional_associations": [
+    "sophistication",
+    "luxury",
+    "ambition",
+    "power",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#209070"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance",
+      "swatches": [
+        "#900020",
+        "#D3B4BC",
+        "#4A3A3A"
+      ]
+    },
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#900020",
+        "#E6B8AF",
+        "#594A4E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Chocolate packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Burgundy Wine",
+      "description": "A classic and sophisticated wine known for its rich color and complex flavors.",
+      "image_url": "https://example.com/burgundy_wine.jpg"
+    },
+    {
+      "title": "Burgundy Velvet Dress",
+      "description": "A luxurious velvet dress that exudes elegance and style.",
+      "image_url": "https://example.com/burgundy_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with gray for a balanced and sophisticated look.",
+    "Use with cream or beige for a classic and timeless palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Burgundy Color Meaning: Symbolism, Psychology, and Design",
+    "description": "Discover the meaning of Burgundy, its psychological effects, and how to use it in your designs. Explore color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:56:02.076506+00:00",
+  "updated_at": "2025-06-01T15:56:02.076506+00:00",
+  "slug": "burgundy"
+}

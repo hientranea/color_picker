@@ -1,0 +1,81 @@
+{
+  "id": "9cebbee5-d7e2-4b66-a818-cb5a48de814c",
+  "color_name": "Oil",
+  "hex_code": "#281E15",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Oil, a deep and rich brown, evokes a sense of grounding, stability, and sophistication. Its connection to the earth lends feelings of reliability and security, while its dark tone suggests luxury and refinement. It is often associated with tradition, heritage, and the quiet strength found in natural resources.",
+  "emotional_associations": [
+    "stability",
+    "sophistication",
+    "grounding",
+    "luxury",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#152128",
+    "#D7C9C0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#281E15",
+        "#524234",
+        "#A69384",
+        "#D7C9C0"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#281E15",
+        "#735D49",
+        "#BFA180",
+        "#E6D1B7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Aromatherapy packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Classic apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a rich oil color provides a comfortable and stylish seating option.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Dark Wood Flooring",
+      "description": "Dark oil-stained wood flooring adds warmth and elegance to any room.",
+      "image_url": "https://example.com/wood_flooring.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with gold or brass accents for a touch of luxury.",
+    "Use with natural greens for an earthy feel.",
+    "Contrast with lighter blues for a modern aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Oil Color Meaning: Symbolism, Combinations, and Design Ideas",
+    "description": "Discover the meaning of the color Oil, its psychological effects, and how to use it in your designs for a sophisticated and grounded aesthetic."
+  },
+  "created_at": "2025-06-01T14:57:17.539763+00:00",
+  "updated_at": "2025-06-01T14:57:17.539763+00:00",
+  "slug": "oil"
+}

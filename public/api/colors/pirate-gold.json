@@ -1,0 +1,79 @@
+{
+  "id": "3b45aedd-4672-4612-a079-82f96b0ea317",
+  "color_name": "Pirate Gold",
+  "hex_code": "#BA7F03",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pirate Gold evokes feelings of adventure, wealth, and hidden treasures. It combines the grounded stability of brown with the optimism and energy of gold, suggesting a sense of timeless value and rugged elegance. This color can also represent resilience, determination, and the pursuit of ambitious goals.",
+  "emotional_associations": [
+    "adventure",
+    "wealth",
+    "resilience",
+    "determination",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#0342BA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Opulence",
+      "swatches": [
+        "#BA7F03",
+        "#7A5200",
+        "#D4A752",
+        "#593D00",
+        "#E6C480"
+      ]
+    },
+    {
+      "name": "Maritime Mystery",
+      "swatches": [
+        "#BA7F03",
+        "#2E4053",
+        "#A3B18A",
+        "#7E8A69",
+        "#546E7A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Gourmet chocolates",
+      "Whiskey labels",
+      "Craft beer packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather accessories",
+      "Vintage-inspired clothing",
+      "Statement jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Compass",
+      "description": "A beautifully aged brass compass with intricate detailing, representing exploration and discovery.",
+      "image_url": "url_to_compass_image.jpg"
+    },
+    {
+      "title": "Vintage Treasure Chest",
+      "description": "A wooden chest overflowing with gold coins and jewels, symbolizing wealth and adventure.",
+      "image_url": "url_to_treasure_chest_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep blues for a nautical feel.",
+    "Combine with earthy greens for a natural aesthetic.",
+    "Use with blacks and creams for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations and create your perfect palette with our color palette generator!",
+  "seo_meta": {
+    "title": "Pirate Gold Color Meaning: Symbolism, Combinations & Design Ideas",
+    "description": "Discover the meaning of Pirate Gold, its psychological associations, and how to use this unique color in your designs. Explore palettes and examples."
+  },
+  "created_at": "2025-06-01T16:20:48.202735+00:00",
+  "updated_at": "2025-06-01T16:20:48.202735+00:00",
+  "slug": "pirate-gold"
+}

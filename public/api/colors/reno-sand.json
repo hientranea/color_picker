@@ -1,0 +1,83 @@
+{
+  "id": "76d27796-e0ef-4dee-9e21-a03acfd40d6d",
+  "color_name": "Reno Sand",
+  "hex_code": "#A86515",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Reno Sand evokes feelings of warmth, stability, and earthiness. It is a color that suggests reliability and comfort, often associated with natural landscapes and rustic environments. It can also represent simplicity and a grounded perspective.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "earthiness",
+    "comfort",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#1552A8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#A86515",
+        "#D4A373",
+        "#F2E8CF",
+        "#6B5B95",
+        "#8E9AAF"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#A86515",
+        "#8A563F",
+        "#C6AC8F",
+        "#E5DCC8",
+        "#4A4A4A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for artisanal breads",
+      "Restaurant decor with a rustic theme",
+      "Branding for coffee shops"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Autumn clothing lines",
+      "Leather accessories",
+      "Outdoor wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Desert Landscape",
+      "description": "The vast expanses of the desert, showcasing the color's natural beauty.",
+      "image_url": "https://example.com/desert_landscape.jpg"
+    },
+    {
+      "title": "Leather Furniture",
+      "description": "A leather sofa in Reno Sand, adding warmth to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a classic look.",
+    "Combine with teal or blue for contrast.",
+    "Use with darker browns for a grounded palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades for your next project!",
+  "seo_meta": {
+    "title": "Reno Sand Color Meaning: Discover the Psychology and Uses of #A86515",
+    "description": "Learn about the meaning of Reno Sand (#A86515), its psychological associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:07:05.08811+00:00",
+  "updated_at": "2025-06-01T16:07:05.08811+00:00",
+  "slug": "reno-sand"
+}

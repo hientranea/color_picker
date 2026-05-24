@@ -1,0 +1,86 @@
+{
+  "id": "5c5f41e0-1399-4873-95c9-338fd48544fc",
+  "color_name": "Costa Del Sol",
+  "hex_code": "#615D30",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Costa Del Sol evokes feelings of stability, earthiness, and understated elegance. It suggests a connection to nature and a sense of quiet sophistication. The color promotes a feeling of groundedness and reliability, making it suitable for conveying trust and dependability. It can also represent maturity and wisdom, resonating with individuals who appreciate classic and timeless aesthetics.",
+  "emotional_associations": [
+    "stability",
+    "earthiness",
+    "sophistication",
+    "trust",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#30615D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#615D30",
+        "#A8A28A",
+        "#D4CCC5",
+        "#3D3832"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#615D30",
+        "#8C7853",
+        "#BFA16D",
+        "#4A3F35"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Subtle accents in dashboards",
+      "Neutral color for data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors with a natural theme",
+      "Branding for coffee shops"
+    ],
+    "wellness": [
+      "Spa interiors for a calming ambiance",
+      "Packaging for natural skincare products",
+      "Meditation apps with earthy tones"
+    ],
+    "fashion": [
+      "Autumn and winter apparel",
+      "Accessories like belts and shoes",
+      "Classic and timeless designs"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in Costa Del Sol provides a timeless and comfortable seating option.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Stone Pathways",
+      "description": "Garden pathways made of stone with this color tone blend seamlessly with nature.",
+      "image_url": "https://example.com/stone_pathway.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a neutral palette.",
+    "Combine with deep blues for a sophisticated look.",
+    "Use with warm golds and oranges for an autumn-inspired feel.",
+    "Contrast with lighter greens for a natural, balanced appearance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade for your next project!",
+  "seo_meta": {
+    "title": "Costa Del Sol Color Meaning: Hex Code #615D30 | Color Psychology",
+    "description": "Discover the meaning and psychology behind Costa Del Sol (#615D30). Explore color palettes, complementary colors, and design inspiration for this earthy and sophisticated hue."
+  },
+  "created_at": "2025-06-01T15:26:52.053866+00:00",
+  "updated_at": "2025-06-01T15:26:52.053866+00:00",
+  "slug": "costa-del-sol"
+}

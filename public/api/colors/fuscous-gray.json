@@ -1,0 +1,84 @@
+{
+  "id": "418ddd49-0fa8-47a6-baef-45fc786d8f80",
+  "color_name": "Fuscous Gray",
+  "hex_code": "#54534D",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Fuscous Gray evokes feelings of sophistication, neutrality, and subdued elegance. It represents a balanced and calming presence, often associated with stability and dependability. This color can also suggest maturity and introspection, offering a sense of quiet strength and understated style.",
+  "emotional_associations": [
+    "sophistication",
+    "neutrality",
+    "stability",
+    "calmness",
+    "dependability"
+  ],
+  "complementary_colors": [
+    "#4D545A",
+    "#A09B94"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#54534D",
+        "#A69E8F",
+        "#D4CDBE",
+        "#736A62",
+        "#33312E"
+      ]
+    },
+    {
+      "name": "Urban Chic",
+      "swatches": [
+        "#54534D",
+        "#807D77",
+        "#B2AFA8",
+        "#403E3A",
+        "#262422"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds for data visualization",
+      "Neutral tones for dashboards and analytics platforms"
+    ],
+    "food_beverage": [
+      "Packaging for gourmet coffee or tea",
+      "Restaurant interior design to create a sophisticated atmosphere"
+    ],
+    "wellness": [
+      "Spa interiors for a calming environment",
+      "Meditation app interface to promote relaxation"
+    ],
+    "fashion": [
+      "Clothing for professional settings",
+      "Accessories like scarves and belts"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Fuscous Gray walls, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/fuscous_gray_apartment.jpg"
+    },
+    {
+      "title": "Luxury Car Exterior",
+      "description": "A luxury sedan painted in Fuscous Gray, exuding elegance and understated style.",
+      "image_url": "https://example.com/fuscous_gray_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic scheme.",
+    "Combine with muted greens or blues for a natural, calming palette.",
+    "Add pops of gold or copper for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Fuscous Gray Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Fuscous Gray, its emotional associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:21:55.304103+00:00",
+  "updated_at": "2025-06-01T15:21:55.304103+00:00",
+  "slug": "fuscous-gray"
+}

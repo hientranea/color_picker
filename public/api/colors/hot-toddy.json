@@ -1,0 +1,81 @@
+{
+  "id": "90d34ac5-7223-4eba-8e8b-076764489c37",
+  "color_name": "Hot Toddy",
+  "hex_code": "#B38007",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Hot Toddy evokes feelings of warmth, comfort, and relaxation. It suggests a cozy and inviting atmosphere, often associated with autumnal evenings and comforting beverages. This color can also represent sophistication, tradition, and a sense of well-being. It is a color that soothes and provides a sense of security and nostalgia.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "relaxation",
+    "sophistication",
+    "nostalgia"
+  ],
+  "complementary_colors": [
+    "#0739B3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Comfort",
+      "swatches": [
+        "#B38007",
+        "#E0A96F",
+        "#A67B5B",
+        "#604A3F",
+        "#F2EBD3"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#B38007",
+        "#D4A373",
+        "#8A5C33",
+        "#5C4033",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "packaging for tea",
+      "branding for coffee shops",
+      "labels for whiskey"
+    ],
+    "wellness": [
+      "branding for spas",
+      "design for relaxation apps"
+    ],
+    "fashion": [
+      "autumn/winter clothing",
+      "leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Armchair",
+      "description": "A classic leather armchair in a study, radiating warmth and comfort.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    },
+    {
+      "title": "Whiskey Label",
+      "description": "A premium whiskey label using gold and brown tones to convey quality and tradition.",
+      "image_url": "https://example.com/whiskey_label.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep blues for contrast.",
+    "Combine with creams and beiges for a warm palette.",
+    "Use with greens and browns for an earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Hot Toddy Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Hot Toddy (#B38007), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:16:07.200943+00:00",
+  "updated_at": "2025-06-01T16:16:07.200943+00:00",
+  "slug": "hot-toddy"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "bc6076c1-f3bd-4794-94ac-931b29dfa549",
+  "color_name": "Tom Thumb",
+  "hex_code": "#3F583B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tom Thumb, a muted olive green, evokes feelings of nature, tranquility, and understated elegance. It suggests stability and growth while also hinting at sophistication and calm. This color is often associated with maturity, reliability, and a connection to the earth, making it a grounding and comforting choice.",
+  "emotional_associations": [
+    "nature",
+    "tranquility",
+    "stability",
+    "sophistication",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#B95A56"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#3F583B",
+        "#A3B18A",
+        "#DAD7CD",
+        "#588157"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#3F583B",
+        "#8A8171",
+        "#D4A373",
+        "#344E41"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant decor emphasizing natural ingredients"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories with a natural aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The dense foliage of a forest canopy showcases the depth and richness of Tom Thumb.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Olive Grove",
+      "description": "An olive grove's muted greens capture the tranquil essence of Tom Thumb.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with neutral creams for a calming effect.",
+    "Pair with terracotta for a rustic feel.",
+    "Accent with gold for subtle elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator.",
+  "seo_meta": {
+    "title": "Tom Thumb Color Meaning: Understanding #3F583B",
+    "description": "Discover the meaning, associations, and best uses of Tom Thumb (#3F583B). Explore palettes, pairings, and industry applications for this unique color."
+  },
+  "created_at": "2025-06-01T15:10:17.806844+00:00",
+  "updated_at": "2025-06-01T15:10:17.806844+00:00",
+  "slug": "tom-thumb"
+}

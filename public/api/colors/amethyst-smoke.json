@@ -1,0 +1,79 @@
+{
+  "id": "885b2e62-8f0e-45da-8c2c-b2a1a746180c",
+  "color_name": "Amethyst Smoke",
+  "hex_code": "#A397B4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Amethyst Smoke evokes feelings of sophistication, mystery, and tranquility. It combines the calming qualities of purple with a touch of grey, suggesting a thoughtful and introspective mood. This color can promote relaxation and inspire creativity while maintaining an air of elegance and refinement.",
+  "emotional_associations": [
+    "sophistication",
+    "tranquility",
+    "mystery",
+    "introspection",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#B4A397"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Dusk",
+      "swatches": [
+        "#A397B4",
+        "#D8D0E1",
+        "#79708A",
+        "#EAE6F2",
+        "#50475E"
+      ]
+    },
+    {
+      "name": "Modern Vintage",
+      "swatches": [
+        "#A397B4",
+        "#C0B283",
+        "#4A4E69",
+        "#F2E9E4",
+        "#9A8C98"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds for minimalist apps",
+      "color accents in productivity tools"
+    ],
+    "wellness": [
+      "spa interiors",
+      "meditation apps"
+    ],
+    "fashion": [
+      "evening wear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The smoky hues within an amethyst geode inspire feelings of natural wonder and calming energy.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    },
+    {
+      "title": "Modern Living Room",
+      "description": "A living room featuring walls painted in Amethyst Smoke, creating a sophisticated and relaxing atmosphere.",
+      "image_url": "https://example.com/living_room.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a subtle contrast.",
+    "Combine with gold or brass accents for added elegance.",
+    "Use with natural wood tones to create a warm and inviting space."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color picker tool.",
+  "seo_meta": {
+    "title": "Amethyst Smoke Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning of Amethyst Smoke, its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:05:11.760359+00:00",
+  "updated_at": "2025-06-01T16:05:11.760359+00:00",
+  "slug": "amethyst-smoke"
+}

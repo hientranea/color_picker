@@ -1,0 +1,78 @@
+{
+  "id": "72778e6a-113c-4df0-8d2c-9819b48a9ed0",
+  "color_name": "Tuna",
+  "hex_code": "#353542",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Tuna, a deep, muted gray, evokes feelings of sophistication, stability, and understated elegance. It suggests neutrality and can create a calming, grounding atmosphere, often associated with reliability and trustworthiness. It is a color that is both serious and versatile.",
+  "emotional_associations": [
+    "sophistication",
+    "stability",
+    "neutrality",
+    "reliability",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#424235",
+    "#BDBDBD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#353542",
+        "#555564",
+        "#777786"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#353542",
+        "#A69381",
+        "#D4C1AB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation bars",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A contemporary living room featuring Tuna colored walls and minimalist furniture.",
+      "image_url": "https://example.com/tuna_apartment.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A company using Tuna in its logo and website to convey a sense of professionalism and trust.",
+      "image_url": "https://example.com/tuna_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a serene look.",
+    "Accent with metallic tones for added sophistication.",
+    "Use with brighter colors to create contrast and visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Tuna!",
+  "seo_meta": {
+    "title": "Tuna Color Meaning: Understanding #353542 | Color Psychology",
+    "description": "Discover the meaning and psychology behind the color Tuna (#353542). Explore its associations, complementary colors, and best uses in design."
+  },
+  "created_at": "2025-06-01T15:03:58.536204+00:00",
+  "updated_at": "2025-06-01T15:03:58.536204+00:00",
+  "slug": "tuna"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "e7bcca4b-1675-4bd7-a0bd-b3e3bf6fa290",
+  "color_name": "Fuzzy Wuzzy Brown",
+  "hex_code": "#C45655",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fuzzy Wuzzy Brown evokes feelings of comfort, warmth, and nostalgia. It is often associated with nature, earthiness, and a sense of security. This color can also represent dependability and a down-to-earth attitude, making it a reliable and approachable choice. While it can be comforting, overuse might lead to feelings of being uninspired or stagnant.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "nostalgia",
+    "earthiness",
+    "dependability"
+  ],
+  "complementary_colors": [
+    "#55C3C4"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Autumn",
+      "swatches": [
+        "#C45655",
+        "#E0A96F",
+        "#A38B64",
+        "#7A6C5D",
+        "#F2E8D5"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#C45655",
+        "#8B4513",
+        "#D2B48C",
+        "#CD853F",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee shops",
+      "Bakeries",
+      "Chocolate branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a rich brown color provides comfort and style to any living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "A cozy wooden cabin nestled in the woods, offering a warm and inviting retreat.",
+      "image_url": "https://example.com/wooden_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with greens for an earthy feel.",
+    "Combine with blues for a balanced contrast.",
+    "Accent with golds for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Fuzzy Wuzzy Brown Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning and symbolism of Fuzzy Wuzzy Brown (#C45655). Explore its psychological effects, complementary colors, suggested palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T16:27:08.714764+00:00",
+  "updated_at": "2025-06-01T16:27:08.714764+00:00",
+  "slug": "fuzzy-wuzzy-brown"
+}

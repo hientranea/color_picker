@@ -1,0 +1,85 @@
+{
+  "id": "354aec84-3171-43f0-b650-982f689a660c",
+  "color_name": "Waiouru",
+  "hex_code": "#363C0D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Waiouru is a muted, earthy olive green that evokes feelings of stability, nature, and quiet sophistication. It suggests a connection to the earth and a sense of groundedness. It can also represent practicality, resourcefulness, and understated elegance, often associated with maturity and reliability.",
+  "emotional_associations": [
+    "stability",
+    "nature",
+    "sophistication",
+    "groundedness",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#CDCA32"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#363C0D",
+        "#A68B60",
+        "#D4A373",
+        "#F2E8CF"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#363C0D",
+        "#6B8E23",
+        "#BDB76B",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background elements",
+      "Data visualization for environmental apps",
+      "Button hover states"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors with a natural theme",
+      "Labels for artisanal goods"
+    ],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa and retreat branding",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Drab Military Uniform",
+      "description": "Military uniforms often utilize colors like Waiouru for camouflage and concealment in natural environments.",
+      "image_url": "https://example.com/olive_drab_uniform.jpg"
+    },
+    {
+      "title": "Forest Floor",
+      "description": "The Waiouru color is reminiscent of the muted greens and browns found in a forest floor, blending seamlessly with the natural environment.",
+      "image_url": "https://example.com/forest_floor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with muted yellows for a natural harmony.",
+    "Use with deep browns for a sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious color combinations using our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Waiouru Color Meaning: Understanding #363C0D",
+    "description": "Explore the meaning, psychology, and best uses of Waiouru (#363C0D), a sophisticated earthy olive green. Find complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:04:26.564362+00:00",
+  "updated_at": "2025-06-01T15:04:26.564362+00:00",
+  "slug": "waiouru"
+}

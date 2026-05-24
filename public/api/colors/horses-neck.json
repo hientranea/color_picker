@@ -1,0 +1,77 @@
+{
+  "id": "c44f2e84-7f2b-42d8-a573-b93154fc1c28",
+  "color_name": "Horses Neck",
+  "hex_code": "#604913",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Horses Neck is a grounding and comforting color, evoking feelings of stability and reliability. Its earthy tones suggest a connection to nature, promoting a sense of calmness and security. It can also be associated with tradition and heritage, bringing a sense of history and timelessness.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "comfort",
+    "tradition"
+  ],
+  "complementary_colors": [
+    "#132660"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#604913",
+        "#A68A64",
+        "#D4A373",
+        "#F2DEBA"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#604913",
+        "#807560",
+        "#A69E8F",
+        "#C4BBAF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a Horses Neck hue, adding warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Furniture",
+      "description": "Solid wooden furniture finished in Horses Neck color to bring organic beauty into homes and offices.",
+      "image_url": "https://example.com/wooden_furniture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for a natural feel.",
+    "Contrast with blues for a sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Horses Neck Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Horses Neck color, its psychological effects, and how to use it in design with complementary colors and beautiful palettes."
+  },
+  "created_at": "2025-06-01T15:26:08.960953+00:00",
+  "updated_at": "2025-06-01T15:26:08.960953+00:00",
+  "slug": "horses-neck"
+}

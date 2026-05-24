@@ -1,0 +1,81 @@
+{
+  "id": "a073b2ce-9fcf-4cfb-86b7-c7a4b8282e72",
+  "color_name": "Spicy Pink",
+  "hex_code": "#816E71",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Spicy Pink is a sophisticated and muted color that blends the passion of red with the innocence of pink, softened by gray undertones. It evokes feelings of warmth, comfort, and a subtle sense of adventure. This color suggests a grounded energy, making it suitable for designs aiming to project both excitement and stability.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "sophistication",
+    "grounded energy",
+    "subtle adventure"
+  ],
+  "complementary_colors": [
+    "#71817E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#816E71",
+        "#C0B2B5",
+        "#5D535E",
+        "#E2DED0"
+      ]
+    },
+    {
+      "name": "Dusty Rose Garden",
+      "swatches": [
+        "#816E71",
+        "#A98D8D",
+        "#D0B8A8",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Accent colors for calming interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for gourmet products",
+      "Restaurant interiors with a cozy vibe"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Autumn wear",
+      "Accessories with a vintage feel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Bookstore Interior",
+      "description": "A bookstore with walls painted in Spicy Pink, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/bookstore.jpg"
+    },
+    {
+      "title": "Fashion Editorial",
+      "description": "A model wearing a Spicy Pink dress in a high-fashion magazine spread.",
+      "image_url": "https://example.com/dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for an earthy feel.",
+    "Combine with creams and beiges for a classic look.",
+    "Use with dark grays for a modern, sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Spicy Pink Color Meaning: Discover its Psychology and Uses",
+    "description": "Explore the meaning, psychology, and best uses of Spicy Pink (#816E71). Find complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:47:23.609614+00:00",
+  "updated_at": "2025-06-01T15:47:23.609614+00:00",
+  "slug": "spicy-pink"
+}

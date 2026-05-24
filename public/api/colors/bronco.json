@@ -1,0 +1,80 @@
+{
+  "id": "35d52c03-b91c-4211-8ac4-3dd1e38766b7",
+  "color_name": "Bronco",
+  "hex_code": "#ABA196",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Bronco, a muted and earthy tone, evokes a sense of calm and groundedness. It's often associated with reliability, practicality, and sophistication. This color can create a feeling of stability and understated elegance, making it suitable for environments where trust and dependability are valued.",
+  "emotional_associations": [
+    "reliability",
+    "sophistication",
+    "calm",
+    "groundedness",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#96A0AB",
+    "#A196AB",
+    "#A1ABA6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#ABA196",
+        "#D4D0C6",
+        "#736A62",
+        "#EBE6DE"
+      ]
+    },
+    {
+      "name": "Modern Neutral",
+      "swatches": [
+        "#ABA196",
+        "#FFFFFF",
+        "#434A54",
+        "#A0D2EB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds for dashboards",
+      "Neutral color for data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Meditation studios"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Sedan",
+      "description": "A high-end sedan painted in a Bronco-like color, showcasing sophistication and understated elegance.",
+      "image_url": "https://example.com/bronco_sedan.jpg"
+    },
+    {
+      "title": "Modern Interior Design",
+      "description": "A living room featuring Bronco-colored walls, creating a calming and inviting space.",
+      "image_url": "https://example.com/bronco_livingroom.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a classic look.",
+    "Use with deep blues for a sophisticated contrast.",
+    "Combine with natural wood tones for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations using our color palette generator tool.",
+  "seo_meta": {
+    "title": "Bronco Color Meaning: Understanding the Psychology of #ABA196",
+    "description": "Discover the meaning and associations of the color Bronco (#ABA196), including its psychological effects, complementary colors, and usage in various industries."
+  },
+  "created_at": "2025-06-01T16:10:31.171508+00:00",
+  "updated_at": "2025-06-01T16:10:31.171508+00:00",
+  "slug": "bronco"
+}

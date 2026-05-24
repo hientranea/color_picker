@@ -1,0 +1,78 @@
+{
+  "id": "ff2ea000-e679-4876-8b87-8d57775f39a4",
+  "color_name": "True V",
+  "hex_code": "#8A73D6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "True V evokes feelings of creativity, sophistication, and calm. It is often associated with imagination, wisdom, and spirituality, promoting a sense of inner peace and introspection. This color can inspire artistic expression and innovative thinking, while also providing a sense of stability and harmony.",
+  "emotional_associations": [
+    "creativity",
+    "sophistication",
+    "calm",
+    "wisdom",
+    "spirituality"
+  ],
+  "complementary_colors": [
+    "#D68B73"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dawn",
+      "swatches": [
+        "#8A73D6",
+        "#A997D8",
+        "#D2C8E5",
+        "#F0EDF5"
+      ]
+    },
+    {
+      "name": "Creative Harmony",
+      "swatches": [
+        "#8A73D6",
+        "#5C4E8F",
+        "#B8A3E1",
+        "#E6E2F2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "App design",
+      "Website backgrounds",
+      "Data visualization"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Spa Interior",
+      "description": "The walls are painted in a soft shade of True V to create a calming and serene environment for relaxation and rejuvenation.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Tech Startup Branding",
+      "description": "True V is used in the company's logo and website to convey innovation, intelligence, and a forward-thinking approach.",
+      "image_url": "https://example.com/tech_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a sophisticated look.",
+    "Combine with soft pinks for a feminine touch.",
+    "Use with gold accents for a luxurious feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "True V Color Meaning: Psychology, Palettes & Design Tips",
+    "description": "Discover the meaning of True V, its emotional associations, complementary colors, and how to use it in your designs. Explore suggested palettes and industry use cases."
+  },
+  "created_at": "2025-06-01T15:51:35.570972+00:00",
+  "updated_at": "2025-06-01T15:51:35.570972+00:00",
+  "slug": "true-v"
+}

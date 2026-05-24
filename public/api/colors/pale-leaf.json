@@ -1,0 +1,81 @@
+{
+  "id": "d0629d38-0298-462d-a85d-0d5c4c753c51",
+  "color_name": "Pale Leaf",
+  "hex_code": "#C0D3B9",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pale Leaf evokes a sense of tranquility, growth, and subtle energy. It suggests natural environments, promoting calmness and a feeling of being grounded. This color carries the refreshing aspects of green while maintaining a gentle and sophisticated presence, often associated with balance and harmony.",
+  "emotional_associations": [
+    "Tranquility",
+    "Growth",
+    "Balance",
+    "Subtlety",
+    "Nature"
+  ],
+  "complementary_colors": [
+    "#D3C0CB"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#C0D3B9",
+        "#A9BC8F",
+        "#D8E2DC",
+        "#EAE7DC"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#C0D3B9",
+        "#F0EAD6",
+        "#BBDED6",
+        "#9ED2BE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for calming apps",
+      "Subtle accents in educational platforms"
+    ],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Branding for vegetarian restaurants"
+    ],
+    "wellness": [
+      "Spa and retreat websites",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Light spring garments",
+      "Accessories for natural tones"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior",
+      "description": "A spa uses Pale Leaf on the walls to create a relaxing and serene environment.",
+      "image_url": "https://example.com/spa_pale_leaf.jpg"
+    },
+    {
+      "title": "Yoga Studio Branding",
+      "description": "A yoga studio incorporates Pale Leaf in its logo and website to convey tranquility and balance.",
+      "image_url": "https://example.com/yoga_pale_leaf.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted neutrals for an elegant look.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with soft pinks for a touch of warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Pale Leaf Color Meaning: Symbolism, Associations, and Palettes",
+    "description": "Discover the meaning of Pale Leaf color, its psychological effects, best color palettes, and usage in branding and design. Get inspired with real-world examples and color pairing tips."
+  },
+  "created_at": "2025-06-01T16:24:32.849505+00:00",
+  "updated_at": "2025-06-01T16:24:32.849505+00:00",
+  "slug": "pale-leaf"
+}

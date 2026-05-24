@@ -1,0 +1,78 @@
+{
+  "id": "2968f8d5-461d-4f5d-a265-6fc406f78c56",
+  "color_name": "Jagged Ice",
+  "hex_code": "#C2E8E5",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jagged Ice evokes a sense of tranquility and calmness, reminiscent of glacial landscapes and serene winter mornings. It suggests clarity, purity, and a refreshing openness. This color promotes feelings of peace and mental clarity, making it ideal for spaces designed for relaxation and contemplation.",
+  "emotional_associations": [
+    "tranquility",
+    "calmness",
+    "clarity",
+    "purity",
+    "refreshment"
+  ],
+  "complementary_colors": [
+    "#E5C2C5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Winter Calm",
+      "swatches": [
+        "#C2E8E5",
+        "#F0F8FF",
+        "#A9D1D0",
+        "#E6F2F0"
+      ]
+    },
+    {
+      "name": "Icy Gradient",
+      "swatches": [
+        "#C2E8E5",
+        "#D8EEEB",
+        "#EBF5F3",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Meditation apps",
+      "Weather applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Mindfulness apps"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Glacial Lagoon, Iceland",
+      "description": "The icy blue waters of a glacial lagoon reflecting the surrounding mountains create a stunning natural display of 'Jagged Ice'.",
+      "image_url": "https://example.com/glacial_lagoon.jpg"
+    },
+    {
+      "title": "Winter Cabin Interior",
+      "description": "The interior design of a winter cabin features 'Jagged Ice' walls, creating a cozy and serene atmosphere.",
+      "image_url": "https://example.com/winter_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a sophisticated look.",
+    "Combine with whites and creams for a clean and airy feel.",
+    "Use with muted blues for a calming and peaceful palette.",
+    "Accent with silver or chrome for a modern touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and harmonies with our color palette generator!",
+  "seo_meta": {
+    "title": "Jagged Ice Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Jagged Ice (#C2E8E5), its psychological effects, complementary colors, and inspiring palettes for your next design project."
+  },
+  "created_at": "2025-06-01T16:26:04.531751+00:00",
+  "updated_at": "2025-06-01T16:26:04.531751+00:00",
+  "slug": "jagged-ice"
+}

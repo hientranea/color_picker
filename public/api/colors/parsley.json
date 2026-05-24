@@ -1,0 +1,82 @@
+{
+  "id": "4ef80f8c-81cb-45bf-986c-d1de5d5a3694",
+  "color_name": "Parsley",
+  "hex_code": "#134F19",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Parsley green evokes feelings of nature, growth, and tranquility. It is associated with health, renewal, and harmony, promoting a sense of balance and well-being. This color can also represent wealth, stability, and endurance, making it a versatile choice for conveying trustworthiness and reliability.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "health",
+    "renewal",
+    "harmony",
+    "wealth",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#F07177"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#134F19",
+        "#558B2F",
+        "#A5D6A7",
+        "#E8F5E9"
+      ]
+    },
+    {
+      "name": "Forest Floor",
+      "swatches": [
+        "#134F19",
+        "#33691E",
+        "#689F38",
+        "#9CCC65"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant branding for farm-to-table concepts"
+    ],
+    "wellness": [
+      "Spa and retreat branding",
+      "Natural product packaging"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "National Park Signage",
+      "description": "Signage using Parsley green to blend with the natural surroundings.",
+      "image_url": "https://example.com/national_park_signage.jpg"
+    },
+    {
+      "title": "Organic Food Packaging",
+      "description": "Packaging for organic vegetables and herbs utilizing Parsley green to convey freshness.",
+      "image_url": "https://example.com/organic_food_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light beiges for a natural look.",
+    "Combine with gold accents for a touch of elegance.",
+    "Use with dark browns to enhance a rustic feel.",
+    "Contrast with a muted red for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Parsley Green Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning and associations of Parsley green (#134F19). Learn how to use this color in design, branding, and more, with suggested palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T14:49:07.302066+00:00",
+  "updated_at": "2025-06-01T14:49:07.302066+00:00",
+  "slug": "parsley"
+}

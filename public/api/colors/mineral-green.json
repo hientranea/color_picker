@@ -1,0 +1,85 @@
+{
+  "id": "5c6d47c3-e334-4239-9586-e33ca9ad9401",
+  "color_name": "Mineral Green",
+  "hex_code": "#3F5D53",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mineral Green evokes a sense of tranquility and stability, reminiscent of nature's enduring presence. It suggests balance, growth, and a connection to the earth, fostering feelings of calm and reassurance while also hinting at subtle sophistication and quiet strength.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "growth",
+    "balance",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#D47D87"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#3F5D53",
+        "#A2B38B",
+        "#D9CAB3",
+        "#F2E7D5"
+      ]
+    },
+    {
+      "name": "Subtle Contrast",
+      "swatches": [
+        "#3F5D53",
+        "#73A580",
+        "#C6DABF",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Sustainable technology apps",
+      "Financial analysis tools"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding",
+      "Sustainable agriculture websites"
+    ],
+    "wellness": [
+      "Spa and wellness center branding",
+      "Meditation app interfaces",
+      "Natural skincare product packaging"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel",
+      "Accessories with a natural aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Spa Interior",
+      "description": "The spa uses mineral green to create a calming and rejuvenating atmosphere.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Sustainable Fashion Brand",
+      "description": "A clothing brand using mineral green in their logo and product line to convey environmental consciousness.",
+      "image_url": "https://example.com/sustainable_fashion.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a calming effect.",
+    "Combine with copper or gold accents for sophistication.",
+    "Use with earthy tones to emphasize natural vibes."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades of green and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Mineral Green Color Meaning: Psychology, Palettes & Design Tips",
+    "description": "Discover the meaning of Mineral Green, its psychological impact, complementary colors, suggested palettes, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:10:24.700104+00:00",
+  "updated_at": "2025-06-01T15:10:24.700104+00:00",
+  "slug": "mineral-green"
+}

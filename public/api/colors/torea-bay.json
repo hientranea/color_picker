@@ -1,0 +1,81 @@
+{
+  "id": "d4ce1aba-5209-4391-a295-c9e4ea7c98c3",
+  "color_name": "Torea Bay",
+  "hex_code": "#0F2D9E",
+  "wheel_position": "primary",
+  "psychological_meaning": "Torea Bay evokes feelings of trust, stability, and intelligence. As a deep, muted blue, it suggests reliability and a sense of calm authority. It can also represent depth, introspection, and a connection to the vastness of the ocean or sky, providing a sense of peace and security.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intelligence",
+    "calm",
+    "security"
+  ],
+  "complementary_colors": [
+    "#9E700F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic & Calm",
+      "swatches": [
+        "#0F2D9E",
+        "#A7B5BE",
+        "#E8E4D8",
+        "#7A8B99"
+      ]
+    },
+    {
+      "name": "Oceanic Depth",
+      "swatches": [
+        "#0F2D9E",
+        "#2C518A",
+        "#72A0C1",
+        "#B2D0CE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation menus",
+      "Progress bars",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire",
+      "Nautical-themed clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Branding",
+      "description": "A large corporation uses Torea Bay in its logo to convey trustworthiness and stability.",
+      "image_url": "https://example.com/corporate_branding.jpg"
+    },
+    {
+      "title": "Website Design",
+      "description": "A website for a financial institution uses Torea Bay as a primary color to inspire confidence in users.",
+      "image_url": "https://example.com/website_design.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Use with gold or silver accents for a touch of elegance.",
+    "Combine with lighter blues for a calming and harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Torea Bay Color Meaning: Understanding the Color #0F2D9E",
+    "description": "Explore the meaning, psychology, and uses of Torea Bay (#0F2D9E). Discover complementary colors, palettes, and real-world examples of this calming blue hue."
+  },
+  "created_at": "2025-06-01T14:47:48.921764+00:00",
+  "updated_at": "2025-06-01T14:47:48.921764+00:00",
+  "slug": "torea-bay"
+}

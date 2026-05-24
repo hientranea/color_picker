@@ -1,0 +1,82 @@
+{
+  "id": "0f3b364b-8b23-4db5-8ce8-b7b1c5722329",
+  "color_name": "Tropical Blue",
+  "hex_code": "#C3DDF9",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tropical Blue evokes feelings of tranquility, serenity, and expansiveness, reminiscent of clear skies and calm seas. It promotes a sense of peace, relaxation, and mental clarity, encouraging introspection and creative thinking. This color is often associated with trust, stability, and a sense of well-being.",
+  "emotional_associations": [
+    "calm",
+    "serene",
+    "trust",
+    "peaceful",
+    "relaxed"
+  ],
+  "complementary_colors": [
+    "#F9C6C3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#C3DDF9",
+        "#E0F2F7",
+        "#A0CED9",
+        "#74A783"
+      ]
+    },
+    {
+      "name": "Sky High",
+      "swatches": [
+        "#C3DDF9",
+        "#FFFFFF",
+        "#D3E3FC",
+        "#8AB9E3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Backgrounds",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spas",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Casual wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Beach House Interior",
+      "description": "A living room featuring Tropical Blue walls, creating a relaxing and airy atmosphere.",
+      "image_url": "https://example.com/beach_house.jpg"
+    },
+    {
+      "title": "Yoga Studio Design",
+      "description": "Tropical Blue is used as the primary color in a yoga studio to promote a sense of calm and tranquility.",
+      "image_url": "https://example.com/yoga_studio.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, minimalist look.",
+    "Combine with sandy beige for a coastal vibe.",
+    "Use with darker blues for depth and sophistication.",
+    "Contrast with coral or peach for a vibrant feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations of Tropical Blue with our color palette generator!",
+  "seo_meta": {
+    "title": "Tropical Blue Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning, psychology, and best uses of Tropical Blue (#C3DDF9). Explore color palettes and pairing suggestions for your next project."
+  },
+  "created_at": "2025-06-01T16:26:54.055723+00:00",
+  "updated_at": "2025-06-01T16:26:54.055723+00:00",
+  "slug": "tropical-blue"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "caba7342-3398-424d-86bc-0b78a722dc62",
+  "color_name": "Riptide",
+  "hex_code": "#8BE6D8",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Riptide evokes feelings of tranquility and freshness, reminiscent of ocean breezes and serene coastal environments. It suggests clarity, renewal, and a calming presence. This color promotes a sense of balance and mental clarity, making it ideal for spaces intended for relaxation and reflection.",
+  "emotional_associations": [
+    "tranquility",
+    "freshness",
+    "clarity",
+    "renewal",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#D88BE6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#8BE6D8",
+        "#FFFFFF",
+        "#E0F2F1",
+        "#A7D1AB"
+      ]
+    },
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#8BE6D8",
+        "#B4E4E3",
+        "#77B5FE",
+        "#E6E6E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard interfaces",
+      "data visualization",
+      "mobile applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa branding",
+      "yoga studios",
+      "meditation apps"
+    ],
+    "fashion": [
+      "activewear",
+      "swimwear",
+      "casual apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Hotel Lobby",
+      "description": "A hotel lobby designed with Riptide walls and light wood accents to create a relaxing and inviting atmosphere.",
+      "image_url": "https://example.com/hotel_lobby.jpg"
+    },
+    {
+      "title": "Meditation App Interface",
+      "description": "A meditation app using Riptide as its primary color to promote a sense of calm and focus.",
+      "image_url": "https://example.com/meditation_app.png"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and airy look.",
+    "Combine with light grays for a sophisticated feel.",
+    "Use with natural wood tones for a warm and inviting ambiance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more complementary shades with our color palette generator!",
+  "seo_meta": {
+    "title": "Riptide Color Meaning: Discover the Psychology of #8BE6D8",
+    "description": "Uncover the meaning and psychology behind the color Riptide (#8BE6D8). Learn about its emotional associations, complementary colors, and practical applications."
+  },
+  "created_at": "2025-06-01T15:53:22.331689+00:00",
+  "updated_at": "2025-06-01T15:53:22.331689+00:00",
+  "slug": "riptide"
+}

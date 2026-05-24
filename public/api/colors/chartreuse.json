@@ -1,0 +1,82 @@
+{
+  "id": "fbebebcd-a136-4894-91b8-df370a8ec50a",
+  "color_name": "Chartreuse",
+  "hex_code": "#7FFF00",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Chartreuse, a vibrant blend of yellow and green, evokes feelings of energy, growth, and innovation. It's often associated with springtime, new beginnings, and a sense of optimism. While stimulating, it can also be perceived as slightly unsettling if overused, requiring careful balance in design.",
+  "emotional_associations": [
+    "Energy",
+    "Optimism",
+    "Growth",
+    "Innovation",
+    "Vitality"
+  ],
+  "complementary_colors": [
+    "#7F00FF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#7FFF00",
+        "#A7D1AB",
+        "#556B2F",
+        "#DEB887"
+      ]
+    },
+    {
+      "name": "Vibrant Spring",
+      "swatches": [
+        "#7FFF00",
+        "#FFFF00",
+        "#00FFFF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization to highlight key metrics",
+      "Interactive graphics for user engagement"
+    ],
+    "food_beverage": [
+      "Packaging for fresh produce or organic foods",
+      "Restaurant decor to create an invigorating atmosphere"
+    ],
+    "wellness": [
+      "Branding for eco-friendly or sustainable products",
+      "Spa interiors to promote a sense of renewal"
+    ],
+    "fashion": [
+      "Accents in sportswear for a modern and energetic look",
+      "Statement pieces to convey individuality and boldness"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Chartreuse Sneakers",
+      "description": "A pair of chartreuse sneakers, adding a pop of color to an urban outfit.",
+      "image_url": "https://example.com/chartreuse_sneakers.jpg"
+    },
+    {
+      "title": "Chartreuse Accents in Modern Interior",
+      "description": "Chartreuse throw pillows and artwork complementing a minimalist living room.",
+      "image_url": "https://example.com/chartreuse_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or white for a balanced look.",
+    "Combine with complementary colors like purple for a bold statement.",
+    "Use as an accent color to add energy to a muted palette.",
+    "Consider shades of green for a harmonious and natural feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore the full spectrum of colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Chartreuse Color Meaning: Psychology, Combinations, and Use Cases",
+    "description": "Discover the meaning of chartreuse, its emotional associations, complementary colors, and how to use it effectively in design and branding."
+  },
+  "created_at": "2025-06-01T15:45:34.853417+00:00",
+  "updated_at": "2025-06-01T15:45:34.853417+00:00",
+  "slug": "chartreuse"
+}

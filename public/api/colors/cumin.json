@@ -1,0 +1,83 @@
+{
+  "id": "8b795356-f58d-4e41-807b-91dac7f4b3db",
+  "color_name": "Cumin",
+  "hex_code": "#924321",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cumin, with its warm, earthy tones, evokes feelings of comfort, security, and dependability. It suggests a connection to nature, stability, and a grounded presence. It's a color that can inspire feelings of reassurance and reliability, reminiscent of natural materials and traditional craftsmanship.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "earthiness",
+    "reliability",
+    "security"
+  ],
+  "complementary_colors": [
+    "#218392"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#924321",
+        "#D4A373",
+        "#E2C29B",
+        "#6D3A27",
+        "#A67B5B"
+      ]
+    },
+    {
+      "name": "Desert Sands",
+      "swatches": [
+        "#924321",
+        "#C8B486",
+        "#F0E6D2",
+        "#BFA16B",
+        "#7A6C5D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for spices",
+      "Restaurant interiors",
+      "Branding for coffee shops"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studios",
+      "Natural health product packaging"
+    ],
+    "fashion": [
+      "Autumn clothing",
+      "Leather accessories",
+      "Bohemian styles"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a rich cumin color provides a warm and inviting focal point for a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Spice Packaging",
+      "description": "Cumin packaging often features the color cumin to reflect the natural and earthy essence of the spice.",
+      "image_url": "https://example.com/cumin_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a soft, natural look.",
+    "Combine with teals and blues for a contrasting, yet harmonious palette.",
+    "Use with golds and oranges to enhance its warm and inviting qualities."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and palettes with our color picker tool to find the perfect Cumin-inspired combination for your next project.",
+  "seo_meta": {
+    "title": "Cumin Color Meaning: Understanding the Psychology of #924321",
+    "description": "Discover the meaning and associations of the Cumin color (#924321). Explore its psychological impact, complementary colors, and best uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:56:44.249099+00:00",
+  "updated_at": "2025-06-01T15:56:44.249099+00:00",
+  "slug": "cumin"
+}

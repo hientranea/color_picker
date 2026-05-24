@@ -1,0 +1,82 @@
+{
+  "id": "611b4e96-9a7e-4155-9cce-834e498ded9a",
+  "color_name": "Lavender",
+  "hex_code": "#B57EDC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lavender is often associated with feelings of serenity, grace, and calmness. It combines the stability of blue and the energy of red, resulting in a color that signifies creativity, imagination, and wisdom. It can also evoke feelings of nostalgia and luxury, and is often used to promote relaxation and well-being.",
+  "emotional_associations": [
+    "serenity",
+    "calmness",
+    "grace",
+    "nostalgia",
+    "luxury",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#D4C67E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dreams",
+      "swatches": [
+        "#B57EDC",
+        "#F2D7EE",
+        "#E2A9F2",
+        "#D2B4DE"
+      ]
+    },
+    {
+      "name": "Ethereal Garden",
+      "swatches": [
+        "#B57EDC",
+        "#FFFFFF",
+        "#C8A2C8",
+        "#D8BFD8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Wellness platforms"
+    ],
+    "food_beverage": [
+      "Lavender-infused drinks",
+      "Floral teas"
+    ],
+    "wellness": [
+      "Aromatherapy products",
+      "Spa treatments"
+    ],
+    "fashion": [
+      "Bridal wear",
+      "Evening gowns"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lavender Fields of Provence",
+      "description": "The iconic lavender fields of Provence, France, offer a breathtaking visual and olfactory experience, symbolizing tranquility and natural beauty.",
+      "image_url": "url_to_lavender_fields_image.jpg"
+    },
+    {
+      "title": "Lavender Essential Oil Bottle",
+      "description": "A bottle of lavender essential oil, often used in aromatherapy to promote relaxation and reduce stress.",
+      "image_url": "url_to_lavender_oil_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals like creams and grays for a calming effect.",
+    "Combine with greens for a natural, garden-inspired palette.",
+    "Use with golds or silvers for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Lavender Color Meaning: Symbolism, Psychology, and Design",
+    "description": "Discover the meaning of lavender, its psychological effects, and how to use it in design. Explore lavender color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T16:17:03.882707+00:00",
+  "updated_at": "2025-06-01T16:17:03.882707+00:00",
+  "slug": "lavender"
+}

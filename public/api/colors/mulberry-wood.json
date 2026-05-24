@@ -1,0 +1,82 @@
+{
+  "id": "f39a8f03-5ca7-45eb-94fa-e2f3b1e4b6f4",
+  "color_name": "Mulberry Wood",
+  "hex_code": "#5C0536",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mulberry Wood evokes feelings of sophistication, mystery, and grounded elegance. It blends the passion of red with the stability of brown and the regality of purple. This color suggests a connection to nature, a sense of history, and a subtle indulgence, making it ideal for creating a refined and inviting atmosphere.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "elegance",
+    "groundedness",
+    "indulgence"
+  ],
+  "complementary_colors": [
+    "#055C29"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#5C0536",
+        "#A37A74",
+        "#E6D5B8",
+        "#8C8C8C"
+      ]
+    },
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#5C0536",
+        "#332940",
+        "#665A4D",
+        "#B3A79B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Chocolate packaging",
+      "Coffee branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Luxury brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mulberry Silk Dress",
+      "description": "A luxurious silk dress in a deep mulberry wood color, exuding sophistication and style.",
+      "image_url": "https://example.com/mulberry_dress.jpg"
+    },
+    {
+      "title": "Cozy Mulberry Wood Interior",
+      "description": "A home interior featuring walls painted in a mulberry wood hue, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/mulberry_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for a luxurious feel.",
+    "Combine with dusty rose for a vintage aesthetic.",
+    "Use with forest green for a natural contrast.",
+    "Accent with charcoal gray for a modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Mulberry Wood Color Meaning: Discover its Psychological and Emotional Associations",
+    "description": "Uncover the meaning behind Mulberry Wood (#5C0536), including its psychological effects, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:24:16.921666+00:00",
+  "updated_at": "2025-06-01T15:24:16.921666+00:00",
+  "slug": "mulberry-wood"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "6bde1524-8581-49e3-86aa-2e01edfa0fb7",
+  "color_name": "Dove Gray",
+  "hex_code": "#6D6C6C",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Dove Gray evokes feelings of neutrality, calmness, and sophistication. It represents stability and reliability, often associated with maturity and practicality. While it can sometimes be perceived as conservative or lacking energy, Dove Gray also symbolizes peace and tranquility, making it a popular choice for creating serene environments.",
+  "emotional_associations": [
+    "Neutrality",
+    "Calmness",
+    "Sophistication",
+    "Reliability",
+    "Peace",
+    "Tranquility"
+  ],
+  "complementary_colors": [
+    "#CDCCCD",
+    "#CD6D6D",
+    "#6DCD6D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#F2F2F2",
+        "#D9D9D9",
+        "#BFBFBF",
+        "#A6A6A6",
+        "#8C8C8C",
+        "#737373",
+        "#595959",
+        "#404040",
+        "#262626",
+        "#0D0D0D"
+      ]
+    },
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#6D6C6C",
+        "#A2B5A4",
+        "#D4DBD0",
+        "#E9ECE5",
+        "#5B6E79"
+      ]
+    },
+    {
+      "name": "Modern Elegance",
+      "swatches": [
+        "#6D6C6C",
+        "#C0B283",
+        "#EDE4E0",
+        "#36454F",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Buttons"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Dove Gray Sofa",
+      "description": "A dove gray sofa adds a touch of understated elegance to a living room.",
+      "image_url": "https://example.com/dove_gray_sofa.jpg"
+    },
+    {
+      "title": "Dove Gray Walls",
+      "description": "Painting walls dove gray can create a calming and sophisticated bedroom.",
+      "image_url": "https://example.com/dove_gray_walls.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft blues for a calming effect.",
+    "Combine with warm woods for a touch of nature.",
+    "Use with bright accents for a modern look.",
+    "Contrast with black for a sophisticated palette.",
+    "Layer different shades of gray for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors using our color palette generator tool!",
+  "seo_meta": {
+    "title": "Dove Gray Color Meaning: Psychology, Combinations, and Design Ideas",
+    "description": "Discover the meaning of Dove Gray, its psychological associations, complementary colors, and inspiring design palettes for your next project."
+  },
+  "created_at": "2025-06-01T15:33:17.291407+00:00",
+  "updated_at": "2025-06-01T15:33:17.291407+00:00",
+  "slug": "dove-gray"
+}

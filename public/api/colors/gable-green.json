@@ -1,0 +1,86 @@
+{
+  "id": "b4b90a0c-5efd-48d9-9a69-5cc9a3d602c8",
+  "color_name": "Gable Green",
+  "hex_code": "#163531",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gable Green evokes feelings of stability, growth, and connection to nature. It represents a harmonious balance between ambition and tranquility, encouraging introspection while fostering a sense of groundedness and practicality. This color promotes a sense of well-being and inspires confidence.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "growth",
+    "calm",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#35161A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#163531",
+        "#A2B9A8",
+        "#E0DACD",
+        "#524A4E"
+      ]
+    },
+    {
+      "name": "Forest Retreat",
+      "swatches": [
+        "#163531",
+        "#3C6255",
+        "#6B8E23",
+        "#A68A64"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Backgrounds for productivity apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant branding",
+      "Tea and herbal supplements"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outdoor clothing",
+      "Accessories",
+      "Corporate wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Cabin",
+      "description": "A cozy forest cabin painted in Gable Green blends seamlessly with the surrounding nature, creating a peaceful and inviting retreat.",
+      "image_url": "https://example.com/forest_cabin.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A sophisticated company uses Gable Green in its logo and marketing materials to convey a sense of reliability and environmental consciousness.",
+      "image_url": "https://example.com/corporate_branding.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones for a natural feel.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with creams and beiges for a calming palette.",
+    "Contrast with terracotta for a rustic aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Gable Green Color Meaning: Understanding #163531",
+    "description": "Explore the meaning, psychology, and best uses of Gable Green (#163531). Find palettes, pairings, and real-world examples for your next design project."
+  },
+  "created_at": "2025-06-01T14:50:26.805382+00:00",
+  "updated_at": "2025-06-01T14:50:26.805382+00:00",
+  "slug": "gable-green"
+}

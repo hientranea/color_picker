@@ -1,0 +1,78 @@
+{
+  "id": "7e4c1a1e-b370-44e5-894a-1035ac9cb608",
+  "color_name": "Copper Rust",
+  "hex_code": "#944747",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Copper Rust evokes feelings of warmth, stability, and earthiness. It suggests a connection to nature, history, and craftsmanship. This color can also represent resilience, maturity, and a sense of groundedness, making it suitable for designs aiming to convey reliability and comfort.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "stability",
+    "resilience",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#479494"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#944747",
+        "#D4A373",
+        "#F2E3D5",
+        "#62463F"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#944747",
+        "#7A6C5D",
+        "#B9A998",
+        "#DBD0C0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee or tea",
+      "Restaurant branding with a vintage feel"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio accents"
+    ],
+    "fashion": [
+      "Autumn wear",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Copper Roof",
+      "description": "A beautiful copper roof on an old building, showcasing the color's historical connection.",
+      "image_url": "https://example.com/copper_roof.jpg"
+    },
+    {
+      "title": "Rustic Furniture",
+      "description": "Vintage furniture with a copper rust finish, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/rustic_furniture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like beige or gray for a balanced look.",
+    "Combine with teal or turquoise for a complementary contrast.",
+    "Use with other earthy tones for a harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and create stunning color palettes with our color palette generator tool.",
+  "seo_meta": {
+    "title": "Copper Rust Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning of Copper Rust (#944747), its psychological effects, complementary colors, and best uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:57:33.826613+00:00",
+  "updated_at": "2025-06-01T15:57:33.826613+00:00",
+  "slug": "copper-rust"
+}

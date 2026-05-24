@@ -1,0 +1,80 @@
+{
+  "id": "21f191a3-3084-43e2-8eba-013bd13a279a",
+  "color_name": "Sirocco",
+  "hex_code": "#718080",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sirocco is a muted, cool gray that evokes feelings of calmness, sophistication, and neutrality. It represents balance and stability, often associated with practicality and reliability. This color can also suggest a sense of understated elegance and timelessness, making it a versatile choice for conveying a sense of composure and quiet strength.",
+  "emotional_associations": [
+    "calmness",
+    "sophistication",
+    "neutrality",
+    "stability",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#807171"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#718080",
+        "#8A9595",
+        "#A3AFAF"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#718080",
+        "#A68B64",
+        "#D4A373"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Dashboard interfaces",
+      "Settings panels"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Sirocco walls create a serene and sophisticated atmosphere in a contemporary living space.",
+      "image_url": "https://example.com/sirocco_apartment.jpg"
+    },
+    {
+      "title": "Minimalist Website Design",
+      "description": "Sirocco is used as a background color to provide a clean and professional look for a tech company's website.",
+      "image_url": "https://example.com/sirocco_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic look.",
+    "Combine with natural wood tones for warmth.",
+    "Use with pops of bright color for contrast.",
+    "Consider pairing with muted blues or greens for a calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator!",
+  "seo_meta": {
+    "title": "Sirocco Color Meaning: Understanding the Psychology of #718080",
+    "description": "Explore the meaning, psychology, and uses of the Sirocco color (#718080). Discover complementary colors, palettes, and real-world examples for your design projects."
+  },
+  "created_at": "2025-06-01T15:36:43.440037+00:00",
+  "updated_at": "2025-06-01T15:36:43.440037+00:00",
+  "slug": "sirocco"
+}

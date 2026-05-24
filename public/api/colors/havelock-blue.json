@@ -1,0 +1,82 @@
+{
+  "id": "bf6fb193-940d-4c45-897a-cb17b3c2e000",
+  "color_name": "Havelock Blue",
+  "hex_code": "#5590D9",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Havelock Blue evokes feelings of tranquility, stability, and trust. It is often associated with reliability, calmness, and a sense of security. This shade of blue can also inspire creativity and imagination, while promoting clear communication and a sense of peace.",
+  "emotional_associations": [
+    "trust",
+    "calmness",
+    "stability",
+    "security",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#D98E55"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#5590D9",
+        "#A7D1EB",
+        "#FFFFFF",
+        "#2C699F"
+      ]
+    },
+    {
+      "name": "Corporate Trust",
+      "swatches": [
+        "#5590D9",
+        "#77B5FE",
+        "#E0F2FF",
+        "#335C81"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Mobile app design",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Formal shirts",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Website Design",
+      "description": "A website for a financial institution uses Havelock Blue to convey trust and stability.",
+      "image_url": "https://example.com/image1.jpg"
+    },
+    {
+      "title": "Mobile Banking App",
+      "description": "A mobile banking app utilizes Havelock Blue to create a user-friendly and secure interface.",
+      "image_url": "https://example.com/image2.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a professional look.",
+    "Combine with white for a clean and calming effect.",
+    "Use with a contrasting orange for a vibrant and energetic feel.",
+    "Add a touch of gold for a luxurious touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Havelock Blue Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Havelock Blue (#5590D9), its psychological associations, and how to use it in design and branding. Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T15:22:30.174825+00:00",
+  "updated_at": "2025-06-01T15:22:30.174825+00:00",
+  "slug": "havelock-blue"
+}

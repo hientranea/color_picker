@@ -1,0 +1,83 @@
+{
+  "id": "f3e86b11-4fb1-4504-a405-d126d36d27ee",
+  "color_name": "Storm Dust",
+  "hex_code": "#646463",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Storm Dust evokes feelings of sophistication, neutrality, and groundedness. It can represent stability, calmness, and a sense of understated elegance. This color is often associated with reliability and a balanced perspective, making it a versatile choice for various applications.",
+  "emotional_associations": [
+    "sophistication",
+    "neutrality",
+    "groundedness",
+    "calmness",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#636464",
+    "#A0A09F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#646463",
+        "#A9A9A9",
+        "#D3D3D3",
+        "#2F4F4F",
+        "#808080"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#646463",
+        "#FFFFFF",
+        "#E0E0E0",
+        "#000000",
+        "#C0C0C0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard backgrounds",
+      "button hover states",
+      "text color for readability"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa branding",
+      "meditation app interfaces"
+    ],
+    "fashion": [
+      "outerwear",
+      "accessories",
+      "formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Urban Architecture",
+      "description": "Modern buildings often incorporate storm dust hues for a sleek and sophisticated look.",
+      "image_url": "https://example.com/storm_dust_architecture.jpg"
+    },
+    {
+      "title": "Fashion Apparel",
+      "description": "Storm dust is a popular choice for versatile clothing items that can be easily styled.",
+      "image_url": "https://example.com/storm_dust_fashion.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with darker grays for a sophisticated palette.",
+    "Add a pop of color like teal or mustard for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover even more color combinations with our interactive color picker tool!",
+  "seo_meta": {
+    "title": "Storm Dust Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Explore the meaning of Storm Dust (#646463), its psychological associations, complementary colors, and suggested palettes. Find inspiration for using this versatile color in your designs."
+  },
+  "created_at": "2025-06-01T15:28:09.977266+00:00",
+  "updated_at": "2025-06-01T15:28:09.977266+00:00",
+  "slug": "storm-dust"
+}

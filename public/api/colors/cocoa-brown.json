@@ -1,0 +1,83 @@
+{
+  "id": "78781ba5-a560-46c3-838e-dc7d4791854d",
+  "color_name": "Cocoa Brown",
+  "hex_code": "#301F1E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cocoa Brown evokes feelings of comfort, warmth, and reliability. It is associated with nature, earthiness, and simplicity, creating a sense of groundedness and stability. This color can also inspire feelings of nostalgia, security, and a connection to familiar surroundings. Cocoa Brown is often perceived as a neutral and dependable color, making it suitable for creating a calming and reassuring atmosphere.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "reliability",
+    "earthiness",
+    "simplicity",
+    "nostalgia",
+    "security"
+  ],
+  "complementary_colors": [
+    "#1E3031"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#301F1E",
+        "#A3827D",
+        "#E6D8C4",
+        "#73626B"
+      ]
+    },
+    {
+      "name": "Warm Neutrals",
+      "swatches": [
+        "#301F1E",
+        "#594A4E",
+        "#8C7853",
+        "#C6BDB4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Bakery logos"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Winter coats",
+      "Leather accessories",
+      "Neutral-toned clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cocoa Bean",
+      "description": "The natural color of cocoa beans, evoking thoughts of rich chocolate and warmth.",
+      "image_url": "https://example.com/cocoa_bean.jpg"
+    },
+    {
+      "title": "Leather Sofa",
+      "description": "A comfortable and inviting leather sofa in a classic cocoa brown shade.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic, neutral look.",
+    "Combine with muted greens for an earthy palette.",
+    "Use with pops of orange or gold for added warmth.",
+    "Contrast with teal or turquoise for a sophisticated touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect color scheme with our color palette generator!",
+  "seo_meta": {
+    "title": "Cocoa Brown Color Meaning: Symbolism, Psychology & Hex Code",
+    "description": "Discover the meaning, psychology, and associations of Cocoa Brown (#301F1E). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:01:31.089819+00:00",
+  "updated_at": "2025-06-01T15:01:31.089819+00:00",
+  "slug": "cocoa-brown"
+}

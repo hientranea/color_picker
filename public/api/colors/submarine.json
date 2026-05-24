@@ -1,0 +1,81 @@
+{
+  "id": "ce934cfc-fdd2-4d35-bdc7-79b87e0fe5d0",
+  "color_name": "Submarine",
+  "hex_code": "#BAC7C9",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Submarine evokes feelings of tranquility and stability. It suggests a sense of quiet strength and dependability, reminiscent of the deep sea. It can also represent introspection and a calm, collected demeanor, fostering an atmosphere of trust and reliability.",
+  "emotional_associations": [
+    "calm",
+    "dependability",
+    "introspection",
+    "stability",
+    "trust"
+  ],
+  "complementary_colors": [
+    "#C9BABA",
+    "#A7A4A2",
+    "#C9B8AC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Oceanic Serenity",
+      "swatches": [
+        "#BAC7C9",
+        "#778899",
+        "#E6E6FA",
+        "#B0C4DE"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#BAC7C9",
+        "#F5F5DC",
+        "#8FBC8F",
+        "#D2B48C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Buttons",
+      "Text highlighting"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Foggy Coastline",
+      "description": "The color of a foggy coastline at dawn, evoking a sense of peace.",
+      "image_url": "https://example.com/foggy_coastline.jpg"
+    },
+    {
+      "title": "Submarine Interior",
+      "description": "The interior walls of a submarine, representing strength and functionality.",
+      "image_url": "https://example.com/submarine_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues for a calming effect.",
+    "Combine with sandy beiges for a coastal vibe.",
+    "Use with deep greens for a natural feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Submarine Color Meaning: Understanding #BAC7C9",
+    "description": "Explore the meaning, psychology, and design applications of the color Submarine (#BAC7C9). Find complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:21:02.483946+00:00",
+  "updated_at": "2025-06-01T16:21:02.483946+00:00",
+  "slug": "submarine"
+}

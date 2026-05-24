@@ -1,0 +1,86 @@
+{
+  "id": "b2d00f84-9fd1-4585-92cb-51f6e1437679",
+  "color_name": "Tussock",
+  "hex_code": "#C5994B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tussock, with its earthy, golden-brown hue, evokes feelings of warmth, stability, and connection to nature. It suggests reliability, resilience, and a sense of groundedness. It is often associated with comfort, security, and a nostalgic longing for simpler times. Tussock can also inspire a sense of adventure and exploration, reminiscent of natural landscapes.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "nature",
+    "reliability",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#4BC2C5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#C5994B",
+        "#E4D4B7",
+        "#7A6A52",
+        "#A68A64"
+      ]
+    },
+    {
+      "name": "Autumn Harmony",
+      "swatches": [
+        "#C5994B",
+        "#D9A74A",
+        "#A65B20",
+        "#593D29"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for nature-themed apps",
+      "Neutral tones for data visualization",
+      "Buttons and accents for productivity tools"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Branding for coffee shops",
+      "Menu design for restaurants emphasizing natural ingredients"
+    ],
+    "wellness": [
+      "Spa and retreat branding",
+      "Meditation app interfaces",
+      "Packaging for aromatherapy products"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Outdoor apparel",
+      "Accessories like belts and bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tussock Grasslands",
+      "description": "Vast landscapes covered in tussock grass, a common sight in many regions around the world.",
+      "image_url": "https://example.com/tussock_grasslands.jpg"
+    },
+    {
+      "title": "Leather Furniture",
+      "description": "A comfortable leather sofa in a warm tussock color, adding a touch of rustic elegance to a living space.",
+      "image_url": "https://example.com/tussock_leather_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural look.",
+    "Combine with creams and beiges for a sophisticated palette.",
+    "Use with darker browns for depth and richness.",
+    "Accent with teal or turquoise for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades and combinations for your next project!",
+  "seo_meta": {
+    "title": "Tussock Color Meaning: Understanding #C5994B",
+    "description": "Discover the meaning and psychology behind the Tussock color (#C5994B). Explore palettes, pairings, and industry use cases for this earthy hue."
+  },
+  "created_at": "2025-06-01T16:27:58.292499+00:00",
+  "updated_at": "2025-06-01T16:27:58.292499+00:00",
+  "slug": "tussock"
+}

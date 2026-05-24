@@ -1,0 +1,79 @@
+{
+  "id": "4474b465-0f1e-4a2e-952b-380320f8d0a9",
+  "color_name": "Cerulean Blue",
+  "hex_code": "#2A52BE",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cerulean blue is often associated with the sky and sea, evoking feelings of peace, tranquility, and vastness. It is thought to promote relaxation, reduce stress, and encourage introspection. This color can also symbolize stability, trust, and loyalty, making it a popular choice for brands seeking to convey these qualities.",
+  "emotional_associations": [
+    "peace",
+    "tranquility",
+    "calmness",
+    "stability",
+    "trust"
+  ],
+  "complementary_colors": [
+    "#BE822A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Oceanic Serenity",
+      "swatches": [
+        "#2A52BE",
+        "#ADD8E6",
+        "#FFFFFF",
+        "#00308F"
+      ]
+    },
+    {
+      "name": "Ethereal Skies",
+      "swatches": [
+        "#2A52BE",
+        "#E6E6FA",
+        "#B0E0E6",
+        "#778899"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "buttons",
+      "backgrounds",
+      "icons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "meditation apps",
+      "spa branding"
+    ],
+    "fashion": [
+      "casual wear",
+      "formal dresses"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Clear Blue Sky",
+      "description": "The vast expanse of a cerulean sky evokes feelings of freedom and peace.",
+      "image_url": "https://example.com/cerulean_sky.jpg"
+    },
+    {
+      "title": "Tropical Ocean Water",
+      "description": "The serene cerulean waters of a tropical ocean are a symbol of relaxation and escape.",
+      "image_url": "https://example.com/cerulean_ocean.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like white or gray for a calming effect.",
+    "Combine with coral or orange for a vibrant contrast.",
+    "Use with other blues and greens for a harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Cerulean Blue Color Meaning: Symbolism and Design Ideas",
+    "description": "Discover the meaning and symbolism of cerulean blue, along with inspiring design ideas and color palettes to enhance your projects."
+  },
+  "created_at": "2025-06-01T14:58:49.542846+00:00",
+  "updated_at": "2025-06-01T14:58:49.542846+00:00",
+  "slug": "cerulean-blue"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "02f84adf-7623-422a-8ef8-6edd8778c15c",
+  "color_name": "Oxley",
+  "hex_code": "#779E86",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Oxley, a muted shade of green, evokes feelings of tranquility, balance, and growth. It blends the calming properties of green with a touch of sophistication, suggesting stability and harmony. This color is often associated with nature, renewal, and a sense of well-being, making it ideal for creating serene and inviting environments.",
+  "emotional_associations": [
+    "calm",
+    "nature",
+    "balance",
+    "growth",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#9E778F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#779E86",
+        "#A2BFA5",
+        "#D1DBCD",
+        "#4E6A5C"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#779E86",
+        "#B8860B",
+        "#F0E68C",
+        "#A0522D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Confirmation messages",
+      "Data visualization"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Healthcare branding"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Yoga Studio Interior",
+      "description": "The walls are painted in a soft Oxley green to promote relaxation and focus during yoga practice.",
+      "image_url": "https://example.com/yoga_studio.jpg"
+    },
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "Sustainable product packaging uses Oxley to convey an environmentally conscious brand image.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, natural look.",
+    "Combine with browns and tans for an earthy palette.",
+    "Use with gold accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Oxley Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Oxley (#779E86), its psychological associations, complementary colors, and inspiring palette ideas for design and branding."
+  },
+  "created_at": "2025-06-01T15:40:01.633747+00:00",
+  "updated_at": "2025-06-01T15:40:01.633747+00:00",
+  "slug": "oxley"
+}

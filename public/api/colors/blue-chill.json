@@ -1,0 +1,78 @@
+{
+  "id": "4a5eb690-15ae-46a6-a12c-bc079e2ada25",
+  "color_name": "Blue Chill",
+  "hex_code": "#0C8990",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Chill evokes feelings of tranquility, clarity, and a refreshing sense of calm. It suggests a connection to nature, particularly water and sky, promoting feelings of peace and stability. This color can inspire creativity and reflection, fostering a sense of openness and possibility.",
+  "emotional_associations": [
+    "calm",
+    "clarity",
+    "tranquility",
+    "peace",
+    "refreshing"
+  ],
+  "complementary_colors": [
+    "#90130C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#0C8990",
+        "#A0D6B4",
+        "#E5F4E3",
+        "#70A9A1"
+      ]
+    },
+    {
+      "name": "Serene Escape",
+      "swatches": [
+        "#0C8990",
+        "#3A5A40",
+        "#B1D4C1",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Mobile app backgrounds",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites",
+      "Aromatherapy packaging"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Hotel Lobby",
+      "description": "The walls are painted a calming Blue Chill, creating a serene and welcoming atmosphere for guests.",
+      "image_url": "https://example.com/coastal_hotel.jpg"
+    },
+    {
+      "title": "Meditation App Interface",
+      "description": "The app uses Blue Chill as the primary background color to promote relaxation and focus during meditation sessions.",
+      "image_url": "https://example.com/meditation_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with whites and creams for a clean, minimalist look.",
+    "Use with warm grays to add sophistication.",
+    "Contrast with coral or terracotta for a vibrant pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors and create your own palettes with our color tool!",
+  "seo_meta": {
+    "title": "Blue Chill Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Blue Chill, its psychological effects, complementary colors, suggested palettes, and industry use cases for this tranquil shade."
+  },
+  "created_at": "2025-06-01T14:46:58.208601+00:00",
+  "updated_at": "2025-06-01T14:46:58.208601+00:00",
+  "slug": "blue-chill"
+}

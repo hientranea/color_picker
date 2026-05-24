@@ -1,0 +1,87 @@
+{
+  "id": "20428207-bfc7-4457-ba2b-7ceb673dae96",
+  "color_name": "Laurel",
+  "hex_code": "#749378",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Laurel, with its muted green tones, evokes a sense of tranquility and peace. It represents growth, renewal, and stability, often associated with nature and the environment. This color promotes feelings of calmness, balance, and well-being, making it a soothing and reassuring choice.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "stability",
+    "calmness",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#93748F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#749378",
+        "#A7C4A9",
+        "#D9E6D5",
+        "#527155",
+        "#304D33"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#749378",
+        "#B18F62",
+        "#E3CBB0",
+        "#526B4A",
+        "#2E4726"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Eco-friendly apps",
+      "Health and wellness platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding",
+      "Sustainable agriculture websites"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Natural health product packaging"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Laurel Wreath",
+      "description": "Symbol of victory and honor, often associated with classical antiquity.",
+      "image_url": "https://example.com/laurel_wreath.jpg"
+    },
+    {
+      "title": "Olive Grove",
+      "description": "Represents peace, abundance, and the Mediterranean landscape.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural look.",
+    "Combine with creams and whites for a calming effect.",
+    "Use with muted yellows for a warm contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect Laurel-inspired shades for your next project!",
+  "seo_meta": {
+    "title": "Laurel Color Meaning: Symbolism, Psychology, and Design Ideas",
+    "description": "Discover the meaning of Laurel (#749378), its psychological associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:38:30.581803+00:00",
+  "updated_at": "2025-06-01T15:38:30.581803+00:00",
+  "slug": "laurel"
+}

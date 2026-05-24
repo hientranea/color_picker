@@ -1,0 +1,79 @@
+{
+  "id": "ece597cc-b43b-49f4-a266-2177103a3821",
+  "color_name": "Barley Corn",
+  "hex_code": "#A68B5B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Barley Corn evokes feelings of warmth, comfort, and earthiness. It is often associated with nature, stability, and reliability. This color can create a sense of calm and relaxation, while also suggesting a connection to traditional values and the simple pleasures of life.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "earthiness",
+    "stability",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#5BA0A6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#A68B5B",
+        "#D4A373",
+        "#8C684B",
+        "#E9DAC1"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#A68B5B",
+        "#735D49",
+        "#BFA180",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Restaurant interiors aiming for a rustic feel"
+    ],
+    "wellness": [
+      "Spa décor",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Autumn/Winter clothing collections",
+      "Accessories like scarves and belts"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cozy Living Room",
+      "description": "A living room featuring walls painted in a Barley Corn hue, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/barley_corn_living_room.jpg"
+    },
+    {
+      "title": "Autumnal Landscape",
+      "description": "A scenic view of a field of barley corn at sunset, showcasing the color's natural beauty.",
+      "image_url": "https://example.com/barley_corn_sunset.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a classic look.",
+    "Use with deeper browns for a more grounded palette.",
+    "Combine with muted greens for a natural feel.",
+    "Accent with pops of orange or gold for added warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints of Barley Corn with our color picker tool.",
+  "seo_meta": {
+    "title": "Barley Corn Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning behind Barley Corn (#A68B5B), its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:06:23.222493+00:00",
+  "updated_at": "2025-06-01T16:06:23.222493+00:00",
+  "slug": "barley-corn"
+}

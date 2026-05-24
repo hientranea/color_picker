@@ -1,0 +1,78 @@
+{
+  "id": "5ac35970-a705-4ec0-8a33-6b7c9f1125b1",
+  "color_name": "Rope",
+  "hex_code": "#8E4D1E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rope, a muted brown, evokes feelings of stability, reliability, and groundedness. It represents a connection to the earth, simplicity, and a sense of security. This color often conveys a rustic and natural aesthetic, suggesting a down-to-earth and dependable nature.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "comfort",
+    "simplicity",
+    "natural"
+  ],
+  "complementary_colors": [
+    "#1EA38E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#8E4D1E",
+        "#D3B49F",
+        "#A68A64",
+        "#E9E5D6"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#8E4D1E",
+        "#593A25",
+        "#B8860B",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Natural snack packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Bohemian clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rustic Cabin Interior",
+      "description": "A cozy cabin interior featuring rope-colored accents in the furniture and decor.",
+      "image_url": "https://example.com/cabin_interior.jpg"
+    },
+    {
+      "title": "Handmade Leather Bag",
+      "description": "A beautifully crafted leather bag showcasing the rich and natural color of rope.",
+      "image_url": "https://example.com/leather_bag.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with cream or beige for a soft, neutral palette.",
+    "Pair with teal or turquoise for a contrasting and balanced look.",
+    "Use with natural textures like wood and linen for a rustic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades with our color palette generator tool today!",
+  "seo_meta": {
+    "title": "Rope Color Meaning: Understanding the Psychology of #8E4D1E",
+    "description": "Discover the meaning, associations, and best uses of the rope color (#8E4D1E). Explore palettes, industry applications, and pairing suggestions."
+  },
+  "created_at": "2025-06-01T15:54:50.987999+00:00",
+  "updated_at": "2025-06-01T15:54:50.987999+00:00",
+  "slug": "rope"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "0df18810-6be2-46b6-9c64-7bc6e5c4da89",
+  "color_name": "Pizza",
+  "hex_code": "#C99415",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pizza, represented by this brownish-yellow hue, evokes feelings of comfort, warmth, and satisfaction. It's associated with the enjoyment of food, casual gatherings, and the pleasure of indulging in a simple, familiar delight. The color suggests a sense of groundedness and reliability, reminiscent of shared meals and comforting experiences.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "satisfaction",
+    "familiarity",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#154DC9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Rustic Feast",
+      "swatches": [
+        "#C99415",
+        "#7A520A",
+        "#E0AC69",
+        "#A67D3D",
+        "#F2D7B4"
+      ]
+    },
+    {
+      "name": "Gourmet Delight",
+      "swatches": [
+        "#C99415",
+        "#4A3B2B",
+        "#D4A373",
+        "#876445",
+        "#F8EDE3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Restaurant branding",
+      "Food packaging",
+      "Food photography backdrops"
+    ],
+    "wellness": [],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Pizza Box",
+      "description": "A classic pizza box showcasing the warm, inviting color of the food inside.",
+      "image_url": "https://example.com/pizza_box.jpg"
+    },
+    {
+      "title": "Wood-Fired Oven",
+      "description": "The interior bricks of a traditional wood-fired pizza oven, radiating a similar earthy tone.",
+      "image_url": "https://example.com/wood_oven.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep reds for an Italian theme.",
+    "Combine with greens for a fresh, organic feel.",
+    "Use with creams and browns for a rustic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more delicious color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Pizza Color Meaning: #C99415 - Psychology & Palettes",
+    "description": "Discover the meaning of the color Pizza (#C99415), its psychological associations, and stunning color palettes to inspire your next design."
+  },
+  "created_at": "2025-06-01T16:31:43.400807+00:00",
+  "updated_at": "2025-06-01T16:31:43.400807+00:00",
+  "slug": "pizza"
+}

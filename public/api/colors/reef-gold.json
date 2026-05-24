@@ -1,0 +1,82 @@
+{
+  "id": "3a96ee43-ce9b-4f30-a67e-608522d3fb07",
+  "color_name": "Reef Gold",
+  "hex_code": "#9F821C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Reef Gold evokes a sense of understated luxury and natural beauty. It combines the richness of gold with the grounding influence of earthy tones, creating a feeling of sophistication, maturity, and connection to the environment. This color often suggests stability, timelessness, and a subtle confidence.",
+  "emotional_associations": [
+    "Sophistication",
+    "Elegance",
+    "Stability",
+    "Nature",
+    "Understated luxury"
+  ],
+  "complementary_colors": [
+    "#1C399F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#9F821C",
+        "#D4A373",
+        "#6F4E37",
+        "#E9E581",
+        "#A9BA9D"
+      ]
+    },
+    {
+      "name": "Gilded Forest",
+      "swatches": [
+        "#9F821C",
+        "#4F7942",
+        "#C04000",
+        "#808000",
+        "#2E8B57"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Luxury chocolates packaging",
+      "Gourmet coffee branding"
+    ],
+    "wellness": [
+      "High-end spa design",
+      "Natural skincare product labels"
+    ],
+    "fashion": [
+      "Evening wear accents",
+      "Leather goods",
+      "Jewelry design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Jewelry",
+      "description": "Vintage gold jewelry with a slightly tarnished, aged appearance.",
+      "image_url": "https://example.com/antique_jewelry.jpg"
+    },
+    {
+      "title": "Luxury Hotel Interior",
+      "description": "Accents in a high-end hotel room featuring reef gold tones in the décor.",
+      "image_url": "https://example.com/hotel_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep blues for a sophisticated contrast.",
+    "Combine with neutral grays for a balanced look.",
+    "Use with earthy greens for a natural and calming feel.",
+    "Accent with metallic golds for added richness."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Reef Gold Color Meaning: Symbolism, Combinations & Design Tips",
+    "description": "Explore the meaning of Reef Gold (#9F821C), its psychological effects, and how to use it in your designs. Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T16:03:15.932161+00:00",
+  "updated_at": "2025-06-01T16:03:15.932161+00:00",
+  "slug": "reef-gold"
+}

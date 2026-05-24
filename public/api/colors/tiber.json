@@ -1,0 +1,81 @@
+{
+  "id": "3c6009e4-2b6e-488d-b17b-ba9af132a39a",
+  "color_name": "Tiber",
+  "hex_code": "#063537",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tiber, a deep teal, evokes feelings of tranquility and stability. It suggests a connection to nature, particularly water, and can inspire a sense of calm reflection and quiet confidence. Its depth provides a sense of sophistication and understated elegance.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "sophistication",
+    "nature",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#370604"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#063537",
+        "#A9B6A1",
+        "#6E8C6B",
+        "#E8E5DA"
+      ]
+    },
+    {
+      "name": "Deep Ocean",
+      "swatches": [
+        "#063537",
+        "#1E4D4F",
+        "#466B6C",
+        "#8FA7A8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Data visualization",
+      "Backgrounds for calm applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Sea Diving Gear",
+      "description": "Many diving suits and equipment use similar deep teal colors for camouflage and professional aesthetics.",
+      "image_url": "https://example.com/deep_sea_diving.jpg"
+    },
+    {
+      "title": "Luxury Hotel Interior",
+      "description": "Accent walls in a luxury hotel room use a tiber shade to invoke feelings of calm and sophistication.",
+      "image_url": "https://example.com/hotel_room.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for balance.",
+    "Use with metallic accents for a touch of elegance.",
+    "Combine with lighter blues for a serene effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Tiber Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Tiber (#063537), its psychological associations, complementary colors, and inspiring palettes. Learn how to use Tiber in design and branding."
+  },
+  "created_at": "2025-06-01T14:43:44.942337+00:00",
+  "updated_at": "2025-06-01T14:43:44.942337+00:00",
+  "slug": "tiber"
+}

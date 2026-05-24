@@ -1,0 +1,81 @@
+{
+  "id": "3daf0898-4e38-45c7-b71a-6d0cd038cc97",
+  "color_name": "Aqua Deep",
+  "hex_code": "#014B43",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Aqua Deep evokes feelings of tranquility, depth, and sophistication. It blends the calming aspects of blue with the refreshing qualities of green, suggesting stability, trustworthiness, and a connection to nature. This color promotes relaxation and mental clarity, fostering a sense of peace and balance.",
+  "emotional_associations": [
+    "Tranquility",
+    "Depth",
+    "Sophistication",
+    "Stability",
+    "Trustworthiness"
+  ],
+  "complementary_colors": [
+    "#4B0209"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#014B43",
+        "#A8D0DB",
+        "#6B8E23",
+        "#F0FFF0"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "swatches": [
+        "#014B43",
+        "#228B22",
+        "#8FBC8F",
+        "#FAF0E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data Visualization",
+      "Security Software",
+      "Environmental Monitoring Apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation Apps",
+      "Spa Branding",
+      "Holistic Health Websites"
+    ],
+    "fashion": [
+      "Evening Wear",
+      "Swimwear",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Sea Exploration Website",
+      "description": "A website dedicated to deep-sea exploration uses Aqua Deep to create a sense of mystery and depth.",
+      "image_url": "https://example.com/deepsea.jpg"
+    },
+    {
+      "title": "Luxury Spa Branding",
+      "description": "A high-end spa incorporates Aqua Deep into its logo and interior design to promote relaxation and serenity.",
+      "image_url": "https://example.com/spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a calming effect.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with contrasting warm colors to create visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Aqua Deep Color Meaning: Psychology, Palettes & Uses",
+    "description": "Explore the meaning of Aqua Deep (#014B43), its psychological effects, complementary colors, and ideal uses in design, branding, and more."
+  },
+  "created_at": "2025-06-01T14:40:31.272941+00:00",
+  "updated_at": "2025-06-01T14:40:31.272941+00:00",
+  "slug": "aqua-deep"
+}

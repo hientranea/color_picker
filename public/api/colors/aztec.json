@@ -1,0 +1,79 @@
+{
+  "id": "be47bba1-440f-47dd-a3ad-b43ec117155b",
+  "color_name": "Aztec",
+  "hex_code": "#0D1C19",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Aztec, a dark and muted shade of green, evokes feelings of nature, stability, and sophistication. It suggests a connection to the earth and a sense of groundedness. This color can also represent wealth, ambition, and practicality, making it suitable for brands seeking to convey trustworthiness and reliability.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "sophistication",
+    "trustworthiness",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#190A0D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#0D1C19",
+        "#A3B18A",
+        "#344E41",
+        "#DAD7CD"
+      ]
+    },
+    {
+      "name": "Subtle Contrast",
+      "swatches": [
+        "#0D1C19",
+        "#748A7A",
+        "#FFFFFF",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Sustainable agriculture branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Natural skincare products"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Hotel Interior",
+      "description": "Used in the lobby and rooms to create a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/aztec_hotel.jpg"
+    },
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "Featured on the packaging of sustainable and organic products, highlighting the brand's commitment to the environment.",
+      "image_url": "https://example.com/aztec_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a balanced look.",
+    "Use metallic accents (gold, copper) for added sophistication.",
+    "Combine with other earthy tones for a natural palette.",
+    "Contrast with bright whites to make it stand out."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Aztec Color Meaning: Discover the Power of #0D1C19",
+    "description": "Explore the meaning, psychology, and best uses of Aztec (#0D1C19), a dark green color evoking nature and sophistication. Find palettes, pairings, and industry examples."
+  },
+  "created_at": "2025-06-01T14:47:20.354002+00:00",
+  "updated_at": "2025-06-01T14:47:20.354002+00:00",
+  "slug": "aztec"
+}

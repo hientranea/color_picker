@@ -1,0 +1,76 @@
+{
+  "id": "e2d679c2-26f0-44bd-93f6-5e0fd3694109",
+  "color_name": "Curious Blue",
+  "hex_code": "#2596D1",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Curious Blue evokes feelings of calmness, trust, and stability. It is often associated with intelligence, efficiency, and thoughtfulness. This hue promotes a sense of security and order, making it a popular choice for environments where clear communication and reliability are key.",
+  "emotional_associations": [
+    "trust",
+    "calmness",
+    "stability",
+    "intelligence",
+    "efficiency"
+  ],
+  "complementary_colors": [
+    "#D17A25"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#2596D1",
+        "#A7D1AB",
+        "#E0F2F7",
+        "#70A1AF"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#2596D1",
+        "#FFFFFF",
+        "#434A54",
+        "#E6E9ED"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Navigation menus",
+      "Progress indicators"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa websites",
+      "Meditation apps"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Branding",
+      "description": "A tech company utilizes Curious Blue in its logo and website to project an image of reliability and innovation.",
+      "image_url": "https://example.com/corporate_blue.jpg"
+    },
+    {
+      "title": "Hospital Waiting Room",
+      "description": "Curious Blue walls create a calming environment in a hospital waiting room, reducing anxiety for patients.",
+      "image_url": "https://example.com/hospital_blue.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a professional look.",
+    "Combine with complementary orange for a vibrant contrast.",
+    "Use with shades of white and gray for a modern feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Curious Blue: Color Meaning, Psychology, and Design Ideas",
+    "description": "Discover the meaning of Curious Blue, its psychological effects, and inspiring design ideas with this calming and trustworthy hue. Find complementary colors and palette suggestions."
+  },
+  "created_at": "2025-06-01T14:56:01.224939+00:00",
+  "updated_at": "2025-06-01T14:56:01.224939+00:00",
+  "slug": "curious-blue"
+}

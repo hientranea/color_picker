@@ -1,0 +1,91 @@
+{
+  "id": "ed23b4b0-dd24-436e-9460-683ff46e5fc0",
+  "color_name": "Bud",
+  "hex_code": "#A8AE9C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bud represents growth, freshness, and renewal, often associated with nature and springtime. It evokes feelings of calmness, hope, and vitality, suggesting new beginnings and a connection to the environment. Bud can also symbolize potential and promise, reflecting the early stages of development and flourishing.",
+  "emotional_associations": [
+    "growth",
+    "freshness",
+    "renewal",
+    "calmness",
+    "hope",
+    "vitality"
+  ],
+  "complementary_colors": [
+    "#AE9CA8",
+    "#9CA8AE",
+    "#E88894"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#A8AE9C",
+        "#D4D7C4",
+        "#7E8572",
+        "#A2B59F",
+        "#C8D9C1"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#A8AE9C",
+        "#6C757D",
+        "#A0855B",
+        "#828E82",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Eco-friendly applications",
+      "Relaxation apps"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding",
+      "Vegetarian restaurant websites"
+    ],
+    "wellness": [
+      "Spa and wellness center branding",
+      "Meditation app interfaces",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel",
+      "Bohemian style accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sprouting Seedling",
+      "description": "A young seedling emerges from the earth, symbolizing new life and growth.",
+      "image_url": "https://example.com/sprouting-seedling.jpg"
+    },
+    {
+      "title": "Freshly Cut Stems",
+      "description": "A vibrant collection of stems harvested from the garden.",
+      "image_url": "https://example.com/harvested-stems.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a sophisticated look.",
+    "Combine with earthy browns for a natural feel.",
+    "Use with muted yellows for a touch of warmth.",
+    "Accent with soft blues for a calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Bud Color Meaning: Psychology, Combinations, and Design Tips",
+    "description": "Discover the meaning of Bud (#A8AE9C), its psychological effects, complementary colors, and how to use it in your designs. Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T16:07:39.358722+00:00",
+  "updated_at": "2025-06-01T16:07:39.358722+00:00",
+  "slug": "bud"
+}

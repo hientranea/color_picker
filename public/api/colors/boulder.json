@@ -1,0 +1,83 @@
+{
+  "id": "1ffcf9f6-876e-4a84-a96d-635bf0dc9ab4",
+  "color_name": "Boulder",
+  "hex_code": "#7A7A7A",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Boulder, a shade of gray, evokes feelings of stability, neutrality, and sophistication. It is often associated with maturity, reliability, and a sense of calm detachment. Boulder can also represent a blank canvas, suggesting potential and possibility while maintaining an understated elegance.",
+  "emotional_associations": [
+    "Neutrality",
+    "Stability",
+    "Sophistication",
+    "Calm",
+    "Reliability"
+  ],
+  "complementary_colors": [
+    "#7AA17A",
+    "#A17AA1",
+    "#A1A17A",
+    "#7AA1A1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Urban Serenity",
+      "swatches": [
+        "#7A7A7A",
+        "#D3D3D3",
+        "#FFFFFF",
+        "#4A4A4A"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#7A7A7A",
+        "#A98D8D",
+        "#E4D0C3",
+        "#594A4E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Iconography",
+      "Text elements"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Architecture",
+      "description": "The use of gray concrete in modern buildings creates a sense of strength and permanence.",
+      "image_url": "https://example.com/architecture.jpg"
+    },
+    {
+      "title": "Stone Sculpture",
+      "description": "Gray stone sculptures convey timelessness and artistic expression.",
+      "image_url": "https://example.com/sculpture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with muted blues or greens for a calming effect.",
+    "Add a pop of color like mustard yellow or coral for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of gray and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Boulder Color Meaning: Understanding the Psychology of #7A7A7A",
+    "description": "Discover the emotional associations and practical uses of Boulder (#7A7A7A), a sophisticated shade of gray. Explore palettes, industry use cases, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:42:01.421811+00:00",
+  "updated_at": "2025-06-01T15:42:01.421811+00:00",
+  "slug": "boulder"
+}

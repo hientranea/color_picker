@@ -1,0 +1,82 @@
+{
+  "id": "e8b92bc4-9b12-40a2-80b4-76edb46e366a",
+  "color_name": "Te Papa Green",
+  "hex_code": "#1E433C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Te Papa Green evokes feelings of tranquility, nature, and stability. It is often associated with growth, harmony, freshness, and the environment. This color can inspire feelings of peace and security, making it a suitable choice for brands aiming to convey trustworthiness and reliability.",
+  "emotional_associations": [
+    "Nature",
+    "Tranquility",
+    "Stability",
+    "Growth",
+    "Harmony"
+  ],
+  "complementary_colors": [
+    "#E6B1B7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#1E433C",
+        "#A3B18A",
+        "#DAD7CD",
+        "#588157"
+      ]
+    },
+    {
+      "name": "Forest Dawn",
+      "swatches": [
+        "#1E433C",
+        "#F0EAD6",
+        "#D3D0CB",
+        "#868B8E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Sustainable technology platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy beverage branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studio branding",
+      "Spa interiors"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The lush green canopy of a rainforest, showcasing the vitality and abundance of nature.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Te Papa Museum Exterior",
+      "description": "The exterior of the Te Papa Museum in New Zealand, known for its integration of natural and cultural elements.",
+      "image_url": "https://example.com/te_papa_museum.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted neutrals for a sophisticated look.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with contrasting warm colors for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and design your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Te Papa Green Color Meaning: Discover its Psychological Impact",
+    "description": "Explore the meaning, associations, and best uses of Te Papa Green (#1E433C) in design, branding, and more."
+  },
+  "created_at": "2025-06-01T14:53:27.252423+00:00",
+  "updated_at": "2025-06-01T14:53:27.252423+00:00",
+  "slug": "te-papa-green"
+}

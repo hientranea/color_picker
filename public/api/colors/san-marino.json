@@ -1,0 +1,80 @@
+{
+  "id": "e4720388-d9ff-4f04-aef1-7334139e5cca",
+  "color_name": "San Marino",
+  "hex_code": "#456CAC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "San Marino evokes feelings of stability, trustworthiness, and sophistication. It's a calming and reassuring color, often associated with dependability and wisdom. It suggests a sense of quiet confidence and intellectual depth, making it a popular choice for brands seeking to project reliability and elegance.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "sophistication",
+    "calmness",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#AC8345"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depths",
+      "swatches": [
+        "#456CAC",
+        "#2C3E50",
+        "#3498DB",
+        "#E74C3C"
+      ]
+    },
+    {
+      "name": "Classic Elegance",
+      "swatches": [
+        "#456CAC",
+        "#D3D3D3",
+        "#FFFFFF",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization tools",
+      "Security software"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Therapy websites",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "San Marino Flag",
+      "description": "The dominant blue color of the San Marino flag symbolizes peace and justice.",
+      "image_url": "https://example.com/san_marino_flag.jpg"
+    },
+    {
+      "title": "Luxury Car Interior",
+      "description": "A high-end vehicle featuring San Marino blue leather seats, conveying a sense of luxury and sophistication.",
+      "image_url": "https://example.com/luxury_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a balanced look.",
+    "Combine with gold or brass accents for added sophistication.",
+    "Use with white to create a clean and crisp aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of San Marino and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "San Marino Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning and symbolism of San Marino (#456CAC), its emotional associations, and how to effectively use it in design projects."
+  },
+  "created_at": "2025-06-01T15:13:57.838423+00:00",
+  "updated_at": "2025-06-01T15:13:57.838423+00:00",
+  "slug": "san-marino"
+}

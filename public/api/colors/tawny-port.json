@@ -1,0 +1,84 @@
+{
+  "id": "afd11c07-ac03-479b-8d8a-d178633782ec",
+  "color_name": "Tawny Port",
+  "hex_code": "#692545",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Tawny Port is a sophisticated and grounding color, evoking feelings of warmth, stability, and understated elegance. It suggests maturity and refinement, while also maintaining a sense of approachability and comfort. This color is often associated with reliability and trustworthiness, making it a strong choice for conveying a sense of dependability.",
+  "emotional_associations": [
+    "sophistication",
+    "warmth",
+    "stability",
+    "elegance",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#456949"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#692545",
+        "#D4A373",
+        "#A98D64",
+        "#73626E",
+        "#E2DCC8"
+      ]
+    },
+    {
+      "name": "Elegance Defined",
+      "swatches": [
+        "#692545",
+        "#333333",
+        "#FFFFFF",
+        "#C0C0C0",
+        "#A69CAC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Restaurant interiors",
+      "Packaging for gourmet foods"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studios",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Autumn/Winter collections",
+      "Accessories (handbags, shoes)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tawny Port Velvet Couch",
+      "description": "A luxurious velvet couch in Tawny Port adds a touch of elegance to any living room.",
+      "image_url": "https://example.com/tawny_port_couch.jpg"
+    },
+    {
+      "title": "Tawny Port Wine Label",
+      "description": "A sophisticated wine label featuring the rich color of Tawny Port communicates quality and tradition.",
+      "image_url": "https://example.com/tawny_port_wine.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige and gray for a classic look.",
+    "Combine with gold or brass accents for added sophistication.",
+    "Use with teal or forest green for a contrasting yet harmonious palette.",
+    "Incorporate textures like velvet or leather to enhance the richness of the color."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with Tawny Port and other colors using our color palette generator!",
+  "seo_meta": {
+    "title": "Tawny Port Color Meaning: Psychology, Combinations & Uses",
+    "description": "Explore the meaning of Tawny Port (#692545), its psychological associations, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:31:13.608584+00:00",
+  "updated_at": "2025-06-01T15:31:13.608584+00:00",
+  "slug": "tawny-port"
+}

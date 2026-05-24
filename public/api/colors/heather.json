@@ -1,0 +1,83 @@
+{
+  "id": "18126be3-37a6-4e7d-b8df-dd6e864c4d38",
+  "color_name": "Heather",
+  "hex_code": "#B7C3D0",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Heather is a muted, cool-toned color that evokes feelings of serenity and tranquility. It is often associated with nature, particularly the heather plant and its calming presence in landscapes. The color promotes relaxation and can create a sense of peace and contemplation. Heather can also represent sophistication and understated elegance.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "peace",
+    "sophistication",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#D0B7C3",
+    "#C3D0B7",
+    "#807A7D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dawn",
+      "swatches": [
+        "#B7C3D0",
+        "#E8DDCB",
+        "#A9A18F",
+        "#F2EFEA",
+        "#6D7975"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#B7C3D0",
+        "#8AA6A3",
+        "#E3D5CA",
+        "#D5B9B2",
+        "#F0EAD6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist design apps",
+      "Subtle color accents in productivity tools"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Relaxed knitwear",
+      "Accessories for a sophisticated look"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Heather Field at Sunset",
+      "description": "A vast field of heather flowers in full bloom, bathed in the soft light of the setting sun.",
+      "image_url": "https://example.com/heather_field_sunset.jpg"
+    },
+    {
+      "title": "Foggy Mountain Landscape",
+      "description": "A serene mountain landscape shrouded in mist, with heather clinging to the slopes.",
+      "image_url": "https://example.com/foggy_mountain_heather.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with creams and off-whites for a soft, elegant look.",
+    "Use with deeper blues for a calming contrast.",
+    "Accent with metallic silver or gold for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and harmonies with our color palette generator to discover your perfect Heather-inspired design!",
+  "seo_meta": {
+    "title": "Heather Color Meaning: Psychology, Combinations & Design Tips",
+    "description": "Discover the meaning of the Heather color, its psychological associations, and how to use it in your design projects. Explore complementary colors and suggested palettes."
+  },
+  "created_at": "2025-06-01T16:18:52.891447+00:00",
+  "updated_at": "2025-06-01T16:18:52.891447+00:00",
+  "slug": "heather"
+}

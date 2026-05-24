@@ -1,0 +1,83 @@
+{
+  "id": "f403929e-7c0f-499b-9a07-14fec340e7b6",
+  "color_name": "Cape Cod",
+  "hex_code": "#3C4443",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Cape Cod is a muted, sophisticated color that evokes feelings of stability, neutrality, and understated elegance. It suggests maturity, reliability, and a connection to natural, earthy tones. This color promotes a sense of calm and groundedness, often associated with practicality and timeless appeal.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "sophistication",
+    "calm",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#433B3C",
+    "#C3BCBC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#3C4443",
+        "#A8A29E",
+        "#D5D2CA",
+        "#736E6A"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#3C4443",
+        "#8AAEA3",
+        "#B2BEB5",
+        "#E9E7E2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds for dashboards",
+      "Neutral color for data visualization",
+      "Text color for readability"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding for a calming effect",
+      "Yoga studio interiors",
+      "Packaging for organic products"
+    ],
+    "fashion": [
+      "Sophisticated outerwear",
+      "Neutral basics for layering",
+      "Accessories with a timeless appeal"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cape Cod Style Home",
+      "description": "The exterior of a traditional Cape Cod style home painted in a similar hue, blending seamlessly with its natural surroundings.",
+      "image_url": "https://example.com/cape_cod_house.jpg"
+    },
+    {
+      "title": "Sophisticated Office Space",
+      "description": "An office interior featuring walls painted in a Cape Cod color, creating a calming and productive environment.",
+      "image_url": "https://example.com/office_space.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a sophisticated look.",
+    "Combine with natural wood tones for warmth.",
+    "Use as a backdrop for brighter accent colors.",
+    "Contrast with metallic accents for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Cape Cod Color Meaning: Discover the Psychology of #3C4443",
+    "description": "Uncover the meaning and associations of Cape Cod (#3C4443), including its psychological effects, complementary colors, and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:08:24.082504+00:00",
+  "updated_at": "2025-06-01T15:08:24.082504+00:00",
+  "slug": "cape-cod"
+}

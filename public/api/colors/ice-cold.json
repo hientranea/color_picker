@@ -1,0 +1,91 @@
+{
+  "id": "29644a32-5c02-4524-9891-8b5456d203b7",
+  "color_name": "Ice Cold",
+  "hex_code": "#B1F4E7",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Ice Cold evokes feelings of calm, serenity, and cleanliness. It is often associated with clarity, purity, and a refreshing sense of peace. This color can also represent innovation, minimalism, and a modern aesthetic, suggesting a cool and collected demeanor.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "cleanliness",
+    "clarity",
+    "purity",
+    "refreshing",
+    "innovation",
+    "minimalism"
+  ],
+  "complementary_colors": [
+    "#F4B1BE"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Cool Breeze",
+      "swatches": [
+        "#B1F4E7",
+        "#E0FFFF",
+        "#ADD8E6",
+        "#B0E57C",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Minimalist Morning",
+      "swatches": [
+        "#B1F4E7",
+        "#F0F8FF",
+        "#D3D3D3",
+        "#A9A9A9",
+        "#696969"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Mobile apps",
+      "Website backgrounds",
+      "Data visualization"
+    ],
+    "food_beverage": [
+      "Bottled water labels",
+      "Mint flavored products",
+      "Ice cream packaging"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear",
+      "Athleisure wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Glacier National Park",
+      "description": "The icy blue waters and pristine environment of Glacier National Park perfectly embody the essence of Ice Cold.",
+      "image_url": "https://example.com/glacier.jpg"
+    },
+    {
+      "title": "Modern Minimalist Home",
+      "description": "A home with an Ice Cold color scheme emphasizes clean lines and a sense of calm.",
+      "image_url": "https://example.com/minimalist_home.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with grays for a sophisticated palette.",
+    "Use with warmer tones like coral to create contrast.",
+    "Incorporate natural wood for an organic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades for your next project!",
+  "seo_meta": {
+    "title": "Ice Cold Color Meaning: Understanding #B1F4E7",
+    "description": "Discover the meaning, psychology, and best uses of Ice Cold color. Explore palettes, complementary colors, and design inspiration for #B1F4E7."
+  },
+  "created_at": "2025-06-01T16:15:29.899411+00:00",
+  "updated_at": "2025-06-01T16:15:29.899411+00:00",
+  "slug": "ice-cold"
+}

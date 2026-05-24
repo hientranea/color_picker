@@ -1,0 +1,77 @@
+{
+  "id": "95caf6a4-e219-4f00-86fb-8fde15012876",
+  "color_name": "Tapestry",
+  "hex_code": "#B05E81",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tapestry evokes a sense of sophistication, creativity, and mystery. Its muted, rosy-purple hue suggests a blend of passion and intellect, creating a balanced and harmonious feeling. It can also be associated with nostalgia and a touch of romanticism, reminiscent of aged textiles and historical artifacts.",
+  "emotional_associations": [
+    "sophistication",
+    "creativity",
+    "mystery",
+    "nostalgia",
+    "romanticism"
+  ],
+  "complementary_colors": [
+    "#5EB08E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#B05E81",
+        "#D4A373",
+        "#F2E8CF",
+        "#748DA6"
+      ]
+    },
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#B05E81",
+        "#343A40",
+        "#6C757D",
+        "#ADB5BD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Spa design",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Cosmetics packaging"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Tapestry Rug",
+      "description": "An intricately woven rug featuring the Tapestry color as a dominant hue.",
+      "image_url": "https://example.com/tapestry_rug.jpg"
+    },
+    {
+      "title": "Tapestry Colored Lipstick",
+      "description": "A popular lipstick shade known for its sophisticated and romantic appeal.",
+      "image_url": "https://example.com/tapestry_lipstick.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for a luxurious feel.",
+    "Combine with cool grays for a modern touch.",
+    "Use with soft creams for a vintage aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to create your perfect Tapestry-inspired palette today!",
+  "seo_meta": {
+    "title": "Tapestry Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Tapestry (#B05E81), its psychological impact, complementary colors, and inspiring palettes for your next design project."
+  },
+  "created_at": "2025-06-01T16:14:11.351222+00:00",
+  "updated_at": "2025-06-01T16:14:11.351222+00:00",
+  "slug": "tapestry"
+}

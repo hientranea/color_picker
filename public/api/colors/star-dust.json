@@ -1,0 +1,78 @@
+{
+  "id": "3e21c8a2-5b89-4c86-8e2b-9ca129f59433",
+  "color_name": "Star Dust",
+  "hex_code": "#9F9F9C",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Star Dust, a muted gray, evokes a sense of calm, neutrality, and sophistication. It often represents stability, reliability, and practicality. This color is associated with timelessness and can provide a backdrop for other, more vibrant colors, allowing them to stand out.",
+  "emotional_associations": [
+    "calm",
+    "neutrality",
+    "sophistication",
+    "stability",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#9C9F9F",
+    "#C0BDBD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance",
+      "swatches": [
+        "#9F9F9C",
+        "#D3D3D3",
+        "#464646"
+      ]
+    },
+    {
+      "name": "Modern Minimal",
+      "swatches": [
+        "#9F9F9C",
+        "#FFFFFF",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Buttons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa design",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment",
+      "description": "Star Dust walls create a serene and modern living space.",
+      "image_url": "https://example.com/stardust_apartment.jpg"
+    },
+    {
+      "title": "Minimalist Website",
+      "description": "The website utilizes Star Dust as a background color to emphasize content.",
+      "image_url": "https://example.com/stardust_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with brighter accent colors for contrast.",
+    "Combine with other neutrals for a cohesive look.",
+    "Use as a background for vibrant imagery."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Star Dust Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Star Dust (#9F9F9C), its psychological impact, color pairings, and industry applications. Get inspired to use this neutral hue in your designs."
+  },
+  "created_at": "2025-06-01T16:03:22.374373+00:00",
+  "updated_at": "2025-06-01T16:03:22.374373+00:00",
+  "slug": "star-dust"
+}

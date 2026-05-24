@@ -1,0 +1,81 @@
+{
+  "id": "05a371b3-8253-4936-8636-e4aee9d5a30a",
+  "color_name": "Tangaroa",
+  "hex_code": "#03163C",
+  "wheel_position": "primary",
+  "psychological_meaning": "Tangaroa, a deep and mysterious blue, evokes feelings of calmness, stability, and depth. It's often associated with the ocean and the night sky, representing wisdom, intelligence, and trustworthiness. This color can promote introspection and a sense of peace, while also suggesting authority and sophistication.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "wisdom",
+    "trust",
+    "peace",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#FCB603"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depths",
+      "swatches": [
+        "#03163C",
+        "#294C60",
+        "#456990",
+        "#A0D2EB"
+      ]
+    },
+    {
+      "name": "Midnight Serenity",
+      "swatches": [
+        "#03163C",
+        "#1E2D59",
+        "#3A506B",
+        "#567189"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "navigation bars",
+      "data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "meditation apps",
+      "sleep aids"
+    ],
+    "fashion": [
+      "formal wear",
+      "evening gowns"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Sea Exploration Vessel",
+      "description": "The hull of a deep sea exploration vessel, painted a dark blue to blend with the ocean depths.",
+      "image_url": "https://example.com/deep_sea_vessel.jpg"
+    },
+    {
+      "title": "Starry Night Sky",
+      "description": "An image of a clear night sky, showcasing the deep blue of the cosmos.",
+      "image_url": "https://example.com/starry_night.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with golds for a luxurious feel.",
+    "Combine with light blues for a calming effect.",
+    "Use with whites for a clean and modern look.",
+    "Contrast with oranges for a vibrant and energetic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of blue and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Tangaroa Color Meaning: Discover the Psychology of #03163C",
+    "description": "Explore the meaning and symbolism of Tangaroa (#03163C), a deep blue color. Learn about its psychological effects, best pairings, and industry use cases."
+  },
+  "created_at": "2025-06-01T14:42:16.516682+00:00",
+  "updated_at": "2025-06-01T14:42:16.516682+00:00",
+  "slug": "tangaroa"
+}

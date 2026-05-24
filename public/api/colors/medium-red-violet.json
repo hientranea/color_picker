@@ -1,0 +1,81 @@
+{
+  "id": "c64adcf8-8197-48d2-a35e-3d1fb6892f12",
+  "color_name": "Medium Red Violet",
+  "hex_code": "#BB3385",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Medium Red Violet is often associated with sophistication, creativity, and a touch of mystery. It combines the energy and passion of red with the calmness and introspection of violet, creating a balanced and intriguing effect. This color can evoke feelings of individuality, artistic expression, and a sense of luxury.",
+  "emotional_associations": [
+    "Sophistication",
+    "Creativity",
+    "Mystery",
+    "Individuality",
+    "Luxury"
+  ],
+  "complementary_colors": [
+    "#33BB6E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Harmonious Hues",
+      "swatches": [
+        "#BB3385",
+        "#6C2DC3",
+        "#E6A9EC",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Bold Contrast",
+      "swatches": [
+        "#BB3385",
+        "#F0E68C",
+        "#2E8B57",
+        "#A020F0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Accent colors in design applications",
+      "Themes for creative software"
+    ],
+    "food_beverage": [
+      "Packaging for gourmet desserts",
+      "Branding for luxury wines"
+    ],
+    "wellness": [
+      "Logos for holistic health practices",
+      "Color schemes for meditation apps"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories for a bold statement"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep, rich color of an amethyst geode evokes a sense of natural beauty and hidden treasure.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Fashion Runway",
+      "description": "A designer gown in Medium Red Violet commands attention on the runway, showcasing elegance and individuality.",
+      "image_url": "https://example.com/red_violet_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with teal for a modern contrast.",
+    "Use with light grays for a subtle, sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Medium Red Violet Color Meaning: Shades, Palettes & Uses",
+    "description": "Discover the meaning, psychology, and uses of Medium Red Violet (#BB3385). Find complementary colors, palette suggestions, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:21:16.64686+00:00",
+  "updated_at": "2025-06-01T16:21:16.64686+00:00",
+  "slug": "medium-red-violet"
+}

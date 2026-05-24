@@ -1,0 +1,79 @@
+{
+  "id": "9dfcfdf5-2461-4b5f-8ba7-a7267804e829",
+  "color_name": "Pewter",
+  "hex_code": "#96A8A1",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Pewter evokes feelings of sophistication, neutrality, and timelessness. It suggests a sense of calm reserve and understated elegance. Pewter is often associated with stability, reliability, and a quiet confidence, making it a versatile choice for conveying a sense of trustworthiness and dependability.",
+  "emotional_associations": [
+    "sophistication",
+    "neutrality",
+    "timelessness",
+    "stability",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#A1969D",
+    "#A19F96"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#96A8A1",
+        "#D3CEC4",
+        "#7A6A5A",
+        "#E8E4DA"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#96A8A1",
+        "#FFFFFF",
+        "#333333",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral interface elements"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Classic outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Pewter Jewelry",
+      "description": "Pewter is a popular material for creating elegant and durable jewelry pieces.",
+      "image_url": "https://example.com/pewter_jewelry.jpg"
+    },
+    {
+      "title": "Pewter Finish Appliances",
+      "description": "Modern kitchens often feature appliances with a sleek pewter finish, adding a touch of sophistication.",
+      "image_url": "https://example.com/pewter_appliances.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a classic look.",
+    "Combine with darker grays for a modern feel.",
+    "Accent with pops of muted blues or greens for visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Pewter Color Meaning: Understanding #96A8A1 | Color Psychology",
+    "description": "Explore the meaning and associations of the Pewter color (#96A8A1). Discover complementary colors, palettes, and design inspiration for your next project."
+  },
+  "created_at": "2025-06-01T15:58:43.456144+00:00",
+  "updated_at": "2025-06-01T15:58:43.456144+00:00",
+  "slug": "pewter"
+}

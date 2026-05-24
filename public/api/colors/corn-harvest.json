@@ -1,0 +1,83 @@
+{
+  "id": "e9a35601-6f79-4218-9809-77d53677e441",
+  "color_name": "Corn Harvest",
+  "hex_code": "#8B6B0B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Corn Harvest evokes feelings of autumn, warmth, and abundance. It's associated with the earth, harvest season, and the comfort of home. The color can inspire feelings of stability, reliability, and a connection to nature. It suggests a time of reaping rewards and enjoying the fruits of labor.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "harvest",
+    "earthiness",
+    "abundance"
+  ],
+  "complementary_colors": [
+    "#0B2B8B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal",
+      "swatches": [
+        "#8B6B0B",
+        "#D2B48C",
+        "#A0522D",
+        "#F4A460",
+        "#DEB887"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#8B6B0B",
+        "#654321",
+        "#C04000",
+        "#808000",
+        "#228B22"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee",
+      "Branding for organic foods",
+      "Restaurant decor"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation spaces",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Autumn clothing collections",
+      "Leather accessories",
+      "Outdoor wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Autumn Fields",
+      "description": "A field of corn ready for harvest, bathed in the golden light of the setting sun.",
+      "image_url": "https://example.com/autumn_fields.jpg"
+    },
+    {
+      "title": "Rustic Kitchen",
+      "description": "A cozy kitchen with cabinets painted in a Corn Harvest hue, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/rustic_kitchen.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, inviting look.",
+    "Combine with deep blues for a striking contrast.",
+    "Use with other earthy tones for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Corn Harvest Color Meaning: Discover the Psychology of #8B6B0B",
+    "description": "Uncover the meaning and symbolism of Corn Harvest (#8B6B0B). Explore its emotional associations, complementary colors, and ideal uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:52:25.657746+00:00",
+  "updated_at": "2025-06-01T15:52:25.657746+00:00",
+  "slug": "corn-harvest"
+}

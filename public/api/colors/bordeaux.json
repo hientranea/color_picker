@@ -1,0 +1,79 @@
+{
+  "id": "2b7c2645-0596-4e6d-a5f0-b5b8e76c1bba",
+  "color_name": "Bordeaux",
+  "hex_code": "#5C0120",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bordeaux is a sophisticated and luxurious color, often associated with ambition, wealth, and power. It evokes feelings of confidence and stability, while also hinting at passion and creativity. Its depth suggests a sense of history and tradition.",
+  "emotional_associations": [
+    "luxury",
+    "power",
+    "sophistication",
+    "ambition",
+    "passion"
+  ],
+  "complementary_colors": [
+    "#015C3D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance",
+      "swatches": [
+        "#5C0120",
+        "#D4A373",
+        "#A68A64",
+        "#E8D8C4",
+        "#262626"
+      ]
+    },
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#5C0120",
+        "#E67E22",
+        "#F1C40F",
+        "#7D6608",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Luxury chocolate branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Lipstick"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Bordeaux Wine",
+      "description": "The classic color of a rich Bordeaux wine evokes feelings of luxury and tradition.",
+      "image_url": "https://example.com/bordeaux_wine.jpg"
+    },
+    {
+      "title": "Velvet Dress",
+      "description": "A bordeaux velvet dress exudes elegance and sophistication, making a bold fashion statement.",
+      "image_url": "https://example.com/velvet_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with cream for a softer, more inviting look.",
+    "Use with grey for a modern and sophisticated palette.",
+    "Contrast with teal for a vibrant and eye-catching design."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Bordeaux Color Meaning: The Psychology of #5C0120",
+    "description": "Explore the meaning of Bordeaux (#5C0120), its psychological associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:24:09.978529+00:00",
+  "updated_at": "2025-06-01T15:24:09.978529+00:00",
+  "slug": "bordeaux"
+}

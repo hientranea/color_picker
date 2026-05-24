@@ -1,0 +1,84 @@
+{
+  "id": "87a42d81-0f32-4797-b438-73a4cbc606fd",
+  "color_name": "Coriander",
+  "hex_code": "#C4D0B0",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Coriander, a soft, muted green, evokes feelings of tranquility, peace, and nature. It promotes a sense of calm and well-being, often associated with growth, renewal, and harmony. This color encourages balance and stability, offering a refreshing and grounding effect.",
+  "emotional_associations": [
+    "calm",
+    "peace",
+    "nature",
+    "growth",
+    "harmony",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#D0B4C4"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#C4D0B0",
+        "#A0B490",
+        "#E8E2D4",
+        "#708060",
+        "#506040"
+      ]
+    },
+    {
+      "name": "Subtle Spring",
+      "swatches": [
+        "#C4D0B0",
+        "#D4E8C0",
+        "#F0F8E0",
+        "#B0C4A0",
+        "#809070"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Subtle accents in data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant interior design to promote healthy eating"
+    ],
+    "wellness": [
+      "Spa and wellness center branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Accessories with a natural aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Organic Food Packaging",
+      "description": "Coriander is used in the packaging of organic food products to convey a sense of natural freshness and health.",
+      "image_url": "url_to_organic_packaging_image.jpg"
+    },
+    {
+      "title": "Spa Interior Design",
+      "description": "A spa uses Coriander as a primary color in its interior design to create a relaxing and calming atmosphere for clients.",
+      "image_url": "url_to_spa_interior_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural look.",
+    "Combine with darker greens for depth.",
+    "Use with soft blues for a calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Coriander Color Meaning: Understanding #C4D0B0",
+    "description": "Discover the meaning and psychology behind the color Coriander (#C4D0B0), its emotional associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:27:29.661293+00:00",
+  "updated_at": "2025-06-01T16:27:29.661293+00:00",
+  "slug": "coriander"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "8255a24b-42ad-412f-831d-ac551b4898f5",
+  "color_name": "London Hue",
+  "hex_code": "#BEA6C3",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "London Hue evokes a sense of calm and sophistication, blending the stability of blue with the passion of red, softened by a touch of grey. It often represents creativity, wisdom, and dignity. It can inspire introspection and a feeling of gentle peace, making it suitable for environments where contemplation and balance are desired.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "creativity",
+    "dignity"
+  ],
+  "complementary_colors": [
+    "#C3BEA6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Dusk",
+      "swatches": [
+        "#BEA6C3",
+        "#E6D8E8",
+        "#8A7693",
+        "#F2E7D5"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#BEA6C3",
+        "#77637D",
+        "#D4C0D8",
+        "#A08DA6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Wellness trackers"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Aromatherapy packaging"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Spa Interior",
+      "description": "The walls are painted in London Hue to promote relaxation and tranquility, complemented by soft lighting and natural elements.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Fashion Designer's Collection",
+      "description": "A flowing evening gown in London Hue, symbolizing elegance and grace on the runway.",
+      "image_url": "https://example.com/fashion_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals for a calming effect.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with muted greens for a natural and balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations and create your perfect palette with our color palette generator!",
+  "seo_meta": {
+    "title": "London Hue Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning and psychology of London Hue (#BEA6C3), explore complementary colors, and find inspiration for using it in design and branding."
+  },
+  "created_at": "2025-06-01T16:22:53.15843+00:00",
+  "updated_at": "2025-06-01T16:22:53.15843+00:00",
+  "slug": "london-hue"
+}

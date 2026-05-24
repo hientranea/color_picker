@@ -1,0 +1,79 @@
+{
+  "id": "f23b014f-e89f-4c6f-a3e9-9f0a41de9e85",
+  "color_name": "Big Stone",
+  "hex_code": "#162A40",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Big Stone evokes a sense of stability, reliability, and quiet strength. This deep, muted blue-gray color communicates trustworthiness and dependability, making it a solid choice for brands aiming to project a steadfast image. It suggests maturity, contemplation, and a grounded perspective, offering a calming and sophisticated aesthetic.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "trust",
+    "calmness",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#402A16"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#162A40",
+        "#A9A18F",
+        "#776B57",
+        "#E0D8C3"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#162A40",
+        "#668BA2",
+        "#B3C6D0",
+        "#E8F0F2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Headquarters Lobby",
+      "description": "The lobby uses Big Stone as the primary wall color to inspire confidence in visitors.",
+      "image_url": "https://example.com/big_stone_lobby.jpg"
+    },
+    {
+      "title": "Luxury Watch Design",
+      "description": "Big Stone is used for the watch face to give the watch a classic and timeless feel.",
+      "image_url": "https://example.com/big_stone_watch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use with metallics for a touch of luxury.",
+    "Combine with lighter blues for a serene palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create harmonious palettes using our color palette generator!",
+  "seo_meta": {
+    "title": "Big Stone Color Meaning: Understanding #162A40",
+    "description": "Discover the meaning, associations, and best uses for Big Stone (#162A40), a sophisticated blue-gray color. Learn how to incorporate it into your designs and branding."
+  },
+  "created_at": "2025-06-01T14:50:05.128591+00:00",
+  "updated_at": "2025-06-01T14:50:05.128591+00:00",
+  "slug": "big-stone"
+}

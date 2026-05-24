@@ -1,0 +1,74 @@
+{
+  "id": "118b7fac-f11f-4ec8-91e9-d22ea07189f9",
+  "color_name": "Thunderbird",
+  "hex_code": "#C02B18",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Thunderbird, a deep and passionate red, evokes feelings of strength, courage, and excitement. It is associated with primal energy and a sense of adventure. This color can also symbolize determination and a desire for action, making it a powerful choice for those seeking to make a bold statement.",
+  "emotional_associations": [
+    "passion",
+    "energy",
+    "courage",
+    "excitement"
+  ],
+  "complementary_colors": [
+    "#18A3C0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Warmth",
+      "swatches": [
+        "#C02B18",
+        "#D45A49",
+        "#E8897A",
+        "#F2B8AB"
+      ]
+    },
+    {
+      "name": "Bold Contrast",
+      "swatches": [
+        "#C02B18",
+        "#404040",
+        "#FFFFFF",
+        "#A0A0A0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Restaurant branding",
+      "Hot sauce labels"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Statement outerwear",
+      "Bold accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ferrari",
+      "description": "The iconic red of a Ferrari symbolizes speed and luxury.",
+      "image_url": "https://example.com/ferrari.jpg"
+    },
+    {
+      "title": "Red Poppy",
+      "description": "A field of red poppies evokes a feeling of vibrant beauty and remembrance.",
+      "image_url": "https://example.com/poppy.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with teal or turquoise for a bold, contrasting effect.",
+    "Use with other warm colors for a harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar fiery shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Thunderbird Color Meaning: Psychology, Palettes & More",
+    "description": "Discover the meaning of Thunderbird (#C02B18), its psychological effects, complementary colors, and inspiring palettes. Perfect for design inspiration!"
+  },
+  "created_at": "2025-06-01T16:24:04.656119+00:00",
+  "updated_at": "2025-06-01T16:24:04.656119+00:00",
+  "slug": "thunderbird"
+}

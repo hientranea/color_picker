@@ -1,0 +1,87 @@
+{
+  "id": "2df82fff-ff5a-4fd2-addf-ffb9fc0d49a3",
+  "color_name": "Magic Mint",
+  "hex_code": "#AAF0D1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Magic Mint evokes feelings of freshness, tranquility, and creativity. It's a soothing and calming color, often associated with nature and growth. Its gentle, airy quality can inspire imagination and promote a sense of peace and well-being.",
+  "emotional_associations": [
+    "freshness",
+    "tranquility",
+    "creativity",
+    "calm",
+    "growth",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#F0AAB2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#AAF0D1",
+        "#FFFFFF",
+        "#D3E4CD",
+        "#90EE90"
+      ]
+    },
+    {
+      "name": "Minty Breeze",
+      "swatches": [
+        "#AAF0D1",
+        "#7FFFD4",
+        "#B0E57C",
+        "#C1FFC1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Wellness apps",
+      "Education platforms"
+    ],
+    "food_beverage": [
+      "Mint-flavored products",
+      "Herbal teas",
+      "Organic packaging"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Eco-friendly products"
+    ],
+    "fashion": [
+      "Spring and summer collections",
+      "Casual wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mint Green Kitchen",
+      "description": "A modern kitchen featuring Magic Mint cabinetry, creating a fresh and inviting space.",
+      "image_url": "https://example.com/mint_kitchen.jpg"
+    },
+    {
+      "title": "Spa Retreat Website",
+      "description": "The website for a luxury spa uses Magic Mint as its primary color, conveying a sense of relaxation and rejuvenation.",
+      "image_url": "https://example.com/spa_website.png"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, minimalist look.",
+    "Combine with pale yellows for a cheerful, spring-like palette.",
+    "Use with dark grays for a sophisticated contrast.",
+    "Accent with pops of coral or peach for a playful touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Magic Mint Color Meaning: Hex Code, Psychology, and Palettes",
+    "description": "Discover the meaning and uses of Magic Mint (#AAF0D1). Explore its psychological associations, complementary colors, and suggested palettes for your next project."
+  },
+  "created_at": "2025-06-01T16:09:55.546286+00:00",
+  "updated_at": "2025-06-01T16:09:55.546286+00:00",
+  "slug": "magic-mint"
+}

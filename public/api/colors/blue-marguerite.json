@@ -1,0 +1,81 @@
+{
+  "id": "c509b88a-5650-4bf5-8ec9-812024a5af5a",
+  "color_name": "Blue Marguerite",
+  "hex_code": "#7666C6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Marguerite is a calming and sophisticated color, embodying trust, stability, and intelligence. It evokes a sense of serenity and introspection, encouraging thoughtful consideration and clear communication. This hue suggests loyalty and reliability, fostering a feeling of security and peace.",
+  "emotional_associations": [
+    "trust",
+    "calm",
+    "intelligence",
+    "serenity",
+    "loyalty"
+  ],
+  "complementary_colors": [
+    "#C67666"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Dreams",
+      "swatches": [
+        "#7666C6",
+        "#A295D6",
+        "#D1C6E6",
+        "#FFFFFF",
+        "#E6E1DA"
+      ]
+    },
+    {
+      "name": "Modern Elegance",
+      "swatches": [
+        "#7666C6",
+        "#4A4291",
+        "#778899",
+        "#E0FFFF",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security applications",
+      "Collaboration tools"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Mental health platforms"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Blue Marguerite Amethyst",
+      "description": "A geode exhibiting crystals in a shade closely resembling Blue Marguerite.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Modern Art Installation",
+      "description": "A contemporary sculpture utilizes Blue Marguerite to evoke tranquility.",
+      "image_url": "https://example.com/sculpture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with complementary colors for a vibrant contrast.",
+    "Use lighter shades of blue for a calming atmosphere."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade for your next project!",
+  "seo_meta": {
+    "title": "Blue Marguerite Color Meaning: Understanding #7666C6",
+    "description": "Discover the meaning, psychology, and uses of Blue Marguerite (#7666C6). Learn how to pair this calming color in design and branding."
+  },
+  "created_at": "2025-06-01T15:39:05.860659+00:00",
+  "updated_at": "2025-06-01T15:39:05.860659+00:00",
+  "slug": "blue-marguerite"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "d803f854-83d5-46b2-915c-6479032b15ad",
+  "color_name": "Gray Asparagus",
+  "hex_code": "#465945",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gray Asparagus evokes a sense of groundedness, tranquility, and natural harmony. It combines the neutrality of gray with the organic essence of green, suggesting balance, subtlety, and a connection to the earth. This color can inspire feelings of peace, stability, and quiet sophistication.",
+  "emotional_associations": [
+    "tranquility",
+    "balance",
+    "natural",
+    "sophistication",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#59465A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#465945",
+        "#A2A897",
+        "#D0C9C0",
+        "#627E61",
+        "#333D29"
+      ]
+    },
+    {
+      "name": "Subtle Serenity",
+      "swatches": [
+        "#465945",
+        "#7D8F69",
+        "#B8C4B1",
+        "#E0E5D2",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Eco-friendly apps",
+      "Relaxation apps"
+    ],
+    "wellness": [
+      "Meditation studios",
+      "Spa branding",
+      "Yoga apparel"
+    ],
+    "fashion": [
+      "Outdoor clothing",
+      "Neutral accessories",
+      "Sustainable fashion lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Minimalist Home",
+      "description": "A living room featuring Gray Asparagus walls, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/gray_asparagus_living_room.jpg"
+    },
+    {
+      "title": "Sustainable Fashion Collection",
+      "description": "A dress in Gray Asparagus, highlighting the brand's commitment to natural and earthy tones.",
+      "image_url": "https://example.com/gray_asparagus_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a soft, neutral palette.",
+    "Combine with natural wood tones for an organic feel.",
+    "Use with metallic accents like gold or bronze for sophistication.",
+    "Contrast with muted pinks or purples for a subtle pop of color."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Gray Asparagus Color Meaning: Psychology, Palettes & Design Tips",
+    "description": "Discover the meaning of Gray Asparagus (#465945), its psychological effects, complementary colors, and how to use it in your designs. Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:14:26.173446+00:00",
+  "updated_at": "2025-06-01T15:14:26.173446+00:00",
+  "slug": "gray-asparagus"
+}

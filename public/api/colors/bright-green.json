@@ -1,0 +1,79 @@
+{
+  "id": "b59f742a-ab07-4415-a0d7-bf350648ef8e",
+  "color_name": "Bright Green",
+  "hex_code": "#66FF00",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Bright green is often associated with nature, freshness, and growth. It evokes feelings of vitality, renewal, and optimism. This color is also linked to balance, harmony, and a sense of well-being, making it a popular choice for designs aiming to convey a sense of health and environmental consciousness.",
+  "emotional_associations": [
+    "freshness",
+    "growth",
+    "vitality",
+    "optimism",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#FF66CC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#66FF00",
+        "#FFFFFF",
+        "#E2F0CB"
+      ]
+    },
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#66FF00",
+        "#8B4513",
+        "#F5DEB3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Messaging apps",
+      "Eco-friendly applications"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy drink labels"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Spring/Summer collections",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Packaging",
+      "description": "Bright green is used to signify eco-friendliness in packaging.",
+      "image_url": "https://example.com/green_packaging.jpg"
+    },
+    {
+      "title": "Health App Interface",
+      "description": "A bright green color scheme conveys vitality in a health tracking application.",
+      "image_url": "https://example.com/health_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, fresh look.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with complementary colors for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of green with our color picker to find the perfect hue for your next project.",
+  "seo_meta": {
+    "title": "Bright Green Color Meaning: Symbolism, Psychology, and Uses",
+    "description": "Discover the meaning and uses of bright green, including its psychological effects, emotional associations, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:30:02.287987+00:00",
+  "updated_at": "2025-06-01T15:30:02.287987+00:00",
+  "slug": "bright-green"
+}

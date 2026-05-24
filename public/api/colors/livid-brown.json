@@ -1,0 +1,78 @@
+{
+  "id": "2ed5071d-2497-485e-9b71-ad2ba7a9ec3b",
+  "color_name": "Livid Brown",
+  "hex_code": "#4D282E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Livid Brown evokes feelings of seriousness, stability, and earthiness. It can represent a sense of grounding and reliability, but in excess, it might also suggest dullness or a lack of excitement. It is a color often associated with nature and the outdoors, offering a sense of comfort and security while subtly conveying a somber undertone.",
+  "emotional_associations": [
+    "earthiness",
+    "stability",
+    "seriousness",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#2E4D47"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Autumn",
+      "swatches": [
+        "#4D282E",
+        "#A67B5B",
+        "#D2B48C",
+        "#6B8E23"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#4D282E",
+        "#8B4513",
+        "#C04000",
+        "#F4A460"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Natural remedies branding"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Leather Sofa",
+      "description": "A vintage leather sofa in a livid brown hue, adding warmth and sophistication to a living space.",
+      "image_url": "https://example.com/livid_brown_sofa.jpg"
+    },
+    {
+      "title": "Dark Wood Flooring",
+      "description": "Hardwood flooring with a livid brown stain, creating a cozy and inviting atmosphere in a rustic home.",
+      "image_url": "https://example.com/livid_brown_flooring.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, neutral palette.",
+    "Combine with deep greens and golds for an autumnal feel.",
+    "Use sparingly with bright accents for a pop of color.",
+    "Contrast with teal or turquoise for a balanced look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Livid Brown Color Meaning: Discover Shades, Palettes & Design Ideas",
+    "description": "Uncover the meaning of Livid Brown. Explore its psychological effects, emotional associations, and discover stunning color palettes and design inspiration for your next project."
+  },
+  "created_at": "2025-06-01T15:17:46.241341+00:00",
+  "updated_at": "2025-06-01T15:17:46.241341+00:00",
+  "slug": "livid-brown"
+}

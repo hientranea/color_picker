@@ -1,0 +1,78 @@
+{
+  "id": "13442e09-4eba-447f-934c-f90fa252722d",
+  "color_name": "Pesto",
+  "hex_code": "#7C7631",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pesto, a muted, yellowish-green, evokes a sense of natural calm and understated sophistication. It suggests freshness, growth, and a connection to the earth, while also conveying a subtle richness and maturity. It's often associated with health, well-being, and a grounded perspective.",
+  "emotional_associations": [
+    "natural",
+    "calm",
+    "fresh",
+    "healthy",
+    "subtle richness"
+  ],
+  "complementary_colors": [
+    "#31377C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#7C7631",
+        "#A39B6B",
+        "#D1C8A3",
+        "#4A452E"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#7C7631",
+        "#98D492",
+        "#FFFFFF",
+        "#425E45"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant branding emphasizing fresh ingredients"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Natural health product labels"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Oil Packaging",
+      "description": "A premium olive oil bottle with a 'Pesto' colored label, conveying natural quality.",
+      "image_url": "url_to_olive_oil_image.jpg"
+    },
+    {
+      "title": "Organic Skincare Branding",
+      "description": "A skincare brand uses 'Pesto' in its logo and packaging to emphasize natural ingredients.",
+      "image_url": "url_to_skincare_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural palette.",
+    "Combine with deeper greens for a sophisticated, earthy look.",
+    "Use with pops of brighter colors like mustard yellow for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Pesto Color Meaning: Understanding #7C7631",
+    "description": "Explore the meaning, psychology, and best uses of the Pesto color (#7C7631). Discover complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:43:29.573592+00:00",
+  "updated_at": "2025-06-01T15:43:29.573592+00:00",
+  "slug": "pesto"
+}

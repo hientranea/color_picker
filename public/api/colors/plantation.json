@@ -1,0 +1,84 @@
+{
+  "id": "f948d78e-e554-465d-a42b-61e88397e4ff",
+  "color_name": "Plantation",
+  "hex_code": "#27504B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Plantation evokes feelings of tranquility, growth, and connection to nature. It is often associated with stability, endurance, and a sense of groundedness. This color promotes a sense of calm and can be used to create an atmosphere of peace and balance.",
+  "emotional_associations": [
+    "calm",
+    "growth",
+    "stability",
+    "nature",
+    "tranquility"
+  ],
+  "complementary_colors": [
+    "#B07A76"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#27504B",
+        "#A3B18A",
+        "#6B9080",
+        "#355C7D",
+        "#F67280"
+      ]
+    },
+    {
+      "name": "Natural Harmony",
+      "swatches": [
+        "#27504B",
+        "#77ACA2",
+        "#E08E79",
+        "#F6F7D7",
+        "#84544A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces for environmental monitoring",
+      "Relaxation and meditation apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Branding for health-focused restaurants"
+    ],
+    "wellness": [
+      "Spa and retreat branding",
+      "Meditation apps and websites"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor and adventure wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lush Forest Canopy",
+      "description": "The color of a dense, thriving forest canopy, representing life and abundance.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Moss Covered Stone",
+      "description": "A stone covered in vibrant green moss, symbolizing resilience and longevity.",
+      "image_url": "https://example.com/moss_stone.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with beige or cream for a natural, calming palette.",
+    "Combine with muted gold for a touch of elegance.",
+    "Use with terracotta for a warm, earthy feel.",
+    "Contrast with coral or blush pink for a vibrant, modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious hues and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Plantation Color Meaning: Discover Shades, Palettes, and Design Ideas",
+    "description": "Uncover the meaning of Plantation (#27504B), its psychological impact, complementary colors, and inspiring design palettes for your next project."
+  },
+  "created_at": "2025-06-01T14:56:58.393185+00:00",
+  "updated_at": "2025-06-01T14:56:58.393185+00:00",
+  "slug": "plantation"
+}

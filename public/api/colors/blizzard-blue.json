@@ -1,0 +1,82 @@
+{
+  "id": "52b20213-4996-43dd-84dc-6c75c367d6f4",
+  "color_name": "Blizzard Blue",
+  "hex_code": "#A3E3ED",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blizzard Blue evokes feelings of calmness, serenity, and clarity. It is reminiscent of winter landscapes, suggesting peace, tranquility, and a refreshing coolness. This color can also inspire creativity and introspection, promoting a sense of spaciousness and mental clarity.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "clarity",
+    "peace",
+    "refreshing"
+  ],
+  "complementary_colors": [
+    "#EDA3A3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Winter Harmony",
+      "swatches": [
+        "#A3E3ED",
+        "#FFFFFF",
+        "#D3D3D3",
+        "#87CEEB"
+      ]
+    },
+    {
+      "name": "Coastal Breeze",
+      "swatches": [
+        "#A3E3ED",
+        "#B0E57C",
+        "#F0F8FF",
+        "#4682B4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Meditation apps",
+      "Weather apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation centers"
+    ],
+    "fashion": [
+      "Winter clothing lines",
+      "Activewear",
+      "Swimwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Glacier National Park",
+      "description": "The glacial lakes reflect a similar blue hue, creating a sense of vastness and purity.",
+      "image_url": "https://example.com/glacier_blue.jpg"
+    },
+    {
+      "title": "Winter Sky",
+      "description": "A clear winter sky often displays a similar shade of light blue, symbolizing peace and tranquility.",
+      "image_url": "https://example.com/winter_sky.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with whites for a clean and airy feel.",
+    "Combine with grays for a sophisticated look.",
+    "Use with natural wood tones for warmth.",
+    "Contrast with coral or peach for a vibrant accent."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of blue and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Blizzard Blue Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Blizzard Blue, its emotional associations, and how to use it in your designs. Explore complementary colors and palette suggestions."
+  },
+  "created_at": "2025-06-01T16:05:18.393146+00:00",
+  "updated_at": "2025-06-01T16:05:18.393146+00:00",
+  "slug": "blizzard-blue"
+}

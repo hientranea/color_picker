@@ -1,0 +1,84 @@
+{
+  "id": "3a064424-0d9a-4f0c-80a1-eb09adb38b89",
+  "color_name": "Bronzetone",
+  "hex_code": "#4D400F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bronzetone evokes a sense of earthiness, stability, and understated elegance. It suggests maturity and a connection to nature, offering a feeling of groundedness and reliability. This color is often associated with sophistication and a timeless aesthetic, hinting at warmth and a comforting familiarity.",
+  "emotional_associations": [
+    "stability",
+    "earthiness",
+    "sophistication",
+    "warmth",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#0F1C4D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4D400F",
+        "#A39772",
+        "#D4CEC2",
+        "#736A62",
+        "#E8E0D8"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#4D400F",
+        "#8C7853",
+        "#C6AC8F",
+        "#59463D",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee",
+      "Branding for artisanal bread",
+      "Restaurant decor for rustic cuisine"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio design",
+      "Packaging for natural remedies"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Leather accessories",
+      "Footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A comfortable bronzetone leather sofa adds warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Bronzetone wooden flooring creates a natural and inviting atmosphere in a home.",
+      "image_url": "https://example.com/wooden_floor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with deep greens for an earthy feel.",
+    "Use with metallics for a touch of luxury.",
+    "Accent with pops of orange or red for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to create stunning color schemes with Bronzetone and other complementary hues!",
+  "seo_meta": {
+    "title": "Bronzetone Color Meaning: Understanding #4D400F",
+    "description": "Discover the meaning, psychology, and best uses of Bronzetone (#4D400F). Explore complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:18:08.325843+00:00",
+  "updated_at": "2025-06-01T15:18:08.325843+00:00",
+  "slug": "bronzetone"
+}

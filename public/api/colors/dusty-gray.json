@@ -1,0 +1,78 @@
+{
+  "id": "66ea230a-59b1-47b8-b1f2-88bea1b25a1e",
+  "color_name": "Dusty Gray",
+  "hex_code": "#A8989B",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Dusty Gray evokes feelings of neutrality, sophistication, and calmness. It's often associated with maturity, reliability, and practicality. It can also suggest a sense of understated elegance and quiet confidence, making it a versatile color for various applications where a subtle and balanced aesthetic is desired.",
+  "emotional_associations": [
+    "neutrality",
+    "sophistication",
+    "calmness",
+    "reliability",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#9BA898",
+    "#A89BA8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#A8989B",
+        "#C0B6B8",
+        "#8F8083"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#A8989B",
+        "#D3B98B",
+        "#8B4513"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "borders",
+      "text (secondary)"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa interiors",
+      "meditation apps"
+    ],
+    "fashion": [
+      "outerwear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring dusty gray walls and furniture, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/dusty_gray_apartment.jpg"
+    },
+    {
+      "title": "Minimalist Website Design",
+      "description": "A website using dusty gray as a background color to provide a clean and professional look.",
+      "image_url": "https://example.com/dusty_gray_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft blues for a serene feel.",
+    "Use with warm wood tones for a balanced look.",
+    "Combine with metallic accents for added sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade of gray for your next project!",
+  "seo_meta": {
+    "title": "Dusty Gray Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Dusty Gray, its psychological effects, and how to use it in design. Find complementary colors and stunning palettes."
+  },
+  "created_at": "2025-06-01T16:07:17.969613+00:00",
+  "updated_at": "2025-06-01T16:07:17.969613+00:00",
+  "slug": "dusty-gray"
+}

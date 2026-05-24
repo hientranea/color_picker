@@ -1,0 +1,82 @@
+{
+  "id": "08c8d9e8-a1a7-4342-88ee-eaad7693d8cb",
+  "color_name": "Breaker Bay",
+  "hex_code": "#5DA19F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Breaker Bay evokes feelings of tranquility, stability, and clarity. It is often associated with trustworthiness, reliability, and a sense of calm. This color promotes balance and harmony, inspiring a sense of peace and mental relaxation. It suggests sophistication and can be perceived as a color of wisdom and depth.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "clarity",
+    "trustworthiness",
+    "peace",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#A15D5F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#5DA19F",
+        "#B0D9D1",
+        "#E8F8F5",
+        "#70A4A9"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#5DA19F",
+        "#77B5A9",
+        "#A0D2CB",
+        "#C8E9E4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Application backgrounds"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Accessories",
+      "Swimwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Living Room",
+      "description": "A living room featuring Breaker Bay walls with natural wood accents, creating a serene and inviting atmosphere.",
+      "image_url": "https://example.com/breaker-bay-livingroom.jpg"
+    },
+    {
+      "title": "Spa Resort Branding",
+      "description": "The branding of a luxury spa resort uses Breaker Bay as its primary color to communicate relaxation and rejuvenation.",
+      "image_url": "https://example.com/breaker-bay-spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Combine with gold accents for a touch of elegance.",
+    "Use with white for a clean and fresh aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and palettes with our interactive color tool.",
+  "seo_meta": {
+    "title": "Breaker Bay Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Breaker Bay (#5DA19F), its emotional associations, suggested palettes, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:25:12.035729+00:00",
+  "updated_at": "2025-06-01T15:25:12.035729+00:00",
+  "slug": "breaker-bay"
+}

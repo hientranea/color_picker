@@ -1,0 +1,81 @@
+{
+  "id": "ea627e21-4882-4166-9509-6a2e74cbce67",
+  "color_name": "Oracle",
+  "hex_code": "#377475",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Oracle embodies a sense of calm wisdom and depth. It suggests introspection and clarity, often associated with a balanced perspective and insightful understanding. It is a color that promotes tranquility and encourages thoughtful consideration.",
+  "emotional_associations": [
+    "wisdom",
+    "calm",
+    "clarity",
+    "balance",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#753736"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Mist",
+      "swatches": [
+        "#377475",
+        "#A9B4AE",
+        "#D8E2DC",
+        "#F9F7F7"
+      ]
+    },
+    {
+      "name": "Deep Sea Dive",
+      "swatches": [
+        "#377475",
+        "#2B4141",
+        "#7F9793",
+        "#B4CFCA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Meditation apps",
+      "Security software interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design",
+      "Aromatherapy packaging"
+    ],
+    "fashion": [
+      "Sophisticated evening wear",
+      "Relaxed casual attire",
+      "Accessories with a touch of elegance"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Oracle Stone Sculpture",
+      "description": "A serene sculpture carved from a stone resembling the color Oracle, evoking a sense of timeless wisdom.",
+      "image_url": "https://example.com/oracle_stone_sculpture.jpg"
+    },
+    {
+      "title": "Oracle Colored Glassware",
+      "description": "Elegant glassware in the color Oracle adds a touch of sophistication to any table setting.",
+      "image_url": "https://example.com/oracle_glassware.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a calming effect.",
+    "Combine with muted golds or brass for a touch of elegance.",
+    "Use with complementary colors like terracotta for a balanced contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Oracle Color Meaning: Understanding #377475",
+    "description": "Discover the meaning and symbolism of Oracle (#377475), its emotional associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:05:15.932391+00:00",
+  "updated_at": "2025-06-01T15:05:15.932391+00:00",
+  "slug": "oracle"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "9f279676-55d2-4531-bb36-332917384e2c",
+  "color_name": "Meteorite",
+  "hex_code": "#3C1F76",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Meteorite, a deep and mysterious purple, evokes feelings of introspection, creativity, and spiritual awareness. It is often associated with the unknown, the cosmos, and the exploration of inner depths. This color can inspire a sense of wonder and encourage a connection to something larger than oneself, while also promoting calmness and reflection.",
+  "emotional_associations": [
+    "mystery",
+    "introspection",
+    "creativity",
+    "spirituality",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#763C1F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Cosmic Calm",
+      "swatches": [
+        "#3C1F76",
+        "#6C42A6",
+        "#9B65D6",
+        "#CBA8FF",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Ethereal Dream",
+      "swatches": [
+        "#3C1F76",
+        "#24124D",
+        "#503080",
+        "#7E59B3",
+        "#AFA2D6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Security software interfaces"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual guidance websites"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purple hues of an amethyst geode reflect the grounding yet ethereal nature of Meteorite.",
+      "image_url": "url_to_amethyst_image.jpg"
+    },
+    {
+      "title": "Night Sky",
+      "description": "The vast expanse of the night sky, dotted with stars, showcases the mystery and depth associated with this color.",
+      "image_url": "url_to_night_sky_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gray for a sophisticated look.",
+    "Combine with lighter purples and blues for a dreamy effect.",
+    "Use gold accents for a touch of luxury.",
+    "Contrast with warm yellows for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create stunning palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Meteorite Color Meaning: Psychology, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Meteorite (#3C1F76), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:07:53.895966+00:00",
+  "updated_at": "2025-06-01T15:07:53.895966+00:00",
+  "slug": "meteorite"
+}

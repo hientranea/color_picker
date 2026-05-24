@@ -1,0 +1,80 @@
+{
+  "id": "52d0733f-0ecd-4ff9-b7ce-ecd735d3c048",
+  "color_name": "Fringy Flower",
+  "hex_code": "#B1E2C1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fringy Flower evokes feelings of freshness, growth, and tranquility. It is associated with nature, healing, and renewal. This color promotes a sense of balance and harmony, making it ideal for creating calming and reassuring environments.",
+  "emotional_associations": [
+    "calmness",
+    "freshness",
+    "growth",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#E2B1D2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#B1E2C1",
+        "#E8F8EF",
+        "#A8D8B9",
+        "#7BBF7F"
+      ]
+    },
+    {
+      "name": "Tranquil Spa",
+      "swatches": [
+        "#B1E2C1",
+        "#D5E8D4",
+        "#EAF7EA",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health and wellness apps",
+      "Eco-conscious platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Spring/Summer collections",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "Used in packaging for organic skincare to convey natural and gentle properties.",
+      "image_url": "url_to_eco_friendly_packaging_image.jpg"
+    },
+    {
+      "title": "Wellness Retreat Interior",
+      "description": "Incorporated in the walls of a yoga studio to promote relaxation and serenity.",
+      "image_url": "url_to_wellness_retreat_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with whites for a clean, fresh look.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with pastel shades for a soft, calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Fringy Flower Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning of Fringy Flower (#B1E2C1), its emotional associations, complementary colors, and how to use it in design projects."
+  },
+  "created_at": "2025-06-01T16:15:22.721807+00:00",
+  "updated_at": "2025-06-01T16:15:22.721807+00:00",
+  "slug": "fringy-flower"
+}

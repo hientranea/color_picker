@@ -1,0 +1,82 @@
+{
+  "id": "37991e17-8fe9-4a1d-b902-b8a22ca6a102",
+  "color_name": "Stromboli",
+  "hex_code": "#325D52",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Stromboli, a muted, earthy green, evokes feelings of tranquility and stability. It represents growth, nature, and a connection to the earth. This color can also inspire feelings of calmness and security, promoting a sense of balance and harmony. It is a color that encourages introspection and a grounded perspective.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "growth",
+    "nature",
+    "calmness",
+    "security"
+  ],
+  "complementary_colors": [
+    "#D7828D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#325D52",
+        "#A0C1B9",
+        "#E5E8DF",
+        "#876445"
+      ]
+    },
+    {
+      "name": "Forest Calm",
+      "swatches": [
+        "#325D52",
+        "#558B2F",
+        "#8BC34A",
+        "#D4E157"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for nature-themed apps",
+      "Subtle accents in productivity tools"
+    ],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Restaurant interiors promoting a healthy atmosphere"
+    ],
+    "wellness": [
+      "Yoga studio design",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories with an earthy aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Trail",
+      "description": "A serene forest trail surrounded by lush greenery.",
+      "image_url": "https://example.com/forest_trail.jpg"
+    },
+    {
+      "title": "Mossy Rocks",
+      "description": "Rocks covered in moss, creating a natural and calming scene.",
+      "image_url": "https://example.com/mossy_rocks.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Combine with lighter greens for a harmonious palette.",
+    "Use with contrasting reds for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Stromboli Color Meaning: Discover its Psychological Impact",
+    "description": "Explore the meaning and psychology of the color Stromboli (#325D52). Learn about its emotional associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:02:57.190204+00:00",
+  "updated_at": "2025-06-01T15:02:57.190204+00:00",
+  "slug": "stromboli"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "0febe498-95ae-4a0c-bf96-a3756a4d4237",
+  "color_name": "Algae Green",
+  "hex_code": "#93DFB8",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Algae Green evokes feelings of freshness, growth, and tranquility. It is associated with nature, healing, and renewal, bringing a sense of calm and balance. This color can inspire feelings of optimism and connection to the natural world, promoting a sense of well-being and harmony.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "healing",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#DF96A5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Forest",
+      "swatches": [
+        "#93DFB8",
+        "#558B2F",
+        "#A9D18E",
+        "#F0F4C3"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#93DFB8",
+        "#B0E2FF",
+        "#E0FFFF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health monitoring apps",
+      "Eco-conscious product websites"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Smoothie brands"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Living Magazine",
+      "description": "The cover of a magazine focused on sustainable living featuring Algae Green accents to emphasize the theme of nature and growth.",
+      "image_url": "https://example.com/sustainable-magazine.jpg"
+    },
+    {
+      "title": "Organic Skincare Packaging",
+      "description": "Packaging for an organic skincare line uses Algae Green to communicate the natural and healing properties of the products.",
+      "image_url": "https://example.com/organic-skincare.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light blues for a calming effect.",
+    "Combine with earthy browns for a natural feel.",
+    "Use with white for a clean and fresh look.",
+    "Accent with gold for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Algae Green Color Meaning: Symbolism, Psychology, and Design Ideas",
+    "description": "Discover the meaning and symbolism of Algae Green, its psychological effects, and how to use it effectively in design and branding."
+  },
+  "created_at": "2025-06-01T15:57:26.531166+00:00",
+  "updated_at": "2025-06-01T15:57:26.531166+00:00",
+  "slug": "algae-green"
+}

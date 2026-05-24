@@ -1,0 +1,76 @@
+{
+  "id": "a4194ccd-cb35-4bf1-b0ad-0573fcf2a3b3",
+  "color_name": "Fedora",
+  "hex_code": "#796A78",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fedora, a muted and sophisticated color, evokes feelings of understated elegance and intellectual depth. It blends the grounded stability of brown with the enigmatic allure of purple, suggesting contemplation, creativity, and a connection to tradition. Fedora implies a sense of refined taste and a quiet confidence.",
+  "emotional_associations": [
+    "sophistication",
+    "contemplation",
+    "understated elegance",
+    "intellect"
+  ],
+  "complementary_colors": [
+    "#6A796B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#796A78",
+        "#A9A19F",
+        "#D4D0CD",
+        "#EBEBE8"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#796A78",
+        "#B08EAD",
+        "#E3D6C5",
+        "#5C4033"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "subtle backgrounds",
+      "secondary text",
+      "icons"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "accessories",
+      "outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Felt Fedora Hat",
+      "description": "A classic felt fedora, embodying timeless style.",
+      "image_url": "https://example.com/fedora_hat.jpg"
+    },
+    {
+      "title": "Vintage Leather Furniture",
+      "description": "A vintage leather armchair in a similar muted tone.",
+      "image_url": "https://example.com/leather_chair.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or ivory for a soft, sophisticated look.",
+    "Combine with muted greens or blues for an earthy palette.",
+    "Use as a grounding neutral with brighter accent colors.",
+    "Contrast with metallic tones for added luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar sophisticated shades with our color palette generator!",
+  "seo_meta": {
+    "title": "Fedora Color Meaning: Understanding #796A78",
+    "description": "Discover the meaning and psychology behind the color Fedora (#796A78), its uses, and how to incorporate it into your designs."
+  },
+  "created_at": "2025-06-01T15:41:27.026789+00:00",
+  "updated_at": "2025-06-01T15:41:27.026789+00:00",
+  "slug": "fedora"
+}

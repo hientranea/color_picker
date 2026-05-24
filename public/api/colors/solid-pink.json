@@ -1,0 +1,79 @@
+{
+  "id": "5c497202-31a7-42e3-bfae-6f3bd45883ad",
+  "color_name": "Solid Pink",
+  "hex_code": "#893843",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Solid Pink evokes feelings of romance, nurturing, and calm. It's often associated with femininity and can promote a sense of comfort and security. It can also be seen as representing playfulness and lightheartedness, balancing sophistication with a touch of innocence.",
+  "emotional_associations": [
+    "romance",
+    "nurturing",
+    "calm",
+    "femininity",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#388983"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vintage Romance",
+      "swatches": [
+        "#893843",
+        "#D5A6BD",
+        "#F2EBD3",
+        "#A68DAD"
+      ]
+    },
+    {
+      "name": "Dusty Rose Garden",
+      "swatches": [
+        "#893843",
+        "#C08497",
+        "#E3CEDF",
+        "#70586C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Confectionery packaging",
+      "Rose wine labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Bridal wear",
+      "Lingerie"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ballet Slippers",
+      "description": "Ballet slippers are often solid pink, representing grace and elegance.",
+      "image_url": "https://example.com/ballet_slippers.jpg"
+    },
+    {
+      "title": "Rose Quartz Crystal",
+      "description": "Rose quartz, a solid pink crystal, is known for its association with love and healing.",
+      "image_url": "https://example.com/rose_quartz.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with grey for a modern and sophisticated look.",
+    "Use with greens for a natural and balanced palette.",
+    "Contrast with deep blues for a vibrant effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Solid Pink Color Meaning: Psychology, Associations, and Palettes",
+    "description": "Discover the meaning of Solid Pink, its psychological effects, emotional associations, and how to use it in design with color palettes."
+  },
+  "created_at": "2025-06-01T15:51:07.548258+00:00",
+  "updated_at": "2025-06-01T15:51:07.548258+00:00",
+  "slug": "solid-pink"
+}

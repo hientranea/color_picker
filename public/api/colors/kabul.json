@@ -1,0 +1,78 @@
+{
+  "id": "e2a5a191-74e4-4191-a8a6-f6cc7c7d4363",
+  "color_name": "Kabul",
+  "hex_code": "#5E483E",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Kabul, a deep and earthy brown, evokes feelings of stability, reliability, and groundedness. It is associated with nature, the earth, and a sense of history. This color suggests a connection to the past, comfort, and a subtle sophistication, making it a versatile choice for conveying a sense of timeless elegance and understated strength.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "comfort",
+    "earthiness",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#3E505E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#5E483E",
+        "#A38B7A",
+        "#D4C1AB",
+        "#E9E3DA"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#5E483E",
+        "#8C7853",
+        "#C6AB8F",
+        "#F2E2D4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in Kabul brown adds warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Coffee Beans Packaging",
+      "description": "Kabul brown is used on coffee bean packaging to convey a sense of rich flavor and tradition.",
+      "image_url": "https://example.com/coffee_beans.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with greens and blues for a natural feel.",
+    "Use with metallic accents for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Kabul Color Meaning: Exploring the Depth of #5E483E",
+    "description": "Discover the meaning and symbolism of Kabul (#5E483E), a rich brown color associated with stability, comfort, and earthiness. Explore its uses, pairings, and psychological effects."
+  },
+  "created_at": "2025-06-01T15:25:19.763701+00:00",
+  "updated_at": "2025-06-01T15:25:19.763701+00:00",
+  "slug": "kabul"
+}

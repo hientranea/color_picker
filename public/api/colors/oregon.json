@@ -1,0 +1,78 @@
+{
+  "id": "2b4aa948-2006-4c88-8c14-dd71761aa4c7",
+  "color_name": "Oregon",
+  "hex_code": "#9B4703",
+  "wheel_position": "earthy brown",
+  "psychological_meaning": "Oregon, a deep earthy brown, evokes feelings of stability, reliability, and connection to nature. It suggests groundedness, resilience, and a sense of history. This color often resonates with a sense of comfort, security, and understated elegance, making it suitable for conveying trustworthiness and dependability.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "comfort",
+    "groundedness",
+    "earthiness"
+  ],
+  "complementary_colors": [
+    "#03569B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#9B4703",
+        "#D4A373",
+        "#F2E8CF",
+        "#745E4B"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#9B4703",
+        "#A98D77",
+        "#E9DABB",
+        "#5C4033"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "coffee branding",
+      "chocolate packaging"
+    ],
+    "wellness": [
+      "natural skincare packaging",
+      "spa interiors"
+    ],
+    "fashion": [
+      "outerwear",
+      "leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Boots",
+      "description": "Classic leather boots in Oregon brown, showcasing durability and timeless style.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    },
+    {
+      "title": "Coffee Packaging",
+      "description": "Coffee bag using Oregon brown to communicate rich flavor and natural origins.",
+      "image_url": "https://example.com/coffee_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a sophisticated look.",
+    "Combine with greens for a natural, earthy palette.",
+    "Accent with gold for added warmth and luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Oregon Color Meaning: Understanding #9B4703",
+    "description": "Discover the meaning and associations of the Oregon color (#9B4703). Explore its psychological impact, complementary colors, and usage in design."
+  },
+  "created_at": "2025-06-01T16:01:28.71439+00:00",
+  "updated_at": "2025-06-01T16:01:28.71439+00:00",
+  "slug": "oregon"
+}

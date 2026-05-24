@@ -1,0 +1,78 @@
+{
+  "id": "fe3b0889-4fd2-4d8a-b069-aeb45e32e570",
+  "color_name": "Graphite",
+  "hex_code": "#251607",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Graphite, a dark and muted shade of gray, evokes feelings of sophistication, strength, and neutrality. It represents a sense of calm and understated elegance. It is often associated with stability, practicality, and dependability, but can also suggest a sense of somberness or reserve, depending on the context.",
+  "emotional_associations": [
+    "sophistication",
+    "strength",
+    "neutrality",
+    "calm",
+    "understated elegance",
+    "stability",
+    "practicality",
+    "dependability"
+  ],
+  "complementary_colors": [
+    "#071625"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Graphite",
+      "swatches": [
+        "#251607",
+        "#4A3214",
+        "#704E21"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#251607",
+        "#8B4513",
+        "#A0522D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Text emphasis"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Formal wear",
+      "Accessories",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Graphite Sofa",
+      "description": "A modern sofa upholstered in graphite-colored fabric, providing a sophisticated and comfortable seating option.",
+      "image_url": "https://example.com/graphite-sofa.jpg"
+    },
+    {
+      "title": "Graphite Kitchen Cabinets",
+      "description": "Sleek kitchen cabinets finished in a graphite hue, creating a contemporary and elegant kitchen space.",
+      "image_url": "https://example.com/graphite-kitchen.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a subtle gradient.",
+    "Combine with metallic accents for a touch of luxury.",
+    "Use as a neutral backdrop for brighter, bolder colors."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Graphite!",
+  "seo_meta": {
+    "title": "Graphite Color Meaning: Understanding the Psychology of #251607",
+    "description": "Discover the meaning and symbolism of Graphite (#251607), its psychological associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T14:55:26.576363+00:00",
+  "updated_at": "2025-06-01T14:55:26.576363+00:00",
+  "slug": "graphite"
+}

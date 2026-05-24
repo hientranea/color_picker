@@ -1,0 +1,81 @@
+{
+  "id": "2ab5b1b3-f829-40e0-bb72-cd8b1e1f9344",
+  "color_name": "Smalt",
+  "hex_code": "#003399",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Smalt, a deep and captivating blue, is associated with trust, intelligence, and authority. It evokes feelings of serenity and peace, while also conveying stability and confidence. It is often used to represent knowledge, power, and integrity, making it a popular choice for institutions and brands seeking to project a reliable and trustworthy image.",
+  "emotional_associations": [
+    "Trust",
+    "Intelligence",
+    "Serenity",
+    "Stability",
+    "Authority"
+  ],
+  "complementary_colors": [
+    "#FFCC00"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#003399",
+        "#66B2FF",
+        "#ADD8E6",
+        "#001A66"
+      ]
+    },
+    {
+      "name": "Classic & Clean",
+      "swatches": [
+        "#003399",
+        "#FFFFFF",
+        "#E5E5E5",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Suits",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Branding",
+      "description": "Many financial institutions use Smalt to project stability and trustworthiness in their branding materials.",
+      "image_url": "https://example.com/smalt_corporate.jpg"
+    },
+    {
+      "title": "Educational Websites",
+      "description": "Smalt is often used in educational websites and materials to convey knowledge and intelligence.",
+      "image_url": "https://example.com/smalt_education.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm yellows for contrast.",
+    "Use with grays for a sophisticated look.",
+    "Combine with lighter blues for a calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Smalt Color Meaning: Understanding #003399",
+    "description": "Discover the meaning, associations, and best uses for the color Smalt (#003399) in design and branding."
+  },
+  "created_at": "2025-06-01T14:36:32.178393+00:00",
+  "updated_at": "2025-06-01T14:36:32.178393+00:00",
+  "slug": "smalt"
+}

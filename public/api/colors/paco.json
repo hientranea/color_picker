@@ -1,0 +1,82 @@
+{
+  "id": "9ee2c79a-e86b-476b-88a6-08448b8da492",
+  "color_name": "Paco",
+  "hex_code": "#411F10",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Paco is a grounding color, evoking feelings of stability, earthiness, and understated sophistication. It suggests reliability and a connection to nature, offering a sense of comfort and security. This color often resonates with those seeking simplicity and a retreat from the complexities of modern life.",
+  "emotional_associations": [
+    "stability",
+    "earthiness",
+    "comfort",
+    "reliability",
+    "understated sophistication"
+  ],
+  "complementary_colors": [
+    "#103241"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#411F10",
+        "#A68B64",
+        "#E3D5CA",
+        "#7E685A"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#411F10",
+        "#60310E",
+        "#946B2D",
+        "#C8A675"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Outerwear",
+      "Boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a rich Paco hue adds warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a cozy wooden cabin stained in a Paco-like color blends seamlessly with the natural surroundings.",
+      "image_url": "https://example.com/wooden_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural palette.",
+    "Accent with gold or brass for a touch of elegance.",
+    "Combine with greens for an earthy feel.",
+    "Use with blues for a calming contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create stunning palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Paco Color Meaning: Understanding #411F10",
+    "description": "Discover the meaning of Paco (#411F10), its psychological effects, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:11:41.867669+00:00",
+  "updated_at": "2025-06-01T15:11:41.867669+00:00",
+  "slug": "paco"
+}

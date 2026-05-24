@@ -1,0 +1,78 @@
+{
+  "id": "f4727f66-2863-47d6-be22-a26199318a09",
+  "color_name": "Merlin",
+  "hex_code": "#413C37",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Merlin, a deep, muted brown, evokes feelings of stability, resilience, and groundedness. It suggests a connection to the earth, history, and tradition, offering a sense of calm and quiet strength. This color often represents reliability and endurance, embodying a steadfast and dependable presence.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "groundedness",
+    "resilience",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#C1C6C9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#413C37",
+        "#7A6E62",
+        "#B3A89D",
+        "#EBE6DF"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#413C37",
+        "#8B4513",
+        "#CD853F",
+        "#F4A460"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "borders"
+    ],
+    "food_beverage": [
+      "coffee packaging",
+      "chocolate branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "outerwear",
+      "footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Boots",
+      "description": "Classic leather boots in a rich Merlin color.",
+      "image_url": "https://example.com/merlin_boots.jpg"
+    },
+    {
+      "title": "Wooden Furniture",
+      "description": "Solid wood furniture stained in a deep Merlin shade.",
+      "image_url": "https://example.com/merlin_furniture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Use with metallics for a touch of luxury.",
+    "Combine with greens for a nature-inspired palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Merlin Color Meaning: Understanding #413C37",
+    "description": "Explore the meaning, psychology, and best uses of the color Merlin (#413C37) in design, branding, and more."
+  },
+  "created_at": "2025-06-01T15:11:56.579932+00:00",
+  "updated_at": "2025-06-01T15:11:56.579932+00:00",
+  "slug": "merlin"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "fcd38842-f3c2-4db4-87ff-eb50d57583bd",
+  "color_name": "Tall Poppy",
+  "hex_code": "#B32D29",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tall Poppy evokes a sense of energy, passion, and boldness. It is a color that commands attention and can symbolize courage, strength, and a zest for life. This shade of red, softened with hints of brown, creates a feeling of warmth and groundedness, balancing the intensity with a touch of sophistication.",
+  "emotional_associations": [
+    "passion",
+    "energy",
+    "warmth",
+    "courage",
+    "strength",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#2990B3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Harvest",
+      "swatches": [
+        "#B32D29",
+        "#E0A96F",
+        "#785A46",
+        "#F2F1E8"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#B32D29",
+        "#594A4E",
+        "#A2958F",
+        "#D6CEC9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Restaurant branding",
+      "Spice packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening wear",
+      "Statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Poppy Fields",
+      "description": "Fields of tall poppy flowers swaying in the breeze, symbolizing remembrance and beauty.",
+      "image_url": "https://example.com/poppy_fields.jpg"
+    },
+    {
+      "title": "Luxury Car Interior",
+      "description": "The rich, deep red of a tall poppy leather interior in a high-end sports car.",
+      "image_url": "https://example.com/car_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Use as an accent color against a dark background for maximum impact.",
+    "Combine with teal or turquoise for a vibrant, complementary contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Tall Poppy Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning and associations of the Tall Poppy color (#B32D29), along with complementary colors, palette suggestions, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:15:51.530249+00:00",
+  "updated_at": "2025-06-01T16:15:51.530249+00:00",
+  "slug": "tall-poppy"
+}

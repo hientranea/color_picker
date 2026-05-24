@@ -1,0 +1,80 @@
+{
+  "id": "a0c2f186-be2b-4b0a-89ff-58042620db16",
+  "color_name": "Alpine",
+  "hex_code": "#AF8F2C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Alpine evokes feelings of groundedness and natural stability. It suggests a connection to nature and the outdoors, promoting a sense of calm and reliability. It can also symbolize growth, resilience, and a quiet strength.",
+  "emotional_associations": [
+    "earthiness",
+    "stability",
+    "calm",
+    "nature",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#2CAF83"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#AF8F2C",
+        "#736220",
+        "#D4C28D",
+        "#A68A64",
+        "#E8E2D7"
+      ]
+    },
+    {
+      "name": "Alpine Dusk",
+      "swatches": [
+        "#AF8F2C",
+        "#4A4E69",
+        "#9A8C98",
+        "#C9ADA7",
+        "#F2E9E4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Natural beverage labels"
+    ],
+    "wellness": [
+      "Spas",
+      "Eco-friendly product branding"
+    ],
+    "fashion": [
+      "Outdoor clothing",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mountain Landscape Painting",
+      "description": "An oil painting capturing the serene beauty of an alpine valley at dawn.",
+      "image_url": "https://example.com/alpine_painting.jpg"
+    },
+    {
+      "title": "Sustainable Clothing Brand",
+      "description": "A brand using Alpine in their logo and marketing to highlight their commitment to eco-friendly practices.",
+      "image_url": "https://example.com/alpine_clothing.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted neutrals for a sophisticated look.",
+    "Combine with blues and greens for a natural, calming palette.",
+    "Use as an accent color to add a touch of earthiness."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore complementary colors and create stunning palettes with our color picker!",
+  "seo_meta": {
+    "title": "Alpine Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Alpine (#AF8F2C), its psychological associations, complementary colors, and suggested palettes for your design projects."
+  },
+  "created_at": "2025-06-01T16:13:20.473357+00:00",
+  "updated_at": "2025-06-01T16:13:20.473357+00:00",
+  "slug": "alpine"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "13afa1e9-c059-4188-a9c9-09168c0fe33b",
+  "color_name": "Feijoa",
+  "hex_code": "#9FDD8C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Feijoa, a soft, muted green, evokes feelings of freshness, tranquility, and connection to nature. It suggests growth, renewal, and balance, often associated with health and well-being. This calming hue promotes a sense of serenity and harmony, making it a comforting and reassuring color choice.",
+  "emotional_associations": [
+    "tranquility",
+    "freshness",
+    "nature",
+    "health",
+    "growth"
+  ],
+  "complementary_colors": [
+    "#DD8C9F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#9FDD8C",
+        "#FFFFFF",
+        "#D3E4CD",
+        "#74AFAD"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#9FDD8C",
+        "#A68DAD",
+        "#84544A",
+        "#E0BBE4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Calming dashboard backgrounds",
+      "Eco-friendly app themes",
+      "Health and wellness app interfaces"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy beverage branding",
+      "Restaurant interiors emphasizing freshness"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Spring/summer collections",
+      "Casual wear",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Home Decor",
+      "description": "A living room featuring walls painted in a Feijoa-inspired hue, complemented by natural wood furniture and indoor plants, creating a serene and eco-conscious atmosphere.",
+      "image_url": "https://example.com/feijoa_home.jpg"
+    },
+    {
+      "title": "Organic Skincare Packaging",
+      "description": "A line of organic skincare products packaged in Feijoa-colored containers, conveying a sense of natural ingredients and gentle care.",
+      "image_url": "https://example.com/feijoa_skincare.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like white, cream, or gray for a clean and minimalist look.",
+    "Combine with earthy tones such as brown or beige for a warm and inviting feel.",
+    "Use with complementary colors like muted reds or pinks for a balanced contrast.",
+    "Incorporate natural textures like wood or stone to enhance the connection to nature."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to discover endless possibilities with Feijoa and other beautiful shades!",
+  "seo_meta": {
+    "title": "Feijoa Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning and associations of Feijoa (#9FDD8C), including its psychological effects, complementary colors, suggested palettes, and real-world applications."
+  },
+  "created_at": "2025-06-01T16:03:44.278907+00:00",
+  "updated_at": "2025-06-01T16:03:44.278907+00:00",
+  "slug": "feijoa"
+}

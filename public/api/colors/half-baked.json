@@ -1,0 +1,82 @@
+{
+  "id": "0bf94fd6-9541-417a-b8af-1988aeb95b3f",
+  "color_name": "Half Baked",
+  "hex_code": "#85C4CC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Half Baked, a muted teal, evokes feelings of tranquility and calm. It represents a sense of balance between the vibrancy of blue and the grounding properties of green, suggesting stability, growth, and gentle optimism. This color fosters a sense of peace and can encourage contemplation and reflection.",
+  "emotional_associations": [
+    "calm",
+    "tranquility",
+    "balance",
+    "growth",
+    "optimism"
+  ],
+  "complementary_colors": [
+    "#CC8585"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Escape",
+      "swatches": [
+        "#85C4CC",
+        "#D4E9ED",
+        "#A6DCE0",
+        "#63B1B8"
+      ]
+    },
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#85C4CC",
+        "#F2EBD3",
+        "#73A897",
+        "#4A6F60"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Settings panels"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Activewear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Home Interior",
+      "description": "A living room featuring walls painted in a similar teal hue, creating a calming and inviting space.",
+      "image_url": "https://example.com/coastal_home.jpg"
+    },
+    {
+      "title": "Wellness App Interface",
+      "description": "A meditation app using a soft teal color scheme to promote relaxation and mindfulness.",
+      "image_url": "https://example.com/wellness_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creamy whites for a clean look.",
+    "Combine with muted golds for subtle warmth.",
+    "Use with deeper blues for a monochromatic scheme.",
+    "Contrast with coral tones for a vibrant pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Half Baked Color Meaning: Psychology, Palettes, and Uses | Color Meanings",
+    "description": "Discover the meaning of Half Baked (#85C4CC), its psychological effects, and how to use it in design, branding, and more. Find complementary colors and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:48:59.842174+00:00",
+  "updated_at": "2025-06-01T15:48:59.842174+00:00",
+  "slug": "half-baked"
+}

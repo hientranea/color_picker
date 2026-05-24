@@ -1,0 +1,81 @@
+{
+  "id": "f625449f-28ab-409b-afdf-88cca3a03bb5",
+  "color_name": "East Side",
+  "hex_code": "#AC91CE",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "East Side, a muted lavender, often evokes feelings of tranquility and sophistication. Its blend of purple and gray suggests creativity balanced with composure. It encourages introspection and can be associated with wisdom and refined taste, making it a color that inspires both contemplation and artistry.",
+  "emotional_associations": [
+    "Tranquility",
+    "Sophistication",
+    "Wisdom",
+    "Creativity",
+    "Composure"
+  ],
+  "complementary_colors": [
+    "#CEB791"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Dusk",
+      "swatches": [
+        "#AC91CE",
+        "#D8C2E8",
+        "#79639A",
+        "#F2F2F2",
+        "#555555"
+      ]
+    },
+    {
+      "name": "Modern Vintage",
+      "swatches": [
+        "#AC91CE",
+        "#B08EAD",
+        "#E0D1ED",
+        "#634D61",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Calming notification shades"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Elegant evening wear",
+      "Casual knitwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lavender Field at Dusk",
+      "description": "The rolling hills of lavender fields during the golden hour embody the serene beauty of East Side.",
+      "image_url": "https://example.com/lavender_field.jpg"
+    },
+    {
+      "title": "Amethyst Geode",
+      "description": "The intricate patterns and calming hues of an amethyst geode perfectly reflect the sophistication of East Side.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft grays for a minimalist look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with muted greens for a natural, calming palette.",
+    "Contrast with a deep burgundy for a dramatic effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "East Side Color Meaning: Understanding #AC91CE | [Your Blog Name]",
+    "description": "Discover the meaning, psychology, and best uses of East Side (#AC91CE), a sophisticated lavender color. Explore palettes and industry applications."
+  },
+  "created_at": "2025-06-01T16:10:45.676664+00:00",
+  "updated_at": "2025-06-01T16:10:45.676664+00:00",
+  "slug": "east-side"
+}

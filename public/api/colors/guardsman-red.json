@@ -1,0 +1,82 @@
+{
+  "id": "88744e5f-4a2e-4c13-a892-e177eaf4249e",
+  "color_name": "Guardsman Red",
+  "hex_code": "#BA0101",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Guardsman Red is a powerful and assertive color, often associated with excitement, energy, and courage. It can evoke feelings of passion and intensity, while also signifying strength and leadership. This bold hue commands attention and can be used to create a sense of urgency or importance.",
+  "emotional_associations": [
+    "passion",
+    "energy",
+    "courage",
+    "excitement",
+    "strength"
+  ],
+  "complementary_colors": [
+    "#01BABA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#BA0101",
+        "#D46A4E",
+        "#E9C46A",
+        "#2A9D8F",
+        "#264653"
+      ]
+    },
+    {
+      "name": "Bold & Modern",
+      "swatches": [
+        "#BA0101",
+        "#FFFFFF",
+        "#000000",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Highlighting critical alerts",
+      "Interactive buttons",
+      "Progress bars"
+    ],
+    "food_beverage": [
+      "Branding for spicy sauces",
+      "Packaging for energy drinks",
+      "Restaurant interior design to stimulate appetite"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Statement dresses",
+      "Bold accessories",
+      "Lipstick and nail polish"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ferrari",
+      "description": "The iconic red color synonymous with Ferrari racing cars symbolizes speed and luxury.",
+      "image_url": "url_to_ferrari_image.jpg"
+    },
+    {
+      "title": "London Bus",
+      "description": "The bright red color of London buses makes them easily recognizable and a symbol of the city.",
+      "image_url": "url_to_london_bus_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Use with gold accents for a luxurious feel.",
+    "Combine with teal or turquoise for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options with our interactive color picker and find the perfect shades for your project!",
+  "seo_meta": {
+    "title": "Guardsman Red: Color Meaning, Psychology, and Design Ideas",
+    "description": "Discover the meaning of Guardsman Red, its psychological effects, and how to use this powerful color in your designs."
+  },
+  "created_at": "2025-06-01T16:20:26.56497+00:00",
+  "updated_at": "2025-06-01T16:20:26.56497+00:00",
+  "slug": "guardsman-red"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "521aa79a-d209-47fd-8737-0656059db94c",
+  "color_name": "Opium",
+  "hex_code": "#8E6F70",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Opium, a muted and mysterious color, evokes a sense of sophistication and introspection. It suggests a subtle strength and a quiet confidence, often associated with luxury, exclusivity, and a hint of the unconventional. This color can also represent a connection to the past and a deep appreciation for timeless elegance.",
+  "emotional_associations": [
+    "Sophistication",
+    "Mystery",
+    "Elegance",
+    "Introspection",
+    "Luxury"
+  ],
+  "complementary_colors": [
+    "#6F8E8D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#8E6F70",
+        "#D4C1AA",
+        "#A9927D",
+        "#5C4033"
+      ]
+    },
+    {
+      "name": "Modern Minimalism",
+      "swatches": [
+        "#8E6F70",
+        "#F0EAD6",
+        "#A8A495",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds for dashboards",
+      "Text highlights for data analysis tools"
+    ],
+    "food_beverage": [
+      "Packaging for premium chocolates",
+      "Branding for craft coffee roasters"
+    ],
+    "wellness": [
+      "Color schemes for meditation apps",
+      "Branding for aromatherapy products"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Luxury accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Leather Sofa",
+      "description": "A vintage leather sofa in a shade reminiscent of Opium, showcasing timeless elegance.",
+      "image_url": "https://example.com/opium_sofa.jpg"
+    },
+    {
+      "title": "Boutique Hotel Lobby",
+      "description": "The walls of a boutique hotel lobby are painted in a sophisticated Opium hue, creating a welcoming and luxurious atmosphere.",
+      "image_url": "https://example.com/opium_lobby.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creamy off-whites for a classic look.",
+    "Combine with deep blues for a sophisticated contrast.",
+    "Accent with gold or brass for added luxury.",
+    "Use with natural wood tones for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different color combinations and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Opium Color Meaning: Understanding #8E6F70 | Color Psychology",
+    "description": "Discover the meaning, psychology, and best uses for the Opium color (#8E6F70). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:54:58.307075+00:00",
+  "updated_at": "2025-06-01T15:54:58.307075+00:00",
+  "slug": "opium"
+}

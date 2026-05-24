@@ -1,0 +1,77 @@
+{
+  "id": "1c46db4e-3c01-437b-b8d2-2a82c73d2e39",
+  "color_name": "Milano Red",
+  "hex_code": "#B81104",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Milano Red is a bold and passionate color, often associated with energy, excitement, and intensity. It can evoke feelings of confidence, courage, and a sense of urgency. It is a powerful color that demands attention and can be used to create a strong and memorable impression. However, in excess, it can also be perceived as aggressive or overwhelming.",
+  "emotional_associations": [
+    "passion",
+    "energy",
+    "excitement",
+    "courage",
+    "urgency"
+  ],
+  "complementary_colors": [
+    "#04B0B8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Warmth",
+      "swatches": [
+        "#B81104",
+        "#D45500",
+        "#F2A338",
+        "#6B4800"
+      ]
+    },
+    {
+      "name": "Bold Contrast",
+      "swatches": [
+        "#B81104",
+        "#FFFFFF",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Tomato sauces",
+      "Red wines",
+      "Spicy snacks"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Lipstick",
+      "Statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ferrari",
+      "description": "The iconic color of Ferrari sports cars embodies speed and luxury.",
+      "image_url": "url_to_ferrari_image.jpg"
+    },
+    {
+      "title": "Coca-Cola Logo",
+      "description": "The Coca-Cola logo's vibrant red evokes feelings of happiness and refreshment.",
+      "image_url": "url_to_coca_cola_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with black for a sophisticated look.",
+    "Use with white for a clean and modern feel.",
+    "Combine with gold for a touch of luxury.",
+    "Balance with cool grays for a contemporary style."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade of red for your next project!",
+  "seo_meta": {
+    "title": "Milano Red Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Milano Red, its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:19:06.817274+00:00",
+  "updated_at": "2025-06-01T16:19:06.817274+00:00",
+  "slug": "milano-red"
+}

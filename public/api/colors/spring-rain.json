@@ -1,0 +1,81 @@
+{
+  "id": "b66a422f-588d-40e2-a2b2-db6d64c5b784",
+  "color_name": "Spring Rain",
+  "hex_code": "#ACCBB1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Spring Rain evokes feelings of tranquility, renewal, and freshness. It is associated with nature, growth, and a sense of calm optimism. This color can promote relaxation and a feeling of being refreshed, like a gentle spring shower cleansing the earth.",
+  "emotional_associations": [
+    "tranquility",
+    "renewal",
+    "freshness",
+    "calm",
+    "optimism"
+  ],
+  "complementary_colors": [
+    "#BBACBC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Morning Dew",
+      "swatches": [
+        "#ACCBB1",
+        "#D4E9D3",
+        "#97C4A8",
+        "#70A189",
+        "#497D6A"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#ACCBB1",
+        "#E6DDC4",
+        "#CDB38B",
+        "#A38A52",
+        "#796139"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Calming data visualizations"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Spring and summer collections",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior Design",
+      "description": "A spa uses Spring Rain as the primary color for its walls and linens to create a relaxing and refreshing atmosphere.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Yoga Studio Branding",
+      "description": "A yoga studio incorporates Spring Rain in its logo and website design to convey a sense of calm and well-being.",
+      "image_url": "https://example.com/yoga_studio.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a sophisticated look.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with soft yellows for a bright and cheerful palette.",
+    "Contrast with muted reds for a balanced design."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to discover more harmonious colors for your next project.",
+  "seo_meta": {
+    "title": "Spring Rain Color Meaning: Understanding #ACCBB1",
+    "description": "Discover the meaning, psychology, and best uses for the color Spring Rain (#ACCBB1). Find complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T16:11:35.389392+00:00",
+  "updated_at": "2025-06-01T16:11:35.389392+00:00",
+  "slug": "spring-rain"
+}

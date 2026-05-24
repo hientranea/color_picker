@@ -1,0 +1,79 @@
+{
+  "id": "50e4a9a5-75dd-4916-9aaa-daba922ada22",
+  "color_name": "Danube",
+  "hex_code": "#6093D1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Danube, a serene blue with a touch of gray, evokes feelings of tranquility, stability, and trust. It suggests reliability and calmness, often associated with professionalism and clear communication. The color promotes a sense of peace and can inspire confidence and loyalty.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "trust",
+    "professionalism",
+    "peace",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#D18E60"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#6093D1",
+        "#A7D1E6",
+        "#F2EBD3",
+        "#807563"
+      ]
+    },
+    {
+      "name": "Corporate Calm",
+      "swatches": [
+        "#6093D1",
+        "#E5E8EC",
+        "#36454F",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Business casual attire",
+      "Formal wear accents"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Danube River",
+      "description": "The Danube River itself, a source of inspiration for the color's name, reflecting its calming presence.",
+      "image_url": "https://example.com/danube_river.jpg"
+    },
+    {
+      "title": "Modern Office Space",
+      "description": "Walls painted in Danube to promote focus and a sense of calm in a busy office.",
+      "image_url": "https://example.com/office_danube.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a professional look.",
+    "Combine with warmer tones for a balanced palette.",
+    "Use with lighter blues for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Danube and create your perfect color scheme with our color picker tool!",
+  "seo_meta": {
+    "title": "Danube Color Meaning: Understanding #6093D1",
+    "description": "Explore the meaning, psychology, and uses of Danube (#6093D1), a calming and professional blue color. Find complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:26:30.519646+00:00",
+  "updated_at": "2025-06-01T15:26:30.519646+00:00",
+  "slug": "danube"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "00b57633-7ba3-46cd-be96-8166dde87e69",
+  "color_name": "Spring Leaves",
+  "hex_code": "#578363",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Spring Leaves evokes feelings of growth, renewal, and tranquility. It is associated with nature, health, and well-being, often bringing a sense of calm and balance. This color can promote feelings of optimism and harmony, reminding us of fresh starts and the vibrancy of the natural world.",
+  "emotional_associations": [
+    "growth",
+    "tranquility",
+    "renewal",
+    "health",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#835777"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#578363",
+        "#A3B18A",
+        "#3D405B",
+        "#81B29A",
+        "#F2CC8F"
+      ]
+    },
+    {
+      "name": "Serene Forest",
+      "swatches": [
+        "#578363",
+        "#6B8E23",
+        "#228B22",
+        "#3CB371",
+        "#90EE90"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health apps",
+      "Wellness platforms"
+    ],
+    "food_beverage": [
+      "Organic food branding",
+      "Herbal tea packaging"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Eco-friendly clothing",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The lush green canopy of a vibrant forest embodies the essence of Spring Leaves, radiating life and vitality.",
+      "image_url": "url_to_forest_canopy_image.jpg"
+    },
+    {
+      "title": "Herbal Tea Packaging",
+      "description": "A calming herbal tea package using Spring Leaves to signify natural ingredients and a soothing experience.",
+      "image_url": "url_to_herbal_tea_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones like browns and creams.",
+    "Combine with muted blues for a calming effect.",
+    "Use gold accents for a touch of luxury.",
+    "Contrast with deep reds for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Spring Leaves Color Meaning: Hex Code, Psychology, and Palettes",
+    "description": "Discover the meaning of Spring Leaves (#578363), its psychological associations, complementary colors, and suggested palettes for your design projects."
+  },
+  "created_at": "2025-06-01T15:22:44.056679+00:00",
+  "updated_at": "2025-06-01T15:22:44.056679+00:00",
+  "slug": "spring-leaves"
+}

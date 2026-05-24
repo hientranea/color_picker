@@ -1,0 +1,83 @@
+{
+  "id": "d8d88f83-2cd8-4d91-9c45-812ee559ba0f",
+  "color_name": "Shuttle Gray",
+  "hex_code": "#5F6672",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Shuttle Gray evokes feelings of sophistication, neutrality, and calmness. It represents a balance between stability and modernity, making it a versatile choice for conveying a sense of understated elegance and reliability. Its association with technology and efficiency further enhances its appeal in contemporary contexts.",
+  "emotional_associations": [
+    "Sophistication",
+    "Neutrality",
+    "Calmness",
+    "Reliability",
+    "Technology"
+  ],
+  "complementary_colors": [
+    "#726B5F",
+    "#C0B4A3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#5F6672",
+        "#888D94",
+        "#B2B5B9",
+        "#DCDDDF"
+      ]
+    },
+    {
+      "name": "Modern Tech",
+      "swatches": [
+        "#5F6672",
+        "#007BFF",
+        "#FFFFFF",
+        "#343A40"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Application backgrounds",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Professional attire",
+      "Accessories",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Shuttle Gray walls, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/shuttle_gray_apartment.jpg"
+    },
+    {
+      "title": "Corporate Website Design",
+      "description": "A tech company's website using Shuttle Gray as the primary background color to convey reliability and innovation.",
+      "image_url": "https://example.com/shuttle_gray_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with blues for a calming effect.",
+    "Combine with whites for a clean and modern look.",
+    "Accent with vibrant colors for a pop of energy.",
+    "Use with wood tones for a warm and inviting feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Shuttle Gray Color Meaning: Understanding #5F6672",
+    "description": "Discover the meaning, psychology, and best uses of Shuttle Gray (#5F6672) in design and branding. Explore palettes and pairing ideas."
+  },
+  "created_at": "2025-06-01T15:25:47.670258+00:00",
+  "updated_at": "2025-06-01T15:25:47.670258+00:00",
+  "slug": "shuttle-gray"
+}

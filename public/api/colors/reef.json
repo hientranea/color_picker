@@ -1,0 +1,82 @@
+{
+  "id": "974cd77a-8ee1-4692-9cb5-e8f5bf1db9d8",
+  "color_name": "Reef",
+  "hex_code": "#C9FFA2",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Reef, with its blend of green and yellow, evokes feelings of freshness, growth, and vitality, often associated with nature and renewal. It can also inspire a sense of optimism and clarity, promoting a calming yet invigorating atmosphere, fostering a connection with the natural world and feelings of well-being.",
+  "emotional_associations": [
+    "growth",
+    "freshness",
+    "vitality",
+    "optimism",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#FF94D1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#C9FFA2",
+        "#70A49D",
+        "#F2E7D5",
+        "#594A4E"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#C9FFA2",
+        "#FFFACD",
+        "#A2D2FF",
+        "#FFB347"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health tracking apps",
+      "Eco-friendly product interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Branding for plant-based products"
+    ],
+    "wellness": [
+      "Spa and wellness center branding",
+      "Meditation app design"
+    ],
+    "fashion": [
+      "Spring/Summer collections",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Organic Grocery Store Interior",
+      "description": "The interior of a health food store utilizes Reef to create a refreshing and healthy atmosphere.",
+      "image_url": "https://example.com/reef_grocery.jpg"
+    },
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "Sustainable product packaging featuring Reef to highlight the brand's commitment to environmental responsibility.",
+      "image_url": "https://example.com/reef_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals for a calming effect.",
+    "Combine with brighter yellows for added energy.",
+    "Use alongside blues for a nature-inspired palette.",
+    "Contrast with darker greens for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Reef Color Meaning: Understanding the Psychology of #C9FFA2",
+    "description": "Discover the meaning, psychology, and best uses of the Reef color (#C9FFA2) in design, branding, and art. Explore complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T16:32:34.823206+00:00",
+  "updated_at": "2025-06-01T16:32:34.823206+00:00",
+  "slug": "reef"
+}

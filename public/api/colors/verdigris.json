@@ -1,0 +1,73 @@
+{
+  "id": "d0c74e71-376f-4234-9bd8-ca9465508238",
+  "color_name": "Verdigris",
+  "hex_code": "#5D5E37",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Verdigris, a complex blend of green and blue with subtle undertones of gray, often evokes a sense of antiquity and history. It suggests a connection to the past, carrying an aura of aged elegance and time-worn beauty. The color can also inspire feelings of tranquility and reflection, reminiscent of weathered copper and the patina of age.",
+  "emotional_associations": [
+    "history",
+    "tranquility",
+    "antiquity",
+    "elegance",
+    "reflection"
+  ],
+  "complementary_colors": [
+    "#E2E1C8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#5D5E37",
+        "#A7A991",
+        "#D4D5C5",
+        "#82846C"
+      ]
+    },
+    {
+      "name": "Vintage Serenity",
+      "swatches": [
+        "#5D5E37",
+        "#879E85",
+        "#B2C9B2",
+        "#DDE4DD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Vintage-inspired clothing",
+      "Accessories with a weathered look",
+      "Outerwear with a rugged feel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Copper Roof Patina",
+      "description": "The natural verdigris patina on a copper roof, showcasing the color's association with aged beauty.",
+      "image_url": "url_to_copper_roof_image.jpg"
+    },
+    {
+      "title": "Vintage Metal Hardware",
+      "description": "Old metal hardware, like door handles and hinges, with a verdigris finish adding character to furniture.",
+      "image_url": "url_to_vintage_hardware_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a vintage look.",
+    "Combine with earthy tones like browns and terracotta for a natural feel.",
+    "Use as an accent color with neutrals for a subtle pop of color."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Verdigris Color Meaning: History, Symbolism, and Design Ideas",
+    "description": "Discover the meaning and symbolism of verdigris, explore color palettes, and find inspiration for using this unique color in your designs."
+  },
+  "created_at": "2025-06-01T15:24:58.518852+00:00",
+  "updated_at": "2025-06-01T15:24:58.518852+00:00",
+  "slug": "verdigris"
+}

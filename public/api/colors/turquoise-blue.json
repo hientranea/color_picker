@@ -1,0 +1,83 @@
+{
+  "id": "eff0abd6-8a2a-43dc-89bc-2715e8c099cb",
+  "color_name": "Turquoise Blue",
+  "hex_code": "#6CDAE7",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Turquoise Blue combines the tranquility of blue with the growth aspects of green, offering a balance of calmness and invigoration. It is often associated with open communication, clarity of thought, and emotional balance. This color promotes creativity and inspiration, encouraging a sense of peace and well-being.",
+  "emotional_associations": [
+    "tranquility",
+    "clarity",
+    "creativity",
+    "balance",
+    "inspiration"
+  ],
+  "complementary_colors": [
+    "#E76C77"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#6CDAE7",
+        "#A0DDE0",
+        "#FFFFFF",
+        "#003049",
+        "#D62828"
+      ]
+    },
+    {
+      "name": "Spa Retreat",
+      "swatches": [
+        "#6CDAE7",
+        "#E0FFFF",
+        "#F5F5DC",
+        "#8FBC8F",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Mobile app designs",
+      "Data visualization tools"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Casual wear",
+      "Accessory accents"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Turquoise Coast, Turkey",
+      "description": "The vibrant turquoise waters along the Turkish Riviera exemplify the color's natural beauty and allure.",
+      "image_url": "https://example.com/turquoise_coast.jpg"
+    },
+    {
+      "title": "Tiffany & Co. Packaging",
+      "description": "Tiffany Blue, a shade of turquoise, is synonymous with luxury and elegance in their iconic packaging.",
+      "image_url": "https://example.com/tiffany_blue.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with coral for a vibrant contrast.",
+    "Combine with cream or white for a serene look.",
+    "Use with gold or silver accents for an elegant touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with Turquoise Blue and create your perfect color scheme using our color palette generator!",
+  "seo_meta": {
+    "title": "Turquoise Blue Color Meaning: Symbolism, Combinations & Uses",
+    "description": "Discover the meaning, psychology, and best uses of Turquoise Blue. Explore complementary colors, palettes, and real-world examples to inspire your designs."
+  },
+  "created_at": "2025-06-01T15:32:55.269771+00:00",
+  "updated_at": "2025-06-01T15:32:55.269771+00:00",
+  "slug": "turquoise-blue"
+}

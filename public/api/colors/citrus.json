@@ -1,0 +1,81 @@
+{
+  "id": "1fbbf010-e24b-444f-8250-2d22061d33bb",
+  "color_name": "Citrus",
+  "hex_code": "#A1C50A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Citrus, a vibrant blend of yellow and green, evokes feelings of freshness, vitality, and optimism. It represents growth, energy, and a connection to nature. This color is often associated with cleanliness, health, and a sense of renewal, making it a stimulating and uplifting choice.",
+  "emotional_associations": [
+    "freshness",
+    "vitality",
+    "optimism",
+    "energy",
+    "growth"
+  ],
+  "complementary_colors": [
+    "#C50AA1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Citrus Burst",
+      "swatches": [
+        "#A1C50A",
+        "#F0E68C",
+        "#708090",
+        "#2E8B57"
+      ]
+    },
+    {
+      "name": "Earthy Citrus",
+      "swatches": [
+        "#A1C50A",
+        "#D2B48C",
+        "#8B4513",
+        "#556B2F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard accents for positive performance indicators",
+      "Interactive elements to draw attention"
+    ],
+    "food_beverage": [
+      "Packaging for organic or health-focused products",
+      "Restaurant branding promoting fresh ingredients"
+    ],
+    "wellness": [
+      "Spa and health clinic branding",
+      "Natural product packaging"
+    ],
+    "fashion": [
+      "Sportswear accents",
+      "Summer apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lemon-Lime Soda Branding",
+      "description": "A popular soda brand utilizes citrus green in its packaging to convey a refreshing and zesty flavor.",
+      "image_url": "url_to_lemon_lime_soda_image.jpg"
+    },
+    {
+      "title": "Organic Food Storefront",
+      "description": "A health food store incorporates citrus green in its signage and interior design to create a vibrant and welcoming atmosphere.",
+      "image_url": "url_to_organic_store_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with neutrals like gray or beige for a balanced look.",
+    "Use with complementary colors like purple for a striking contrast.",
+    "Pair with other greens for a nature-inspired palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Citrus Color Meaning: Psychology, Palettes, and Uses | [Your Blog Name]",
+    "description": "Discover the meaning of the citrus color, its psychological associations, suggested palettes, and real-world applications. Learn how to effectively use citrus in your designs and branding."
+  },
+  "created_at": "2025-06-01T16:04:12.899685+00:00",
+  "updated_at": "2025-06-01T16:04:12.899685+00:00",
+  "slug": "citrus"
+}

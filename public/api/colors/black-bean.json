@@ -1,0 +1,81 @@
+{
+  "id": "e0d941ce-643d-42dd-829a-3df5ef48dbc7",
+  "color_name": "Black Bean",
+  "hex_code": "#081910",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Black Bean evokes feelings of groundedness, security, and understated elegance. It represents a connection to nature and the earth, suggesting stability, reliability, and a quiet strength. Its subtle depth provides a sense of comfort and reassurance, often associated with sophistication and timelessness.",
+  "emotional_associations": [
+    "groundedness",
+    "security",
+    "elegance",
+    "stability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#F7E6E9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#081910",
+        "#3A4A42",
+        "#748A80",
+        "#B2BEB5"
+      ]
+    },
+    {
+      "name": "Modern Rustic",
+      "swatches": [
+        "#081910",
+        "#8B4513",
+        "#A0522D",
+        "#DEB887"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Dark mode interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for coffee and chocolate",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Black Bean Sofa",
+      "description": "A comfortable and stylish sofa in a Black Bean hue, perfect for a modern living room.",
+      "image_url": "https://example.com/black-bean-sofa.jpg"
+    },
+    {
+      "title": "Black Bean Coffee Packaging",
+      "description": "Elegant packaging for a premium coffee brand, using Black Bean as its primary color.",
+      "image_url": "https://example.com/black-bean-coffee.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with metallic accents like gold or copper for sophistication.",
+    "Use with natural textures like wood and stone for an earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Black Bean Color Meaning: Symbolism and Design Ideas | Color Meanings",
+    "description": "Discover the meaning and symbolism of Black Bean (#081910). Explore design ideas, complementary colors, and how to use Black Bean in your projects."
+  },
+  "created_at": "2025-06-01T14:44:20.706297+00:00",
+  "updated_at": "2025-06-01T14:44:20.706297+00:00",
+  "slug": "black-bean"
+}

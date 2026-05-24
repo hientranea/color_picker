@@ -1,0 +1,78 @@
+{
+  "id": "ba491aa8-5d09-4e88-8fb5-a15177145cc9",
+  "color_name": "Black Marlin",
+  "hex_code": "#3E2C1C",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Black Marlin evokes feelings of sophistication, stability, and groundedness. It suggests a connection to nature and a sense of timeless elegance. This color can also convey a sense of mystery and depth, often associated with strength and resilience.",
+  "emotional_associations": [
+    "sophistication",
+    "stability",
+    "groundedness",
+    "mystery",
+    "strength"
+  ],
+  "complementary_colors": [
+    "#1C2E3E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#3E2C1C",
+        "#A98D67",
+        "#E3D5C1",
+        "#7A6C5D"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#3E2C1C",
+        "#6B8E23",
+        "#B0E2FF",
+        "#F0FFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "High-end coffee branding",
+      "Whiskey packaging",
+      "Gourmet chocolate labels"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Luxury outerwear",
+      "Leather accessories",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Black Marlin accent walls and natural wood furniture.",
+      "image_url": "https://example.com/black_marlin_apartment.jpg"
+    },
+    {
+      "title": "Luxury Car Exterior",
+      "description": "A sleek sedan with a Black Marlin paint finish.",
+      "image_url": "https://example.com/black_marlin_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with metallic gold for a luxurious feel.",
+    "Combine with natural wood tones for warmth.",
+    "Use with lighter neutrals for contrast.",
+    "Accent with deep greens for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Black Marlin Color Meaning: #3E2C1C - Psychology & Combinations",
+    "description": "Discover the meaning of Black Marlin (#3E2C1C), its psychological associations, and perfect color combinations for your next design project."
+  },
+  "created_at": "2025-06-01T15:09:21.03106+00:00",
+  "updated_at": "2025-06-01T15:09:21.03106+00:00",
+  "slug": "black-marlin"
+}

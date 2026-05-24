@@ -1,0 +1,82 @@
+{
+  "id": "707c9483-2871-44c6-8a83-6cc738c29c34",
+  "color_name": "Water Leaf",
+  "hex_code": "#A1E9DE",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Water Leaf is a serene and calming color, evoking feelings of tranquility and freshness. It promotes clarity of thought and emotional balance, encouraging a sense of peace and rejuvenation. This color is often associated with nature, cleanliness, and healing.",
+  "emotional_associations": [
+    "calm",
+    "freshness",
+    "tranquility",
+    "clarity",
+    "healing"
+  ],
+  "complementary_colors": [
+    "#E9A1A8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#A1E9DE",
+        "#FFFFFF",
+        "#70C1B3",
+        "#247BA0"
+      ]
+    },
+    {
+      "name": "Spa Retreat",
+      "swatches": [
+        "#A1E9DE",
+        "#D5F4E9",
+        "#96E6A1",
+        "#64CCC5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Meditation apps",
+      "Health trackers"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Acupuncture clinics"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Activewear",
+      "Swimsuits"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Water Leaf Painted Bedroom",
+      "description": "A bedroom painted in Water Leaf creates a relaxing and peaceful atmosphere, perfect for rest and rejuvenation.",
+      "image_url": "https://example.com/water-leaf-bedroom.jpg"
+    },
+    {
+      "title": "Water Leaf Yoga Mat",
+      "description": "A yoga mat in Water Leaf promotes a sense of calm and focus during practice.",
+      "image_url": "https://example.com/water-leaf-yoga-mat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and minimalist look.",
+    "Combine with soft grays for a sophisticated palette.",
+    "Use with natural wood tones for a calming and organic feel.",
+    "Accent with pops of coral for a touch of vibrancy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more complementary colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Water Leaf Color Meaning: Calming Serenity | ColorBlog",
+    "description": "Discover the meaning of Water Leaf (#A1E9DE), its psychological associations, and how to use it in design. Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T16:04:26.779045+00:00",
+  "updated_at": "2025-06-01T16:04:26.779045+00:00",
+  "slug": "water-leaf"
+}

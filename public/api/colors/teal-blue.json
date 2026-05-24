@@ -1,0 +1,81 @@
+{
+  "id": "531ec47e-0733-44b2-813d-2f58b961d3a4",
+  "color_name": "Teal Blue",
+  "hex_code": "#044259",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Teal blue combines the calming properties of blue with the revitalizing aspects of green. It is often associated with sophistication, trustworthiness, and stability. This color evokes feelings of serenity and mental clarity, making it a popular choice for environments where focus and relaxation are valued.",
+  "emotional_associations": [
+    "tranquility",
+    "trust",
+    "sophistication",
+    "clarity",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#590404"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#044259",
+        "#A7D1AB",
+        "#E0FFFF",
+        "#77BFC7"
+      ]
+    },
+    {
+      "name": "Elegant Earth",
+      "swatches": [
+        "#044259",
+        "#556B2F",
+        "#C04000",
+        "#E6D8B9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Security applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Swimwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ocean Depths",
+      "description": "A photograph showcasing the deep teal blues of the ocean, emphasizing its tranquility and vastness.",
+      "image_url": "https://example.com/ocean_depths.jpg"
+    },
+    {
+      "title": "Modern Interior",
+      "description": "A living room featuring teal blue accents, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/modern_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with cream for a soft and elegant look.",
+    "Use with coral for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette using our color picker tool.",
+  "seo_meta": {
+    "title": "Teal Blue Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning and symbolism of Teal Blue, explore color palettes, and find inspiration for your next design project."
+  },
+  "created_at": "2025-06-07T08:16:26.551233+00:00",
+  "updated_at": "2025-06-07T08:16:26.551233+00:00",
+  "slug": "teal-blue"
+}

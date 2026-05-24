@@ -1,0 +1,79 @@
+{
+  "id": "1658d0cc-4131-4dd0-8e63-38378c90dc22",
+  "color_name": "Cloud Burst",
+  "hex_code": "#202E54",
+  "wheel_position": "analogous",
+  "psychological_meaning": "Cloud Burst evokes feelings of stability, depth, and sophistication. It is often associated with trust, intelligence, and efficiency, creating a sense of calm and reliability. The color promotes introspection and can inspire contemplation and thoughtful decision-making.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "trust",
+    "sophistication",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#E4D6A0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Deep Sea",
+      "swatches": [
+        "#202E54",
+        "#3E54AC",
+        "#7289DA",
+        "#A6B6E5"
+      ]
+    },
+    {
+      "name": "Earthy Contrast",
+      "swatches": [
+        "#202E54",
+        "#7A6C5D",
+        "#C0B283",
+        "#F4F4F4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Data visualization",
+      "Backgrounds"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Evening Sky",
+      "description": "The deep blue of the evening sky just before nightfall mirrors the depth and tranquility of Cloud Burst.",
+      "image_url": "https://example.com/evening_sky.jpg"
+    },
+    {
+      "title": "Deep Ocean",
+      "description": "The color of the deep ocean, a place of mystery and undiscovered wonders.",
+      "image_url": "https://example.com/deep_ocean.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for balance.",
+    "Use with metallics for a luxurious feel.",
+    "Combine with lighter blues for a serene palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Cloud Burst Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Cloud Burst (#202E54), its psychological associations, complementary colors, and inspiring palettes for your next project."
+  },
+  "created_at": "2025-06-01T14:54:09.304699+00:00",
+  "updated_at": "2025-06-01T14:54:09.304699+00:00",
+  "slug": "cloud-burst"
+}

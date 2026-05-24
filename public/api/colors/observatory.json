@@ -1,0 +1,83 @@
+{
+  "id": "c7556d3f-3cf4-44e2-b514-ff5e33efc249",
+  "color_name": "Observatory",
+  "hex_code": "#02866F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Observatory, a deep teal, evokes feelings of tranquility, sophistication, and connection to nature. It suggests stability, reliability, and a sense of calm contemplation, like gazing at the night sky. This color fosters a sense of balance and harmony, promoting both introspection and a broad perspective.",
+  "emotional_associations": [
+    "tranquility",
+    "sophistication",
+    "nature",
+    "stability",
+    "balance",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#860219"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#02866F",
+        "#A9A18F",
+        "#D4CABB",
+        "#635F53"
+      ]
+    },
+    {
+      "name": "Deep Ocean",
+      "swatches": [
+        "#02866F",
+        "#00334D",
+        "#70A4A9",
+        "#E5F3F3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security applications",
+      "Productivity tools"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear",
+      "Accessories (scarves, bags)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Teal Velvet Couch",
+      "description": "A luxurious teal velvet couch adds a touch of elegance to a modern living room.",
+      "image_url": "https://example.com/teal_couch.jpg"
+    },
+    {
+      "title": "Deep Teal Painted Wall",
+      "description": "A deep teal accent wall creates a calming and sophisticated atmosphere in a bedroom.",
+      "image_url": "https://example.com/teal_wall.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use with gold accents for a touch of luxury.",
+    "Combine with other blues and greens for a monochromatic scheme.",
+    "Contrast with coral or blush for a vibrant statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Observatory Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Observatory (#02866F), its psychological associations, complementary colors, and inspiring palette ideas for your next project."
+  },
+  "created_at": "2025-06-01T14:42:02.916975+00:00",
+  "updated_at": "2025-06-01T14:42:02.916975+00:00",
+  "slug": "observatory"
+}

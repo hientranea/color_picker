@@ -1,0 +1,77 @@
+{
+  "id": "718e3678-3f85-4f37-9878-b5141f339ac7",
+  "color_name": "Brandy Rose",
+  "hex_code": "#BB8983",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Brandy Rose evokes feelings of nostalgia, comfort, and understated elegance. It blends the passion of red with the purity of white and adds a touch of brown, creating a sophisticated and muted tone. This color suggests stability, reliability, and a gentle warmth, often associated with vintage charm and timeless beauty.",
+  "emotional_associations": [
+    "Nostalgia",
+    "Comfort",
+    "Elegance",
+    "Sophistication",
+    "Warmth",
+    "Vintage"
+  ],
+  "complementary_colors": [
+    "#83BBB9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#BB8983",
+        "#D8C29D",
+        "#A6907E",
+        "#E2D7C8"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#BB8983",
+        "#7A6A5A",
+        "#C0B283",
+        "#F4F4F4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Bridal wear",
+      "Lingerie",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Wallpaper",
+      "description": "Brandy Rose is often used in vintage-inspired wallpaper designs to create a comforting and nostalgic atmosphere.",
+      "image_url": "https://example.com/brandy_rose_wallpaper.jpg"
+    },
+    {
+      "title": "Antique Furniture",
+      "description": "This color can be found in antique furniture, adding a touch of elegance and history to a room.",
+      "image_url": "https://example.com/brandy_rose_furniture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a classic look.",
+    "Combine with teal or deep green for a balanced contrast.",
+    "Use with gold accents for an added touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Brandy Rose Color Meaning: Understanding #BB8983",
+    "description": "Discover the meaning, psychology, and best uses for Brandy Rose (#BB8983). Explore palettes, pairings, and real-world examples of this elegant color."
+  },
+  "created_at": "2025-06-01T16:21:23.81553+00:00",
+  "updated_at": "2025-06-01T16:21:23.81553+00:00",
+  "slug": "brandy-rose"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "6cdea692-9e32-4c0f-8250-da7dde5fac9c",
+  "color_name": "Fern",
+  "hex_code": "#63B76C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fern green evokes feelings of nature, growth, and renewal. It is a calming and reassuring color, often associated with stability and endurance. Fern green can also represent hope, vitality, and the environment, promoting a sense of balance and well-being.",
+  "emotional_associations": [
+    "Nature",
+    "Growth",
+    "Renewal",
+    "Calm",
+    "Stability",
+    "Endurance",
+    "Hope",
+    "Vitality"
+  ],
+  "complementary_colors": [
+    "#B7636A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#63B76C",
+        "#A3C9A8",
+        "#D0E7D2",
+        "#8C8C8C",
+        "#595959"
+      ]
+    },
+    {
+      "name": "Forest Floor",
+      "swatches": [
+        "#63B76C",
+        "#4A7D4F",
+        "#2E5231",
+        "#8A6B57",
+        "#C6A389"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Tea branding",
+      "Health food stores"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Fern Forest",
+      "description": "A lush fern forest showcasing the vibrant green hues of nature.",
+      "image_url": "url_to_fern_forest_image.jpg"
+    },
+    {
+      "title": "Organic Tea Packaging",
+      "description": "A tea box with a fern green label, emphasizing the natural and organic qualities of the product.",
+      "image_url": "url_to_tea_packaging_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige and cream for a balanced look.",
+    "Combine with other earthy tones like browns and oranges for a natural feel.",
+    "Use with muted yellows for a calming and harmonious palette.",
+    "Contrast with deep reds for a sophisticated and eye-catching design."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Fern Color Meaning: Understanding #63B76C",
+    "description": "Discover the meaning, psychology, and best uses of fern green (#63B76C), including color palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T15:27:49.379036+00:00",
+  "updated_at": "2025-06-01T15:27:49.379036+00:00",
+  "slug": "fern"
+}

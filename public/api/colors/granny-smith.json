@@ -1,0 +1,81 @@
+{
+  "id": "dc89b0b6-deac-46a0-b399-0463c6a384a7",
+  "color_name": "Granny Smith",
+  "hex_code": "#84A0A0",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Granny Smith evokes a sense of freshness, cleanliness, and tranquility. It combines the grounding qualities of green with the calming influence of blue, promoting feelings of balance and serenity. This color is often associated with nature, health, and a revitalizing energy, making it a pleasant and reassuring choice.",
+  "emotional_associations": [
+    "freshness",
+    "cleanliness",
+    "tranquility",
+    "nature",
+    "health"
+  ],
+  "complementary_colors": [
+    "#A08484"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nature's Retreat",
+      "swatches": [
+        "#84A0A0",
+        "#D3E4CD",
+        "#A9B388",
+        "#6B8E23"
+      ]
+    },
+    {
+      "name": "Serene Morning",
+      "swatches": [
+        "#84A0A0",
+        "#E0FFFF",
+        "#ADD8E6",
+        "#B0E0E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Dashboard interfaces",
+      "Educational apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant branding",
+      "Smoothie labels"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior",
+      "description": "A calming spa interior uses Granny Smith green to promote relaxation.",
+      "image_url": "https://example.com/spa_image.jpg"
+    },
+    {
+      "title": "Organic Food Packaging",
+      "description": "Granny Smith green is featured prominently on packaging for organic applesauce.",
+      "image_url": "https://example.com/applesauce_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a clean look.",
+    "Combine with wood tones for a natural feel.",
+    "Use with brighter greens for a vibrant palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Granny Smith Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning, psychology, and best uses of Granny Smith green (#84A0A0), including complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T15:48:31.467271+00:00",
+  "updated_at": "2025-06-01T15:48:31.467271+00:00",
+  "slug": "granny-smith"
+}

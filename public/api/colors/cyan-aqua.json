@@ -1,0 +1,79 @@
+{
+  "id": "ab22b1b1-197b-49e0-ae14-93053efc30ce",
+  "color_name": "Cyan / Aqua",
+  "hex_code": "#00FFFF",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Cyan evokes feelings of calmness, clarity, and rejuvenation. It is often associated with water, sky, and open spaces, promoting a sense of tranquility and mental clarity. Cyan can also represent innovation, creativity, and communication, making it a popular choice for forward-thinking brands and individuals.",
+  "emotional_associations": [
+    "calmness",
+    "clarity",
+    "rejuvenation",
+    "innovation",
+    "creativity",
+    "communication"
+  ],
+  "complementary_colors": [
+    "#FF0000"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#00FFFF",
+        "#ADD8E6",
+        "#E0FFFF"
+      ]
+    },
+    {
+      "name": "Creative Spark",
+      "swatches": [
+        "#00FFFF",
+        "#FFD700",
+        "#800080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Mobile app designs",
+      "Website layouts"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Athleisure wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Swimming Pool",
+      "description": "A crystal-clear swimming pool reflecting the sky, embodying tranquility and refreshment.",
+      "image_url": "url_to_swimming_pool_image.jpg"
+    },
+    {
+      "title": "Tropical Ocean",
+      "description": "The vibrant cyan waters of a tropical ocean, showcasing the color's natural beauty and association with paradise.",
+      "image_url": "url_to_tropical_ocean_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with coral for a vibrant, tropical feel.",
+    "Use with gray for a sophisticated, calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Cyan / Aqua Color Meaning: Symbolism, Psychology & Palettes",
+    "description": "Discover the meaning of Cyan / Aqua, its psychological effects, emotional associations, and explore stunning color palettes for your next project."
+  },
+  "created_at": "2025-06-01T14:39:31.012121+00:00",
+  "updated_at": "2025-06-01T14:39:31.012121+00:00",
+  "slug": "cyan-aqua"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "5c934f4f-ddbf-43fe-8973-f28ed4beef54",
+  "color_name": "Mantis",
+  "hex_code": "#74C365",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mantis green is associated with nature, growth, and renewal. It evokes feelings of freshness, vitality, and harmony, promoting a sense of balance and peace. This color often represents environmental awareness, sustainability, and a connection to the natural world, making it ideal for brands and designs aiming to convey health, tranquility, and ecological responsibility.",
+  "emotional_associations": [
+    "Nature",
+    "Growth",
+    "Renewal",
+    "Vitality",
+    "Harmony",
+    "Balance",
+    "Peace"
+  ],
+  "complementary_colors": [
+    "#C37482"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#74C365",
+        "#A2D59E",
+        "#D1E7C2",
+        "#FAF9F6"
+      ]
+    },
+    {
+      "name": "Vibrant Growth",
+      "swatches": [
+        "#74C365",
+        "#FFC300",
+        "#3498DB",
+        "#E74C3C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly app interfaces",
+      "Sustainable energy dashboards"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Vegan restaurant branding"
+    ],
+    "wellness": [
+      "Yoga studio branding",
+      "Natural skincare product packaging"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mantis Green Walls",
+      "description": "A calming and refreshing paint color for interior walls, promoting a sense of tranquility and connection to nature.",
+      "image_url": "https://example.com/mantis_green_walls.jpg"
+    },
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "Sustainable packaging for organic food products, conveying a commitment to environmental responsibility and health.",
+      "image_url": "https://example.com/eco_friendly_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a balanced look.",
+    "Combine with earthy tones like brown and terracotta for a natural palette.",
+    "Use with bright accents like yellow or orange for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to create your perfect Mantis green palette today!",
+  "seo_meta": {
+    "title": "Mantis Green Color Meaning: Psychology, Associations & Palettes",
+    "description": "Discover the meaning of Mantis green, its psychological associations, and how to use it in your designs. Explore complementary colors and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:38:37.494338+00:00",
+  "updated_at": "2025-06-01T15:38:37.494338+00:00",
+  "slug": "mantis"
+}

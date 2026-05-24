@@ -1,0 +1,81 @@
+{
+  "id": "50c4eeb3-75a6-48e8-a16b-abd2b2777fe5",
+  "color_name": "Birch",
+  "hex_code": "#373021",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Birch, a muted and earthy tone, evokes feelings of calm, stability, and groundedness. It's associated with nature, simplicity, and understated elegance, suggesting reliability and a connection to the natural world. This color provides a sense of reassurance and tranquility, making it ideal for creating spaces that promote relaxation and a feeling of being centered.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "groundedness",
+    "nature",
+    "simplicity"
+  ],
+  "complementary_colors": [
+    "#212837"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#373021",
+        "#A39780",
+        "#D1C8B2",
+        "#736A57"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#373021",
+        "#80705E",
+        "#E9E3D4",
+        "#594F41"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist apps",
+      "Subtle accents in data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Branding for coffee shops"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Neutral base for outerwear",
+      "Accessories with an understated elegance"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Birch Forest",
+      "description": "The light bark of birch trees provides a calming, neutral backdrop in a natural setting.",
+      "image_url": "https://example.com/birch_forest.jpg"
+    },
+    {
+      "title": "Minimalist Interior",
+      "description": "A living room featuring birch-colored walls and furniture creates a serene and inviting space.",
+      "image_url": "https://example.com/birch_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a soft, calming effect.",
+    "Combine with deep greens or blues to emphasize its natural tones.",
+    "Use as a base color and add pops of brighter colors for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Birch Color Meaning: Psychology, Combinations, and Design Ideas",
+    "description": "Discover the meaning of the color Birch, its psychological effects, ideal color combinations, and design applications. Learn how to use Birch in your next project."
+  },
+  "created_at": "2025-06-01T15:05:08.905902+00:00",
+  "updated_at": "2025-06-01T15:05:08.905902+00:00",
+  "slug": "birch"
+}

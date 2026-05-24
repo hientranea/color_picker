@@ -1,0 +1,82 @@
+{
+  "id": "17f36ce8-53fa-4a84-94fa-b0ca9ae3853f",
+  "color_name": "Hemlock",
+  "hex_code": "#5E5D3B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Hemlock evokes a sense of natural sophistication and understated elegance. It's a color that suggests resilience and quiet strength, often associated with maturity and a connection to the earth. This color can foster feelings of stability and trustworthiness, making it a good choice for brands that want to project a grounded and reliable image.",
+  "emotional_associations": [
+    "Stability",
+    "Resilience",
+    "Sophistication",
+    "Nature",
+    "Trustworthiness"
+  ],
+  "complementary_colors": [
+    "#D8D95E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#5E5D3B",
+        "#A3A18A",
+        "#D4D3C5",
+        "#333333"
+      ]
+    },
+    {
+      "name": "Serene Forest",
+      "swatches": [
+        "#5E5D3B",
+        "#386641",
+        "#6A994E",
+        "#A7D1AB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral accents for data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Branding for sustainable agriculture"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Branding for holistic health products"
+    ],
+    "fashion": [
+      "Autumnal collections",
+      "Sustainable and ethical brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Leather Sofa",
+      "description": "A classic leather sofa in a hemlock shade, radiating timeless elegance.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Organic Cotton Scarf",
+      "description": "A soft and cozy organic cotton scarf in a hemlock hue, perfect for adding a touch of natural sophistication.",
+      "image_url": "https://example.com/cotton_scarf.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with copper or gold accents for warmth.",
+    "Use with deep greens and browns for a natural palette.",
+    "Contrast with brighter yellows or oranges for a bolder statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to find the perfect shades to complement Hemlock!",
+  "seo_meta": {
+    "title": "Hemlock Color Meaning: Understanding #5E5D3B | Color Psychology",
+    "description": "Explore the meaning, psychology, and uses of Hemlock (#5E5D3B). Discover complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:25:27.112936+00:00",
+  "updated_at": "2025-06-01T15:25:27.112936+00:00",
+  "slug": "hemlock"
+}

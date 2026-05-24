@@ -1,0 +1,78 @@
+{
+  "id": "e8a88568-0422-4150-9125-51b5a1bc5ab9",
+  "color_name": "Orange Roughy",
+  "hex_code": "#C45719",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Orange Roughy, a warm and earthy orange, evokes feelings of comfort, energy, and creativity. It's often associated with enthusiasm and adventure, but grounded with a sense of stability. This color can inspire optimism and sociability, making it a welcoming and engaging choice.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "energy",
+    "creativity",
+    "enthusiasm",
+    "optimism"
+  ],
+  "complementary_colors": [
+    "#1992C4"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#C45719",
+        "#E5A26A",
+        "#7A3E10",
+        "#F2D7B5"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#C45719",
+        "#8B4513",
+        "#D2B48C",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Restaurant branding",
+      "Spices packaging",
+      "Autumn-themed products"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Autumn wear",
+      "Bohemian style",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Autumn Leaves",
+      "description": "The vibrant color of autumn leaves as they change during fall season.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    },
+    {
+      "title": "Rustic Furniture",
+      "description": "Furniture stained or painted with an Orange Roughy hue for a warm and inviting feel.",
+      "image_url": "https://example.com/rustic_furniture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a balanced look.",
+    "Combine with teal or turquoise for a complementary contrast.",
+    "Use with other earth tones for a warm and inviting palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and find the perfect color match with our color picker tool!",
+  "seo_meta": {
+    "title": "Orange Roughy Color Meaning, Code & Combinations",
+    "description": "Discover the meaning, associations, and complementary colors of Orange Roughy (#C45719). Learn how to use this color in your designs and branding."
+  },
+  "created_at": "2025-06-01T16:27:15.778992+00:00",
+  "updated_at": "2025-06-01T16:27:15.778992+00:00",
+  "slug": "orange-roughy"
+}

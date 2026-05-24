@@ -1,0 +1,80 @@
+{
+  "id": "040fbc82-f9ae-4741-9465-b8ee8a25d8f1",
+  "color_name": "Waterloo",
+  "hex_code": "#7B7C94",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Waterloo is a muted, sophisticated color that evokes a sense of calm and stability. It suggests maturity, reliability, and thoughtfulness, often associated with introspection and contemplation. It's a color that doesn't demand attention but rather offers a quiet, grounded presence.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "sophistication",
+    "maturity",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#947B7C",
+    "#7C947B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#7B7C94",
+        "#D3D4D9",
+        "#A6A7AD",
+        "#EBECEF"
+      ]
+    },
+    {
+      "name": "Grounded Earth",
+      "swatches": [
+        "#7B7C94",
+        "#A69B80",
+        "#595347",
+        "#C6B9A1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for dashboards",
+      "Neutral color for data visualization",
+      "Text color for readability"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Winter coats",
+      "Professional attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Waterloo walls create a serene backdrop for contemporary furniture.",
+      "image_url": "https://example.com/waterloo_apartment.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A Waterloo logo conveys trustworthiness and stability.",
+      "image_url": "https://example.com/waterloo_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a minimalist look.",
+    "Combine with warm browns for an earthy feel.",
+    "Use with teal for a sophisticated contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with Waterloo and discover harmonious color combinations using our color palette tool!",
+  "seo_meta": {
+    "title": "Waterloo Color Meaning: The Psychology of #7B7C94",
+    "description": "Explore the meaning, associations, and best uses of the color Waterloo (#7B7C94) in design and branding."
+  },
+  "created_at": "2025-06-01T15:42:53.285901+00:00",
+  "updated_at": "2025-06-01T15:42:53.285901+00:00",
+  "slug": "waterloo"
+}

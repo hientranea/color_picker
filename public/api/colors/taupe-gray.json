@@ -1,0 +1,90 @@
+{
+  "id": "870b624c-e0b5-4d3b-9bdf-b94c9b10ba2c",
+  "color_name": "Taupe Gray",
+  "hex_code": "#B3AF95",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Taupe gray represents sophistication and timelessness, blending the grounding qualities of gray with the warmth of brown. It evokes feelings of calmness, reliability, and understated elegance. It's often associated with maturity, practicality, and a refined aesthetic, making it suitable for designs that aim to project stability and a sense of quiet confidence.",
+  "emotional_associations": [
+    "Sophistication",
+    "Timelessness",
+    "Calmness",
+    "Reliability",
+    "Elegance",
+    "Neutrality"
+  ],
+  "complementary_colors": [
+    "#9599B3",
+    "#FFD480"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#B3AF95",
+        "#736B5E",
+        "#D3D0C2",
+        "#A69A88",
+        "#59544E"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#B3AF95",
+        "#FFFFFF",
+        "#E5E5E5",
+        "#333333",
+        "#808080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for professional applications",
+      "Subtle dividers and separators",
+      "Neutral color for data visualizations"
+    ],
+    "food_beverage": [
+      "Packaging for gourmet coffee or tea",
+      "Branding for organic food products",
+      "Restaurant interiors aiming for a sophisticated ambiance"
+    ],
+    "wellness": [
+      "Spa and relaxation branding",
+      "Yoga studio design",
+      "Therapeutic product packaging"
+    ],
+    "fashion": [
+      "Classic outerwear and accessories",
+      "Business attire",
+      "Sophisticated casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Living Room Interior",
+      "description": "A modern living room featuring taupe gray walls, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/taupe_living_room.jpg"
+    },
+    {
+      "title": "Business Card Design",
+      "description": "A business card with a taupe gray background, conveying a sense of professionalism and reliability.",
+      "image_url": "https://example.com/taupe_business_card.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with off-white for a serene look.",
+    "Combine with muted greens for an earthy feel.",
+    "Add metallic accents for a touch of luxury.",
+    "Use with deep blues for a balanced contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of gray and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Taupe Gray Color Meaning: Symbolism, Psychology, and Design Tips",
+    "description": "Discover the meaning of taupe gray, its psychological associations, and how to use it effectively in your designs. Explore complementary colors and palettes for inspiration."
+  },
+  "created_at": "2025-06-01T16:16:15.424267+00:00",
+  "updated_at": "2025-06-01T16:16:15.424267+00:00",
+  "slug": "taupe-gray"
+}

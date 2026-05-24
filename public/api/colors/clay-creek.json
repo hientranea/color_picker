@@ -1,0 +1,86 @@
+{
+  "id": "a77ff23d-0b62-462c-af77-6c65ef2229f1",
+  "color_name": "Clay Creek",
+  "hex_code": "#8A8360",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Clay Creek evokes feelings of stability, earthiness, and understated elegance. It suggests a connection to nature and a sense of calm reliability. This color often implies a refined taste and a preference for timeless qualities over fleeting trends, making it suitable for conveying trust and dependability.",
+  "emotional_associations": [
+    "stability",
+    "earthiness",
+    "elegance",
+    "calm",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#60878A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#8A8360",
+        "#D4D0C5",
+        "#A69D8A",
+        "#595447"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#8A8360",
+        "#C2B49F",
+        "#736A57",
+        "#EAE4DA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for dashboards",
+      "Subtle interface elements",
+      "Data visualization backgrounds"
+    ],
+    "food_beverage": [
+      "Packaging for artisanal products",
+      "Restaurant interiors to evoke comfort",
+      "Branding for organic foods"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Natural health product packaging"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories such as belts and bags",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Pottery",
+      "description": "Handmade pottery showcasing the natural beauty of clay.",
+      "image_url": "https://example.com/pottery.jpg"
+    },
+    {
+      "title": "Earthy Interiors",
+      "description": "A living room designed with Clay Creek colored walls and natural materials.",
+      "image_url": "https://example.com/interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a classic look.",
+    "Combine with deeper browns for a more grounded feel.",
+    "Use with muted greens for a natural and organic palette.",
+    "Contrast with teals for a sophisticated, contemporary vibe."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations and create your perfect palette using our color palette generator!",
+  "seo_meta": {
+    "title": "Clay Creek Color Meaning: Understanding #8A8360",
+    "description": "Discover the meaning, psychology, and best uses for Clay Creek (#8A8360). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:51:42.985587+00:00",
+  "updated_at": "2025-06-01T15:51:42.985587+00:00",
+  "slug": "clay-creek"
+}

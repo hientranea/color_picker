@@ -1,0 +1,78 @@
+{
+  "id": "472c86bd-1461-4f9e-811a-e7978017d85c",
+  "color_name": "Heath",
+  "hex_code": "#541012",
+  "wheel_position": "N/A",
+  "psychological_meaning": "Heath evokes feelings of grounded stability and quiet strength. It is associated with reliability, resilience, and the beauty of nature in its rawest form. This color suggests a sense of understated elegance and enduring presence, promoting a feeling of calm and centeredness.",
+  "emotional_associations": [
+    "grounded",
+    "stable",
+    "resilient",
+    "calm",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#125452"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Warmth",
+      "swatches": [
+        "#541012",
+        "#A0522D",
+        "#D2B48C",
+        "#E9DABB"
+      ]
+    },
+    {
+      "name": "Rustic Retreat",
+      "swatches": [
+        "#541012",
+        "#702963",
+        "#8B4513",
+        "#C04000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Autumn wear",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rustic Cabin",
+      "description": "The exterior of a log cabin, blending with the surrounding forest.",
+      "image_url": "url_to_cabin_image.jpg"
+    },
+    {
+      "title": "Antique Leather Journal",
+      "description": "A well-worn leather journal with a deep heath-colored cover.",
+      "image_url": "url_to_journal_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with creams and beiges for a classic look.",
+    "Pair with deep greens for a natural, earthy feel.",
+    "Use as a grounding accent color in a modern palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades for your next project.",
+  "seo_meta": {
+    "title": "Heath Color Meaning: Understanding #541012",
+    "description": "Discover the meaning, psychology, and best uses of the color Heath (#541012) in design and branding. Find complementary colors and palette inspiration."
+  },
+  "created_at": "2025-06-01T15:21:40.872451+00:00",
+  "updated_at": "2025-06-01T15:21:40.872451+00:00",
+  "slug": "heath"
+}

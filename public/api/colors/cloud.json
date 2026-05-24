@@ -1,0 +1,84 @@
+{
+  "id": "51fe0ce6-f182-473c-925d-0b4da7d68e44",
+  "color_name": "Cloud",
+  "hex_code": "#C7C4BF",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Cloud evokes feelings of calmness, serenity, and neutrality. It is often associated with peace, tranquility, and a sense of spaciousness. Cloud can also represent stability, reliability, and a quiet strength, making it a versatile choice for designs aiming to inspire trust and relaxation.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "neutrality",
+    "peace",
+    "tranquility",
+    "stability",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#BFC2C7",
+    "#807D78"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Mist",
+      "swatches": [
+        "#C7C4BF",
+        "#E8E5E2",
+        "#A6A39E",
+        "#65625E"
+      ]
+    },
+    {
+      "name": "Tranquil Dawn",
+      "swatches": [
+        "#C7C4BF",
+        "#B0BEC5",
+        "#CFD8DC",
+        "#607D8B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Subtle UI elements",
+      "Neutral text color"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Neutral accents",
+      "Understated elegance"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cloudy Sky",
+      "description": "A gray cloud formation against a bright sky.",
+      "image_url": "https://example.com/cloudy_sky.jpg"
+    },
+    {
+      "title": "Foggy Mountain",
+      "description": "A mountain range shrouded in a light cloud cover.",
+      "image_url": "https://example.com/foggy_mountain.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with muted blues for a calming effect.",
+    "Pair with darker grays for a sophisticated contrast.",
+    "Use with natural wood tones for an organic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Cloud Color Meaning: Understanding #C7C4BF",
+    "description": "Explore the meaning, psychology, and uses of the color Cloud (#C7C4BF) in design and branding. Discover complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T16:30:20.282688+00:00",
+  "updated_at": "2025-06-01T16:30:20.282688+00:00",
+  "slug": "cloud"
+}

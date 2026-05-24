@@ -1,0 +1,85 @@
+{
+  "id": "4bdc243b-e14d-49fc-ad4d-e37e529073a5",
+  "color_name": "Sushi",
+  "hex_code": "#87AB39",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sushi, a muted green, evokes feelings of freshness, health, and tranquility. It's reminiscent of nature and conveys a sense of balance and harmony. This color promotes a calming and reassuring atmosphere, often associated with growth, renewal, and environmental consciousness. It suggests a connection to the natural world and a sense of well-being.",
+  "emotional_associations": [
+    "freshness",
+    "health",
+    "tranquility",
+    "nature",
+    "balance",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#AB8739"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#87AB39",
+        "#D4A373",
+        "#F2E7D5",
+        "#597E3F",
+        "#A68A64"
+      ]
+    },
+    {
+      "name": "Fresh Start",
+      "swatches": [
+        "#87AB39",
+        "#FFFFFF",
+        "#E8F5E9",
+        "#4CAF50",
+        "#C8E6C9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health apps",
+      "Environmental dashboards"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy snack branding"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Organic Grocery Store Interior",
+      "description": "The interior of an organic grocery store uses Sushi green to create a calming and natural shopping environment.",
+      "image_url": "https://example.com/organic_grocery.jpg"
+    },
+    {
+      "title": "Sustainable Fashion Brand Website",
+      "description": "A sustainable fashion brand's website features Sushi green to highlight their commitment to eco-friendly practices.",
+      "image_url": "https://example.com/sustainable_fashion.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a clean look.",
+    "Combine with browns and tans for an earthy feel.",
+    "Use with brighter greens for a vibrant, natural palette.",
+    "Accent with muted yellows for a subtle contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect color palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Sushi Color Meaning: Understanding #87AB39 | Color Meanings",
+    "description": "Discover the meaning of Sushi (#87AB39), its psychological effects, and how to use it in your designs. Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:50:25.517596+00:00",
+  "updated_at": "2025-06-01T15:50:25.517596+00:00",
+  "slug": "sushi"
+}

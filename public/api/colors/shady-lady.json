@@ -1,0 +1,85 @@
+{
+  "id": "9d609bcf-5cc8-4e13-8902-687ed3920028",
+  "color_name": "Shady Lady",
+  "hex_code": "#AAA5A9",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Shady Lady evokes a sense of sophistication, neutrality, and subtle elegance. It suggests a calming presence with an air of mystery and quiet confidence. This color is often associated with balance and can create a feeling of stability and understated beauty.",
+  "emotional_associations": [
+    "sophistication",
+    "neutrality",
+    "elegance",
+    "balance",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#A9AEA5",
+    "#545850"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#AAA5A9",
+        "#D3D0CB",
+        "#F0ECE3",
+        "#A9B388"
+      ]
+    },
+    {
+      "name": "Modern Stone",
+      "swatches": [
+        "#AAA5A9",
+        "#736F6E",
+        "#4A4746",
+        "#E0DDCF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral interface elements",
+      "Calm dashboards"
+    ],
+    "food_beverage": [
+      "Elegant packaging for teas or coffee",
+      "Restaurant interiors for a sophisticated ambiance"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa interiors",
+      "Yoga accessories"
+    ],
+    "fashion": [
+      "Sophisticated knitwear",
+      "Versatile accessories",
+      "Elegant outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Shady Lady walls, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/shady_lady_apartment.jpg"
+    },
+    {
+      "title": "Luxury Car Exterior",
+      "description": "A luxury sedan with a Shady Lady paint job, exuding understated elegance and class.",
+      "image_url": "https://example.com/shady_lady_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with deep blues for a sophisticated look.",
+    "Use with white for a clean and modern aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades that complement Shady Lady for your next project!",
+  "seo_meta": {
+    "title": "Shady Lady Color Meaning: Psychology, Palettes & Uses | Color Meaning Blog",
+    "description": "Discover the meaning of Shady Lady (#AAA5A9), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:09:27.590717+00:00",
+  "updated_at": "2025-06-01T16:09:27.590717+00:00",
+  "slug": "shady-lady"
+}

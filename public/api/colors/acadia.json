@@ -1,0 +1,77 @@
+{
+  "id": "2993affa-d066-42c7-88ab-bc1fb379104d",
+  "color_name": "Acadia",
+  "hex_code": "#1B1404",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Acadia is a deeply grounding color that evokes feelings of stability, history, and the earth. It often represents reliability, resilience, and a connection to nature. Its subdued nature can also inspire contemplation and introspection, reminiscent of old books and quiet libraries.",
+  "emotional_associations": [
+    "stability",
+    "earthiness",
+    "history",
+    "contemplation"
+  ],
+  "complementary_colors": [
+    "#04111B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#1B1404",
+        "#4A442D",
+        "#787457",
+        "#A6A481"
+      ]
+    },
+    {
+      "name": "Vintage Library",
+      "swatches": [
+        "#1B1404",
+        "#332D1A",
+        "#4C4631",
+        "#655F48"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Meditation studios",
+      "Yoga mats"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Book Cover",
+      "description": "A worn leather-bound book with gold lettering.",
+      "image_url": "https://example.com/antique_book.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "A pile of decaying leaves on the ground.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Contrast with teal for a bold statement.",
+    "Use with other earthy tones for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades with our color palette generator!",
+  "seo_meta": {
+    "title": "Acadia Color Meaning: Exploring the Depths of #1B1404",
+    "description": "Uncover the meaning and psychology behind Acadia (#1B1404). Explore its emotional associations, complementary colors, and practical uses in design."
+  },
+  "created_at": "2025-06-01T14:51:58.821843+00:00",
+  "updated_at": "2025-06-01T14:51:58.821843+00:00",
+  "slug": "acadia"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "2661f6b8-80b7-4133-98b8-34421d87e273",
+  "color_name": "Clover",
+  "hex_code": "#384910",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Clover green evokes feelings of nature, growth, and renewal. It is associated with good luck, prosperity, and harmony. The color promotes a sense of calm and balance, while also suggesting stability and endurance. It is often used to represent environmental awareness and sustainability.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "luck",
+    "harmony",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#B5A638"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#384910",
+        "#A7C44C",
+        "#E8E46E",
+        "#D9D0B3"
+      ]
+    },
+    {
+      "name": "Forest Glade",
+      "swatches": [
+        "#384910",
+        "#5A6E2A",
+        "#82994A",
+        "#A9C36A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Four-Leaf Clover",
+      "description": "A symbol of good luck and Irish heritage, representing fortune and prosperity.",
+      "image_url": "url_to_clover_image.jpg"
+    },
+    {
+      "title": "Lush Forest Canopy",
+      "description": "The dense green canopy of a forest, symbolizing growth, nature, and tranquility.",
+      "image_url": "url_to_forest_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural look.",
+    "Combine with gold for a touch of luxury.",
+    "Use with muted yellows for a cheerful palette.",
+    "Contrast with deep reds for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar nature-inspired colors with our color picker tool.",
+  "seo_meta": {
+    "title": "Clover Color Meaning: Discover the Psychology of #384910",
+    "description": "Uncover the meaning of Clover green (#384910), its emotional associations, complementary colors, and practical uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:05:52.241655+00:00",
+  "updated_at": "2025-06-01T15:05:52.241655+00:00",
+  "slug": "clover"
+}

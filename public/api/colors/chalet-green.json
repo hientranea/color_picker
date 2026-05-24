@@ -1,0 +1,84 @@
+{
+  "id": "6ea96ae0-6747-46ba-84ff-c0911ecece25",
+  "color_name": "Chalet Green",
+  "hex_code": "#516E3D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Chalet Green evokes feelings of nature, tranquility, and stability. It suggests growth, balance, and a connection to the earth. This color is often associated with health, renewal, and environmental awareness, creating a sense of calm and well-being.",
+  "emotional_associations": [
+    "nature",
+    "calm",
+    "stability",
+    "growth",
+    "health"
+  ],
+  "complementary_colors": [
+    "#6E5162"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#516E3D",
+        "#A2B59F",
+        "#E3DAC9",
+        "#73626E",
+        "#3D516E"
+      ]
+    },
+    {
+      "name": "Forest Retreat",
+      "swatches": [
+        "#516E3D",
+        "#3D5144",
+        "#829273",
+        "#B5C6A2",
+        "#D7E3C9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Sustainable living platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa websites",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "National Park Signage",
+      "description": "Signage within national parks often uses Chalet Green to blend with the natural surroundings and convey a sense of environmental stewardship.",
+      "image_url": "https://example.com/national_park_sign.jpg"
+    },
+    {
+      "title": "Sustainable Product Packaging",
+      "description": "Eco-friendly brands use Chalet Green in their packaging to highlight their commitment to sustainability and natural ingredients.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted earth tones for a natural look.",
+    "Combine with creams and beiges for a calming palette.",
+    "Use with deep browns and grays for a sophisticated feel.",
+    "Contrast with warm oranges or yellows for a vibrant touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors for your next project with our color palette generator!",
+  "seo_meta": {
+    "title": "Chalet Green Color Meaning: Discover Its Symbolism and Uses",
+    "description": "Uncover the meaning of Chalet Green, its psychological effects, and how to use this earthy color in design, branding, and art for a natural and calming aesthetic."
+  },
+  "created_at": "2025-06-01T15:20:38.674621+00:00",
+  "updated_at": "2025-06-01T15:20:38.674621+00:00",
+  "slug": "chalet-green"
+}

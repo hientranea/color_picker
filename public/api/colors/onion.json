@@ -1,0 +1,78 @@
+{
+  "id": "0eb3fc50-0fa9-4936-a64b-2b817cdaf439",
+  "color_name": "Onion",
+  "hex_code": "#2F270E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Onion, a muted, earthy brown, evokes a sense of groundedness, stability, and rustic simplicity. It often represents practicality, reliability, and a connection to nature. This color can also suggest a feeling of warmth and comfort, reminiscent of home-cooked meals and natural materials. It is generally perceived as a neutral and unassuming color, creating a calming and balanced atmosphere.",
+  "emotional_associations": [
+    "groundedness",
+    "stability",
+    "rustic",
+    "comfort",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#0E162F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Comfort",
+      "swatches": [
+        "#2F270E",
+        "#A39273",
+        "#E8E0D1",
+        "#6B5E47"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#2F270E",
+        "#7A644A",
+        "#C6B08F",
+        "#403324"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic produce",
+      "Branding for farm-to-table restaurants"
+    ],
+    "wellness": [
+      "Spa interiors to promote relaxation",
+      "Packaging for natural skincare products"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Accessories like belts and bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rustic Kitchen",
+      "description": "A kitchen featuring cabinets painted in a similar shade, creating a warm and inviting space.",
+      "image_url": "https://example.com/rustic_kitchen.jpg"
+    },
+    {
+      "title": "Leather Handbag",
+      "description": "A classic leather handbag in a similar shade of brown, exuding timeless elegance and durability.",
+      "image_url": "https://example.com/leather_handbag.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a neutral palette.",
+    "Combine with greens and browns for a natural, earthy feel.",
+    "Accent with gold or bronze for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and palettes using our color picker tool!",
+  "seo_meta": {
+    "title": "Onion Color Meaning: Discover the Psychology and Uses of #2F270E",
+    "description": "Uncover the meaning behind the Onion color (#2F270E). Explore its psychological effects, emotional associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:00:49.596444+00:00",
+  "updated_at": "2025-06-01T15:00:49.596444+00:00",
+  "slug": "onion"
+}

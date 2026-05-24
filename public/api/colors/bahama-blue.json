@@ -1,0 +1,80 @@
+{
+  "id": "5a660aef-1f2f-42ae-9e0f-ac4b45d8be1a",
+  "color_name": "Bahama Blue",
+  "hex_code": "#026395",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bahama Blue evokes feelings of tranquility, stability, and depth. It is reminiscent of the ocean's serene waters and clear skies, promoting a sense of peace and relaxation. This color can also inspire trust and confidence, making it a reliable choice for conveying professionalism and dependability.",
+  "emotional_associations": [
+    "calm",
+    "trust",
+    "stability",
+    "professionalism",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#952F02"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Oceanic Calm",
+      "swatches": [
+        "#026395",
+        "#ADD8E6",
+        "#FFFFFF",
+        "#77B5FE"
+      ]
+    },
+    {
+      "name": "Professional Trust",
+      "swatches": [
+        "#026395",
+        "#E0E0E0",
+        "#333333",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces",
+      "Navigation menus"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa websites",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Formal wear accents",
+      "Swimwear",
+      "Accessories (ties, scarves)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Bahama Blue Ocean",
+      "description": "A photo of the clear blue waters of the Bahamas, showcasing the depth and serenity of the color.",
+      "image_url": "https://example.com/bahama_blue_ocean.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A company logo using Bahama Blue to convey trust and reliability.",
+      "image_url": "https://example.com/bahama_blue_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like white and grey for a clean, professional look.",
+    "Use with light blues and greens for an oceanic theme.",
+    "Contrast with warm oranges or yellows for a vibrant, energetic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of blue and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Bahama Blue Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Bahama Blue, its psychological effects, complementary colors, and inspiring palette ideas for your next project."
+  },
+  "created_at": "2025-06-01T14:41:55.861249+00:00",
+  "updated_at": "2025-06-01T14:41:55.861249+00:00",
+  "slug": "bahama-blue"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "9dab8bd1-cae9-4fa2-b103-c1192ea51f17",
+  "color_name": "Finlandia",
+  "hex_code": "#556D56",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Finlandia, a muted olive green, evokes feelings of tranquility, stability, and connection to nature. It suggests maturity, resilience, and a sense of groundedness. This color promotes balance and harmony, making it ideal for environments that require calm and focus.",
+  "emotional_associations": [
+    "calm",
+    "nature",
+    "stability",
+    "balance",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#6D556D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#556D56",
+        "#A3B18A",
+        "#D3CCA2",
+        "#73626B"
+      ]
+    },
+    {
+      "name": "Forest Floor",
+      "swatches": [
+        "#556D56",
+        "#3A4F41",
+        "#84A98C",
+        "#CAD2C5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards requiring a calming presence",
+      "Apps focused on nature or sustainability"
+    ],
+    "food_beverage": [
+      "Packaging for organic or natural food products",
+      "Restaurant decor emphasizing a farm-to-table concept"
+    ],
+    "wellness": [
+      "Yoga studios and meditation spaces",
+      "Branding for natural skincare products"
+    ],
+    "fashion": [
+      "Outdoor and adventure clothing",
+      "Accessories with an earthy, understated aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Finnish Forest",
+      "description": "The dense forests of Finland inspire a sense of peace and tranquility.",
+      "image_url": "https://example.com/finnish_forest.jpg"
+    },
+    {
+      "title": "Olive Grove",
+      "description": "The muted green of olive groves represents resilience and natural beauty.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with neutrals like beige or cream for a serene palette.",
+    "Use with warm browns and oranges for an autumnal feel.",
+    "Pair with muted blues for a balanced and calming combination."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Finlandia Color Meaning: Understanding #556D56",
+    "description": "Discover the meaning, psychology, and best uses of Finlandia (#556D56), a tranquil and grounding olive green. Explore palettes, pairings, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:22:23.092318+00:00",
+  "updated_at": "2025-06-01T15:22:23.092318+00:00",
+  "slug": "finlandia"
+}

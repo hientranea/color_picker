@@ -1,0 +1,82 @@
+{
+  "id": "3873b6d3-c06d-4bcf-95f8-6fb2cfd87f4e",
+  "color_name": "Axolotl",
+  "hex_code": "#4E6649",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Axolotl, a muted, earthy green, evokes feelings of tranquility, stability, and connection with nature. It suggests growth, renewal, and a sense of groundedness. It can also symbolize sophistication and understated elegance, making it a versatile choice for conveying a sense of calm assurance.",
+  "emotional_associations": [
+    "calm",
+    "nature",
+    "growth",
+    "stability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#664E61"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4E6649",
+        "#A3B18A",
+        "#766A56",
+        "#E0CBA8"
+      ]
+    },
+    {
+      "name": "Serene Greens",
+      "swatches": [
+        "#4E6649",
+        "#6A897D",
+        "#93A98D",
+        "#B4C7A8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for dashboards",
+      "Subtle accents in data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors focused on sustainability"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Accessories",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Nature Retreat Cabin",
+      "description": "Exterior siding of a cabin blends seamlessly with the forest environment.",
+      "image_url": "https://example.com/cabin.jpg"
+    },
+    {
+      "title": "Minimalist Office Space",
+      "description": "Accent wall in a modern office promotes a sense of calm and productivity.",
+      "image_url": "https://example.com/office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or cream for a calming palette.",
+    "Combine with warm browns for an earthy feel.",
+    "Use with gold accents for a touch of sophistication.",
+    "Contrast with brighter greens for a vibrant look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Axolotl Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Axolotl (#4E6649), its emotional associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:18:58.407261+00:00",
+  "updated_at": "2025-06-01T15:18:58.407261+00:00",
+  "slug": "axolotl"
+}

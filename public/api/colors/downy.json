@@ -1,0 +1,88 @@
+{
+  "id": "db45cc6f-61e5-4362-aff8-580e7b251c5b",
+  "color_name": "Downy",
+  "hex_code": "#6FD0C5",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Downy evokes feelings of tranquility, freshness, and serenity. Its gentle and airy nature promotes relaxation and peace. This color is often associated with cleanliness, purity, and a sense of calm. It can also suggest a connection to nature, particularly water and sky, fostering a sense of openness and possibility.",
+  "emotional_associations": [
+    "calm",
+    "freshness",
+    "peace",
+    "serenity",
+    "cleanliness"
+  ],
+  "complementary_colors": [
+    "#D06F7A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Breeze",
+      "swatches": [
+        "#6FD0C5",
+        "#A0DDE2",
+        "#E0F2F1",
+        "#FFFFFF",
+        "#34495E"
+      ]
+    },
+    {
+      "name": "Morning Dew",
+      "swatches": [
+        "#6FD0C5",
+        "#B3E5FC",
+        "#81D4FA",
+        "#4FC3F7",
+        "#29B6F6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Meditation apps",
+      "Weather applications"
+    ],
+    "food_beverage": [
+      "Bottled water labels",
+      "Herbal tea packaging",
+      "Spa-themed cafes"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Massage therapy centers",
+      "Mindfulness apps"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Beachwear",
+      "Casual shirts"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior",
+      "description": "A modern spa featuring Downy-colored walls to promote relaxation.",
+      "image_url": "https://example.com/spa.jpg"
+    },
+    {
+      "title": "Yoga Mat",
+      "description": "A calming Downy yoga mat for peaceful exercise.",
+      "image_url": "https://example.com/yoga_mat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and airy feel.",
+    "Combine with light grays for a sophisticated look.",
+    "Accent with coral for a pop of warmth.",
+    "Use with natural wood tones for an organic aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with Downy and other calming colors using our color palette generator!",
+  "seo_meta": {
+    "title": "Downy Color Meaning: Understanding #6FD0C5",
+    "description": "Explore the meaning, psychology, and uses of the Downy color (#6FD0C5). Discover complementary colors and palette ideas for your next design project."
+  },
+  "created_at": "2025-06-01T15:34:48.806839+00:00",
+  "updated_at": "2025-06-01T15:34:48.806839+00:00",
+  "slug": "downy"
+}

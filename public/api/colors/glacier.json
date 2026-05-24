@@ -1,0 +1,86 @@
+{
+  "id": "d86cd1b7-f43c-4c2a-abf5-9ee3dc9612d3",
+  "color_name": "Glacier",
+  "hex_code": "#80B3C4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Glacier evokes a sense of calmness, serenity, and purity. It's associated with clarity, coolness, and a refreshing quality, reminiscent of glacial ice. The color promotes a feeling of peace and tranquility, often linked to introspection and contemplation. It can also symbolize resilience and the enduring power of nature.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "purity",
+    "clarity",
+    "coolness",
+    "refreshing"
+  ],
+  "complementary_colors": [
+    "#C48073"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Winter Solstice",
+      "swatches": [
+        "#80B3C4",
+        "#D4E6F1",
+        "#2E4053",
+        "#97AFC7"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#80B3C4",
+        "#A7D1AB",
+        "#F0E68C",
+        "#B0E2FF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data Visualization",
+      "Security Software",
+      "Productivity Apps"
+    ],
+    "food_beverage": [
+      "Bottled Water Brands",
+      "Seafood Restaurants",
+      "Ice Cream Packaging"
+    ],
+    "wellness": [
+      "Meditation Apps",
+      "Spa Branding",
+      "Yoga Studios"
+    ],
+    "fashion": [
+      "Winter Outerwear",
+      "Athletic Apparel",
+      "Swimwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Glacier National Park",
+      "description": "The pristine glacial lakes of Glacier National Park reflect the serene beauty and cool tones of Glacier.",
+      "image_url": "https://example.com/glacier_park.jpg"
+    },
+    {
+      "title": "Modern Scandinavian Interior",
+      "description": "A living room featuring walls painted in Glacier, creating a calming and minimalist aesthetic.",
+      "image_url": "https://example.com/scandinavian_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for balance.",
+    "Use with shades of blue and green for a tranquil effect.",
+    "Accent with metallic silver or chrome for a modern touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Glacier and bring your vision to life!",
+  "seo_meta": {
+    "title": "Glacier Color Meaning: The Psychology of #80B3C4",
+    "description": "Discover the meaning and psychology of the color Glacier (#80B3C4), its emotional associations, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:47:01.641432+00:00",
+  "updated_at": "2025-06-01T15:47:01.641432+00:00",
+  "slug": "glacier"
+}

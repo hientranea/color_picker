@@ -1,0 +1,81 @@
+{
+  "id": "b2467c3f-5fa2-47fb-921c-cd24105f2fa2",
+  "color_name": "Boston Blue",
+  "hex_code": "#3B91B4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Boston Blue evokes feelings of calmness, trustworthiness, and stability. It is often associated with intelligence, efficiency, and reflection. This color promotes a sense of security and order, while also encouraging creativity and innovation. Its serene nature can help to reduce stress and create a peaceful environment.",
+  "emotional_associations": [
+    "calmness",
+    "trust",
+    "stability",
+    "intelligence",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#B4623B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#3B91B4",
+        "#A7D9ED",
+        "#FFFFFF",
+        "#70A4BA"
+      ]
+    },
+    {
+      "name": "Corporate Trust",
+      "swatches": [
+        "#3B91B4",
+        "#286090",
+        "#E5E9EC",
+        "#748DA6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization tools",
+      "Security software"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Business attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Headquarters Lobby",
+      "description": "A modern corporate lobby using Boston Blue to inspire confidence and stability.",
+      "image_url": "https://example.com/boston_blue_lobby.jpg"
+    },
+    {
+      "title": "Meditation App Interface",
+      "description": "A meditation app featuring Boston Blue as a calming and trustworthy interface color.",
+      "image_url": "https://example.com/boston_blue_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or white for a professional look.",
+    "Combine with warm colors like coral or gold for balance.",
+    "Use with shades of teal or turquoise for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator!",
+  "seo_meta": {
+    "title": "Boston Blue Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Boston Blue (#3B91B4), its psychological effects, and inspiring color palettes for your next project."
+  },
+  "created_at": "2025-06-01T15:07:32.524253+00:00",
+  "updated_at": "2025-06-01T15:07:32.524253+00:00",
+  "slug": "boston-blue"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "de8ac5c0-2a02-49e6-a76b-aff3259ad5a4",
+  "color_name": "Scarpa Flow",
+  "hex_code": "#585562",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Scarpa Flow, a muted and sophisticated shade of gray-purple, evokes feelings of introspection, stability, and quiet elegance. It suggests a thoughtful and balanced approach, blending the calmness of gray with the subtle creativity of purple. This color promotes a sense of composure and understated confidence.",
+  "emotional_associations": [
+    "sophistication",
+    "introspection",
+    "calmness",
+    "stability",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#625B55"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dawn",
+      "swatches": [
+        "#585562",
+        "#D3CEDF",
+        "#A29EAD",
+        "#F5F5F5"
+      ]
+    },
+    {
+      "name": "Urban Chic",
+      "swatches": [
+        "#585562",
+        "#333333",
+        "#808080",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral interface elements",
+      "Text color for readability"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Products focused on relaxation"
+    ],
+    "fashion": [
+      "Elegant evening wear",
+      "Sophisticated accessories",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring walls painted in a shade similar to Scarpa Flow, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/scarpa_flow_apartment.jpg"
+    },
+    {
+      "title": "Fashion Designer's Collection",
+      "description": "A dress made from silk fabric dyed in Scarpa Flow, showcasing its elegant and versatile nature.",
+      "image_url": "https://example.com/scarpa_flow_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with lighter grays for a minimalist look.",
+    "Use with soft greens for a natural feel.",
+    "Pair with metallic accents like silver or gold for a touch of luxury.",
+    "Contrast with vibrant yellows or oranges for a pop of energy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Scarpa Flow Color Meaning: #585562 | Psychology, Palettes, and Uses",
+    "description": "Discover the meaning, associations, and practical uses of Scarpa Flow (#585562). Explore complementary colors, suggested palettes, and industry applications for this sophisticated hue."
+  },
+  "created_at": "2025-06-01T15:22:57.960297+00:00",
+  "updated_at": "2025-06-01T15:22:57.960297+00:00",
+  "slug": "scarpa-flow"
+}

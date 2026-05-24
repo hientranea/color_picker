@@ -1,0 +1,82 @@
+{
+  "id": "3d4ce367-08e8-4467-b7bf-6f5cffd2aa68",
+  "color_name": "Aquamarine Blue",
+  "hex_code": "#71D9E2",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Aquamarine Blue is a soothing and refreshing color that evokes feelings of tranquility, clarity, and optimism. It is often associated with the sea and sky, promoting a sense of calmness and connection to nature. This color can inspire creativity, communication, and inner peace, making it ideal for spaces or designs aimed at relaxation and mental clarity.",
+  "emotional_associations": [
+    "calm",
+    "clarity",
+    "optimism",
+    "tranquility",
+    "freshness"
+  ],
+  "complementary_colors": [
+    "#E2717A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Serenity",
+      "swatches": [
+        "#71D9E2",
+        "#FFFFFF",
+        "#A0D6B4",
+        "#E8F5E9"
+      ]
+    },
+    {
+      "name": "Refreshing Breeze",
+      "swatches": [
+        "#71D9E2",
+        "#F0F8FF",
+        "#B0E2FF",
+        "#ADD8E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Loading screens",
+      "Data visualization",
+      "Help sections"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Summer dresses",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tropical Ocean",
+      "description": "The clear aquamarine waters of a tropical ocean.",
+      "image_url": "https://example.com/ocean.jpg"
+    },
+    {
+      "title": "Spa Interior",
+      "description": "The walls of a modern spa painted in a calming aquamarine.",
+      "image_url": "https://example.com/spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, airy look.",
+    "Combine with sandy tones for a beachy vibe.",
+    "Use with coral for a vibrant contrast.",
+    "Complement with gray for a sophisticated feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Aquamarine Blue with our color picker tool.",
+  "seo_meta": {
+    "title": "Aquamarine Blue Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning, psychology, and best uses of Aquamarine Blue. Find complementary colors, palettes, and real-world examples for your next design project."
+  },
+  "created_at": "2025-06-01T15:36:50.238993+00:00",
+  "updated_at": "2025-06-01T15:36:50.238993+00:00",
+  "slug": "aquamarine-blue"
+}

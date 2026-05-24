@@ -1,0 +1,80 @@
+{
+  "id": "117ab7cf-8c04-46e8-b050-b9ceeb8842a9",
+  "color_name": "Hurricane",
+  "hex_code": "#877C7B",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Hurricane, a muted grayish-brown, evokes feelings of stability, resilience, and quiet strength. It suggests a calm after the storm, a sense of groundedness, and reliability. This color communicates neutrality and understated elegance.",
+  "emotional_associations": [
+    "stability",
+    "resilience",
+    "calm",
+    "neutrality",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#7B8287",
+    "#C2B7B6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#877C7B",
+        "#A69A99",
+        "#C5B8B7",
+        "#E4D7D6"
+      ]
+    },
+    {
+      "name": "Monochromatic Calm",
+      "swatches": [
+        "#574D4C",
+        "#877C7B",
+        "#B7ABAA",
+        "#E7DCD9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral text colors",
+      "Minimalist design elements"
+    ],
+    "food_beverage": null,
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Path",
+      "description": "A winding stone path in a garden, showcasing the color's natural and grounding effect.",
+      "image_url": "https://example.com/stone_path.jpg"
+    },
+    {
+      "title": "Neutral Interior",
+      "description": "A living room with walls painted in a Hurricane hue, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/neutral_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a clean look.",
+    "Combine with muted blues for a calming palette.",
+    "Use with metallic accents for added sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Hurricane Color Meaning: Understanding #877C7B",
+    "description": "Explore the meaning, associations, and best uses of the Hurricane color (#877C7B) in design and branding."
+  },
+  "created_at": "2025-06-01T15:50:11.525618+00:00",
+  "updated_at": "2025-06-01T15:50:11.525618+00:00",
+  "slug": "hurricane"
+}

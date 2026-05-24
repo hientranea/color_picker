@@ -1,0 +1,77 @@
+{
+  "id": "99be03a0-5faa-4b5c-b649-0df2300cdbd1",
+  "color_name": "Blue Ribbon",
+  "hex_code": "#0066FF",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Blue Ribbon evokes feelings of trust, loyalty, and intelligence. It is often associated with stability, confidence, and authority, making it a popular choice for conveying a sense of reliability and security. This color promotes a calm and serene atmosphere, inspiring contemplation and focus.",
+  "emotional_associations": [
+    "Trust",
+    "Loyalty",
+    "Intelligence",
+    "Stability",
+    "Calmness"
+  ],
+  "complementary_colors": [
+    "#FF9900"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic Blue",
+      "swatches": [
+        "#0066FF",
+        "#FFFFFF",
+        "#003399"
+      ]
+    },
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#0066FF",
+        "#ADD8E6",
+        "#87CEEB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Buttons",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa websites",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Official Seal",
+      "description": "Many official seals and emblems use Blue Ribbon to convey authority and trustworthiness.",
+      "image_url": "https://example.com/seal.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "Large corporations often incorporate Blue Ribbon into their branding to project stability and professionalism.",
+      "image_url": "https://example.com/corporate.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and professional look.",
+    "Combine with gray for a sophisticated and modern feel.",
+    "Use with complementary orange shades for a vibrant and balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Blue Ribbon Color Meaning: Symbolism, Psychology, and Design",
+    "description": "Discover the meaning of Blue Ribbon color, its psychological associations, complementary colors, and how to use it in your design projects."
+  },
+  "created_at": "2025-06-01T14:37:45.394594+00:00",
+  "updated_at": "2025-06-01T14:37:45.394594+00:00",
+  "slug": "blue-ribbon"
+}

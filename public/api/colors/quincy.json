@@ -1,0 +1,81 @@
+{
+  "id": "66facdd7-0551-4b4c-9632-487c10e43a52",
+  "color_name": "Quincy",
+  "hex_code": "#623F2D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Quincy is a grounded and comforting color, evoking feelings of stability, warmth, and reliability. Its earthy tones suggest a connection to nature and tradition, lending a sense of sophistication and understated elegance. It is often associated with resilience, practicality, and a sense of calm reassurance, making it a suitable choice for designs aiming to inspire trust and a feeling of being well-grounded.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "reliability",
+    "sophistication",
+    "earthiness"
+  ],
+  "complementary_colors": [
+    "#2D5062"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#623F2D",
+        "#A38269",
+        "#D4B399",
+        "#E9D4C4"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#623F2D",
+        "#875E45",
+        "#B0876C",
+        "#D9B49B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa design",
+      "Yoga studios",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a Quincy shade, adding warmth and sophistication to a living space.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Hardwood flooring stained in a Quincy tone, creating a grounding and natural ambiance.",
+      "image_url": "https://example.com/wooden_flooring.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a classic look.",
+    "Combine with greens for a natural and organic feel.",
+    "Use with metallics like gold or bronze for added sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades that complement Quincy!",
+  "seo_meta": {
+    "title": "Quincy Color Meaning: Understanding #623F2D",
+    "description": "Discover the meaning and psychology behind the color Quincy (#623F2D), including its emotional associations, complementary colors, and practical uses."
+  },
+  "created_at": "2025-06-01T15:27:13.456244+00:00",
+  "updated_at": "2025-06-01T15:27:13.456244+00:00",
+  "slug": "quincy"
+}

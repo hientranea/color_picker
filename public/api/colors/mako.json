@@ -1,0 +1,83 @@
+{
+  "id": "277566da-d977-48c7-9399-7c1af802d5ee",
+  "color_name": "Mako",
+  "hex_code": "#444954",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Mako is a sophisticated and calming neutral, often associated with stability, reliability, and a sense of groundedness. It evokes feelings of quiet strength and understated elegance, promoting a sense of calm and order. It can also represent maturity and introspection.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "calmness",
+    "sophistication",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#544F44",
+    "#B5B0A5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance",
+      "swatches": [
+        "#444954",
+        "#A9A4A4",
+        "#D4D0C7",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Serenity",
+      "swatches": [
+        "#444954",
+        "#778899",
+        "#B0C4DE",
+        "#E6E6FA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard backgrounds",
+      "menu navigation",
+      "data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa branding",
+      "meditation apps",
+      "yoga studios"
+    ],
+    "fashion": [
+      "formal wear",
+      "outerwear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Mako walls create a sophisticated and relaxing atmosphere in this contemporary apartment.",
+      "image_url": "https://example.com/mako_apartment.jpg"
+    },
+    {
+      "title": "Business Website Design",
+      "description": "A Mako background provides a clean and professional look for a corporate website.",
+      "image_url": "https://example.com/mako_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic look.",
+    "Combine with muted blues for a calming palette.",
+    "Use with metallic accents for a touch of luxury.",
+    "Contrast with bright yellows or oranges for a pop of energy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore the possibilities of Mako and other colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Mako Color Meaning: The Psychology of #444954",
+    "description": "Discover the meaning and symbolism of Mako (#444954). Explore its psychological effects, color palettes, and design applications."
+  },
+  "created_at": "2025-06-01T15:13:43.35696+00:00",
+  "updated_at": "2025-06-01T15:13:43.35696+00:00",
+  "slug": "mako"
+}

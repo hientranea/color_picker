@@ -1,0 +1,79 @@
+{
+  "id": "46acd8a5-f155-4337-ae92-5963ace8b8f7",
+  "color_name": "Christi",
+  "hex_code": "#67A712",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Christi, a vibrant shade of green, evokes feelings of growth, renewal, and harmony. It is often associated with nature, balance, and tranquility, promoting a sense of well-being and connection to the environment. This color can also symbolize freshness, health, and vitality, inspiring optimism and encouraging a sense of stability.",
+  "emotional_associations": [
+    "growth",
+    "renewal",
+    "harmony",
+    "nature",
+    "balance",
+    "tranquility"
+  ],
+  "complementary_colors": [
+    "#A71267"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#67A712",
+        "#A3B18A",
+        "#D3E4CD",
+        "#F0E68C"
+      ]
+    },
+    {
+      "name": "Vibrant Growth",
+      "swatches": [
+        "#67A712",
+        "#3D84A8",
+        "#464F41",
+        "#86BBD8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Vegan restaurant branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lush Green Forest",
+      "description": "A dense forest showcasing various shades of green, representing nature's abundance and serenity.",
+      "image_url": "https://example.com/forest.jpg"
+    },
+    {
+      "title": "Organic Farm Produce",
+      "description": "Freshly harvested organic vegetables, emphasizing health and natural goodness.",
+      "image_url": "https://example.com/farm.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like beige or gray for a balanced look.",
+    "Combine with complementary colors like shades of purple for contrast.",
+    "Use with other earthy tones for a natural and harmonious feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade and create stunning palettes!",
+  "seo_meta": {
+    "title": "Christi Color Meaning: Discover the Psychology & Uses of #67A712",
+    "description": "Uncover the meaning behind Christi (#67A712), its psychological effects, and learn how to use it in design and branding. Explore palettes, associations, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:30:43.055198+00:00",
+  "updated_at": "2025-06-01T15:30:43.055198+00:00",
+  "slug": "christi"
+}

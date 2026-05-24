@@ -1,0 +1,77 @@
+{
+  "id": "dc834898-1a70-4546-970b-df316fe4f990",
+  "color_name": "Dark Blue",
+  "hex_code": "#0000C8",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Dark blue often represents stability, depth, and expertise. It evokes feelings of trust, loyalty, wisdom, confidence, intelligence, faith, truth, and heaven. It is associated with the sky and sea, symbolizing vastness and tranquility, but also authority and importance.",
+  "emotional_associations": [
+    "trust",
+    "loyalty",
+    "wisdom",
+    "confidence",
+    "intelligence"
+  ],
+  "complementary_colors": [
+    "#C8C800"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic Blue",
+      "swatches": [
+        "#0000C8",
+        "#FFFFFF",
+        "#87CEEB"
+      ]
+    },
+    {
+      "name": "Deep Ocean",
+      "swatches": [
+        "#0000C8",
+        "#2F4F4F",
+        "#ADD8E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "banking apps",
+      "enterprise software",
+      "cybersecurity platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "meditation apps",
+      "sleep aids"
+    ],
+    "fashion": [
+      "formal wear",
+      "corporate attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "IBM Logo",
+      "description": "The IBM logo uses a deep blue to convey trust and reliability.",
+      "image_url": "https://example.com/ibm_logo.jpg"
+    },
+    {
+      "title": "Police Uniforms",
+      "description": "Dark blue is often used in police uniforms to symbolize authority and order.",
+      "image_url": "https://example.com/police_uniform.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and professional look.",
+    "Combine with lighter blues for a calming effect.",
+    "Use with gold or yellow for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Dark Blue Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of dark blue, its psychological effects, best color combinations, and industry use cases. Explore dark blue palettes and real-world examples."
+  },
+  "created_at": "2025-05-18T14:01:44.430446+00:00",
+  "updated_at": "2025-05-18T14:01:44.430446+00:00",
+  "slug": "dark-blue"
+}

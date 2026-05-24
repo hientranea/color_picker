@@ -1,0 +1,79 @@
+{
+  "id": "880df48f-f184-4fd8-bbbc-4eec85287ad1",
+  "color_name": "Rose Bud Cherry",
+  "hex_code": "#800B47",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rose Bud Cherry evokes feelings of sophistication and subtle passion. It combines the boldness of red with the calming aspects of purple, suggesting creativity, luxury, and a hint of mystery. This color is often associated with refined elegance and a unique sense of style, making it a favorite for designs that aim to captivate with understated charm.",
+  "emotional_associations": [
+    "Sophistication",
+    "Passion",
+    "Creativity",
+    "Luxury",
+    "Mystery",
+    "Elegance"
+  ],
+  "complementary_colors": [
+    "#0BF48D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Romantic Dusk",
+      "swatches": [
+        "#800B47",
+        "#D3A625",
+        "#343E37",
+        "#F5EBDC"
+      ]
+    },
+    {
+      "name": "Mystic Bloom",
+      "swatches": [
+        "#800B47",
+        "#5E548E",
+        "#A68DAD",
+        "#E56B6F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Cosmetics packaging",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lipstick Shade",
+      "description": "A popular lipstick color offering a sophisticated and bold look.",
+      "image_url": "https://example.com/lipstick.jpg"
+    },
+    {
+      "title": "Formal Dress",
+      "description": "An elegant dress perfect for special occasions, projecting confidence and style.",
+      "image_url": "https://example.com/dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with muted greens for a balanced palette.",
+    "Use as an accent color against neutral backgrounds.",
+    "Contrast with teal for a vibrant and energetic look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Rose Bud Cherry Color Meaning: Hex Code, Psychology & Palettes",
+    "description": "Discover the meaning, psychology, and best palettes for Rose Bud Cherry (#800B47). Learn how to use this sophisticated color in your designs."
+  },
+  "created_at": "2025-06-01T15:45:56.040218+00:00",
+  "updated_at": "2025-06-01T15:45:56.040218+00:00",
+  "slug": "rose-bud-cherry"
+}

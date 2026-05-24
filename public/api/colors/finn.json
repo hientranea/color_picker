@@ -1,0 +1,81 @@
+{
+  "id": "e3703a17-7d17-4f32-8f4d-8ac045788f9d",
+  "color_name": "Finn",
+  "hex_code": "#692D54",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Finn, a deep and mysterious color, evokes feelings of sophistication and introspection. It blends the passion of red with the stability of blue, resulting in a color that suggests creativity, imagination, and a touch of melancholy. It can inspire deep thought and a connection to the subconscious.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "introspection",
+    "creativity",
+    "imagination"
+  ],
+  "complementary_colors": [
+    "#54692D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dreams",
+      "swatches": [
+        "#692D54",
+        "#A37395",
+        "#D9B0C9",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Royal Dusk",
+      "swatches": [
+        "#692D54",
+        "#3B1A30",
+        "#996F8F",
+        "#222222"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Data visualization with contrasting colors"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Gourmet chocolate packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Luxury spa branding"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Statement jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "A naturally occurring mineral formation, displaying the color Finn in its crystalline structure.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Plum Velvet Couch",
+      "description": "A luxurious piece of furniture upholstered in Finn-colored velvet, adding a touch of elegance to a living space.",
+      "image_url": "https://example.com/couch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for an elegant look.",
+    "Use with soft grays for a calming palette.",
+    "Combine with teal for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Finn Color Meaning: Understanding #692D54 - Color Psychology",
+    "description": "Discover the meaning of Finn (#692D54), its psychological effects, and how to use this sophisticated color in design and branding."
+  },
+  "created_at": "2025-06-01T15:31:21.107436+00:00",
+  "updated_at": "2025-06-01T15:31:21.107436+00:00",
+  "slug": "finn"
+}

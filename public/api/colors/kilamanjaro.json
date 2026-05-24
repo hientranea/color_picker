@@ -1,0 +1,77 @@
+{
+  "id": "0633a814-e4dc-4f57-8049-99de8ce5050c",
+  "color_name": "Kilamanjaro",
+  "hex_code": "#240C02",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Kilamanjaro, a deep and earthy brown, evokes feelings of stability, reliability, and connection to nature. It suggests a sense of grounding and comfort, reminiscent of rich soil and the solid earth beneath our feet. This color often symbolizes resilience, endurance, and a quiet strength, offering a sense of security and dependability.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "grounding",
+    "comfort",
+    "endurance"
+  ],
+  "complementary_colors": [
+    "#021A24"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#240C02",
+        "#522B05",
+        "#A66120",
+        "#D9A566",
+        "#F2DAC4"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#240C02",
+        "#4A342A",
+        "#735C4A",
+        "#9B846A",
+        "#C4AC8A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather goods",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Leather Journal",
+      "description": "A vintage leather journal bound in a rich Kilamanjaro brown, exuding a sense of timelessness and craftsmanship.",
+      "image_url": "url_to_image_1.jpg"
+    },
+    {
+      "title": "Dark Wood Furniture",
+      "description": "A stately mahogany desk finished in a deep Kilamanjaro hue, conveying sophistication and authority.",
+      "image_url": "url_to_image_2.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Contrast with teal or turquoise for a bolder statement.",
+    "Use with gold or copper accents for added warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Kilamanjaro!",
+  "seo_meta": {
+    "title": "Kilamanjaro Color Meaning: Psychology, Palettes & Pairings | Color Meanings",
+    "description": "Discover the meaning of Kilamanjaro (#240C02), its psychological associations, complementary colors, and how to use it in design. Explore curated palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T14:54:58.608732+00:00",
+  "updated_at": "2025-06-01T14:54:58.608732+00:00",
+  "slug": "kilamanjaro"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "9d6baf9c-70b3-4d50-aa74-74af402ce14e",
+  "color_name": "Blue Gem",
+  "hex_code": "#2C0E8C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Gem evokes feelings of sophistication, mystery, and depth. It combines the stability of blue with the energy of violet, suggesting creativity and intuition. This color is often associated with luxury, wisdom, and the exploration of the unknown, making it a compelling choice for brands and individuals seeking to project an image of elegance and intelligence.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "depth",
+    "creativity",
+    "intuition",
+    "luxury",
+    "wisdom"
+  ],
+  "complementary_colors": [
+    "#E39123"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#2C0E8C",
+        "#5B2A86",
+        "#8A4680",
+        "#B9627A",
+        "#E87E74"
+      ]
+    },
+    {
+      "name": "Gemstone Elegance",
+      "swatches": [
+        "#2C0E8C",
+        "#77A1D3",
+        "#FFFFFF",
+        "#A9A9A9",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces",
+      "Premium app designs"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Jewelry design",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep violet hues of an amethyst geode exemplify the natural beauty and calming energy of Blue Gem.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    },
+    {
+      "title": "Galaxy Illustration",
+      "description": "Illustrations of galaxies and nebulae often incorporate shades of Blue Gem to convey the vastness and mystery of space.",
+      "image_url": "https://example.com/galaxy_illustration.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold for a luxurious feel.",
+    "Combine with soft neutrals like gray or beige for a balanced look.",
+    "Use with bright yellows or oranges for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies using our color palette generator to find the perfect Blue Gem combination for your project!",
+  "seo_meta": {
+    "title": "Blue Gem Color Meaning: Understanding #2C0E8C",
+    "description": "Discover the meaning, psychology, and best uses of Blue Gem (#2C0E8C). Learn how to pair this deep violet-blue color for stunning designs."
+  },
+  "created_at": "2025-06-01T14:59:16.90732+00:00",
+  "updated_at": "2025-06-01T14:59:16.90732+00:00",
+  "slug": "blue-gem"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "653c5f53-0c23-4454-8ffc-e6576209fc27",
+  "color_name": "Medium Carmine",
+  "hex_code": "#AF4035",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Medium Carmine is a sophisticated and passionate color, blending the energy of red with a touch of grounding depth. It evokes feelings of warmth, excitement, and a sense of understated luxury. This color often represents courage, strength, and a refined aesthetic, making it suitable for designs that aim to project confidence and elegance.",
+  "emotional_associations": [
+    "passion",
+    "warmth",
+    "sophistication",
+    "courage",
+    "energy"
+  ],
+  "complementary_colors": [
+    "#359FAF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#AF4035",
+        "#D4A373",
+        "#6D597A",
+        "#F2E7D5"
+      ]
+    },
+    {
+      "name": "Passionate Sunset",
+      "swatches": [
+        "#AF4035",
+        "#F26419",
+        "#F6AE2D",
+        "#33658A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Chocolate packaging",
+      "Restaurant branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Lipstick shades"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The rich, deep red of Medium Carmine elevates the interior of a luxury vehicle.",
+      "image_url": "https://example.com/car_interior.jpg"
+    },
+    {
+      "title": "High-End Fashion Boutique",
+      "description": "Used as an accent color in a high-end boutique, conveying sophistication and style.",
+      "image_url": "https://example.com/boutique_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural contrast.",
+    "Combine with gold accents for a luxurious feel.",
+    "Use with neutral grays to balance the intensity.",
+    "Contrast with teal for a vibrant and modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Medium Carmine Color Meaning: Passion, Elegance, and Inspiration",
+    "description": "Discover the meaning of Medium Carmine (#AF4035), its psychological associations, and how to use this sophisticated red color in your designs for a touch of passion and elegance."
+  },
+  "created_at": "2025-06-01T16:12:51.369299+00:00",
+  "updated_at": "2025-06-01T16:12:51.369299+00:00",
+  "slug": "medium-carmine"
+}

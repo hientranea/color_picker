@@ -1,0 +1,82 @@
+{
+  "id": "b2872e2e-e90c-49e6-b435-d6af4debd61d",
+  "color_name": "Blue Bell",
+  "hex_code": "#9999CC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Bell evokes feelings of calmness, serenity, and tranquility. It is often associated with trust, stability, and intelligence. This gentle color promotes relaxation and can inspire creativity and introspection.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "tranquility",
+    "trust",
+    "stability",
+    "intelligence"
+  ],
+  "complementary_colors": [
+    "#CC9999"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dreams",
+      "swatches": [
+        "#9999CC",
+        "#D8BFD8",
+        "#E6E6FA",
+        "#B0E2FF"
+      ]
+    },
+    {
+      "name": "Serene Escape",
+      "swatches": [
+        "#9999CC",
+        "#ADD8E6",
+        "#F0F8FF",
+        "#778899"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Calming backgrounds for meditation apps",
+      "Trustworthy color for banking apps",
+      "User-friendly color for educational platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio decor",
+      "Sleep aid product packaging"
+    ],
+    "fashion": [
+      "Spring dresses",
+      "Relaxed-fit sweaters",
+      "Accessories for a calming effect"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Blue Bell Flowers",
+      "description": "Delicate blue bell flowers in a springtime meadow symbolize beauty and tranquility.",
+      "image_url": "https://example.com/bluebell_flowers.jpg"
+    },
+    {
+      "title": "Bedroom Interior Design",
+      "description": "A bedroom painted in Blue Bell creates a relaxing and peaceful atmosphere conducive to sleep.",
+      "image_url": "https://example.com/bluebell_bedroom.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lavender for a calming effect.",
+    "Combine with cream for an elegant look.",
+    "Use with silver for a modern touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Blue Bell Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Blue Bell (#9999CC), its psychological associations, complementary colors, and inspiring palette ideas for your next project."
+  },
+  "created_at": "2025-06-01T16:00:45.876928+00:00",
+  "updated_at": "2025-06-01T16:00:45.876928+00:00",
+  "slug": "blue-bell"
+}

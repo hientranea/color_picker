@@ -1,0 +1,82 @@
+{
+  "id": "d3ac9eab-9d88-4d3f-90c2-140f2b8ab122",
+  "color_name": "Pink Swan",
+  "hex_code": "#BEB5B7",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pink Swan is a delicate and muted color that evokes feelings of tranquility, softness, and understated elegance. It blends the calmness of gray with the gentle warmth of pink, creating a sense of peaceful sophistication. This color often represents grace, refinement, and a quiet sense of beauty, making it suitable for designs that aim to project a subtle and comforting aesthetic.",
+  "emotional_associations": [
+    "tranquility",
+    "softness",
+    "elegance",
+    "peace",
+    "grace"
+  ],
+  "complementary_colors": [
+    "#B7BEB5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dreams",
+      "swatches": [
+        "#BEB5B7",
+        "#E8DDCF",
+        "#BBDED6",
+        "#FAE3D9"
+      ]
+    },
+    {
+      "name": "Elegance Defined",
+      "swatches": [
+        "#BEB5B7",
+        "#736A62",
+        "#D5C4B7",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral interface elements"
+    ],
+    "food_beverage": [
+      "Packaging for delicate flavors",
+      "Café interiors"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Elegant evening wear",
+      "Understated accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Elegant Living Room",
+      "description": "A living room featuring walls painted in Pink Swan, creating a serene and sophisticated atmosphere.",
+      "image_url": "url_to_living_room_image.jpg"
+    },
+    {
+      "title": "Wedding Invitation",
+      "description": "A wedding invitation with Pink Swan accents, symbolizing grace and romance.",
+      "image_url": "url_to_wedding_invitation_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with soft whites for a classic look.",
+    "Use with deeper grays to add contrast.",
+    "Pair with pastel blues and greens for a calming palette.",
+    "Accent with gold or silver for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Pink Swan Color Meaning: Understanding #BEB5B7",
+    "description": "Discover the meaning, associations, and best uses for Pink Swan (#BEB5B7). Explore palettes, complementary colors, and real-world examples for your design projects."
+  },
+  "created_at": "2025-06-01T16:23:00.42374+00:00",
+  "updated_at": "2025-06-01T16:23:00.42374+00:00",
+  "slug": "pink-swan"
+}

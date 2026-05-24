@@ -1,0 +1,83 @@
+{
+  "id": "75a55ff6-22f0-4346-b891-9a2679847ba1",
+  "color_name": "Deep Cove",
+  "hex_code": "#051040",
+  "wheel_position": "analogous",
+  "psychological_meaning": "Deep Cove evokes feelings of serenity, stability, and introspection. It is associated with trust, loyalty, and wisdom due to its close ties to the color blue. This shade promotes a sense of calm and security, fostering an environment conducive to deep thought and reflection.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "trust",
+    "stability",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#403505"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nautical Twilight",
+      "swatches": [
+        "#051040",
+        "#1E2A60",
+        "#4A568F",
+        "#8793C3",
+        "#CED3E6"
+      ]
+    },
+    {
+      "name": "Mystic Depths",
+      "swatches": [
+        "#051040",
+        "#030B30",
+        "#020620",
+        "#010210",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces",
+      "Navigation apps"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal attire",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Midnight Ocean",
+      "description": "An image showcasing the deep blue hues of the ocean at midnight, reflecting the tranquility and vastness of the sea.",
+      "image_url": "url_to_midnight_ocean_image.jpg"
+    },
+    {
+      "title": "Starry Night Sky",
+      "description": "A photograph capturing the mesmerizing dark blue shades of a clear night sky filled with stars, evoking a sense of wonder and serenity.",
+      "image_url": "url_to_starry_night_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a sophisticated look.",
+    "Combine with metallic accents like silver or gold for added elegance.",
+    "Use with lighter blues or greens for a calming and harmonious palette.",
+    "Contrast with warm yellows or oranges for a vibrant and energetic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors using our color palette generator tool!",
+  "seo_meta": {
+    "title": "Deep Cove Color Meaning: Understanding #051040",
+    "description": "Explore the meaning, psychology, and best uses of Deep Cove (#051040), a calming and sophisticated dark blue color. Discover complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T14:43:11.193268+00:00",
+  "updated_at": "2025-06-01T14:43:11.193268+00:00",
+  "slug": "deep-cove"
+}

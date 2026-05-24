@@ -1,0 +1,79 @@
+{
+  "id": "823b4919-d5ab-4737-96ed-e433147874b3",
+  "color_name": "Venus",
+  "hex_code": "#928590",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Venus is a muted, dusky purple-gray, often associated with sophistication and understated elegance. It evokes a sense of calm and maturity, suggesting a blend of creativity and practicality. This color can represent introspection and a thoughtful approach to life, while also hinting at a touch of mystery and allure.",
+  "emotional_associations": [
+    "Sophistication",
+    "Calm",
+    "Introspection",
+    "Elegance",
+    "Mystery"
+  ],
+  "complementary_colors": [
+    "#8D9A8F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dawn",
+      "swatches": [
+        "#928590",
+        "#D3CEC4",
+        "#A79E91",
+        "#E9E5DA"
+      ]
+    },
+    {
+      "name": "Twilight Haze",
+      "swatches": [
+        "#928590",
+        "#5C5457",
+        "#B2A8AC",
+        "#7A7376"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Text highlights",
+      "Iconography"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Venus Marble",
+      "description": "A type of marble with a similar color, often used in interior design for a sophisticated look.",
+      "image_url": "https://example.com/venus_marble.jpg"
+    },
+    {
+      "title": "Vintage Velvet Dress",
+      "description": "A velvet dress in a muted purple-gray hue, exuding elegance and timeless style.",
+      "image_url": "https://example.com/velvet_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a classic look.",
+    "Combine with deep greens for a natural feel.",
+    "Use with metallic accents for a touch of glamour."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Venus Color Meaning: Understanding #928590",
+    "description": "Discover the meaning, psychology, and best uses for the color Venus (#928590), a sophisticated purple-gray hue."
+  },
+  "created_at": "2025-06-01T15:57:06.084915+00:00",
+  "updated_at": "2025-06-01T15:57:06.084915+00:00",
+  "slug": "venus"
+}

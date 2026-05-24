@@ -1,0 +1,80 @@
+{
+  "id": "49922107-c603-4b47-a973-abc146a0c953",
+  "color_name": "Seance",
+  "hex_code": "#731E8F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Seance, a dark and mystical purple, evokes feelings of mystery, intuition, and the subconscious. It combines the stability of blue with the energy of red, often associated with spirituality, creativity, and transformation. This color encourages introspection and contemplation, making it suitable for environments that promote deep thinking and imagination.",
+  "emotional_associations": [
+    "mystery",
+    "intuition",
+    "spirituality",
+    "creativity",
+    "transformation"
+  ],
+  "complementary_colors": [
+    "#168F72"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#731E8F",
+        "#A2509B",
+        "#D182A7",
+        "#E9B4B3",
+        "#F1E6BF"
+      ]
+    },
+    {
+      "name": "Ethereal Dreams",
+      "swatches": [
+        "#731E8F",
+        "#543884",
+        "#355279",
+        "#166C6E",
+        "#008663"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces for spiritual or wellness apps",
+      "Creative software for visual effects and design"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation studios",
+      "Aromatherapy products"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories for a dramatic flair"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purple hues of an amethyst geode inspire a sense of calm and wonder.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Mystic Forest",
+      "description": "A dense forest shrouded in twilight, where the interplay of light and shadow creates an aura of mystery.",
+      "image_url": "https://example.com/forest.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold for an elegant look.",
+    "Combine with teal or deep green for a balanced palette.",
+    "Use with neutral grays for a sophisticated feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator today!",
+  "seo_meta": {
+    "title": "Seance Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning, associations, and best uses of the color Seance (#731E8F). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:37:18.977246+00:00",
+  "updated_at": "2025-06-01T15:37:18.977246+00:00",
+  "slug": "seance"
+}

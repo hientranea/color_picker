@@ -1,0 +1,77 @@
+{
+  "id": "689e4bca-0bb4-48c4-84a8-dee5ff26ac55",
+  "color_name": "Martinique",
+  "hex_code": "#363050",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Martinique, with its deep, muted purple undertones, evokes a sense of sophistication and mystery. It is often associated with creativity, intuition, and introspection. This color can inspire contemplation and a connection to the subconscious, making it suitable for environments that promote relaxation and thoughtfulness.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "introspection",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#505630"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#363050",
+        "#6B5B95",
+        "#A29BFE",
+        "#DCD6FF"
+      ]
+    },
+    {
+      "name": "Midnight Bloom",
+      "swatches": [
+        "#363050",
+        "#2B2730",
+        "#544B3A",
+        "#826F66"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Creative dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purple hues of an amethyst geode inspire a sense of calm and natural beauty.",
+      "image_url": "url_to_amethyst_image.jpg"
+    },
+    {
+      "title": "Velvet Evening Gown",
+      "description": "A luxurious velvet gown in Martinique exudes sophistication and elegance.",
+      "image_url": "url_to_gown_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a modern look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with muted greens for a natural, calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Martinique Color Meaning: Discover the Power of #363050",
+    "description": "Uncover the meaning and associations of Martinique (#363050), a sophisticated purple hue. Explore its psychological impact, color pairings, and industry use cases."
+  },
+  "created_at": "2025-06-01T15:04:12.344388+00:00",
+  "updated_at": "2025-06-01T15:04:12.344388+00:00",
+  "slug": "martinique"
+}

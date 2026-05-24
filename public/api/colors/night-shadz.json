@@ -1,0 +1,77 @@
+{
+  "id": "d45a1709-4d95-48d7-9128-f251c563f3c5",
+  "color_name": "Night Shadz",
+  "hex_code": "#AA375A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Night Shadz evokes feelings of sophistication and mystery. It blends the passion of red with the stability of brown and black, suggesting a color that is both grounded and intense. It often represents ambition, hidden depths, and a sense of understated elegance.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "ambition",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#37AAAA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance Defined",
+      "swatches": [
+        "#AA375A",
+        "#D4A373",
+        "#F2E8CF",
+        "#6D597A"
+      ]
+    },
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#AA375A",
+        "#3B3486",
+        "#6F2DBD",
+        "#1E2761"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Luxury app interfaces"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Chocolate packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening wear",
+      "Cosmetics packaging"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Velvet Evening Gown",
+      "description": "A stunning velvet evening gown in Night Shadz, exuding sophistication and glamour.",
+      "image_url": "https://example.com/night_shadz_gown.jpg"
+    },
+    {
+      "title": "Luxury Car Interior",
+      "description": "The interior of a luxury car featuring Night Shadz leather accents, conveying elegance and comfort.",
+      "image_url": "https://example.com/night_shadz_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with neutrals for understated elegance.",
+    "Use with teal for a contrasting pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Night Shadz Color Meaning: Symbolism and Design Ideas",
+    "description": "Discover the meaning of Night Shadz (#AA375A), its emotional associations, and how to use it in your designs for a sophisticated and elegant aesthetic."
+  },
+  "created_at": "2025-06-01T16:08:56.425478+00:00",
+  "updated_at": "2025-06-01T16:08:56.425478+00:00",
+  "slug": "night-shadz"
+}

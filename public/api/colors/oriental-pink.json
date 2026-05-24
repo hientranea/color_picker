@@ -1,0 +1,78 @@
+{
+  "id": "c364461b-3b60-4e05-bd23-0ef2e2366bed",
+  "color_name": "Oriental Pink",
+  "hex_code": "#C69191",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Oriental Pink, a muted and sophisticated shade, evokes feelings of tranquility and subtle elegance. It suggests a sense of calm and composure, blending the energy of red with the purity of white to create a gentle and refined aesthetic. This color promotes feelings of tenderness, acceptance, and a connection to nature.",
+  "emotional_associations": [
+    "tranquility",
+    "elegance",
+    "tenderness",
+    "sophistication",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#91C6C6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dreams",
+      "swatches": [
+        "#C69191",
+        "#E6B8AF",
+        "#F2D7D5",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#C69191",
+        "#A68A82",
+        "#8C7853",
+        "#E9DAC1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for teas",
+      "Dessert branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Bridal wear",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Oriental Pink Roses",
+      "description": "A bouquet of Oriental Pink roses adds a touch of romance and sophistication.",
+      "image_url": "https://example.com/oriental_pink_roses.jpg"
+    },
+    {
+      "title": "Bedroom Wall",
+      "description": "An Oriental Pink bedroom promotes relaxation and tranquility.",
+      "image_url": "https://example.com/oriental_pink_bedroom.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft grays for a sophisticated look.",
+    "Combine with creams for added warmth.",
+    "Use with deep greens for a natural balance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades for your next design!",
+  "seo_meta": {
+    "title": "Oriental Pink Color Meaning, Code & Combinations",
+    "description": "Discover the meaning, psychology, and best uses for Oriental Pink (#C69191). Find complementary colors and create stunning palettes."
+  },
+  "created_at": "2025-06-01T16:28:33.064825+00:00",
+  "updated_at": "2025-06-01T16:28:33.064825+00:00",
+  "slug": "oriental-pink"
+}

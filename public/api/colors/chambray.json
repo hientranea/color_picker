@@ -1,0 +1,81 @@
+{
+  "id": "4ad57d53-c92f-4516-91cf-31803bb0cdbf",
+  "color_name": "Chambray",
+  "hex_code": "#354E8C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Chambray, with its muted blue tone, evokes feelings of calmness, tranquility, and stability. It suggests trustworthiness and reliability, similar to classic denim. This color is often associated with a sense of peace and quiet confidence, making it a good choice for conveying a sense of dependability and understated elegance.",
+  "emotional_associations": [
+    "calmness",
+    "trustworthiness",
+    "stability",
+    "peace",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#8C7335"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Skies",
+      "swatches": [
+        "#354E8C",
+        "#A2B5CD",
+        "#E0E8F0",
+        "#778899"
+      ]
+    },
+    {
+      "name": "Denim Days",
+      "swatches": [
+        "#354E8C",
+        "#708090",
+        "#B0C4DE",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Navigation menus",
+      "Backgrounds for text-heavy applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Work shirts",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Chambray Shirt",
+      "description": "A classic chambray shirt offers a comfortable and stylish casual look.",
+      "image_url": "https://example.com/chambray_shirt.jpg"
+    },
+    {
+      "title": "Chambray Bedding",
+      "description": "Chambray bedding creates a calming and restful atmosphere in the bedroom.",
+      "image_url": "https://example.com/chambray_bedding.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray, white, or beige for a sophisticated look.",
+    "Combine with warm colors like coral or mustard for a balanced contrast.",
+    "Use with other shades of blue for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies using our color palette generator!",
+  "seo_meta": {
+    "title": "Chambray Color Meaning: Understanding the Psychology of #354E8C",
+    "description": "Discover the meaning and psychology behind the color Chambray (#354E8C), including its emotional associations, complementary colors, and best use cases."
+  },
+  "created_at": "2025-06-01T15:04:05.478033+00:00",
+  "updated_at": "2025-06-01T15:04:05.478033+00:00",
+  "slug": "chambray"
+}

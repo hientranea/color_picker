@@ -1,0 +1,80 @@
+{
+  "id": "a9b21785-2f3a-4a83-a44d-21b3d7c5d681",
+  "color_name": "Carmine",
+  "hex_code": "#960018",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Carmine is a strong, vibrant red that evokes feelings of passion, energy, and excitement. It is associated with courage, love, and intensity. However, it can also represent anger, aggression, and danger. Carmine is a stimulating color that demands attention and can inspire action and confidence. It's a color that can be both uplifting and overwhelming, depending on the context and surrounding colors.",
+  "emotional_associations": [
+    "passion",
+    "energy",
+    "excitement",
+    "courage",
+    "love",
+    "intensity",
+    "anger",
+    "aggression"
+  ],
+  "complementary_colors": [
+    "#18967E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Warmth",
+      "swatches": [
+        "#960018",
+        "#D4A373",
+        "#7D6E59",
+        "#E2DCC8"
+      ]
+    },
+    {
+      "name": "Passionate Sunset",
+      "swatches": [
+        "#960018",
+        "#FFA07A",
+        "#FFD700",
+        "#4B0082"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for spicy sauces",
+      "Branding for high-energy drinks"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Statement jewelry",
+      "Lipstick"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ferrari",
+      "description": "The iconic red color of Ferrari cars symbolizes speed, luxury, and Italian passion.",
+      "image_url": "url_to_ferrari_image.jpg"
+    },
+    {
+      "title": "Lipstick",
+      "description": "Carmine lipstick is a classic choice for adding a bold and confident touch to your look.",
+      "image_url": "url_to_lipstick_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Use with gold accents for a luxurious feel.",
+    "Combine with teal or turquoise for a vibrant contrast.",
+    "Incorporate deeper reds and burgundy for monochrome."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore the power of Carmine and create stunning color schemes with our color palette generator!",
+  "seo_meta": {
+    "title": "Carmine Color Meaning: The Psychology of #960018",
+    "description": "Discover the meaning of Carmine (#960018), its psychological associations, and how to use it in your designs. Explore color palettes and industry use cases."
+  },
+  "created_at": "2025-06-01T15:58:08.767605+00:00",
+  "updated_at": "2025-06-01T15:58:08.767605+00:00",
+  "slug": "carmine"
+}

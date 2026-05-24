@@ -1,0 +1,76 @@
+{
+  "id": "b155f8f5-abf1-47fa-a0b2-41dd2ef7beb1",
+  "color_name": "Red Berry",
+  "hex_code": "#8E0000",
+  "wheel_position": "primary",
+  "psychological_meaning": "Red Berry evokes feelings of warmth and passion, while also embodying a sense of sophistication and depth. It's a color that can stimulate excitement, appetite, and a feeling of grounded energy, often associated with love and vitality.",
+  "emotional_associations": [
+    "passion",
+    "warmth",
+    "sophistication",
+    "vitality",
+    "energy"
+  ],
+  "complementary_colors": [
+    "#008E8E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#8E0000",
+        "#D4A373",
+        "#A98467",
+        "#6B705C"
+      ]
+    },
+    {
+      "name": "Berry Delight",
+      "swatches": [
+        "#8E0000",
+        "#F2D7D5",
+        "#D8B4A0",
+        "#B08968"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "wine labels",
+      "berry-flavored snacks packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "evening wear",
+      "lipstick",
+      "handbags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Red Berry Lipstick",
+      "description": "A classic shade of red berry lipstick adds a touch of elegance and sophistication to any look.",
+      "image_url": "https://example.com/red_berry_lipstick.jpg"
+    },
+    {
+      "title": "Red Berry Wine",
+      "description": "The rich, deep color of red berry wine hints at its complex and fruity flavor profile.",
+      "image_url": "https://example.com/red_berry_wine.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a balanced look.",
+    "Combine with gold accents for a luxurious feel.",
+    "Use with teal or turquoise for a bold, contrasting statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with Red Berry and create stunning color schemes using our color palette generator!",
+  "seo_meta": {
+    "title": "Red Berry Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Explore the meaning of Red Berry (#8E0000), including its psychological associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:54:44.213067+00:00",
+  "updated_at": "2025-06-01T15:54:44.213067+00:00",
+  "slug": "red-berry"
+}

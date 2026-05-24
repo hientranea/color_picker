@@ -1,0 +1,78 @@
+{
+  "id": "e4ede315-ede4-4204-8136-ded7c60ead33",
+  "color_name": "Gray Chateau",
+  "hex_code": "#A2AAB3",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Gray Chateau is a sophisticated and calming neutral, evoking feelings of tranquility, balance, and understated elegance. It suggests maturity, intelligence, and a sense of timelessness, often associated with reliability and practicality. This color can bring a sense of peace and order to its surroundings, promoting introspection and contemplation.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "neutrality",
+    "balance",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#B3A2AA",
+    "#AAB3A2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#A2AAB3",
+        "#C8CED3",
+        "#808891"
+      ]
+    },
+    {
+      "name": "Warm Contrast",
+      "swatches": [
+        "#A2AAB3",
+        "#E8DDCB",
+        "#6B5B95"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Icons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa design",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Gray Chateau walls, creating a soothing and elegant atmosphere.",
+      "image_url": "https://example.com/gray_chateau_apartment.jpg"
+    },
+    {
+      "title": "Classic Wool Coat",
+      "description": "A stylish wool coat in Gray Chateau, demonstrating its versatility in fashion.",
+      "image_url": "https://example.com/gray_chateau_coat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a classic look.",
+    "Combine with muted blues for a calming effect.",
+    "Accent with metallic finishes for added sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color harmonies and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Gray Chateau Color Meaning: Understanding #A2AAB3",
+    "description": "Discover the meaning, psychology, and best uses of Gray Chateau (#A2AAB3), a sophisticated neutral color. Explore color palettes, industry applications, and more."
+  },
+  "created_at": "2025-06-01T16:04:54.774097+00:00",
+  "updated_at": "2025-06-01T16:04:54.774097+00:00",
+  "slug": "gray-chateau"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "16511ccb-5d08-4ea8-aa27-8c076ffc7271",
+  "color_name": "Pigeon Post",
+  "hex_code": "#AFBDD9",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pigeon Post, a muted grayish-blue, evokes feelings of tranquility and stability. It suggests a sense of calm reliability, like a dependable messenger. This color can also inspire introspection and a quiet sense of confidence, hinting at understated elegance and trustworthiness.",
+  "emotional_associations": [
+    "calm",
+    "reliability",
+    "trust",
+    "introspection",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#D9B2AF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#AFBDD9",
+        "#E8E2D3",
+        "#A39F93",
+        "#5B5B5B"
+      ]
+    },
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#AFBDD9",
+        "#B0D8C3",
+        "#F2E7D5",
+        "#737879"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Backgrounds for productivity apps",
+      "Calming color schemes for health trackers"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Relaxed business attire",
+      "Accessories like scarves and bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Enamelware",
+      "description": "Old enamelware kitchen containers often feature this soothing shade of blue-gray, adding a touch of nostalgia to the home.",
+      "image_url": "https://example.com/enamelware.jpg"
+    },
+    {
+      "title": "Foggy Morning Seascape",
+      "description": "The color of the ocean on a misty morning perfectly captures the quiet and contemplative mood of the Pigeon Post hue.",
+      "image_url": "https://example.com/foggy_sea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige or cream for balance.",
+    "Combine with shades of green for a nature-inspired palette.",
+    "Use with dark gray or charcoal for a sophisticated look.",
+    "Accent with copper or gold for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors for your project with our color palette generator!",
+  "seo_meta": {
+    "title": "Pigeon Post Color Meaning: Understanding the Psychology of #AFBDD9",
+    "description": "Discover the meaning, psychology, and best uses for the Pigeon Post color (#AFBDD9). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:13:49.911304+00:00",
+  "updated_at": "2025-06-01T16:13:49.911304+00:00",
+  "slug": "pigeon-post"
+}

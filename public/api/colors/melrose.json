@@ -1,0 +1,79 @@
+{
+  "id": "6799ddc0-780c-4689-ba7d-10f44e2eba6d",
+  "color_name": "Melrose",
+  "hex_code": "#C7C1FF",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Melrose, a gentle lavender hue, evokes feelings of tranquility, creativity, and a touch of whimsy. It's often associated with imagination, dreams, and a peaceful state of mind. This color can inspire introspection and a sense of calm, making it ideal for spaces designed for relaxation and reflection.",
+  "emotional_associations": [
+    "calm",
+    "peace",
+    "creativity",
+    "imagination",
+    "whimsy"
+  ],
+  "complementary_colors": [
+    "#FFFB93"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dreams",
+      "swatches": [
+        "#C7C1FF",
+        "#F0D7FF",
+        "#E0FFFF",
+        "#C1FFD7"
+      ]
+    },
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#C7C1FF",
+        "#FFFFFF",
+        "#E6E6FA",
+        "#D8BFD8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "meditation apps",
+      "sleep trackers"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "yoga studios",
+      "therapy offices"
+    ],
+    "fashion": [
+      "spring dresses",
+      "children's clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lavender Fields",
+      "description": "Vast fields of lavender in Provence, France, showcase the natural beauty and calming effect of the color.",
+      "image_url": "https://example.com/lavender_fields.jpg"
+    },
+    {
+      "title": "Children's Room",
+      "description": "A children's room painted in Melrose promotes a serene and imaginative environment for play and rest.",
+      "image_url": "https://example.com/childrens_room.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with soft whites for a classic look.",
+    "Use with pastel greens for a nature-inspired palette.",
+    "Pair with silver or gold accents for a touch of elegance.",
+    "Contrast with a deep purple for added depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore a wider range of color possibilities and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Melrose Color Meaning: Understanding #C7C1FF",
+    "description": "Discover the meaning, psychology, and best uses of the color Melrose (#C7C1FF). Explore palettes, pairings, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:30:13.118137+00:00",
+  "updated_at": "2025-06-01T16:30:13.118137+00:00",
+  "slug": "melrose"
+}

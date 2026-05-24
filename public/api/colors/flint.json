@@ -1,0 +1,81 @@
+{
+  "id": "3edd78bd-6d61-4a68-854c-47b4e3db208f",
+  "color_name": "Flint",
+  "hex_code": "#6F6A61",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Flint, a muted gray, evokes feelings of groundedness and stability. It suggests resilience, practicality, and a sense of enduring strength. This color can also represent a quiet sophistication and a connection to the natural world, reminiscent of stone and earth.",
+  "emotional_associations": [
+    "stability",
+    "resilience",
+    "sophistication",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#A1A66F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#6F6A61",
+        "#A69D94",
+        "#D9D0C7",
+        "#596E79"
+      ]
+    },
+    {
+      "name": "Urban Minimal",
+      "swatches": [
+        "#6F6A61",
+        "#C0C0C0",
+        "#FFFFFF",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Neutral backgrounds",
+      "Subtle dividers",
+      "Text color for readability"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Flint Stone Wall",
+      "description": "A rugged stone wall made of flint, showcasing its natural texture and color.",
+      "image_url": "https://example.com/flint_wall.jpg"
+    },
+    {
+      "title": "Flint Gray Sofa",
+      "description": "A modern sofa upholstered in a sophisticated flint gray fabric.",
+      "image_url": "https://example.com/flint_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic look.",
+    "Accent with warm browns or creams for a cozy feel.",
+    "Use with deep blues or greens for a nature-inspired palette.",
+    "Combine with metallics like silver or gold for elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Flint Color Meaning: Understanding #6F6A61",
+    "description": "Discover the meaning and associations of the color Flint (#6F6A61), its uses, and how to incorporate it into your designs."
+  },
+  "created_at": "2025-06-01T15:34:27.807376+00:00",
+  "updated_at": "2025-06-01T15:34:27.807376+00:00",
+  "slug": "flint"
+}

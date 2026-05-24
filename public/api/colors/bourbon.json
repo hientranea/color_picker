@@ -1,0 +1,82 @@
+{
+  "id": "029944a8-b344-4862-a807-de9101b73668",
+  "color_name": "Bourbon",
+  "hex_code": "#BA6F1E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bourbon, with its warm, amber tones, evokes feelings of sophistication, comfort, and rustic charm. It suggests reliability and tradition, while also hinting at a touch of luxury and indulgence. It's a color that connects to the earth and the enjoyment of life's finer moments.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "sophistication",
+    "earthiness",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#1EB0BA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#BA6F1E",
+        "#D4A373",
+        "#A68A64",
+        "#8C7853",
+        "#F2EBD3"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#BA6F1E",
+        "#5D4037",
+        "#A1887F",
+        "#EFEBE9",
+        "#795548"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Whiskey branding",
+      "Restaurant interiors",
+      "Coffee packaging"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Natural product packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Bourbon Whiskey Bottle",
+      "description": "The rich amber color of bourbon whiskey in a glass bottle.",
+      "image_url": "url_to_bourbon_image.jpg"
+    },
+    {
+      "title": "Leather Armchair",
+      "description": "A luxurious leather armchair in a bourbon-toned hue.",
+      "image_url": "url_to_armchair_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a classic look.",
+    "Use with deep blues and greens for a sophisticated contrast.",
+    "Combine with metallic accents for a touch of luxury.",
+    "Add warmth to neutral palettes."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator to find your perfect Bourbon combination.",
+  "seo_meta": {
+    "title": "Bourbon Color Meaning: Understanding the Psychology of #BA6F1E",
+    "description": "Discover the meaning, associations, and best uses of the Bourbon color (#BA6F1E). Learn how to pair this warm, sophisticated hue for your next design project."
+  },
+  "created_at": "2025-06-01T16:20:41.14164+00:00",
+  "updated_at": "2025-06-01T16:20:41.14164+00:00",
+  "slug": "bourbon"
+}

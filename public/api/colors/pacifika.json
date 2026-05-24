@@ -1,0 +1,80 @@
+{
+  "id": "be6876cf-86c6-4ddb-9f57-63b60ce0300e",
+  "color_name": "Pacifika",
+  "hex_code": "#778120",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pacifika, a muted olive green, evokes feelings of tranquility, nature, and understated elegance. It suggests stability, growth, and a connection to the earth. This color can also represent peace, sophistication, and a subtle sense of luxury, making it ideal for brands that aim to project a calm and trustworthy image.",
+  "emotional_associations": [
+    "Tranquility",
+    "Nature",
+    "Stability",
+    "Sophistication",
+    "Peace"
+  ],
+  "complementary_colors": [
+    "#817720",
+    "#207E81"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#778120",
+        "#A3B18A",
+        "#D0D6B4",
+        "#4A5D31"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#778120",
+        "#B8860B",
+        "#F0E68C",
+        "#6B8E23"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Olive Oil Packaging",
+      "Organic Food Branding"
+    ],
+    "wellness": [
+      "Spa Interiors",
+      "Yoga Studios"
+    ],
+    "fashion": [
+      "Outdoor Apparel",
+      "Sustainable Clothing Lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Grove Landscape",
+      "description": "The rolling hills of an olive grove bathed in the soft light of dawn.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    },
+    {
+      "title": "Luxury Spa Interior",
+      "description": "A spa interior featuring Pacifika walls and natural wood accents.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with beige for a natural look.",
+    "Combine with gold for a touch of luxury.",
+    "Use with dark brown for grounding.",
+    "Contrast with pale pink for a soft feminine effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Pacifika Color Meaning: Understanding #778120",
+    "description": "Discover the meaning and psychology behind the color Pacifika (#778120), including its emotional associations, complementary colors, and industry use cases."
+  },
+  "created_at": "2025-06-01T15:39:54.735741+00:00",
+  "updated_at": "2025-06-01T15:39:54.735741+00:00",
+  "slug": "pacifika"
+}

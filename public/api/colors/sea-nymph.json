@@ -1,0 +1,81 @@
+{
+  "id": "bc351e5c-4ca6-4ace-aed1-42932ad6e6a2",
+  "color_name": "Sea Nymph",
+  "hex_code": "#78A39C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sea Nymph evokes feelings of tranquility, calmness, and serenity, reminiscent of the ocean's depths. It suggests a connection to nature, promoting a sense of balance and peace. This color can also inspire creativity and introspection, encouraging contemplation and thoughtful expression.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "nature",
+    "balance",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#A3787F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#78A39C",
+        "#D4E2D3",
+        "#A2B59F",
+        "#527A7A"
+      ]
+    },
+    {
+      "name": "Ethereal Dream",
+      "swatches": [
+        "#78A39C",
+        "#E0FFFF",
+        "#B0E57C",
+        "#C1DAD6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Nature-themed software",
+      "Relaxation tools"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation centers"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear",
+      "Resort wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Bedroom",
+      "description": "A bedroom painted in Sea Nymph creates a calming and relaxing atmosphere.",
+      "image_url": "https://example.com/sea_nymph_bedroom.jpg"
+    },
+    {
+      "title": "Spa Treatment Room",
+      "description": "Sea Nymph walls in a spa provide a sense of tranquility and well-being.",
+      "image_url": "https://example.com/sea_nymph_spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a serene look.",
+    "Combine with sandy tones for a beachy vibe.",
+    "Accentuate with pops of coral or gold for added warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and palettes with our interactive color picker!",
+  "seo_meta": {
+    "title": "Sea Nymph Color Meaning: Psychology, Palettes & Design Tips",
+    "description": "Discover the meaning of Sea Nymph (#78A39C), its psychological effects, complementary colors, and how to use it in your designs and branding."
+  },
+  "created_at": "2025-06-01T15:40:58.04018+00:00",
+  "updated_at": "2025-06-01T15:40:58.04018+00:00",
+  "slug": "sea-nymph"
+}

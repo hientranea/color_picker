@@ -1,0 +1,82 @@
+{
+  "id": "300b9c13-c8b4-4bea-9105-e647350eec65",
+  "color_name": "Navy Blue",
+  "hex_code": "#000080",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Navy Blue is often associated with depth, stability, and authority. It evokes feelings of trust, loyalty, and confidence. This color is also linked to intelligence, knowledge, and seriousness, making it a popular choice for institutions seeking to project an image of professionalism and reliability. It provides a sense of calm and order.",
+  "emotional_associations": [
+    "Trust",
+    "Loyalty",
+    "Authority",
+    "Stability",
+    "Calm"
+  ],
+  "complementary_colors": [
+    "#808000"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nautical",
+      "swatches": [
+        "#000080",
+        "#FFFFFF",
+        "#ADD8E6",
+        "#A52A2A"
+      ]
+    },
+    {
+      "name": "Corporate",
+      "swatches": [
+        "#000080",
+        "#E0E0E0",
+        "#4682B4",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Uniforms",
+      "Classic designs"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "US Navy Uniform",
+      "description": "The official uniform of the United States Navy uses a shade of navy blue, symbolizing authority and tradition.",
+      "image_url": "https://example.com/navy_uniform.jpg"
+    },
+    {
+      "title": "Corporate Logos",
+      "description": "Many corporate logos use navy blue to convey trustworthiness and professionalism.",
+      "image_url": "https://example.com/corporate_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, classic look.",
+    "Combine with gold for a luxurious feel.",
+    "Use with light blue for a calming palette.",
+    "Contrast with orange for a vibrant effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades of blue and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Navy Blue Color Meaning: Symbolism, Psychology, and Design Tips",
+    "description": "Discover the meaning of Navy Blue, its psychological effects, and how to use it effectively in design. Explore color palettes and real-world examples."
+  },
+  "created_at": "2025-05-18T14:01:37.733386+00:00",
+  "updated_at": "2025-05-18T14:01:37.733386+00:00",
+  "slug": "navy-blue"
+}

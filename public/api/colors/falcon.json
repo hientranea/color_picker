@@ -1,0 +1,85 @@
+{
+  "id": "1bd783d6-5a1d-4a93-ab29-a4ecfbe2533c",
+  "color_name": "Falcon",
+  "hex_code": "#7F626D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Falcon, with its muted, earthy tones, evokes feelings of stability, reliability, and groundedness. It suggests a sense of calm and sophistication, without being overly flashy. This color is often associated with tradition, the natural world, and a quiet strength, offering a sense of comfort and understated elegance.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "calm",
+    "sophistication",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#6D7F72"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#7F626D",
+        "#A68A84",
+        "#D4B0A3",
+        "#EAE0D5"
+      ]
+    },
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#7F626D",
+        "#556B2F",
+        "#8FBC8F",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral text color",
+      "Descriptive icons"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Cafe interiors",
+      "Menu design"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Pottery Barn Catalog",
+      "description": "Used in Pottery Barn's catalog to evoke warmth and comfort in home decor.",
+      "image_url": "https://example.com/potterybarn.jpg"
+    },
+    {
+      "title": "Rustic Wedding Decor",
+      "description": "A popular choice for rustic-themed wedding decorations and invitations.",
+      "image_url": "https://example.com/rusticwedding.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with greens and browns for a natural palette.",
+    "Accent with gold or copper for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations using our interactive color palette generator.",
+  "seo_meta": {
+    "title": "Falcon Color Meaning: Understanding #7F626D | Color Psychology",
+    "description": "Discover the meaning and associations of Falcon (#7F626D), including its psychological impact, complementary colors, and suggested palettes for design inspiration."
+  },
+  "created_at": "2025-06-01T15:45:14.543136+00:00",
+  "updated_at": "2025-06-01T15:45:14.543136+00:00",
+  "slug": "falcon"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "cfc0175c-1881-4972-9586-f3863a66ffbe",
+  "color_name": "Olive",
+  "hex_code": "#808000",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Olive green is often associated with peace and tranquility. It represents wisdom, compassion, and harmony. Olive can also symbolize a connection to nature and the environment, suggesting growth, stability, and endurance. However, overuse can sometimes be perceived as passive or unassertive.",
+  "emotional_associations": [
+    "peace",
+    "wisdom",
+    "nature",
+    "tranquility",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#008080"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#808000",
+        "#A8A495",
+        "#D3D0CB",
+        "#5F6B61"
+      ]
+    },
+    {
+      "name": "Olive Grove",
+      "swatches": [
+        "#808000",
+        "#3D593F",
+        "#BDB2FF",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Olive oil packaging",
+      "Organic food branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Military-inspired clothing",
+      "Autumn/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Branch",
+      "description": "A symbol of peace and reconciliation, often depicted as a green olive branch.",
+      "image_url": "url_to_olive_branch_image.jpg"
+    },
+    {
+      "title": "Military Uniforms",
+      "description": "Olive green is a common color for military uniforms and equipment, providing camouflage.",
+      "image_url": "url_to_military_uniform_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, natural look.",
+    "Combine with dark blues or purples for a sophisticated palette.",
+    "Use with metallic golds or bronzes for an elegant feel.",
+    "Contrast with brighter accent colors like mustard or coral for a pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of olive and discover complementary colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Olive Color Meaning: Symbolism, Associations & Design Ideas",
+    "description": "Discover the meaning of olive green, its psychological effects, and how to use it in design, branding, and fashion. Explore complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T15:46:39.393207+00:00",
+  "updated_at": "2025-06-01T15:46:39.393207+00:00",
+  "slug": "olive"
+}

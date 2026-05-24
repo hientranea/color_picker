@@ -1,0 +1,81 @@
+{
+  "id": "02b720fb-00fc-4ac1-b06e-24123657d13a",
+  "color_name": "Madang",
+  "hex_code": "#B7F0BE",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Madang is a vibrant, refreshing color that evokes feelings of growth, renewal, and tranquility. It is often associated with nature, health, and well-being. This gentle hue promotes a sense of harmony and balance, fostering a calming and optimistic atmosphere. It encourages creativity and openness, making it a positive and inviting color.",
+  "emotional_associations": [
+    "growth",
+    "tranquility",
+    "renewal",
+    "optimism",
+    "health"
+  ],
+  "complementary_colors": [
+    "#F0B7C9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#B7F0BE",
+        "#E2FBD9",
+        "#A2D9CE",
+        "#79B4A7"
+      ]
+    },
+    {
+      "name": "Serene Oasis",
+      "swatches": [
+        "#B7F0BE",
+        "#D0ECE7",
+        "#82E0AA",
+        "#3498DB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health apps",
+      "Eco-friendly platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Health drink branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites"
+    ],
+    "fashion": [
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "Used in the packaging of sustainable and eco-friendly products to convey a sense of environmental responsibility.",
+      "image_url": "url_to_eco_packaging_image.jpg"
+    },
+    {
+      "title": "Spa and Wellness Centers",
+      "description": "Often found in the interiors and branding of spas and wellness centers to create a calming and relaxing atmosphere.",
+      "image_url": "url_to_spa_interior_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with other greens for a harmonious and natural palette.",
+    "Use with bright accents like yellow or pink for a playful touch.",
+    "Consider using it as an accent color in a minimalist design."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Madang Color Meaning: Discover the Psychology of #B7F0BE",
+    "description": "Explore the meaning, associations, and best uses of Madang (#B7F0BE). Find complementary colors, palettes, and design inspiration for your next project."
+  },
+  "created_at": "2025-06-01T16:18:59.983987+00:00",
+  "updated_at": "2025-06-01T16:18:59.983987+00:00",
+  "slug": "madang"
+}

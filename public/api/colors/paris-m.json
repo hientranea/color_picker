@@ -1,0 +1,80 @@
+{
+  "id": "d95e638b-f690-4cf3-a90c-ae89220e8f9d",
+  "color_name": "Paris M",
+  "hex_code": "#26056A",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Paris M, a deep and enigmatic shade of violet, evokes feelings of mystery, intuition, and sophistication. It combines the stability of blue with the energy of red, suggesting a balance between intellect and passion. This color often represents luxury, royalty, and creativity, making it a choice for those who seek to inspire and intrigue.",
+  "emotional_associations": [
+    "mystery",
+    "intuition",
+    "sophistication",
+    "luxury",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#A3FF5F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Royal Dusk",
+      "swatches": [
+        "#26056A",
+        "#4B0082",
+        "#800080",
+        "#D8BFD8",
+        "#E6E6FA"
+      ]
+    },
+    {
+      "name": "Enchanted Forest",
+      "swatches": [
+        "#26056A",
+        "#36454F",
+        "#6B8E23",
+        "#ADD8E6",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Dark mode interfaces"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Statement accessories"
+    ],
+    "wellness": [
+      "Meditation spaces",
+      "Aromatherapy packaging"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep violet of an amethyst geode showcases the natural beauty and calming energy of this color.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Twilight Sky",
+      "description": "The transitioning colors of the sky at twilight, with hints of deep violet, inspire feelings of wonder and tranquility.",
+      "image_url": "https://example.com/twilight.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with soft grays for a modern, understated look.",
+    "Use with greens for a natural and balanced palette.",
+    "Contrast with yellows to create visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore a spectrum of harmonious shades with our color palette generator!",
+  "seo_meta": {
+    "title": "Paris M Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Paris M (#26056A), its psychological impact, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T14:56:16.16483+00:00",
+  "updated_at": "2025-06-01T14:56:16.16483+00:00",
+  "slug": "paris-m"
+}

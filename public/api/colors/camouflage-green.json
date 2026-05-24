@@ -1,0 +1,75 @@
+{
+  "id": "5a493258-06aa-4aa7-9bef-04de089d77aa",
+  "color_name": "Camouflage Green",
+  "hex_code": "#78866B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Camouflage Green evokes feelings of nature, stealth, and practicality. It is often associated with the military and survival, conveying a sense of being grounded and adaptable. This color can also represent environmental awareness and a desire for harmony with nature.",
+  "emotional_associations": [
+    "nature",
+    "stealth",
+    "practicality",
+    "groundedness",
+    "adaptability"
+  ],
+  "complementary_colors": [
+    "#867893"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#78866B",
+        "#A3B18A",
+        "#C4D7B0",
+        "#E8E8A6"
+      ]
+    },
+    {
+      "name": "Urban Camo",
+      "swatches": [
+        "#78866B",
+        "#595959",
+        "#8C8C8C",
+        "#A6A6A6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Eco-friendly product packaging",
+      "Sustainable living websites"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Military-inspired clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Military Uniform",
+      "description": "Camouflage Green is commonly used in military uniforms to provide concealment in natural environments.",
+      "image_url": "https://example.com/military_uniform.jpg"
+    },
+    {
+      "title": "Forest Landscape",
+      "description": "The color of lush forest foliage, representing growth and renewal.",
+      "image_url": "https://example.com/forest_landscape.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like beige and gray.",
+    "Combine with earthy browns for a natural look.",
+    "Use with muted yellows for a subtle contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of green and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Camouflage Green Color Meaning, Code #78866B",
+    "description": "Discover the meaning and uses of Camouflage Green (#78866B). Learn about its psychological effects, complementary colors, and industry applications."
+  },
+  "created_at": "2025-06-01T15:40:37.206837+00:00",
+  "updated_at": "2025-06-01T15:40:37.206837+00:00",
+  "slug": "camouflage-green"
+}

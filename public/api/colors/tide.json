@@ -1,0 +1,80 @@
+{
+  "id": "bcbf5829-b3f6-4551-b7ce-dd650616b9a4",
+  "color_name": "Tide",
+  "hex_code": "#BFB8B0",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Tide, a muted gray-beige, evokes feelings of calm and serenity, like a peaceful shoreline at dawn. It suggests stability, reliability, and a quiet strength, often associated with natural elements and a sense of groundedness. This color promotes relaxation and a feeling of understated elegance.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "stability",
+    "understated elegance",
+    "natural"
+  ],
+  "complementary_colors": [
+    "#B0BFB7",
+    "#BFAEB0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#BFB8B0",
+        "#D3CEC7",
+        "#A69D94",
+        "#E9E4DE"
+      ]
+    },
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#BFB8B0",
+        "#8C857D",
+        "#F2EFE9",
+        "#665F57"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Subtle accents",
+      "Text color for high contrast"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Neutral clothing",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Beach House Interior",
+      "description": "A living room with Tide-colored walls, creating a tranquil coastal atmosphere.",
+      "image_url": "https://example.com/beach_house.jpg"
+    },
+    {
+      "title": "Minimalist Fashion",
+      "description": "A Tide-colored linen dress, embodying understated elegance.",
+      "image_url": "https://example.com/linen_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft blues and greens for a coastal feel.",
+    "Combine with darker grays and blacks for a sophisticated look.",
+    "Use with natural wood tones for a warm and inviting space."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more calming color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Tide Color Meaning: Discover the Serenity of #BFB8B0",
+    "description": "Uncover the meaning and associations of Tide, a muted gray-beige color. Explore its psychological effects, suggested palettes, and design applications."
+  },
+  "created_at": "2025-06-01T16:23:21.677891+00:00",
+  "updated_at": "2025-06-01T16:23:21.677891+00:00",
+  "slug": "tide"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "fc30a8da-7054-4875-9bdd-82ad062a6765",
+  "color_name": "Catalina Blue",
+  "hex_code": "#062A78",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Catalina Blue evokes feelings of stability, trust, and intelligence. It is often associated with depth and expertise, making it a reliable choice for conveying a sense of security and confidence. This color promotes a calm and orderly environment, encouraging focus and clear thinking.",
+  "emotional_associations": [
+    "Trust",
+    "Intelligence",
+    "Stability",
+    "Calmness",
+    "Security"
+  ],
+  "complementary_colors": [
+    "#784E06"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#062A78",
+        "#72A0C1",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Corporate Calm",
+      "swatches": [
+        "#062A78",
+        "#4A6572",
+        "#BBD4E1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Security software"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Formal wear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Branding",
+      "description": "Used in the logo and branding materials of a financial institution to project trustworthiness.",
+      "image_url": "https://example.com/catalina_blue_corporate.jpg"
+    },
+    {
+      "title": "Website Design",
+      "description": "Employed as the primary color in a website for a consulting firm to create a professional and authoritative presence.",
+      "image_url": "https://example.com/catalina_blue_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Use with lighter blues for a calming effect.",
+    "Accent with gold for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Catalina Blue: Color Meaning and Design Ideas",
+    "description": "Discover the meaning of Catalina Blue, its psychological effects, and how to use it effectively in your designs."
+  },
+  "created_at": "2025-06-01T14:43:38.327673+00:00",
+  "updated_at": "2025-06-01T14:43:38.327673+00:00",
+  "slug": "catalina-blue"
+}

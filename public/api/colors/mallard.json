@@ -1,0 +1,83 @@
+{
+  "id": "5421ea7d-c724-4d24-86bb-68958c97fe69",
+  "color_name": "Mallard",
+  "hex_code": "#233418",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mallard, a deep and earthy green, evokes feelings of tranquility, nature, and stability. It promotes a sense of grounding and connection to the environment, suggesting a calm and reliable presence. This color is often associated with growth, renewal, and a harmonious balance.",
+  "emotional_associations": [
+    "nature",
+    "tranquility",
+    "stability",
+    "growth",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#183323",
+    "#877224",
+    "#341823"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#233418",
+        "#556B2F",
+        "#8FBC8F",
+        "#DEB887"
+      ]
+    },
+    {
+      "name": "Forest Depths",
+      "swatches": [
+        "#233418",
+        "#36454F",
+        "#6B8E23",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for nature-themed apps",
+      "Subtle accent colors for dashboards"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors promoting a natural ambiance"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mallard Duck Feathers",
+      "description": "The iridescent green feathers of a male mallard duck are a prime example of this color in nature.",
+      "image_url": "https://example.com/mallard_duck.jpg"
+    },
+    {
+      "title": "Forest Undergrowth",
+      "description": "The dense undergrowth of a forest often displays various shades of Mallard green.",
+      "image_url": "https://example.com/forest_undergrowth.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted gold for a sophisticated look.",
+    "Combine with earthy browns for a natural palette.",
+    "Use with cream or beige for a calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Mallard Color Meaning: Exploring #233418",
+    "description": "Discover the meaning, associations, and best uses of Mallard (#233418), a deep earthy green color. Find palettes, examples, and pairing tips."
+  },
+  "created_at": "2025-06-01T14:54:44.60957+00:00",
+  "updated_at": "2025-06-01T14:54:44.60957+00:00",
+  "slug": "mallard"
+}

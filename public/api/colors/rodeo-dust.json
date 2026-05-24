@@ -1,0 +1,81 @@
+{
+  "id": "a7c6e1fa-ca34-4f81-bcb7-08ec970c65e8",
+  "color_name": "Rodeo Dust",
+  "hex_code": "#C9B29B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rodeo Dust evokes feelings of comfort, nostalgia, and groundedness. It suggests stability, reliability, and a connection to nature. This color is often associated with simplicity, authenticity, and a sense of calm, providing a warm and inviting atmosphere.",
+  "emotional_associations": [
+    "comfort",
+    "nostalgia",
+    "groundedness",
+    "calm",
+    "authenticity"
+  ],
+  "complementary_colors": [
+    "#9BC2C9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#C9B29B",
+        "#A68A64",
+        "#EADDCA",
+        "#73626B"
+      ]
+    },
+    {
+      "name": "Desert Sunset",
+      "swatches": [
+        "#C9B29B",
+        "#E5AA70",
+        "#F2D7B5",
+        "#4A3B4A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for calming apps",
+      "Neutral color schemes for productivity tools"
+    ],
+    "food_beverage": [
+      "Packaging for organic snacks",
+      "Branding for coffee shops"
+    ],
+    "wellness": [
+      "Color schemes for meditation apps",
+      "Branding for natural skincare products"
+    ],
+    "fashion": [
+      "Autumn wear",
+      "Bohemian style clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Pottery Barn Interior",
+      "description": "A living room featuring Rodeo Dust colored walls, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/pottery_barn.jpg"
+    },
+    {
+      "title": "Rustic Wedding Decor",
+      "description": "Table settings adorned with Rodeo Dust linens, adding a touch of vintage elegance.",
+      "image_url": "https://example.com/wedding_decor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural look.",
+    "Combine with creams and whites for a classic feel.",
+    "Accent with copper or gold for added warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Rodeo Dust Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Rodeo Dust (#C9B29B), its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:31:58.036171+00:00",
+  "updated_at": "2025-06-01T16:31:58.036171+00:00",
+  "slug": "rodeo-dust"
+}

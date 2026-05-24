@@ -1,0 +1,80 @@
+{
+  "id": "bcd12c59-3426-4fba-936e-ca64a4e2f257",
+  "color_name": "Trendy Pink",
+  "hex_code": "#8C6495",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Trendy Pink evokes feelings of creativity, individuality, and a modern sense of romance. It blends the passion of red with the calmness of blue, softened by white, creating a color that is both striking and comforting. It often represents a forward-thinking and stylish approach, suggesting confidence and a touch of playfulness.",
+  "emotional_associations": [
+    "Creativity",
+    "Individuality",
+    "Modern Romance",
+    "Confidence",
+    "Playfulness"
+  ],
+  "complementary_colors": [
+    "#64958C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dreams",
+      "swatches": [
+        "#8C6495",
+        "#D8BFD8",
+        "#E6E6FA",
+        "#F0FFFF"
+      ]
+    },
+    {
+      "name": "Modern Edge",
+      "swatches": [
+        "#8C6495",
+        "#36454F",
+        "#A9A9A9",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Social media interfaces",
+      "Personalized dashboards",
+      "Creative app design"
+    ],
+    "fashion": [
+      "Statement accessories",
+      "Modern evening wear",
+      "Avant-garde designs"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Holistic health branding"
+    ],
+    "food_beverage": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Fashion Boutique Interior",
+      "description": "A trendy boutique featuring accent walls in Trendy Pink to highlight clothing displays.",
+      "image_url": "https://example.com/boutique.jpg"
+    },
+    {
+      "title": "Social Media App Icon",
+      "description": "The icon for a new social media app uses a gradient incorporating Trendy Pink to attract a younger audience.",
+      "image_url": "https://example.com/app_icon.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cool grays for a sophisticated look.",
+    "Combine with muted greens for a natural balance.",
+    "Use with gold accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Trendy Pink: Color Meaning, Psychology, and Design Ideas",
+    "description": "Discover the meaning and psychology behind Trendy Pink, explore its uses in design, and find inspiring color palettes for your next project."
+  },
+  "created_at": "2025-06-01T15:53:50.042003+00:00",
+  "updated_at": "2025-06-01T15:53:50.042003+00:00",
+  "slug": "trendy-pink"
+}

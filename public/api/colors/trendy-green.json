@@ -1,0 +1,81 @@
+{
+  "id": "9ebfab8a-b71f-4b34-a194-5a3f2ead5457",
+  "color_name": "Trendy Green",
+  "hex_code": "#7C881A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Trendy Green evokes a sense of nature, growth, and sophistication. It combines the refreshing qualities of green with a contemporary twist, suggesting balance, harmony, and a connection to the environment. This color often represents renewal, sustainability, and a modern aesthetic, making it suitable for designs that aim to convey a sense of eco-consciousness and refined style.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "sophistication",
+    "renewal",
+    "sustainability"
+  ],
+  "complementary_colors": [
+    "#887A1A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#7C881A",
+        "#A3B18A",
+        "#D0D6B4",
+        "#F2EAD3"
+      ]
+    },
+    {
+      "name": "Modern Forest",
+      "swatches": [
+        "#7C881A",
+        "#4A5D23",
+        "#94A986",
+        "#E8E5DA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly app design",
+      "Sustainable technology websites"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy drink branding"
+    ],
+    "wellness": [
+      "Spa and wellness centers",
+      "Yoga and meditation apps"
+    ],
+    "fashion": [
+      "Sustainable clothing brands",
+      "Eco-conscious accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "Sustainable packaging using Trendy Green to convey environmental responsibility.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    },
+    {
+      "title": "Modern Interior Design",
+      "description": "A living room featuring Trendy Green walls and natural wood accents.",
+      "image_url": "https://example.com/modern_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones for a balanced look.",
+    "Combine with natural wood for an earthy feel.",
+    "Use with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to create your perfect Trendy Green palette today!",
+  "seo_meta": {
+    "title": "Trendy Green Color Meaning: Discover Its Associations & Uses",
+    "description": "Uncover the meaning, associations, and best uses of Trendy Green (#7C881A) in design and branding. Explore palettes and examples."
+  },
+  "created_at": "2025-06-01T15:43:57.489476+00:00",
+  "updated_at": "2025-06-01T15:43:57.489476+00:00",
+  "slug": "trendy-green"
+}

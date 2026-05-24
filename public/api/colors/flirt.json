@@ -1,0 +1,79 @@
+{
+  "id": "be4a6ee9-4e00-4b38-a894-c04528cabf89",
+  "color_name": "Flirt",
+  "hex_code": "#A2006D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Flirt is a vibrant and passionate color, evoking feelings of excitement, boldness, and playful energy. It combines the energy of red with the stability of blue, resulting in a color that is both stimulating and confident. It suggests a desire to attract attention and create a memorable impression.",
+  "emotional_associations": [
+    "excitement",
+    "passion",
+    "boldness",
+    "playful energy",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#00A235"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Passionate Sunset",
+      "swatches": [
+        "#A2006D",
+        "#FF8C00",
+        "#40E0D0"
+      ]
+    },
+    {
+      "name": "Bold & Beautiful",
+      "swatches": [
+        "#A2006D",
+        "#FFFFFF",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "accent color for vibrant interfaces",
+      "call-to-action buttons"
+    ],
+    "food_beverage": [
+      "packaging for exotic fruit drinks",
+      "branding for dessert shops"
+    ],
+    "wellness": [
+      "branding for fitness studios",
+      "decorative accent for energy-boosting products"
+    ],
+    "fashion": [
+      "statement pieces in clothing design",
+      "cosmetics packaging"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lipstick Ad Campaign",
+      "description": "A bold lipstick in 'Flirt' used in a cosmetic ad campaign, targeting young, confident women.",
+      "image_url": "https://example.com/flirt_lipstick.jpg"
+    },
+    {
+      "title": "Fashion Boutique Interior",
+      "description": "An accent wall painted 'Flirt' in a modern fashion boutique to create a vibrant and exciting shopping experience.",
+      "image_url": "https://example.com/flirt_boutique.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a sophisticated look.",
+    "Combine with teal for a complementary contrast.",
+    "Use as an accent color against a white backdrop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more vibrant colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Flirt Color Meaning: Understanding #A2006D",
+    "description": "Explore the meaning, psychology, and best uses of the color Flirt (#A2006D). Find complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:04:33.714757+00:00",
+  "updated_at": "2025-06-01T16:04:33.714757+00:00",
+  "slug": "flirt"
+}

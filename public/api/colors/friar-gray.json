@@ -1,0 +1,80 @@
+{
+  "id": "e62753a2-02a0-4368-9ff2-8db66935dcf5",
+  "color_name": "Friar Gray",
+  "hex_code": "#807E79",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Friar Gray evokes feelings of neutrality, contemplation, and subdued sophistication. It suggests a sense of calm reserve, practicality, and understated elegance. This color can promote a sense of stability and reliability, while also hinting at a quiet wisdom and introspection.",
+  "emotional_associations": [
+    "Neutrality",
+    "Contemplation",
+    "Sophistication",
+    "Calm",
+    "Reliability"
+  ],
+  "complementary_colors": [
+    "#797B80",
+    "#F9F4F5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#807E79",
+        "#A3A19D",
+        "#C6C4C0"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#807E79",
+        "#A69A8B",
+        "#D9CDB3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds for dashboards",
+      "Neutral color for data visualization",
+      "Accents in minimalist user interfaces"
+    ],
+    "food_beverage": null,
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Products promoting relaxation"
+    ],
+    "fashion": [
+      "Elegant knitwear",
+      "Sophisticated accessories",
+      "Understated business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Walls of an Old Monastery",
+      "description": "The weathered stone walls of an ancient monastery, showcasing the enduring beauty of Friar Gray.",
+      "image_url": "https://example.com/monastery_walls.jpg"
+    },
+    {
+      "title": "Modern Minimalist Apartment",
+      "description": "A sleek, minimalist apartment utilizing Friar Gray to create a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/modern_apartment.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with off-whites for a soft, classic look.",
+    "Combine with muted greens or blues for a natural feel.",
+    "Accent with metallic golds or silvers for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Friar Gray Color Meaning: Symbolism and Design Inspiration",
+    "description": "Discover the meaning and symbolism of Friar Gray (#807E79), including its psychological effects, complementary colors, and design applications."
+  },
+  "created_at": "2025-06-01T15:46:31.762714+00:00",
+  "updated_at": "2025-06-01T15:46:31.762714+00:00",
+  "slug": "friar-gray"
+}

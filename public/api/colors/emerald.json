@@ -1,0 +1,88 @@
+{
+  "id": "63376f0e-87f4-43c5-8f64-ae3701c4b4bb",
+  "color_name": "Emerald",
+  "hex_code": "#50C878",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Emerald green is strongly associated with nature, growth, and renewal. It evokes feelings of balance, harmony, and tranquility. Emerald is also linked to prosperity, abundance, and good fortune. Its vibrant and refreshing qualities can inspire feelings of optimism and well-being, promoting a sense of connection to the natural world and encouraging personal growth.",
+  "emotional_associations": [
+    "growth",
+    "renewal",
+    "balance",
+    "harmony",
+    "prosperity",
+    "nature",
+    "tranquility"
+  ],
+  "complementary_colors": [
+    "#C85078"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#50C878",
+        "#A2BE8C",
+        "#708238",
+        "#D3D3D3"
+      ]
+    },
+    {
+      "name": "Jewel Tone Harmony",
+      "swatches": [
+        "#50C878",
+        "#3F704F",
+        "#8FBC8F",
+        "#2E8B57"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Nature-themed apps",
+      "Wellness platforms",
+      "Financial dashboards (representing growth)"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Branding for vegetarian restaurants",
+      "Labels for herbal teas"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Spring/Summer collections",
+      "Outdoor apparel",
+      "Jewelry design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Emerald Jewelry",
+      "description": "Emerald gemstones are highly valued for their rich green color and are often used in rings, necklaces, and earrings.",
+      "image_url": "https://example.com/emerald_jewelry.jpg"
+    },
+    {
+      "title": "Lush Green Forests",
+      "description": "The vibrant green of a healthy forest symbolizes growth, life, and the abundance of nature.",
+      "image_url": "https://example.com/emerald_forest.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with earthy tones for a natural look.",
+    "Use with creams and whites for a sophisticated palette.",
+    "Contrast with complementary reds for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of green and find the perfect hue for your next project with our color picker!",
+  "seo_meta": {
+    "title": "Emerald Color Meaning: Symbolism, Psychology, and Design Ideas",
+    "description": "Discover the meaning and symbolism of the emerald color. Learn about its psychological effects, emotional associations, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:20:24.111484+00:00",
+  "updated_at": "2025-06-01T15:20:24.111484+00:00",
+  "slug": "emerald"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "06fc598a-7d23-45f3-8eaf-36c1799c112c",
+  "color_name": "Charlotte",
+  "hex_code": "#BAEEF9",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Charlotte is a serene and calming color, reminiscent of a clear, bright sky just after dawn. It evokes feelings of peace, tranquility, and openness, promoting a sense of well-being and mental clarity. This gentle hue is associated with creativity, inspiration, and a fresh perspective, making it ideal for spaces designed for relaxation and contemplation.",
+  "emotional_associations": [
+    "calm",
+    "peaceful",
+    "serene",
+    "fresh",
+    "tranquil"
+  ],
+  "complementary_colors": [
+    "#F9BABB"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Breeze",
+      "swatches": [
+        "#BAEEF9",
+        "#FFFFFF",
+        "#87CEEB",
+        "#778899"
+      ]
+    },
+    {
+      "name": "Dreamy Pastels",
+      "swatches": [
+        "#BAEEF9",
+        "#F0F8FF",
+        "#E6E6FA",
+        "#D8BFD8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Progress bars",
+      "Loading screens",
+      "Backgrounds"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Casual wear"
+    ],
+    "food_beverage": null
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Resort",
+      "description": "The spa uses Charlotte as the primary color to promote relaxation and serenity in their branding and interior design.",
+      "image_url": "https://example.com/spa_resort.jpg"
+    },
+    {
+      "title": "Meditation App",
+      "description": "Charlotte is used in the app's UI to create a calming and peaceful experience for users during meditation sessions.",
+      "image_url": "https://example.com/meditation_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and airy feel.",
+    "Combine with lavender for a soothing palette.",
+    "Use with gray for a sophisticated and modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Charlotte and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Charlotte Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Charlotte (#BAEEF9), its psychological effects, best color combinations, and inspiring palette ideas for your next project."
+  },
+  "created_at": "2025-06-01T16:21:09.306882+00:00",
+  "updated_at": "2025-06-01T16:21:09.306882+00:00",
+  "slug": "charlotte"
+}

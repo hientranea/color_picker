@@ -1,0 +1,79 @@
+{
+  "id": "1bf47f2f-993a-4422-856d-daec1f6a6569",
+  "color_name": "Rose of Sharon",
+  "hex_code": "#BF5500",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rose of Sharon, a warm and earthy hue, evokes feelings of comfort, stability, and a connection to nature. It combines the energy of red with the groundedness of brown, suggesting a balance between passion and practicality. This color often represents resilience, endurance, and a sense of home.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "stability",
+    "nature",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#55BFBF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#BF5500",
+        "#D4A373",
+        "#A68A64",
+        "#6B4F4F",
+        "#E9DAC1"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#BF5500",
+        "#73513E",
+        "#A67D4D",
+        "#E3B448",
+        "#F2E3D5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee or chocolate",
+      "Restaurant decor for a cozy atmosphere"
+    ],
+    "wellness": [
+      "Spa branding for grounding treatments"
+    ],
+    "fashion": [
+      "Autumnal clothing collections",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Autumn Leaves",
+      "description": "The changing colors of leaves in the fall showcase the beauty of Rose of Sharon tones.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    },
+    {
+      "title": "Leather Furniture",
+      "description": "High-quality leather furniture often features Rose of Sharon as a sophisticated and warm color option.",
+      "image_url": "https://example.com/leather_furniture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with teal or turquoise for a contrasting accent.",
+    "Combine with other earthy tones for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and variations of Rose of Sharon using our color picker!",
+  "seo_meta": {
+    "title": "Rose of Sharon Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning behind the color Rose of Sharon, its emotional associations, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T16:23:14.338527+00:00",
+  "updated_at": "2025-06-01T16:23:14.338527+00:00",
+  "slug": "rose-of-sharon"
+}

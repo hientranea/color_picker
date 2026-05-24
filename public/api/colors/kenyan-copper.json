@@ -1,0 +1,75 @@
+{
+  "id": "504cbf6b-38f8-41c7-958e-00acf9c99cdd",
+  "color_name": "Kenyan Copper",
+  "hex_code": "#7C1C05",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Kenyan Copper evokes feelings of warmth, earthiness, and sophistication. Its rich, reddish-brown hue suggests stability, reliability, and a connection to nature. This color can also inspire a sense of comfort and nostalgia, reminiscent of aged materials and traditional craftsmanship. It's a grounding color that promotes feelings of security and well-being.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "sophistication",
+    "stability",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#057C74"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#7C1C05",
+        "#D3A625",
+        "#A67B5B",
+        "#58391C"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#7C1C05",
+        "#E0B873",
+        "#8B4513",
+        "#F5DEB3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee or chocolate",
+      "Restaurant interiors"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic Kenyan Copper leather sofa adds a touch of warmth and elegance to any living room.",
+      "image_url": "https://example.com/kenyan_copper_sofa.jpg"
+    },
+    {
+      "title": "Copper Cookware",
+      "description": "Copper pots and pans not only look beautiful but also provide excellent heat distribution for cooking.",
+      "image_url": "https://example.com/copper_cookware.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with teal or turquoise for a bold contrast.",
+    "Combine with other earthy tones for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Kenyan Copper Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Kenyan Copper, its emotional associations, and how to use it in your designs with suggested palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:43:22.731151+00:00",
+  "updated_at": "2025-06-01T15:43:22.731151+00:00",
+  "slug": "kenyan-copper"
+}

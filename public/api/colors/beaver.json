@@ -1,0 +1,81 @@
+{
+  "id": "f2cd4966-a23f-43bb-b31e-7f311428a90f",
+  "color_name": "Beaver",
+  "hex_code": "#926F5B",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Beaver, a muted brown, evokes feelings of stability, reliability, and earthiness. It is associated with a sense of groundedness and practicality. This color often communicates a sense of comfort, security, and resourcefulness. It can also represent a connection to nature and a quiet strength.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "earthiness",
+    "comfort",
+    "security",
+    "resourcefulness"
+  ],
+  "complementary_colors": [
+    "#5B8392"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#926F5B",
+        "#C0997A",
+        "#6B4F4F",
+        "#A0785A",
+        "#E0CBA8"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#926F5B",
+        "#D3B484",
+        "#808000",
+        "#CD853F",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic beaver-colored leather sofa adds warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a wooden cabin blends seamlessly with the surrounding forest environment.",
+      "image_url": "https://example.com/wooden_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, natural look.",
+    "Combine with greens for an earthy palette.",
+    "Use with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Beaver Color Meaning: Understanding #926F5B",
+    "description": "Discover the meaning, psychology, and best uses of the color Beaver (#926F5B) in design and branding."
+  },
+  "created_at": "2025-06-01T15:56:51.620425+00:00",
+  "updated_at": "2025-06-01T15:56:51.620425+00:00",
+  "slug": "beaver"
+}

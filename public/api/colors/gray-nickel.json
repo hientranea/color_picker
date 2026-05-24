@@ -1,0 +1,84 @@
+{
+  "id": "86a49a8d-7474-4353-873a-617e1b123354",
+  "color_name": "Gray Nickel",
+  "hex_code": "#C3C3BD",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Gray Nickel represents a blend of neutrality and subtle sophistication. It often evokes feelings of calmness, stability, and understated elegance. It can also symbolize maturity, reliability, and practicality, making it a versatile choice for conveying a sense of trustworthiness and composure.",
+  "emotional_associations": [
+    "neutrality",
+    "calmness",
+    "sophistication",
+    "stability",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#BDC3C3",
+    "#C3BDC3",
+    "#C3C3BD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#E8E8E6",
+        "#C3C3BD",
+        "#9E9E94",
+        "#7A7A6B",
+        "#555542"
+      ]
+    },
+    {
+      "name": "Warm Contrast",
+      "swatches": [
+        "#C3C3BD",
+        "#F0E68C",
+        "#BDBDBD",
+        "#D2B48C",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral text colors",
+      "Minimalist icons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Sophisticated apparel",
+      "Elegant accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Gray Nickel walls provide a calming backdrop to this contemporary living space.",
+      "image_url": "https://example.com/gray_nickel_apartment.jpg"
+    },
+    {
+      "title": "Business Website Design",
+      "description": "A professional website uses Gray Nickel to convey reliability and trust.",
+      "image_url": "https://example.com/gray_nickel_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft blues for tranquility.",
+    "Accent with metallic gold for elegance.",
+    "Use with warm woods for a balanced feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Gray Nickel Color Meaning: Understanding #C3C3BD",
+    "description": "Discover the meaning, psychology, and uses of Gray Nickel (#C3C3BD) for design and branding."
+  },
+  "created_at": "2025-06-01T16:26:32.837171+00:00",
+  "updated_at": "2025-06-01T16:26:32.837171+00:00",
+  "slug": "gray-nickel"
+}

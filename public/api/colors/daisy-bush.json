@@ -1,0 +1,78 @@
+{
+  "id": "d87f0cbc-d757-4062-9427-34c4ab158ae6",
+  "color_name": "Daisy Bush",
+  "hex_code": "#4F2398",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Daisy Bush is a captivating shade of purple that evokes feelings of creativity, mystery, and sophistication. It blends the energy of red with the calmness of blue, resulting in a color that stimulates imagination and introspection. It is often associated with luxury, royalty, and spiritual awareness, making it a powerful choice for brands aiming to project an air of exclusivity and wisdom.",
+  "emotional_associations": [
+    "creativity",
+    "mystery",
+    "sophistication",
+    "luxury",
+    "spirituality"
+  ],
+  "complementary_colors": [
+    "#987223"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dream",
+      "swatches": [
+        "#4F2398",
+        "#D8BFD8",
+        "#FFFFFF",
+        "#A9A9A9"
+      ]
+    },
+    {
+      "name": "Royal Dusk",
+      "swatches": [
+        "#4F2398",
+        "#2E0854",
+        "#7B68EE",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data Visualization",
+      "Dark Mode Themes"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation Apps",
+      "Sleep Aids"
+    ],
+    "fashion": [
+      "Evening Wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Gemstone",
+      "description": "Amethyst is a violet variety of quartz often used in jewelry and believed to have calming properties.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Lavender Fields at Dusk",
+      "description": "The soft purple hues of lavender fields create a serene and tranquil landscape.",
+      "image_url": "https://example.com/lavender.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold accents for a luxurious feel.",
+    "Combine with lighter shades of purple for a monochromatic scheme.",
+    "Use as an accent color against a neutral background."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to find the perfect hues for your next project.",
+  "seo_meta": {
+    "title": "Daisy Bush Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning and associations of Daisy Bush (#4F2398), explore complementary colors, and find inspiring palettes for your designs."
+  },
+  "created_at": "2025-06-01T15:19:26.417175+00:00",
+  "updated_at": "2025-06-01T15:19:26.417175+00:00",
+  "slug": "daisy-bush"
+}

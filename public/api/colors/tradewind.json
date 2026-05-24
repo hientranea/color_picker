@@ -1,0 +1,85 @@
+{
+  "id": "44117b27-a925-4c47-bb6b-ec645e5df0f8",
+  "color_name": "Tradewind",
+  "hex_code": "#5FB3AC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tradewind is a calming and refreshing color that evokes feelings of tranquility and clarity. It suggests a sense of balance and stability, promoting relaxation and mental well-being. This color is often associated with nature, specifically the ocean and sky, bringing a sense of openness and freedom.",
+  "emotional_associations": [
+    "calm",
+    "refreshing",
+    "tranquility",
+    "clarity",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#B35F64"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Serenity",
+      "swatches": [
+        "#5FB3AC",
+        "#A7D9D3",
+        "#E0F2F1",
+        "#708D81"
+      ]
+    },
+    {
+      "name": "Earthy Balance",
+      "swatches": [
+        "#5FB3AC",
+        "#D4A373",
+        "#8D6E63",
+        "#F2E8CF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Progress indicators",
+      "Data visualization"
+    ],
+    "food_beverage": [
+      "Mineral water labels",
+      "Tea packaging",
+      "Wellness-focused food branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear",
+      "Lightweight outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Bathroom Design",
+      "description": "A bathroom featuring Tradewind colored tiles creates a serene and spa-like atmosphere.",
+      "image_url": "https://example.com/bathroom_tradewind.jpg"
+    },
+    {
+      "title": "Website Landing Page",
+      "description": "A website using Tradewind as the primary color for a calming and inviting user experience.",
+      "image_url": "https://example.com/website_tradewind.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with coral or peach for a warm contrast.",
+    "Use with white for a clean and minimalist feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Tradewind Color Meaning: Psychology, Palettes, and Design Tips",
+    "description": "Discover the meaning of Tradewind (#5FB3AC), its psychological impact, complementary colors, and how to use it in design projects."
+  },
+  "created_at": "2025-06-01T15:26:02.233067+00:00",
+  "updated_at": "2025-06-01T15:26:02.233067+00:00",
+  "slug": "tradewind"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "01988f25-b6df-480b-9a65-02c634490c54",
+  "color_name": "Rum",
+  "hex_code": "#796989",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rum, a muted purple-gray, evokes feelings of sophistication, mystery, and introspection. It suggests a blend of creativity and stability, hinting at unconventional ideas grounded in practicality. It can also symbolize wisdom and a connection to the spiritual realm, inviting contemplation and deeper understanding.",
+  "emotional_associations": [
+    "Sophistication",
+    "Mystery",
+    "Introspection",
+    "Wisdom",
+    "Creativity"
+  ],
+  "complementary_colors": [
+    "#697959"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#796989",
+        "#A295B5",
+        "#D1C2E3",
+        "#F0EDF5"
+      ]
+    },
+    {
+      "name": "Urban Concrete",
+      "swatches": [
+        "#796989",
+        "#5E5463",
+        "#97959B",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds for data visualization",
+      "Minimalist app designs",
+      "Elegant website headers"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Sophisticated evening wear",
+      "Accessories for a modern look"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The interior of an amethyst geode showcasing varying shades of purple and gray.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    },
+    {
+      "title": "Modern Loft Apartment",
+      "description": "A loft apartment using Rum-colored walls to create a sophisticated and calming ambiance.",
+      "image_url": "https://example.com/loft_apartment.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a minimalist look.",
+    "Combine with jewel tones for a touch of luxury.",
+    "Use with warm neutrals for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades and create stunning palettes!",
+  "seo_meta": {
+    "title": "Rum Color Meaning: Psychology, Combinations, and Design Ideas",
+    "description": "Discover the meaning and associations of the color Rum (#796989), along with complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:41:20.356835+00:00",
+  "updated_at": "2025-06-01T15:41:20.356835+00:00",
+  "slug": "rum"
+}

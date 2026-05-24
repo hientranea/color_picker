@@ -1,0 +1,84 @@
+{
+  "id": "398f3cde-28ad-4eec-ab3d-88842ec04efe",
+  "color_name": "Congo Brown",
+  "hex_code": "#593737",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Congo Brown evokes feelings of warmth, stability, and earthiness. It is often associated with nature, reliability, and a sense of groundedness. This color can also represent comfort, security, and a connection to traditional values. Its muted tone offers a sense of understated elegance and sophistication.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "earthiness",
+    "comfort",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#375959"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#593737",
+        "#A68A8A",
+        "#D4C0A1",
+        "#736357",
+        "#E8DAB2"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#593737",
+        "#8C634A",
+        "#BFA482",
+        "#59463D",
+        "#A67B5B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Organic food labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces",
+      "Natural skincare branding"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in Congo Brown adds warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a wooden cabin painted in a dark brown hue blends seamlessly with the natural surroundings.",
+      "image_url": "https://example.com/wooden_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a soft, neutral palette.",
+    "Combine with deep greens for an earthy, natural feel.",
+    "Use with gold accents for a touch of luxury.",
+    "Contrast with teal or turquoise for a vibrant pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator to find the perfect color combination.",
+  "seo_meta": {
+    "title": "Congo Brown Color Meaning: Psychology, Palettes & Design Tips",
+    "description": "Discover the meaning and symbolism of Congo Brown (#593737). Explore complementary colors, suggested palettes, and industry use cases for this warm and earthy hue."
+  },
+  "created_at": "2025-06-01T15:23:34.055903+00:00",
+  "updated_at": "2025-06-01T15:23:34.055903+00:00",
+  "slug": "congo-brown"
+}

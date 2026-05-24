@@ -1,0 +1,77 @@
+{
+  "id": "58e0552a-ba32-4441-ad14-4c670fdc2325",
+  "color_name": "Regent St Blue",
+  "hex_code": "#AAD6E6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Regent St Blue evokes feelings of tranquility, serenity, and peace. It is often associated with clear skies and calm waters, promoting a sense of relaxation and openness. This color can also inspire creativity and clarity of thought, making it a good choice for environments where focus and reflection are valued.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "peace",
+    "clarity",
+    "openness"
+  ],
+  "complementary_colors": [
+    "#E6B4AA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#AAD6E6",
+        "#F0F8FF",
+        "#87CEEB",
+        "#778899",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Serene Sky",
+      "swatches": [
+        "#AAD6E6",
+        "#B0E2FF",
+        "#ADD8E6",
+        "#E6E6FA",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard backgrounds",
+      "loading screens",
+      "data visualization"
+    ],
+    "wellness": [
+      "spa branding",
+      "meditation apps",
+      "yoga studios"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Website Design",
+      "description": "A website for a luxury spa uses Regent St Blue to create a calming and inviting atmosphere.",
+      "image_url": "https://example.com/spa_website.jpg"
+    },
+    {
+      "title": "Meditation App Interface",
+      "description": "A meditation app incorporates Regent St Blue in its user interface to promote relaxation and focus.",
+      "image_url": "https://example.com/meditation_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a sophisticated look.",
+    "Combine with sandy beiges for a beach-inspired palette.",
+    "Use with brighter blues for a dynamic gradient."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Regent St Blue Color Meaning, Hex Code, and Palettes",
+    "description": "Discover the meaning and psychology of Regent St Blue (#AAD6E6), including emotional associations, complementary colors, and suggested palettes for your design projects."
+  },
+  "created_at": "2025-06-01T16:09:48.270601+00:00",
+  "updated_at": "2025-06-01T16:09:48.270601+00:00",
+  "slug": "regent-st-blue"
+}

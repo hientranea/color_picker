@@ -1,0 +1,83 @@
+{
+  "id": "1bb3cd97-77b6-4dea-8ad7-7263bcbedb95",
+  "color_name": "Gondola",
+  "hex_code": "#261414",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Gondola, a deep and dusky red-brown, evokes feelings of stability, warmth, and groundedness. It is often associated with the earth, nature, and a sense of history. This color can also suggest sophistication, reserve, and a quiet strength, providing a sense of comfort and reliability.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "groundedness",
+    "sophistication",
+    "comfort",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#142626",
+    "#746262"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Autumn",
+      "swatches": [
+        "#261414",
+        "#522828",
+        "#7E3C3C",
+        "#AA5050",
+        "#D66464"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#261414",
+        "#403020",
+        "#5A4C30",
+        "#746840",
+        "#8E8450"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Wine labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Winter apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a Gondola hue adds warmth and elegance to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Cabin",
+      "description": "The exterior of a wooden cabin stained in Gondola blends seamlessly with the surrounding forest.",
+      "image_url": "https://example.com/wooden_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with forest green for a natural, earthy feel.",
+    "Use gold accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Gondola Color Meaning: Understanding #261414",
+    "description": "Discover the meaning and associations of Gondola (#261414), including its psychological impact, complementary colors, and suggested palettes."
+  },
+  "created_at": "2025-06-01T14:56:30.033677+00:00",
+  "updated_at": "2025-06-01T14:56:30.033677+00:00",
+  "slug": "gondola"
+}

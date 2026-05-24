@@ -1,0 +1,86 @@
+{
+  "id": "b442579b-a241-461c-b50a-de964d0c46d1",
+  "color_name": "Tea",
+  "hex_code": "#C1BAB0",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Tea, as a color, evokes feelings of calmness, neutrality, and sophistication. It is often associated with relaxation, stability, and a sense of understated elegance. Its muted tone suggests a quiet confidence and a grounded perspective.",
+  "emotional_associations": [
+    "calmness",
+    "neutrality",
+    "sophistication",
+    "relaxation",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#B0B5C1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#C1BAB0",
+        "#E5DCCB",
+        "#A89A86",
+        "#6E6159"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#C1BAB0",
+        "#FFFFFF",
+        "#333333",
+        "#808080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral text color",
+      "Minimalist design interfaces"
+    ],
+    "food_beverage": [
+      "Tea packaging",
+      "Coffee shop branding",
+      "Bakery websites"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation app interfaces",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Neutral clothing",
+      "Accessory accents",
+      "Understated elegance"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tea Ceremony Room",
+      "description": "A traditional tea room utilizing soft, neutral colors to promote tranquility and focus.",
+      "image_url": "https://example.com/tea_room.jpg"
+    },
+    {
+      "title": "Minimalist Home Decor",
+      "description": "A modern living room featuring 'Tea' colored walls paired with white accents for a clean and calming aesthetic.",
+      "image_url": "https://example.com/minimalist_living_room.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with darker grays for added depth.",
+    "Use with natural wood tones for a warm and inviting feel.",
+    "Accent with soft greens for a touch of nature."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator.",
+  "seo_meta": {
+    "title": "Tea Color Meaning: Discover the Elegance of #C1BAB0",
+    "description": "Uncover the meaning and psychology behind the 'Tea' color (#C1BAB0). Explore its uses, complementary colors, and inspiring design palettes."
+  },
+  "created_at": "2025-06-01T16:25:15.273307+00:00",
+  "updated_at": "2025-06-01T16:25:15.273307+00:00",
+  "slug": "tea"
+}

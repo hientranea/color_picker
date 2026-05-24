@@ -1,0 +1,81 @@
+{
+  "id": "de9fb086-2d6e-48c9-a553-c6bf0bbdbb82",
+  "color_name": "Eminence",
+  "hex_code": "#6C3082",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Eminence, a sophisticated shade of purple, evokes feelings of royalty, luxury, and ambition. It combines the stability of blue with the energy of red, resulting in a color associated with wisdom, creativity, and independence. Eminence can also represent mystery and magic, inspiring introspection and a sense of individuality.",
+  "emotional_associations": [
+    "royalty",
+    "luxury",
+    "ambition",
+    "wisdom",
+    "creativity",
+    "mystery"
+  ],
+  "complementary_colors": [
+    "#826C30"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Royal Dusk",
+      "swatches": [
+        "#6C3082",
+        "#A085A3",
+        "#D4BAD4",
+        "#462159",
+        "#210B30"
+      ]
+    },
+    {
+      "name": "Creative Spark",
+      "swatches": [
+        "#6C3082",
+        "#FFA45B",
+        "#E07A5F",
+        "#3D405B",
+        "#81B29A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Apps for meditation and mindfulness",
+      "Platforms for creative professionals"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Packaging for luxury skincare products",
+      "Branding for spiritual retreats"
+    ],
+    "fashion": [
+      "High-end evening wear",
+      "Accessories for a bold statement"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "Amethyst geodes showcase the natural beauty and depth of Eminence, often associated with healing and tranquility.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    },
+    {
+      "title": "Luxury Velvet Couch",
+      "description": "A velvet couch in Eminence exudes opulence and sophistication, adding a touch of regal charm to any living space.",
+      "image_url": "https://example.com/velvet_couch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with gray for a modern and sophisticated look.",
+    "Use with muted greens for a balanced and calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Eminence Color Meaning: Understanding the Psychology of #6C3082",
+    "description": "Explore the meaning, associations, and best uses of Eminence, a captivating shade of purple. Discover complementary colors and design inspiration."
+  },
+  "created_at": "2025-06-01T15:32:48.432917+00:00",
+  "updated_at": "2025-06-01T15:32:48.432917+00:00",
+  "slug": "eminence"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "53390dc5-7ac0-4fde-a4aa-5117c414c2ab",
+  "color_name": "Deep Oak",
+  "hex_code": "#412010",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Deep Oak evokes feelings of stability, warmth, and earthiness. It's associated with reliability, tradition, and comfort. This color can also inspire a sense of groundedness and connection to nature, providing a comforting and secure feeling.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "earthiness",
+    "comfort",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#104131"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Harmony",
+      "swatches": [
+        "#412010",
+        "#A85A32",
+        "#D4A373",
+        "#F2E3D5"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#412010",
+        "#596E79",
+        "#A7997B",
+        "#E0CBA8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Leather accessories",
+      "Autumn collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rustic Cabin",
+      "description": "The exterior of a rustic cabin blends seamlessly into the surrounding forest, utilizing a deep oak color to create a cozy and inviting feel.",
+      "image_url": "url_to_rustic_cabin_image.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "A pair of well-worn leather boots in a deep oak hue symbolizes durability and timeless style.",
+      "image_url": "url_to_leather_boots_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for an earthy palette.",
+    "Use with golds for a luxurious feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Deep Oak Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Deep Oak (#412010). Learn about its psychological associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:11:49.426219+00:00",
+  "updated_at": "2025-06-01T15:11:49.426219+00:00",
+  "slug": "deep-oak"
+}

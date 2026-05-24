@@ -1,0 +1,82 @@
+{
+  "id": "d94e828a-6e19-459b-ba2c-70dc0bd11f71",
+  "color_name": "Perano",
+  "hex_code": "#A9BEF2",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Perano evokes feelings of tranquility, serenity, and openness. It's often associated with clarity, inspiration, and intuition. This pale blue can encourage creativity and promote a sense of calm, making it ideal for spaces intended for relaxation and contemplation. It suggests stability and reliability, yet it also has a touch of ethereal quality.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "inspiration",
+    "peace",
+    "trust"
+  ],
+  "complementary_colors": [
+    "#F2C4A9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Dream",
+      "swatches": [
+        "#A9BEF2",
+        "#FFFFFF",
+        "#D3E2F9",
+        "#7494BC"
+      ]
+    },
+    {
+      "name": "Subtle Harmony",
+      "swatches": [
+        "#A9BEF2",
+        "#E8E2D4",
+        "#B8BDB5",
+        "#556B63"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Settings menus"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Lightweight scarves",
+      "Casual shirts"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Bedroom",
+      "description": "A bedroom featuring Perano walls, creating a peaceful and relaxing atmosphere.",
+      "image_url": "https://example.com/coastal_bedroom.jpg"
+    },
+    {
+      "title": "Modern Website Design",
+      "description": "A clean website layout using Perano as a background color to enhance user experience.",
+      "image_url": "https://example.com/modern_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like white or beige for a classic look.",
+    "Combine with shades of gray for a modern aesthetic.",
+    "Use with coral or peach for a warm contrast.",
+    "Add touches of gold or silver for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar hues and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Perano Color Meaning: Discover the Serenity of #A9BEF2",
+    "description": "Explore the meaning, psychology, and complementary colors of Perano (#A9BEF2). Learn how to use this calming color in design and branding."
+  },
+  "created_at": "2025-06-01T16:08:42.852241+00:00",
+  "updated_at": "2025-06-01T16:08:42.852241+00:00",
+  "slug": "perano"
+}

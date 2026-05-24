@@ -1,0 +1,79 @@
+{
+  "id": "5b8d6450-cdef-47b4-a3d4-1cea4a233479",
+  "color_name": "Spun Pearl",
+  "hex_code": "#AAABB7",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Spun Pearl evokes a sense of calmness, sophistication, and understated elegance. It represents neutrality, balance, and a quiet strength, often associated with peace and introspection. This color promotes a feeling of stability and can create a serene and harmonious atmosphere.",
+  "emotional_associations": [
+    "calmness",
+    "sophistication",
+    "neutrality",
+    "peace",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#B7AAA9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#AAABB7",
+        "#C1C2CD",
+        "#D8D9E3",
+        "#EFEFF2"
+      ]
+    },
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#AAABB7",
+        "#8B8378",
+        "#D4A373",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Modals",
+      "Text fields"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Living Room",
+      "description": "A living room featuring walls painted in Spun Pearl, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/spun_pearl_living_room.jpg"
+    },
+    {
+      "title": "Minimalist Website Design",
+      "description": "A website using Spun Pearl as a background to provide a clean and uncluttered user experience.",
+      "image_url": "https://example.com/spun_pearl_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues for a serene feel.",
+    "Combine with warm browns for an earthy touch.",
+    "Use with crisp whites for a modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your own palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Spun Pearl Color Meaning: Discover its Psychological Effects",
+    "description": "Explore the meaning of Spun Pearl color. Learn about its psychological effects, associations, and how to use it in design and branding to create a calming and sophisticated atmosphere."
+  },
+  "created_at": "2025-06-01T16:09:41.029932+00:00",
+  "updated_at": "2025-06-01T16:09:41.029932+00:00",
+  "slug": "spun-pearl"
+}

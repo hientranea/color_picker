@@ -1,0 +1,74 @@
+{
+  "id": "347173f4-f4c7-43fe-972e-db547d98e94b",
+  "color_name": "Dodger Blue",
+  "hex_code": "#1E90FF",
+  "wheel_position": "primary",
+  "psychological_meaning": "Dodger Blue is often associated with trustworthiness, stability, and intelligence. It evokes feelings of calmness and security, making it a popular choice for brands that want to project reliability. This shade of blue is also linked to communication and clarity, fostering a sense of openness and honesty.",
+  "emotional_associations": [
+    "trust",
+    "calm",
+    "intelligence",
+    "stability",
+    "communication"
+  ],
+  "complementary_colors": [
+    "#FFE31E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serenity",
+      "swatches": [
+        "#1E90FF",
+        "#A0D6FF",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Modern Contrast",
+      "swatches": [
+        "#1E90FF",
+        "#333333",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "User interfaces",
+      "App design",
+      "Website backgrounds"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Casual wear",
+      "Sportswear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Twitter Logo",
+      "description": "The original Twitter logo prominently featured a similar shade of blue, symbolizing trust and communication.",
+      "image_url": "url_to_twitter_logo"
+    },
+    {
+      "title": "Team Uniforms",
+      "description": "Many sports teams use shades of blue, including dodger blue, in their uniforms to represent team unity and strength.",
+      "image_url": "url_to_sports_uniform"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and modern look.",
+    "Combine with gray for a sophisticated feel.",
+    "Use with yellow or orange for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to find the perfect shades to complement Dodger Blue!",
+  "seo_meta": {
+    "title": "Dodger Blue Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning and psychology behind Dodger Blue (#1E90FF), explore color combinations, and find inspiration for using it in your designs."
+  },
+  "created_at": "2025-06-01T14:53:33.982092+00:00",
+  "updated_at": "2025-06-01T14:53:33.982092+00:00",
+  "slug": "dodger-blue"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "0cd7e77c-8805-47ab-8e11-2847e0cce164",
+  "color_name": "Deep Teal",
+  "hex_code": "#003532",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Deep teal evokes feelings of sophistication, tranquility, and stability. It blends the calming properties of blue with the growth and renewal associated with green, creating a sense of balance and harmony. This color is often linked to trustworthiness, reliability, and emotional healing, making it ideal for environments and brands that seek to establish a sense of calm confidence.",
+  "emotional_associations": [
+    "tranquility",
+    "sophistication",
+    "stability",
+    "trustworthiness",
+    "healing"
+  ],
+  "complementary_colors": [
+    "#350003",
+    "#350300"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#003532",
+        "#005F5B",
+        "#008984",
+        "#00B3AD",
+        "#00DDE6"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#003532",
+        "#4A655F",
+        "#82958A",
+        "#BABFBA",
+        "#D8DED9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces",
+      "Meditation app designs"
+    ],
+    "food_beverage": [
+      "Packaging for herbal teas",
+      "Branding for sustainable seafood restaurants"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio websites",
+      "Aromatherapy product labels"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Statement jewelry",
+      "Luxury activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Teal Sapphire",
+      "description": "A stunning teal sapphire gemstone showcasing the color's natural beauty and rarity.",
+      "image_url": "https://example.com/teal_sapphire.jpg"
+    },
+    {
+      "title": "Coastal Living Room",
+      "description": "A living room design incorporating deep teal accents to create a serene and sophisticated coastal vibe.",
+      "image_url": "https://example.com/coastal_living_room.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with warm neutrals like beige or cream for a balanced look.",
+    "Use with other shades of blue and green for a harmonious palette.",
+    "Contrast with coral or salmon for a vibrant, eye-catching effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Deep Teal Color Meaning: Shades, Psychology & Design Tips",
+    "description": "Discover the meaning and psychology behind deep teal, explore complementary colors, and find design inspiration for using this sophisticated hue."
+  },
+  "created_at": "2025-06-01T14:36:39.950421+00:00",
+  "updated_at": "2025-06-01T14:36:39.950421+00:00",
+  "slug": "deep-teal"
+}

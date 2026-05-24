@@ -1,0 +1,81 @@
+{
+  "id": "70707ec3-3631-42f4-8c41-9f5856afb2b0",
+  "color_name": "Del Rio",
+  "hex_code": "#B09A95",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Del Rio, with its muted, earthy tone, evokes feelings of stability, reliability, and understated elegance. It suggests a connection to nature, maturity, and a sense of calm sophistication. It's a color that inspires trust and conveys a sense of timelessness.",
+  "emotional_associations": [
+    "calmness",
+    "sophistication",
+    "reliability",
+    "earthiness"
+  ],
+  "complementary_colors": [
+    "#95A5B0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#B09A95",
+        "#D3C1B8",
+        "#7A6A64",
+        "#E9E5DF"
+      ]
+    },
+    {
+      "name": "Subtle Contrast",
+      "swatches": [
+        "#B09A95",
+        "#FFFFFF",
+        "#4A4A4A",
+        "#A68DAD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist apps",
+      "Neutral tones for data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors with a rustic feel"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Branding for holistic health services"
+    ],
+    "fashion": [
+      "Autumn/Winter apparel",
+      "Accessories with a classic style"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Leather Sofa",
+      "description": "A classic leather sofa in a 'Del Rio' shade, adding warmth and character to a living space.",
+      "image_url": "https://example.com/del_rio_sofa.jpg"
+    },
+    {
+      "title": "Stone Fireplace",
+      "description": "A natural stone fireplace featuring 'Del Rio' tones, creating a cozy and inviting atmosphere.",
+      "image_url": "https://example.com/del_rio_fireplace.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a classic look.",
+    "Combine with deep greens for a natural palette.",
+    "Use with metallic accents for added sophistication.",
+    "Contrast with muted blues for visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Del Rio Color Meaning: Understanding #B09A95",
+    "description": "Discover the meaning, associations, and best uses of the color Del Rio (#B09A95), including complementary colors and palette suggestions."
+  },
+  "created_at": "2025-06-01T16:14:26.142395+00:00",
+  "updated_at": "2025-06-01T16:14:26.142395+00:00",
+  "slug": "del-rio"
+}

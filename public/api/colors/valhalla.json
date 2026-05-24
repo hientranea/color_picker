@@ -1,0 +1,82 @@
+{
+  "id": "4df118a2-c1a7-4004-8dd3-b35022ab12cb",
+  "color_name": "Valhalla",
+  "hex_code": "#2B194F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Valhalla, a deep and mysterious purple, evokes feelings of royalty, sophistication, and the unknown. It carries a sense of power and ambition, while also hinting at introspection and creativity. This color is often associated with luxury and exclusivity, lending an air of prestige and elegance to any design.",
+  "emotional_associations": [
+    "mystery",
+    "royalty",
+    "sophistication",
+    "creativity",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#4F3D19"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Midnight Majesty",
+      "swatches": [
+        "#2B194F",
+        "#512DA8",
+        "#9575CD",
+        "#D1C4E9"
+      ]
+    },
+    {
+      "name": "Valhalla Sunset",
+      "swatches": [
+        "#2B194F",
+        "#A1887F",
+        "#E0E0E0",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Premium app designs"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Luxury chocolate packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "High-end accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Royal Amethyst Jewel",
+      "description": "A stunning amethyst gemstone exhibiting a deep Valhalla hue, radiating opulence and mystery.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Luxury Velvet Gown",
+      "description": "An elegant velvet gown in Valhalla, symbolizing sophistication and timeless beauty.",
+      "image_url": "https://example.com/velvet_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Use with silver for a modern and sophisticated look.",
+    "Combine with lighter purples for a harmonious palette.",
+    "Contrast with yellows or oranges for a vibrant effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create stunning palettes with our color palette generator!",
+  "seo_meta": {
+    "title": "Valhalla Color Meaning: The Psychology of #2B194F",
+    "description": "Discover the meaning and associations of Valhalla, a sophisticated purple color. Explore its uses in design, psychology, and more."
+  },
+  "created_at": "2025-06-01T14:59:03.364401+00:00",
+  "updated_at": "2025-06-01T14:59:03.364401+00:00",
+  "slug": "valhalla"
+}

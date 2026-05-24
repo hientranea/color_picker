@@ -1,0 +1,80 @@
+{
+  "id": "0b13d302-2ad3-406e-89e8-5814ab4ece80",
+  "color_name": "Leather",
+  "hex_code": "#967059",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Leather evokes a sense of resilience, dependability, and understated luxury. It is often associated with natural materials and craftsmanship, fostering feelings of stability and comfort. The color symbolizes durability, tradition, and a connection to the earth, offering a sense of security and groundedness.",
+  "emotional_associations": [
+    "comfort",
+    "durability",
+    "tradition",
+    "resilience",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#597F96"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#967059",
+        "#D4A373",
+        "#E2C297",
+        "#735139",
+        "#A68A64"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#967059",
+        "#A87E6C",
+        "#C69B86",
+        "#644B3F",
+        "#826357"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee shops branding",
+      "Chocolate packaging"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Leather goods design",
+      "Autumn/winter clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Jacket",
+      "description": "A classic leather jacket symbolizes ruggedness and timeless style.",
+      "image_url": "https://example.com/leather_jacket.jpg"
+    },
+    {
+      "title": "Leather Sofa",
+      "description": "A comfortable leather sofa provides a touch of luxury and durability in a living space.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a classic look.",
+    "Combine with deep greens or blues for a natural feel.",
+    "Use with metallic accents for an elegant touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades to complement Leather for your next project.",
+  "seo_meta": {
+    "title": "Leather Color Meaning: Psychological Effects and Design Use",
+    "description": "Discover the meaning of Leather color, its emotional associations, and how to use it effectively in design and branding to evoke feelings of dependability and understated luxury."
+  },
+  "created_at": "2025-06-01T15:58:22.503092+00:00",
+  "updated_at": "2025-06-01T15:58:22.503092+00:00",
+  "slug": "leather"
+}

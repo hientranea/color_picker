@@ -1,0 +1,80 @@
+{
+  "id": "2f3e2af8-3e38-4b5a-88cd-e5394bde22f3",
+  "color_name": "English Walnut",
+  "hex_code": "#3E2B23",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "English Walnut is a warm, earthy color that evokes feelings of comfort, stability, and reliability. It is associated with nature, home, and a sense of groundedness. This color can also suggest maturity, sophistication, and a connection to traditional values, making it feel both familiar and trustworthy.",
+  "emotional_associations": [
+    "comfort",
+    "stability",
+    "reliability",
+    "warmth",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#233E34",
+    "#B8A59B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Autumn",
+      "swatches": [
+        "#3E2B23",
+        "#A38269",
+        "#D4BCA3",
+        "#736257"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#3E2B23",
+        "#7A5D48",
+        "#B89C82",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Bakery advertising"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Fall/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in English Walnut provides a warm and inviting focal point in a living room.",
+      "image_url": "https://example.com/walnut_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "English Walnut-colored hardwood flooring adds a touch of elegance and warmth to any home.",
+      "image_url": "https://example.com/walnut_flooring.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with deep greens for a nature-inspired palette.",
+    "Use with metallic accents like gold or bronze for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "English Walnut Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of English Walnut (#3E2B23), its psychological effects, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:09:14.076354+00:00",
+  "updated_at": "2025-06-01T15:09:14.076354+00:00",
+  "slug": "english-walnut"
+}

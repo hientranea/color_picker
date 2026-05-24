@@ -1,0 +1,81 @@
+{
+  "id": "0bfd0411-4a1c-4482-bee6-ba9ff5075863",
+  "color_name": "Atlantis",
+  "hex_code": "#97CD2D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Atlantis, a vibrant shade of green, evokes feelings of renewal, growth, and balance. It's often associated with nature, life, and harmony. This color promotes a sense of well-being and can inspire feelings of hope and optimism.",
+  "emotional_associations": [
+    "growth",
+    "renewal",
+    "balance",
+    "nature",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#CD6A92"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#97CD2D",
+        "#708238",
+        "#BDB2FF",
+        "#5F4B8B"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#97CD2D",
+        "#F2E7DC",
+        "#E6A8D4",
+        "#A3D1D1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "App dashboards for sustainability trackers",
+      "Navigation elements in eco-friendly product websites"
+    ],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Branding for vegan restaurants"
+    ],
+    "wellness": [
+      "Logos for holistic health clinics",
+      "Website designs for meditation apps"
+    ],
+    "fashion": [
+      "Accents in sustainable clothing lines",
+      "Print designs for activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Packaging",
+      "description": "Atlantis is used on packaging for eco-friendly cleaning products to convey natural ingredients and environmental responsibility.",
+      "image_url": "url_to_sustainable_packaging_image.jpg"
+    },
+    {
+      "title": "Eco-Friendly Website Design",
+      "description": "A website for a renewable energy company uses Atlantis as a primary color to symbolize growth and sustainability.",
+      "image_url": "url_to_eco_friendly_website_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like beige or gray for a grounded look.",
+    "Combine with complementary colors like purple for a vibrant contrast.",
+    "Use with other shades of green for a harmonious and natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various color combinations with Atlantis using our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Atlantis Color Meaning: Understanding #97CD2D and its Psychology",
+    "description": "Discover the meaning, associations, and uses of Atlantis (#97CD2D), a refreshing shade of green, and learn how to effectively incorporate it into your designs."
+  },
+  "created_at": "2025-06-01T15:59:11.590128+00:00",
+  "updated_at": "2025-06-01T15:59:11.590128+00:00",
+  "slug": "atlantis"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "844872b1-3d18-4490-b24c-ffeb768d9334",
+  "color_name": "Eclipse",
+  "hex_code": "#311C17",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Eclipse evokes feelings of mystery, sophistication, and groundedness. Its deep, muted tones suggest stability and reliability, while hinting at hidden depths and unexplored potential. It can also represent a sense of protection and quiet strength.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "stability",
+    "groundedness",
+    "protection"
+  ],
+  "complementary_colors": [
+    "#172B31"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#311C17",
+        "#59381F",
+        "#825427",
+        "#AA702F",
+        "#D38C37"
+      ]
+    },
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#311C17",
+        "#4A3128",
+        "#634639",
+        "#7C5B4A",
+        "#95705B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Backgrounds for data visualization"
+    ],
+    "food_beverage": [
+      "Branding for coffee or chocolate products",
+      "Restaurant interiors"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Winter outerwear",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a dark brown, Eclipse-like hue, adding warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Dark Chocolate Packaging",
+      "description": "Elegant packaging for artisanal dark chocolate, using a deep brown color to convey richness and indulgence.",
+      "image_url": "https://example.com/dark_chocolate.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals like beige or cream for contrast.",
+    "Use gold or copper accents for a touch of luxury.",
+    "Combine with deep greens for a natural, earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Eclipse and create your perfect color scheme using our color picker tool!",
+  "seo_meta": {
+    "title": "Eclipse Color Meaning: Understanding #311C17",
+    "description": "Discover the meaning, psychology, and best uses for the Eclipse color (#311C17). Find complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:02:00.512826+00:00",
+  "updated_at": "2025-06-01T15:02:00.512826+00:00",
+  "slug": "eclipse"
+}

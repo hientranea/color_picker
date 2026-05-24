@@ -1,0 +1,82 @@
+{
+  "id": "e2154a27-f0e7-47af-a9b6-be3f479de68f",
+  "color_name": "Bahia",
+  "hex_code": "#A5CB0C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bahia is a vibrant, yellowish-green color that evokes feelings of freshness, growth, and vitality. It's associated with nature, renewal, and a sense of optimism. Bahia can also represent balance and harmony, blending the energy of yellow with the stability of green. It promotes a sense of well-being and connection to the natural world.",
+  "emotional_associations": [
+    "freshness",
+    "growth",
+    "vitality",
+    "optimism",
+    "balance",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#CB0CA5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#A5CB0C",
+        "#F2FBE3",
+        "#74B72E",
+        "#3D5A28"
+      ]
+    },
+    {
+      "name": "Citrus Burst",
+      "swatches": [
+        "#A5CB0C",
+        "#FFDA63",
+        "#FF8C42",
+        "#6A4C93"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly app interfaces",
+      "Health and wellness dashboards"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant branding for vegetarian cuisine"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio interiors"
+    ],
+    "fashion": [
+      "Activewear",
+      "Summer dresses"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Fresh Produce Aisle",
+      "description": "The vibrant green of fresh fruits and vegetables evokes feelings of health and nourishment.",
+      "image_url": "url_to_produce_aisle_image.jpg"
+    },
+    {
+      "title": "Lush Green Meadow",
+      "description": "A field of Bahia-colored grass symbolizes growth, tranquility, and the beauty of nature.",
+      "image_url": "url_to_meadow_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones for a natural feel.",
+    "Use with bright yellows or oranges for an energetic palette.",
+    "Combine with cool blues for a balanced and refreshing look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Bahia Color Meaning: Understanding the Psychology of #A5CB0C",
+    "description": "Discover the meaning and symbolism of Bahia (#A5CB0C). Explore its psychological impact, emotional associations, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:06:01.934812+00:00",
+  "updated_at": "2025-06-01T16:06:01.934812+00:00",
+  "slug": "bahia"
+}

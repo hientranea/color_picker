@@ -1,0 +1,80 @@
+{
+  "id": "d1bc2bc9-bac3-4ca0-b646-75b27c55c1fb",
+  "color_name": "Walnut",
+  "hex_code": "#773F1A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Walnut evokes feelings of stability, reliability, and groundedness. It is associated with nature, warmth, and a sense of history. This color suggests a comfortable and reassuring presence, often linked to traditional values and natural elements, making it feel dependable and secure.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "reliability",
+    "groundedness",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#1A7277"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#773F1A",
+        "#D4A373",
+        "#A98D67",
+        "#F5F5DC"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#773F1A",
+        "#A37352",
+        "#E2D1B3",
+        "#606C5F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Nut-based product labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Natural product packaging"
+    ],
+    "fashion": [
+      "Autumn wear",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Walnut Wood Furniture",
+      "description": "A classic walnut wood dining table brings warmth and sophistication to any dining room.",
+      "image_url": "https://example.com/walnut_table.jpg"
+    },
+    {
+      "title": "Walnut Colored Leather Boots",
+      "description": "Walnut-colored leather boots are a durable and stylish choice for fall and winter.",
+      "image_url": "https://example.com/walnut_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for a natural feel.",
+    "Use with golds for added warmth and richness.",
+    "Contrast with teals for a modern palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore and generate harmonious color schemes with our color palette tool today!",
+  "seo_meta": {
+    "title": "Walnut Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Walnut color, explore its psychological effects, and find inspiring color palettes and design examples."
+  },
+  "created_at": "2025-06-01T15:39:40.284169+00:00",
+  "updated_at": "2025-06-01T15:39:40.284169+00:00",
+  "slug": "walnut"
+}

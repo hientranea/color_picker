@@ -1,0 +1,78 @@
+{
+  "id": "fef82218-4c55-4e7a-8bc7-cf90ec4d7189",
+  "color_name": "Sundance",
+  "hex_code": "#C9B35B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sundance evokes feelings of warmth, earthiness, and understated elegance. It suggests reliability, maturity, and a connection to nature. This color often represents stability, comfort, and a gentle, inviting presence. It's associated with a sense of grounding and quiet confidence, offering a calming and reassuring effect.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "stability",
+    "comfort",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#5B71C9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#C9B35B",
+        "#F2EBD3",
+        "#A69A82",
+        "#595143"
+      ]
+    },
+    {
+      "name": "Autumn Harmony",
+      "swatches": [
+        "#C9B35B",
+        "#D98E42",
+        "#735F32",
+        "#A64A2F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Coffee branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Bohemian style clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Autumn Leaves",
+      "description": "The color of fallen leaves on a crisp autumn day, representing nature's beauty.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    },
+    {
+      "title": "Vintage Leather Furniture",
+      "description": "A classic leather couch in a Sundance hue, exuding comfort and sophistication.",
+      "image_url": "https://example.com/leather_couch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a classic look.",
+    "Combine with deep browns for a grounding effect.",
+    "Use with teal or blues for a complementary contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Sundance Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Sundance (#C9B35B), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:32:05.227096+00:00",
+  "updated_at": "2025-06-01T16:32:05.227096+00:00",
+  "slug": "sundance"
+}

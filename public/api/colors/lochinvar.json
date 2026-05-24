@@ -1,0 +1,82 @@
+{
+  "id": "857493ab-ab58-44e5-af10-478652cec08d",
+  "color_name": "Lochinvar",
+  "hex_code": "#2C8C84",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lochinvar, a serene teal, embodies tranquility and sophistication. It evokes feelings of clarity and balance, promoting introspection and a sense of calm confidence. This color suggests reliability and stability while retaining a refreshing and modern edge.",
+  "emotional_associations": [
+    "tranquility",
+    "sophistication",
+    "clarity",
+    "balance",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#8C2C34"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#2C8C84",
+        "#A7D1AB",
+        "#E0F2F1",
+        "#70A9A1"
+      ]
+    },
+    {
+      "name": "Modern Teal",
+      "swatches": [
+        "#2C8C84",
+        "#4A4A4A",
+        "#F0F0F0",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Progress indicators"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Swimwear",
+      "Accessories"
+    ],
+    "food_beverage": null
+  },
+  "real_world_examples": [
+    {
+      "title": "Teal Office Space",
+      "description": "A modern office featuring Lochinvar walls, promoting a calming and productive environment.",
+      "image_url": "https://example.com/teal_office.jpg"
+    },
+    {
+      "title": "Teal Silk Dress",
+      "description": "A luxurious silk dress in Lochinvar, exuding elegance and sophistication.",
+      "image_url": "https://example.com/teal_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light greys for a modern, minimalist look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with natural wood tones for a warm and inviting feel.",
+    "Contrast with coral or blush for a vibrant and playful palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color picker!",
+  "seo_meta": {
+    "title": "Lochinvar Color Meaning: Discover Its Psychological Impact | Color Meaning Blog",
+    "description": "Uncover the meaning and symbolism behind Lochinvar (#2C8C84). Explore its emotional associations, complementary colors, and best use cases in design and branding."
+  },
+  "created_at": "2025-06-01T14:59:37.572479+00:00",
+  "updated_at": "2025-06-01T14:59:37.572479+00:00",
+  "slug": "lochinvar"
+}

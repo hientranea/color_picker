@@ -1,0 +1,81 @@
+{
+  "id": "ed020c99-38ca-4388-b8a5-0453527612e9",
+  "color_name": "Storm Gray",
+  "hex_code": "#717486",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Storm Gray evokes feelings of calmness, neutrality, and sophistication. It suggests stability and reliability, but can also hint at introspection and a need for balance. The color can project a sense of resilience and quiet strength, often associated with practicality and thoughtful consideration.",
+  "emotional_associations": [
+    "calmness",
+    "neutrality",
+    "sophistication",
+    "stability",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#867371",
+    "#748671",
+    "#B5B8C6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Urban Dusk",
+      "swatches": [
+        "#717486",
+        "#A2A5B8",
+        "#404355",
+        "#D3D6E8"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#717486",
+        "#B0C4DE",
+        "#FFFFFF",
+        "#8F9779"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Buttons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment",
+      "description": "The walls are painted in Storm Gray, providing a sleek and modern backdrop for the furniture.",
+      "image_url": "https://example.com/storm_gray_apartment.jpg"
+    },
+    {
+      "title": "Stormy Sky",
+      "description": "The color of a stormy sky just before the rain comes.",
+      "image_url": "https://example.com/storm_gray_sky.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic look.",
+    "Combine with soft blues and greens for a calming effect.",
+    "Add a pop of color with mustard yellow or coral."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect Storm Gray shade for your next project!",
+  "seo_meta": {
+    "title": "Storm Gray Color Meaning: Shades, Palettes & Design Tips",
+    "description": "Discover the meaning of Storm Gray, its psychological effects, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:36:36.285625+00:00",
+  "updated_at": "2025-06-01T15:36:36.285625+00:00",
+  "slug": "storm-gray"
+}

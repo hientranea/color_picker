@@ -1,0 +1,81 @@
+{
+  "id": "8e3eb202-372b-477f-99ab-984df7ae0fea",
+  "color_name": "Highland",
+  "hex_code": "#6F8E63",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Highland evokes feelings of tranquility, nature, and understated elegance. It suggests stability and connection to the environment, providing a sense of calm and well-being. This color is often associated with growth, renewal, and a harmonious balance between sophistication and the outdoors.",
+  "emotional_associations": [
+    "calm",
+    "nature",
+    "sophistication",
+    "growth",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#8E6F7A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#6F8E63",
+        "#A7C4A0",
+        "#D1D0CE",
+        "#73626E"
+      ]
+    },
+    {
+      "name": "Highland Mist",
+      "swatches": [
+        "#6F8E63",
+        "#B8B8B8",
+        "#E8E8E8",
+        "#4A4A4A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard backgrounds",
+      "data visualization accents"
+    ],
+    "food_beverage": [
+      "organic food packaging",
+      "tea branding"
+    ],
+    "wellness": [
+      "spa branding",
+      "meditation apps"
+    ],
+    "fashion": [
+      "outdoor apparel",
+      "casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Highland Landscape Painting",
+      "description": "A painting capturing the subtle hues of a highland landscape, emphasizing its serene and natural beauty.",
+      "image_url": "url_to_highland_painting.jpg"
+    },
+    {
+      "title": "Sustainable Home Interior",
+      "description": "A living room designed with Highland-colored walls, promoting a sense of calm and environmental consciousness.",
+      "image_url": "url_to_sustainable_home.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted neutrals for a sophisticated look.",
+    "Combine with natural wood tones for an earthy feel.",
+    "Use with soft whites to create a calming ambiance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our intuitive color palette generator.",
+  "seo_meta": {
+    "title": "Highland Color Meaning: Discover Its Symbolism and Uses",
+    "description": "Uncover the meaning behind the Highland color, its psychological effects, and how to use it in design and branding to create a sense of calm and natural elegance."
+  },
+  "created_at": "2025-06-01T15:34:34.608258+00:00",
+  "updated_at": "2025-06-01T15:34:34.608258+00:00",
+  "slug": "highland"
+}

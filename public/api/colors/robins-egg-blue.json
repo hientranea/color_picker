@@ -1,0 +1,82 @@
+{
+  "id": "1b2050ae-6ee3-4bb7-be1c-1f15b5c6b770",
+  "color_name": "Robin's Egg Blue",
+  "hex_code": "#00CCCC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Robin's Egg Blue evokes feelings of tranquility, peace, and serenity, reminiscent of clear skies and calm waters. It's often associated with cleanliness, freshness, and a sense of renewal. The color promotes calmness and a feeling of stability, making it ideal for creating a soothing atmosphere.",
+  "emotional_associations": [
+    "peace",
+    "tranquility",
+    "freshness",
+    "calmness",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#CC0033"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#00CCCC",
+        "#F0F8FF",
+        "#A9D1E5",
+        "#77B5FE"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#00CCCC",
+        "#E6FFEE",
+        "#90EE90",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Meditation apps",
+      "Weather applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation centers"
+    ],
+    "fashion": [
+      "Spring dresses",
+      "Swimwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tiffany & Co. Packaging",
+      "description": "The iconic Tiffany Blue boxes are a close relative of Robin's Egg Blue, instantly recognizable and associated with luxury and elegance.",
+      "image_url": "https://example.com/tiffany_box.jpg"
+    },
+    {
+      "title": "Robin's Egg",
+      "description": "The color is directly inspired by the shells of robin's eggs, a natural and comforting sight.",
+      "image_url": "https://example.com/robins_egg.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and airy feel.",
+    "Combine with soft grays for a sophisticated look.",
+    "Use with coral or peach for a touch of warmth and contrast.",
+    "Incorporate natural wood tones for an organic aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Robin's Egg Blue Color Meaning and Combinations",
+    "description": "Discover the meaning, psychology, and best color pairings for Robin's Egg Blue (#00CCCC). Learn how to use this serene color in your designs."
+  },
+  "created_at": "2025-06-01T14:39:10.404674+00:00",
+  "updated_at": "2025-06-01T14:39:10.404674+00:00",
+  "slug": "robins-egg-blue"
+}

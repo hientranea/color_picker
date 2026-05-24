@@ -1,0 +1,81 @@
+{
+  "id": "42984630-fc0b-4be7-8b5a-6168b4f3ac01",
+  "color_name": "Sahara",
+  "hex_code": "#B7A214",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sahara evokes feelings of warmth, earthiness, and stability. It's a color that suggests reliability, endurance, and connection to the natural world. It can also represent practicality and resourcefulness, reminiscent of desert landscapes and survival.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "stability",
+    "reliability",
+    "endurance",
+    "practicality",
+    "resourcefulness"
+  ],
+  "complementary_colors": [
+    "#142BB7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#B7A214",
+        "#82732B",
+        "#D4C455",
+        "#594F18"
+      ]
+    },
+    {
+      "name": "Desert Sunset",
+      "swatches": [
+        "#B7A214",
+        "#E0C861",
+        "#A68A31",
+        "#664D03"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for natural foods",
+      "Restaurant decor emphasizing organic ingredients"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio accents"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Accessories like belts and bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sahara Tent",
+      "description": "A traditional desert tent providing shade and shelter.",
+      "image_url": "https://example.com/sahara_tent.jpg"
+    },
+    {
+      "title": "Wheat Field",
+      "description": "A vast field of wheat ready for harvest.",
+      "image_url": "https://example.com/wheat_field.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with blues for a calming contrast.",
+    "Combine with browns for a natural feel.",
+    "Use with whites for a clean, sophisticated look.",
+    "Accent with oranges for an energetic vibe."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to create your perfect Sahara-inspired palette today!",
+  "seo_meta": {
+    "title": "Sahara Color Meaning: The Psychology of #B7A214",
+    "description": "Discover the meaning, associations, and best uses of the color Sahara (#B7A214) for your design projects."
+  },
+  "created_at": "2025-06-01T16:18:37.42719+00:00",
+  "updated_at": "2025-06-01T16:18:37.42719+00:00",
+  "slug": "sahara"
+}

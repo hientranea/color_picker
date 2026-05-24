@@ -1,0 +1,82 @@
+{
+  "id": "ac8a13b0-a2d3-45a0-85e0-4de1102f63e8",
+  "color_name": "Quicksand",
+  "hex_code": "#BD978E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Quicksand, a muted and earthy tone, evokes feelings of stability, comfort, and understated elegance. Its neutrality promotes a sense of calm and reliability, suggesting sophistication without being overtly bold. This color communicates trustworthiness and a down-to-earth sensibility, making it a versatile choice for designs aiming to project a sense of groundedness and quiet confidence.",
+  "emotional_associations": [
+    "calm",
+    "neutrality",
+    "comfort",
+    "stability",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#8E96BD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#BD978E",
+        "#E9DAC1",
+        "#A27B5C",
+        "#5F4B32"
+      ]
+    },
+    {
+      "name": "Modern Neutrals",
+      "swatches": [
+        "#BD978E",
+        "#FFFFFF",
+        "#737373",
+        "#262626"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Neutral tones in design system libraries"
+    ],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Restaurant interiors aiming for a rustic feel"
+    ],
+    "wellness": [
+      "Spa interiors for relaxation",
+      "Branding for natural skincare products"
+    ],
+    "fashion": [
+      "Neutral-toned clothing lines",
+      "Accessories with a natural, earthy appeal"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Minimalist Home Interior",
+      "description": "A living room featuring walls painted in a shade of Quicksand, creating a calming and inviting atmosphere.",
+      "image_url": "https://example.com/quicksand_interior.jpg"
+    },
+    {
+      "title": "Earthy Fashion Outfit",
+      "description": "A model wearing a Quicksand-colored dress, showcasing its subtle elegance and versatility.",
+      "image_url": "https://example.com/quicksand_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, minimalist look.",
+    "Combine with darker browns for a warm, earthy feel.",
+    "Use with teal or muted blues for a touch of contrast.",
+    "Mix with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator now!",
+  "seo_meta": {
+    "title": "Quicksand Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Quicksand color, its psychological effects, best color combinations, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T16:22:00.393709+00:00",
+  "updated_at": "2025-06-01T16:22:00.393709+00:00",
+  "slug": "quicksand"
+}

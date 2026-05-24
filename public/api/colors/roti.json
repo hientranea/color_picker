@@ -1,0 +1,82 @@
+{
+  "id": "1fe36b63-2bd7-4581-a2d4-9590d9507e9f",
+  "color_name": "Roti",
+  "hex_code": "#C6A84B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Roti, a muted yellow-brown, evokes feelings of warmth, earthiness, and comfort. It suggests stability, reliability, and a connection to nature. It can also convey a sense of nostalgia and simplicity, reminiscent of rustic settings and traditional values. Roti provides a sense of groundedness and quiet confidence.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "comfort",
+    "stability",
+    "reliability",
+    "nostalgia"
+  ],
+  "complementary_colors": [
+    "#4B63C6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#C6A84B",
+        "#A58A39",
+        "#E2D18F",
+        "#736129",
+        "#F0E68C"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#C6A84B",
+        "#8B4513",
+        "#D2B48C",
+        "#A0522D",
+        "#DEB887"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for natural and organic food products.",
+      "Restaurant interiors aiming for a cozy and inviting atmosphere."
+    ],
+    "wellness": [
+      "Spas and retreats focused on grounding and natural therapies.",
+      "Products promoting relaxation and stress relief."
+    ],
+    "fashion": [
+      "Autumn and winter clothing lines.",
+      "Accessories made from natural materials."
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wheat Fields at Sunset",
+      "description": "The golden-brown hue of ripe wheat fields under the setting sun, evoking feelings of abundance and tranquility.",
+      "image_url": "url_to_wheat_field_image.jpg"
+    },
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather armchair in a study, suggesting comfort, sophistication, and enduring quality.",
+      "image_url": "url_to_leather_furniture_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with cream or off-white for a soft, inviting look.",
+    "Pair with deep blues or greens for a balanced contrast.",
+    "Use with metallic accents like gold or bronze for added elegance.",
+    "Incorporate natural textures like wood and stone for a rustic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Roti Color Meaning: Understanding the Psychology of #C6A84B",
+    "description": "Discover the meaning, associations, and best uses of the Roti color (#C6A84B). Learn how to incorporate this warm and earthy hue into your design projects."
+  },
+  "created_at": "2025-06-01T16:28:49.655305+00:00",
+  "updated_at": "2025-06-01T16:28:49.655305+00:00",
+  "slug": "roti"
+}

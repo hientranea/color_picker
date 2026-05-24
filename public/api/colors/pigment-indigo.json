@@ -1,0 +1,80 @@
+{
+  "id": "386fdff3-81e7-42c3-b8d3-c052b5719bda",
+  "color_name": "Pigment Indigo",
+  "hex_code": "#4B0082",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pigment Indigo is often associated with intuition, perception, and spirituality. It can promote deep concentration during introspection and meditation, and it has a calming effect, promoting inner peace and clarity. This color symbolizes wisdom, dignity, and independence, and can also represent the ending of a phase in life.",
+  "emotional_associations": [
+    "intuition",
+    "spirituality",
+    "calmness",
+    "wisdom",
+    "dignity"
+  ],
+  "complementary_colors": [
+    "#824B00"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#4B0082",
+        "#702963",
+        "#A0397D",
+        "#C8648A",
+        "#E5989B"
+      ]
+    },
+    {
+      "name": "Indigo Dreams",
+      "swatches": [
+        "#4B0082",
+        "#6A5ACD",
+        "#7B68EE",
+        "#9370DB",
+        "#A0522D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Educational platforms focused on history or philosophy"
+    ],
+    "wellness": [
+      "Spas",
+      "Yoga studios",
+      "Meditation centers"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Indigo Dye Textiles",
+      "description": "Historically, indigo dye has been used to color fabrics, particularly in clothing and home textiles, signifying quality and elegance.",
+      "image_url": "url_to_indigo_textile_image.jpg"
+    },
+    {
+      "title": "Night Sky",
+      "description": "The deep indigo hue of the night sky, just before complete darkness, evokes a sense of mystery and wonder.",
+      "image_url": "url_to_night_sky_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with neutral grays for a sophisticated look.",
+    "Pair with gold or silver for an elegant and luxurious feel.",
+    "Use with lighter purples and blues for a harmonious color scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color picker tool.",
+  "seo_meta": {
+    "title": "Pigment Indigo Color Meaning: Symbolism and Design Ideas | ColorBlog",
+    "description": "Discover the meaning of Pigment Indigo, its psychological effects, and how to use it in design. Explore complementary colors and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:16:49.995811+00:00",
+  "updated_at": "2025-06-01T15:16:49.995811+00:00",
+  "slug": "pigment-indigo"
+}

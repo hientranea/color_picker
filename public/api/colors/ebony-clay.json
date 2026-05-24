@@ -1,0 +1,81 @@
+{
+  "id": "d225b3d6-9bd1-4b2e-bfc0-a327e2c6b451",
+  "color_name": "Ebony Clay",
+  "hex_code": "#26283B",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Ebony Clay evokes a sense of sophistication, groundedness, and understated elegance. It suggests stability, reliability, and a connection to the earth. This color can also inspire feelings of calm and introspection, offering a quiet space for reflection and contemplation, while also hinting at the potential for hidden depths and secrets.",
+  "emotional_associations": [
+    "sophistication",
+    "groundedness",
+    "stability",
+    "calm",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#B4B284"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#26283B",
+        "#5C574F",
+        "#A69A8B",
+        "#D4C6B3"
+      ]
+    },
+    {
+      "name": "Urban Dusk",
+      "swatches": [
+        "#26283B",
+        "#4A4A4A",
+        "#737373",
+        "#A0A0A0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization dashboards",
+      "Menu bars for professional software",
+      "Minimalist website designs"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Meditation app design",
+      "Packaging for natural remedies"
+    ],
+    "fashion": [
+      "Winter coats",
+      "Leather accessories",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Architecture",
+      "description": "An urban building facade using dark gray concrete, creating a sleek and sophisticated look.",
+      "image_url": "https://example.com/ebony_clay_architecture.jpg"
+    },
+    {
+      "title": "Classic Car",
+      "description": "A vintage car painted in a deep, almost black gray, showcasing timeless elegance.",
+      "image_url": "https://example.com/ebony_clay_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted gold for a touch of luxury.",
+    "Combine with soft neutrals for a calming effect.",
+    "Use with bright accent colors for a bold contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Ebony Clay Color Meaning: Psychology, Palettes, and Design Tips",
+    "description": "Discover the meaning of Ebony Clay, its psychological impact, and how to use it in your designs. Explore complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T14:56:43.874244+00:00",
+  "updated_at": "2025-06-01T14:56:43.874244+00:00",
+  "slug": "ebony-clay"
+}

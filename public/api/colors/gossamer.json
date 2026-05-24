@@ -1,0 +1,88 @@
+{
+  "id": "145138ae-ac5a-454e-a1e6-4e0a68e36f1f",
+  "color_name": "Gossamer",
+  "hex_code": "#069B81",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gossamer evokes feelings of tranquility, harmony, and freshness. It is associated with nature, growth, and healing. This color promotes a sense of calm and balance, fostering emotional stability and encouraging empathy and compassion.",
+  "emotional_associations": [
+    "tranquility",
+    "harmony",
+    "freshness",
+    "growth",
+    "healing"
+  ],
+  "complementary_colors": [
+    "#9B0620"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#069B81",
+        "#A0D6B4",
+        "#77B300",
+        "#654321",
+        "#E0CBA8"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#069B81",
+        "#B0E2FF",
+        "#ADD8E6",
+        "#F0FFFF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Health tracking apps"
+    ],
+    "food_beverage": [
+      "Herbal teas",
+      "Organic produce packaging",
+      "Vegan restaurants"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Athleisure wear",
+      "Resort wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tropical Rainforest",
+      "description": "The lush green canopy of a tropical rainforest showcases the vibrant and life-affirming qualities of Gossamer.",
+      "image_url": "https://example.com/rainforest.jpg"
+    },
+    {
+      "title": "Calming Spa Interior",
+      "description": "A spa interior designed with Gossamer green walls creates a relaxing and rejuvenating atmosphere for guests.",
+      "image_url": "https://example.com/spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with other shades of green for a harmonious palette.",
+    "Use as an accent color against a white or cream background.",
+    "Complement with earthy tones for a natural feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Gossamer Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Gossamer (#069B81), its psychological associations, complementary colors, suggested palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T14:43:52.061599+00:00",
+  "updated_at": "2025-06-01T14:43:52.061599+00:00",
+  "slug": "gossamer"
+}

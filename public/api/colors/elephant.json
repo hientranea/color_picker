@@ -1,0 +1,79 @@
+{
+  "id": "d238c234-35fb-4c91-a898-ab9c0c3a947d",
+  "color_name": "Elephant",
+  "hex_code": "#123447",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Elephant gray, similar to other grays, often evokes feelings of neutrality, calmness, and practicality. It can also represent sophistication and timelessness, providing a sense of stability and reliability. However, depending on the context and shade, it can also convey a sense of sadness or boredom.",
+  "emotional_associations": [
+    "Neutrality",
+    "Calmness",
+    "Sophistication",
+    "Stability",
+    "Reliability"
+  ],
+  "complementary_colors": [
+    "#473412"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#123447",
+        "#A9A18F",
+        "#736257",
+        "#E3DAC9"
+      ]
+    },
+    {
+      "name": "Cool Contrast",
+      "swatches": [
+        "#123447",
+        "#FFFFFF",
+        "#6495ED",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for dashboards",
+      "Navigation bars",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa decor",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Winter coats",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Elephant Skin",
+      "description": "The natural gray of an elephant's skin provides camouflage and protection.",
+      "image_url": "https://example.com/elephant_skin.jpg"
+    },
+    {
+      "title": "Concrete Buildings",
+      "description": "Modern architecture often incorporates elephant gray concrete for a minimalist and industrial look.",
+      "image_url": "https://example.com/concrete_building.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic look.",
+    "Combine with blues or greens for a calming effect.",
+    "Add a pop of yellow or orange for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Elephant and create your perfect palette using our color picker!",
+  "seo_meta": {
+    "title": "Elephant Color Meaning: Understanding #123447",
+    "description": "Discover the meaning, associations, and best uses of Elephant color (#123447) in design and branding."
+  },
+  "created_at": "2025-06-01T14:48:31.666944+00:00",
+  "updated_at": "2025-06-01T14:48:31.666944+00:00",
+  "slug": "elephant"
+}

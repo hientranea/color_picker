@@ -1,0 +1,86 @@
+{
+  "id": "b6190dd3-fd0d-46ae-be74-410393efbb10",
+  "color_name": "Sea Mist",
+  "hex_code": "#C5DBCA",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sea Mist evokes feelings of tranquility, calmness, and serenity, reminiscent of a peaceful morning by the ocean. It symbolizes renewal, freshness, and clarity, promoting a sense of balance and harmony. This gentle color is often associated with nature, growth, and emotional healing, creating a soothing and restorative atmosphere.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "renewal",
+    "freshness",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#DAC5D1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#C5DBCA",
+        "#E0EEE8",
+        "#A0C4B9",
+        "#708D81"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#C5DBCA",
+        "#F2E7DC",
+        "#B2BEB5",
+        "#6D736F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Meditation apps",
+      "Health tracking interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Branding for natural water",
+      "Labels for herbal supplements"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Lightweight scarves",
+      "Casual blouses"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Living Room",
+      "description": "A living room painted in Sea Mist with natural wood accents and flowing white curtains, creating a tranquil and inviting space.",
+      "image_url": "https://example.com/seamist_livingroom.jpg"
+    },
+    {
+      "title": "Spa Retreat",
+      "description": "A spa featuring Sea Mist walls, soft lighting, and natural stone elements, promoting relaxation and rejuvenation.",
+      "image_url": "https://example.com/seamist_spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals for a calming palette.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with brighter accents for a touch of energy.",
+    "Contrast with deep blues for a coastal vibe."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to create stunning palettes with Sea Mist!",
+  "seo_meta": {
+    "title": "Sea Mist Color Meaning: Serenity and Tranquility | ColorBlog",
+    "description": "Discover the meaning and associations of Sea Mist (#C5DBCA), including its psychological effects, complementary colors, and ideal uses."
+  },
+  "created_at": "2025-06-01T16:28:05.782431+00:00",
+  "updated_at": "2025-06-01T16:28:05.782431+00:00",
+  "slug": "sea-mist"
+}

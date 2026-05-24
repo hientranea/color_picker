@@ -1,0 +1,75 @@
+{
+  "id": "ef379f5b-6d4e-4337-b29b-4f13ece789f8",
+  "color_name": "Red Oxide",
+  "hex_code": "#6E0902",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Red Oxide evokes feelings of strength, stability, and earthiness. It's associated with history, durability, and a sense of groundedness. This color can suggest a connection to the past, reliability, and a natural, unpretentious quality. It also represents passion and energy mixed with maturity.",
+  "emotional_associations": [
+    "strength",
+    "stability",
+    "earthiness",
+    "history",
+    "durability"
+  ],
+  "complementary_colors": [
+    "#02656E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#6E0902",
+        "#A98D61",
+        "#D3CBB6",
+        "#4A4A4A"
+      ]
+    },
+    {
+      "name": "Rustic Warmth",
+      "swatches": [
+        "#6E0902",
+        "#E3B286",
+        "#F2EBD3",
+        "#876445"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "packaging for coffee",
+      "branding for artisanal bread"
+    ],
+    "wellness": [],
+    "fashion": [
+      "outerwear",
+      "leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Terracotta Tiles",
+      "description": "Traditional terracotta tiles, known for their reddish-brown hue, bring a sense of warmth and rustic charm to homes around the world.",
+      "image_url": "https://example.com/terracotta.jpg"
+    },
+    {
+      "title": "Red Rock Canyon",
+      "description": "The stunning red rock formations of Red Rock Canyon in Nevada showcase the beauty and power of natural red oxide pigments.",
+      "image_url": "https://example.com/redrock.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones for a balanced look.",
+    "Combine with greens for an earthy palette.",
+    "Use with metallics for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Red Oxide Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Red Oxide, its psychological impact, best pairings, and how to use it in design. Explore inspiring color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:33:38.014095+00:00",
+  "updated_at": "2025-06-01T15:33:38.014095+00:00",
+  "slug": "red-oxide"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "df441db4-26b7-43b4-833a-7a4e66453150",
+  "color_name": "Hippie Blue",
+  "hex_code": "#589AAF",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Hippie Blue evokes a sense of tranquility, openness, and creativity. It combines the calming qualities of blue with a hint of freedom and unconventionality, promoting introspection and a peaceful state of mind. It suggests a connection to nature and a desire for harmony.",
+  "emotional_associations": [
+    "peace",
+    "serenity",
+    "openness",
+    "creativity",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#AF5E58"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#589AAF",
+        "#A1D6E0",
+        "#375A67",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#589AAF",
+        "#79B473",
+        "#A87952",
+        "#E8E2D4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Environmental monitoring dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa websites",
+      "Yoga studios"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Home Decor",
+      "description": "Hippie Blue accents in a beach house create a relaxed and inviting atmosphere.",
+      "image_url": "https://example.com/hippie_blue_decor.jpg"
+    },
+    {
+      "title": "Yoga Studio Branding",
+      "description": "A yoga studio uses Hippie Blue in its logo and interior design to convey a sense of peace and mindfulness.",
+      "image_url": "https://example.com/hippie_blue_yoga.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use with greens for a nature-inspired palette.",
+    "Combine with oranges for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Hippie Blue Color Meaning: Discover its Psychology and Uses",
+    "description": "Learn about the meaning of Hippie Blue (#589AAF), its psychological effects, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:23:12.419251+00:00",
+  "updated_at": "2025-06-01T15:23:12.419251+00:00",
+  "slug": "hippie-blue"
+}

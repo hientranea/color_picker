@@ -1,0 +1,79 @@
+{
+  "id": "7ddf64c6-34e5-4761-affd-c76c7aeacbe2",
+  "color_name": "Cobalt",
+  "hex_code": "#0047AB",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cobalt is a deep, vibrant blue that evokes feelings of trust, loyalty, and intelligence. It is associated with stability and peace, often used to project a sense of authority and sophistication. This color can inspire introspection and promote a sense of calm, making it suitable for environments that require focus and clarity.",
+  "emotional_associations": [
+    "Trust",
+    "Loyalty",
+    "Intelligence",
+    "Stability",
+    "Peace"
+  ],
+  "complementary_colors": [
+    "#AB6400"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#0047AB",
+        "#ADD8E6",
+        "#001F3F",
+        "#7DF9FF"
+      ]
+    },
+    {
+      "name": "Sophisticated Calm",
+      "swatches": [
+        "#0047AB",
+        "#E0E0E0",
+        "#434A54",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Security software"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cobalt Blue Pottery",
+      "description": "Handcrafted pottery featuring a rich cobalt blue glaze, showcasing traditional artistic techniques.",
+      "image_url": "https://example.com/cobalt_pottery.jpg"
+    },
+    {
+      "title": "Cobalt Glassware",
+      "description": "Elegant glassware with a deep cobalt blue hue, adding a touch of sophistication to any table setting.",
+      "image_url": "https://example.com/cobalt_glassware.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, classic look.",
+    "Combine with gray for a sophisticated palette.",
+    "Use gold accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Cobalt and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Cobalt Color Meaning: Discover the Psychology and Uses of #0047AB",
+    "description": "Learn about the meaning, psychology, and best uses of Cobalt (#0047AB). Find complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T14:37:02.216342+00:00",
+  "updated_at": "2025-06-01T14:37:02.216342+00:00",
+  "slug": "cobalt"
+}

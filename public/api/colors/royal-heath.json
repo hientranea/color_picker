@@ -1,0 +1,80 @@
+{
+  "id": "7dc8bb80-0d6e-4c3a-a14b-6d2fe5e1ce97",
+  "color_name": "Royal Heath",
+  "hex_code": "#AB3472",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Royal Heath evokes feelings of sophistication, creativity, and a touch of mystery. It combines the passion of red with the stability of blue, resulting in a color that encourages imagination while maintaining a sense of calm. This color suggests luxury and individuality.",
+  "emotional_associations": [
+    "sophistication",
+    "creativity",
+    "mystery",
+    "luxury",
+    "individuality"
+  ],
+  "complementary_colors": [
+    "#72BA34"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#AB3472",
+        "#D4A373",
+        "#E2D1B3",
+        "#738276",
+        "#393E46"
+      ]
+    },
+    {
+      "name": "Regal Radiance",
+      "swatches": [
+        "#AB3472",
+        "#F0E68C",
+        "#B8860B",
+        "#8B4513",
+        "#2F4F4F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Personalized user interfaces",
+      "Creative dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual retreats"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Perfume Packaging",
+      "description": "A perfume bottle using Royal Heath to convey exclusivity and sophistication.",
+      "image_url": "https://example.com/perfume.jpg"
+    },
+    {
+      "title": "Abstract Art Piece",
+      "description": "An abstract painting using Royal Heath to create a sense of depth and emotion.",
+      "image_url": "https://example.com/abstract_art.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with muted greens for a natural contrast.",
+    "Use with creams for a softer, more romantic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Royal Heath Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning, psychology, and best uses for Royal Heath (#AB3472), including palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T16:10:08.740468+00:00",
+  "updated_at": "2025-06-01T16:10:08.740468+00:00",
+  "slug": "royal-heath"
+}

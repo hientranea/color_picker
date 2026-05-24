@@ -1,0 +1,82 @@
+{
+  "id": "750c273d-8459-4196-8b63-bf907b2bd347",
+  "color_name": "Pastel Green",
+  "hex_code": "#77DD77",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pastel green evokes feelings of tranquility, peace, and renewal. It is associated with nature, growth, and harmony, often used to create a calming and soothing atmosphere. Its gentle and subtle nature makes it a popular choice for designs that aim to promote relaxation and well-being.",
+  "emotional_associations": [
+    "calm",
+    "peace",
+    "growth",
+    "renewal",
+    "nature",
+    "tranquility"
+  ],
+  "complementary_colors": [
+    "#DD77DD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#77DD77",
+        "#98FB98",
+        "#E0FFFF",
+        "#F0FFF0"
+      ]
+    },
+    {
+      "name": "Serene Garden",
+      "swatches": [
+        "#77DD77",
+        "#A0D6B4",
+        "#C1E1C1",
+        "#F5FFFA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Calming app interfaces",
+      "Eco-friendly brand dashboards"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Wellness drink labels"
+    ],
+    "wellness": [
+      "Meditation app designs",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Spring/Summer collections",
+      "Relaxed casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mint Green Walls",
+      "description": "A bedroom painted in pastel green to promote restful sleep.",
+      "image_url": "https://example.com/pastel_green_bedroom.jpg"
+    },
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "Pastel green used on packaging for sustainable and environmentally friendly products.",
+      "image_url": "https://example.com/pastel_green_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals like beige or cream.",
+    "Combine with other pastels for a harmonious look.",
+    "Use with natural textures like wood or linen."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Pastel Green Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of pastel green, its psychological effects, how to pair it, and its uses in design, branding, and more."
+  },
+  "created_at": "2025-06-01T15:40:08.593741+00:00",
+  "updated_at": "2025-06-01T15:40:08.593741+00:00",
+  "slug": "pastel-green"
+}

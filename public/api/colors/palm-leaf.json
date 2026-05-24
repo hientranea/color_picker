@@ -1,0 +1,81 @@
+{
+  "id": "f18d3e9a-90bf-437e-bb2f-cf096ee234dd",
+  "color_name": "Palm Leaf",
+  "hex_code": "#19330E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Palm Leaf evokes feelings of nature, growth, and tranquility. It is associated with stability, endurance, and a sense of grounding. This color promotes a feeling of being connected to the earth and encourages a peaceful, calming atmosphere, reminiscent of lush, natural landscapes.",
+  "emotional_associations": [
+    "nature",
+    "peace",
+    "stability",
+    "growth",
+    "tranquility"
+  ],
+  "complementary_colors": [
+    "#331924"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#19330E",
+        "#A3B18A",
+        "#D3D0CB",
+        "#5E503F"
+      ]
+    },
+    {
+      "name": "Forest Retreat",
+      "swatches": [
+        "#19330E",
+        "#344E41",
+        "#0B090A",
+        "#52B788"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food branding",
+      "Tea packaging",
+      "Herbal supplement labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tropical Rainforest",
+      "description": "The dense, green canopy of a tropical rainforest showcases the richness and vibrancy of Palm Leaf.",
+      "image_url": "https://example.com/rainforest.jpg"
+    },
+    {
+      "title": "Herbal Tea Packaging",
+      "description": "The packaging of a soothing herbal tea utilizes Palm Leaf to convey a sense of natural calmness and health.",
+      "image_url": "https://example.com/herbaltea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a grounded look.",
+    "Combine with earthy tones for a natural feel.",
+    "Use with brighter greens for a vibrant contrast.",
+    "Accent with gold or copper for an elegant touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Palm Leaf Color Meaning: Discover the Psychology of #19330E",
+    "description": "Explore the meaning, associations, and best uses of Palm Leaf (#19330E). Learn how to incorporate this calming green into your designs and branding."
+  },
+  "created_at": "2025-06-01T14:51:02.254351+00:00",
+  "updated_at": "2025-06-01T14:51:02.254351+00:00",
+  "slug": "palm-leaf"
+}

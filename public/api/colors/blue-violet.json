@@ -1,0 +1,82 @@
+{
+  "id": "7682a771-394b-4d2d-b9a7-543a77569606",
+  "color_name": "Blue Violet",
+  "hex_code": "#6456B7",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Violet is a sophisticated and spiritual color, blending the stability of blue with the energy of violet. It is often associated with intuition, creativity, and introspection. This color can evoke feelings of peace and contemplation, while also encouraging imagination and artistic expression. It's a color that inspires reflection and can promote a sense of calm and centeredness.",
+  "emotional_associations": [
+    "spirituality",
+    "intuition",
+    "creativity",
+    "introspection",
+    "peace",
+    "contemplation"
+  ],
+  "complementary_colors": [
+    "#B77556"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#6456B7",
+        "#A084CF",
+        "#D4C4FB",
+        "#301934"
+      ]
+    },
+    {
+      "name": "Tranquil Garden",
+      "swatches": [
+        "#6456B7",
+        "#8FBC8F",
+        "#BDB76B",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Creative software",
+      "Educational platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Yoga studios",
+      "Aromatherapy products"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Bohemian styles"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lavender Fields",
+      "description": "Vast fields of lavender evoke a sense of tranquility and natural beauty.",
+      "image_url": "https://example.com/lavender_fields.jpg"
+    },
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purple hues of an amethyst geode symbolize inner strength and spiritual connection.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft greens for a natural, calming effect.",
+    "Combine with silver or gray for a modern, sophisticated look.",
+    "Use with gold accents for a touch of luxury and elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Blue Violet Color Meaning: Symbolism, Psychology, and Design Tips",
+    "description": "Discover the meaning of Blue Violet, its psychological effects, complementary colors, and how to use it in design for a calming and creative atmosphere."
+  },
+  "created_at": "2025-06-01T15:27:56.529188+00:00",
+  "updated_at": "2025-06-01T15:27:56.529188+00:00",
+  "slug": "blue-violet"
+}

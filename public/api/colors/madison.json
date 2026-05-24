@@ -1,0 +1,81 @@
+{
+  "id": "48489712-1947-4c8c-9e5c-083bbe1b5b8f",
+  "color_name": "Madison",
+  "hex_code": "#09255D",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Madison, a deep and muted blue, evokes feelings of stability, trust, and introspection. It carries a sense of sophistication and quiet confidence, often associated with depth of thought and a contemplative nature. Its calming presence makes it ideal for environments where focus and clarity are desired, while its subtle depth suggests a connection to knowledge and wisdom.",
+  "emotional_associations": [
+    "stability",
+    "trust",
+    "introspection",
+    "sophistication",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#5D3409"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#09255D",
+        "#A7B5C2",
+        "#D4DADF",
+        "#F0F4F7"
+      ]
+    },
+    {
+      "name": "Deep Sea Adventure",
+      "swatches": [
+        "#09255D",
+        "#2E86AB",
+        "#7FB5FF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces",
+      "Educational platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aid products",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Professional attire",
+      "Winter coats"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Midnight Sky",
+      "description": "The vast expanse of the night sky, dotted with stars, reflecting a sense of mystery and wonder.",
+      "image_url": "https://example.com/midnight_sky.jpg"
+    },
+    {
+      "title": "Deep Ocean Trench",
+      "description": "The unexplored depths of the ocean, hinting at undiscovered secrets and hidden ecosystems.",
+      "image_url": "https://example.com/ocean_trench.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a balanced look.",
+    "Combine with metallic accents for sophistication.",
+    "Use with warmer tones to create contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our comprehensive color picker tool!",
+  "seo_meta": {
+    "title": "Madison Color Meaning: Understanding the Psychology of #09255D",
+    "description": "Discover the meaning, associations, and best uses for the color Madison (#09255D). Explore palettes, complementary colors, and industry applications."
+  },
+  "created_at": "2025-06-01T14:45:03.909033+00:00",
+  "updated_at": "2025-06-01T14:45:03.909033+00:00",
+  "slug": "madison"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "72d009a9-7f03-409b-8087-ef2a350a0a31",
+  "color_name": "Roof Terracotta",
+  "hex_code": "#A62F20",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Roof Terracotta evokes feelings of warmth, stability, and earthiness. It suggests a sense of home, comfort, and groundedness, often associated with rustic environments and natural materials. This color can also convey a sense of tradition and reliability.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "earthiness",
+    "comfort",
+    "tradition"
+  ],
+  "complementary_colors": [
+    "#2097A6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Warmth",
+      "swatches": [
+        "#A62F20",
+        "#D4A373",
+        "#6F4E37",
+        "#E9DABB"
+      ]
+    },
+    {
+      "name": "Rustic Sunset",
+      "swatches": [
+        "#A62F20",
+        "#F2C94C",
+        "#4A4E69",
+        "#9A8C98"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Restaurant branding",
+      "Packaging for organic products"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Outdoor wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Terracotta Roof Tiles",
+      "description": "Classic terracotta roof tiles on a traditional Italian villa.",
+      "image_url": "https://example.com/terracotta_roof.jpg"
+    },
+    {
+      "title": "Rustic Pottery",
+      "description": "Handmade terracotta pottery displayed in a artisan shop.",
+      "image_url": "https://example.com/terracotta_pottery.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with creams and beiges for a cozy atmosphere.",
+    "Use with dark blues for a sophisticated contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades that complement Roof Terracotta!",
+  "seo_meta": {
+    "title": "Roof Terracotta Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning and associations of Roof Terracotta, explore color palettes, and find real-world examples of this earthy hue."
+  },
+  "created_at": "2025-06-01T16:06:08.412436+00:00",
+  "updated_at": "2025-06-01T16:06:08.412436+00:00",
+  "slug": "roof-terracotta"
+}

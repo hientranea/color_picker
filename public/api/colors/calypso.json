@@ -1,0 +1,81 @@
+{
+  "id": "f0631d24-5ef1-4b16-b0b9-be7e79b745bf",
+  "color_name": "Calypso",
+  "hex_code": "#31728D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Calypso, a muted teal, evokes feelings of tranquility, stability, and sophistication. It blends the calming properties of blue with the refreshing qualities of green, creating a sense of balance and harmony. This color often suggests reliability and trustworthiness, while also hinting at creativity and originality.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "sophistication",
+    "reliability",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#8D314A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#31728D",
+        "#A0D2EB",
+        "#E5FCC2",
+        "#FFFADE"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#31728D",
+        "#6A4C93",
+        "#A36899",
+        "#F2E7DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Call-to-action buttons",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Accessories",
+      "Swimwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ocean Vista Resort",
+      "description": "The resort's interior design incorporates Calypso to create a relaxing and luxurious atmosphere.",
+      "image_url": "https://example.com/ocean-vista-resort.jpg"
+    },
+    {
+      "title": "Tranquil Waters Yoga Studio",
+      "description": "The yoga studio uses Calypso in its branding to communicate serenity and balance.",
+      "image_url": "https://example.com/tranquil-waters-yoga.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a balanced look.",
+    "Use with warm accents like coral or gold for contrast.",
+    "Combine with other blues and greens for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect Calypso variations for your next project!",
+  "seo_meta": {
+    "title": "Calypso Color Meaning: Understanding #31728D",
+    "description": "Discover the meaning, psychology, and best uses of Calypso (#31728D), a calming and sophisticated color. Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T15:02:21.748512+00:00",
+  "updated_at": "2025-06-01T15:02:21.748512+00:00",
+  "slug": "calypso"
+}

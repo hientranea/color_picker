@@ -1,0 +1,77 @@
+{
+  "id": "5e745eb1-5d99-418d-885a-845753c1b90d",
+  "color_name": "Bleached Cedar",
+  "hex_code": "#2C2133",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bleached Cedar evokes feelings of sophistication, mystery, and quiet elegance. It is often associated with introspection, creativity, and a touch of formality. This color can create a sense of calm and composure, while also suggesting a hint of intrigue and unconventional thinking. It blends the earthiness of cedar with a muted, almost ethereal quality.",
+  "emotional_associations": [
+    "Sophistication",
+    "Mystery",
+    "Elegance",
+    "Introspection",
+    "Calm"
+  ],
+  "complementary_colors": [
+    "#A3AEC6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#2C2133",
+        "#5B5064",
+        "#898295",
+        "#B8B3C6",
+        "#E6E4F7"
+      ]
+    },
+    {
+      "name": "Modern Vintage",
+      "swatches": [
+        "#2C2133",
+        "#7A6A55",
+        "#C8B8A3",
+        "#F6F0E8",
+        "#A39480"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Navigation bars",
+      "Data visualization"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories (handbags, scarves)",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Loft Apartment",
+      "description": "A minimalist apartment featuring Bleached Cedar accent walls and furniture, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/loft.jpg"
+    },
+    {
+      "title": "Luxury Brand Packaging",
+      "description": "Cosmetic packaging using Bleached Cedar to convey elegance and exclusivity.",
+      "image_url": "https://example.com/cosmetics.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold accents for a luxurious feel.",
+    "Combine with lighter neutrals for a balanced palette.",
+    "Use with contrasting warm colors for a vibrant and eye-catching look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Bleached Cedar Color Meaning: Psychology, Palettes & Uses | ColorMeanings.com",
+    "description": "Discover the meaning of Bleached Cedar, its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T14:59:30.749053+00:00",
+  "updated_at": "2025-06-01T14:59:30.749053+00:00",
+  "slug": "bleached-cedar"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "49f78436-5ff9-450f-b369-69a04eb8012f",
+  "color_name": "De York",
+  "hex_code": "#7AC488",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "De York, with its blend of green and yellow undertones, evokes feelings of growth, freshness, and optimism. It suggests a sense of balance and harmony, blending the energy of yellow with the grounding qualities of green. It can also represent renewal, hope, and a connection to nature, promoting a sense of well-being and vitality.",
+  "emotional_associations": [
+    "growth",
+    "freshness",
+    "optimism",
+    "balance",
+    "harmony",
+    "renewal",
+    "hope",
+    "vitality"
+  ],
+  "complementary_colors": [
+    "#C47A8C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#7AC488",
+        "#A3D99B",
+        "#D0E8A9",
+        "#E6F2B5",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Vibrant Renewal",
+      "swatches": [
+        "#7AC488",
+        "#FFA500",
+        "#4682B4",
+        "#F08080",
+        "#FFFFE0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces emphasizing growth metrics",
+      "Applications focused on health and wellness tracking"
+    ],
+    "food_beverage": [
+      "Packaging for organic and healthy food products",
+      "Branding for beverages promoting refreshment and natural ingredients"
+    ],
+    "wellness": [
+      "Spa and wellness center branding",
+      "Meditation and mindfulness app interfaces"
+    ],
+    "fashion": [
+      "Activewear and outdoor clothing lines",
+      "Sustainable and eco-friendly fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Organic Produce Packaging",
+      "description": "Used on packaging to represent freshness and natural quality.",
+      "image_url": "https://example.com/organic_produce.jpg"
+    },
+    {
+      "title": "Sustainable Fashion Brand",
+      "description": "Clothing brand uses De York to emphasize the brand's commitment to eco-friendliness.",
+      "image_url": "https://example.com/sustainable_fashion.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a calm and organic feel.",
+    "Combine with bright yellows or oranges for an energetic contrast.",
+    "Use with blues for a balanced and harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "De York Color Meaning: Psychology, Combinations & Palettes | ColorMeanings.com",
+    "description": "Discover the meaning of De York (#7AC488), its psychological associations, and beautiful color palettes to inspire your design projects."
+  },
+  "created_at": "2025-06-01T15:42:16.950772+00:00",
+  "updated_at": "2025-06-01T15:42:16.950772+00:00",
+  "slug": "de-york"
+}

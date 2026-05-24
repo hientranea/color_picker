@@ -1,0 +1,80 @@
+{
+  "id": "e15d2ab0-9586-4d06-929b-1ebdb75bba0d",
+  "color_name": "Rock Blue",
+  "hex_code": "#9EB1CD",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rock Blue evokes feelings of serenity, stability, and trustworthiness. It combines the calmness of blue with the grounding nature of gray, suggesting reliability and composure. This color is often associated with intellect, sophistication, and a sense of quiet strength, making it suitable for conveying a sense of professionalism and dependability.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "trustworthiness",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#CDA09E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dawn",
+      "swatches": [
+        "#9EB1CD",
+        "#D3DCE6",
+        "#F0E6E0",
+        "#A2958F"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#9EB1CD",
+        "#586A89",
+        "#E8F0F2",
+        "#222F3D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation menus",
+      "Backgrounds for data visualization",
+      "Call-to-action buttons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Business attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Office Interior",
+      "description": "A contemporary office space featuring Rock Blue walls to promote focus and tranquility.",
+      "image_url": "https://example.com/office_interior.jpg"
+    },
+    {
+      "title": "Healthcare Website Design",
+      "description": "A healthcare website using Rock Blue as its primary color to convey trustworthiness and reliability.",
+      "image_url": "https://example.com/healthcare_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Combine with soft pinks for a calming palette.",
+    "Use with dark blues for a monochromatic scheme."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and create your own color schemes with our color palette generator!",
+  "seo_meta": {
+    "title": "Rock Blue Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning, psychology, and best uses of Rock Blue (#9EB1CD). Find complementary colors and palette ideas for your next project."
+  },
+  "created_at": "2025-06-01T16:02:54.951691+00:00",
+  "updated_at": "2025-06-01T16:02:54.951691+00:00",
+  "slug": "rock-blue"
+}

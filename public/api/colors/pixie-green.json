@@ -1,0 +1,82 @@
+{
+  "id": "919006b5-0c7e-46d4-80c1-86a09add7ee3",
+  "color_name": "Pixie Green",
+  "hex_code": "#C0D8B6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pixie Green evokes feelings of freshness, tranquility, and renewal. It's a calming color that promotes balance and harmony, reminiscent of springtime and nature's gentle awakening. This shade is often associated with growth, healing, and a sense of well-being, making it a popular choice for creating serene and inviting spaces.",
+  "emotional_associations": [
+    "Tranquility",
+    "Freshness",
+    "Renewal",
+    "Balance",
+    "Harmony"
+  ],
+  "complementary_colors": [
+    "#D8C0DF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#C0D8B6",
+        "#E5EBB2",
+        "#A8C686",
+        "#73A35D"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#C0D8B6",
+        "#D4E6F1",
+        "#A9CCE3",
+        "#7FB3D5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Calming backgrounds for wellness apps",
+      "Subtle accents in productivity tools"
+    ],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Branding for healthy snacks"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Spring/summer collections",
+      "Relaxed resort wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wellness Retreat Website",
+      "description": "A website for a wellness retreat uses Pixie Green to create a calming and inviting atmosphere.",
+      "image_url": "https://example.com/wellness_retreat.jpg"
+    },
+    {
+      "title": "Organic Tea Packaging",
+      "description": "Pixie Green is used on the packaging of a brand of organic herbal teas.",
+      "image_url": "https://example.com/organic_tea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light creams for a soft and airy feel.",
+    "Combine with deeper greens for a natural, layered look.",
+    "Use with muted blues for a serene and calming palette.",
+    "Accent with gold or brass for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors and create your perfect palette with our color palette generator!",
+  "seo_meta": {
+    "title": "Pixie Green Color Meaning: Understanding #C0D8B6",
+    "description": "Discover the meaning and associations of Pixie Green (#C0D8B6), including its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:24:40.228078+00:00",
+  "updated_at": "2025-06-01T16:24:40.228078+00:00",
+  "slug": "pixie-green"
+}

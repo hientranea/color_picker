@@ -1,0 +1,79 @@
+{
+  "id": "3d3ce133-14ec-4b05-b21e-4c74d9a005d4",
+  "color_name": "Cadillac",
+  "hex_code": "#B04C6A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cadillac, a muted and sophisticated shade of pink, evokes feelings of elegance, confidence, and understated luxury. It suggests a sense of refinement and maturity, while also hinting at warmth and compassion. This color communicates a quiet strength and a discerning taste, perfect for conveying a sense of timeless style.",
+  "emotional_associations": [
+    "Elegance",
+    "Sophistication",
+    "Confidence",
+    "Warmth",
+    "Compassion"
+  ],
+  "complementary_colors": [
+    "#6AB092"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Dusty Rose Harmony",
+      "swatches": [
+        "#B04C6A",
+        "#D3A1B4",
+        "#F2E1E8",
+        "#8A7B82",
+        "#57464F"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#B04C6A",
+        "#A67B5B",
+        "#D4A373",
+        "#E6C7A8",
+        "#F8E7D1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Cosmetic packaging"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Cosmetics"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Cadillac",
+      "description": "A classic Cadillac car painted in a similar shade.",
+      "image_url": "https://example.com/cadillac_car.jpg"
+    },
+    {
+      "title": "Luxury Hotel Interior",
+      "description": "The interior design of a high-end hotel featuring Cadillac-colored accents.",
+      "image_url": "https://example.com/hotel_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with gold accents for a touch of glamour.",
+    "Use with teal or dark green for a contrasting and balanced palette.",
+    "Incorporate natural textures like wood or linen for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to create your own Cadillac-inspired palette today!",
+  "seo_meta": {
+    "title": "Cadillac Color Meaning: Understanding #B04C6A",
+    "description": "Discover the meaning and associations of the Cadillac color (#B04C6A), including its psychological impact, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:13:57.278862+00:00",
+  "updated_at": "2025-06-01T16:13:57.278862+00:00",
+  "slug": "cadillac"
+}

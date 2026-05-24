@@ -1,0 +1,78 @@
+{
+  "id": "97ffb0db-3c2c-4ab4-bf12-90112d91a96d",
+  "color_name": "Schist",
+  "hex_code": "#A9B497",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Schist, with its muted green-gray tones, evokes feelings of stability, resilience, and groundedness. It suggests a connection to the earth and nature, symbolizing endurance and quiet strength. This color often brings a sense of calm and reliability, making it a soothing and dependable choice.",
+  "emotional_associations": [
+    "Stability",
+    "Resilience",
+    "Groundedness",
+    "Calm",
+    "Reliability"
+  ],
+  "complementary_colors": [
+    "#B4A9C6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#A9B497",
+        "#D3D0CB",
+        "#7A7772",
+        "#E2DCC8"
+      ]
+    },
+    {
+      "name": "Subtle Contrast",
+      "swatches": [
+        "#A9B497",
+        "#737A69",
+        "#C6B2A9",
+        "#806B5E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization",
+      "Neutral tones for dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Schist Rock Formation",
+      "description": "A metamorphic rock with a layered structure, often found in mountainous regions.",
+      "image_url": "https://example.com/schist_rock.jpg"
+    },
+    {
+      "title": "Modern Minimalist Interior",
+      "description": "Living room with walls painted in a Schist-inspired hue, creating a calming atmosphere.",
+      "image_url": "https://example.com/schist_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creamy whites for a serene look.",
+    "Combine with deep browns for a rustic feel.",
+    "Accent with metallic tones for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color palettes and find the perfect match for your project using our color picker tool.",
+  "seo_meta": {
+    "title": "Schist Color Meaning: Discover the Psychology and Uses of #A9B497",
+    "description": "Explore the meaning, associations, and practical applications of Schist (#A9B497), a muted green-gray color evoking stability and calm. Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T16:08:29.367735+00:00",
+  "updated_at": "2025-06-01T16:08:29.367735+00:00",
+  "slug": "schist"
+}

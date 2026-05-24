@@ -1,0 +1,77 @@
+{
+  "id": "cc578044-e0e7-4503-8936-879964fd379e",
+  "color_name": "Old Brick",
+  "hex_code": "#901E1E",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Old Brick evokes feelings of stability, warmth, and rustic charm. It suggests a sense of history, reliability, and groundedness. The color can also be associated with feelings of comfort, security, and a connection to traditional values. Its subdued nature lends a sense of quiet strength and dependability.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "rustic charm",
+    "reliability",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#1E9090"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#901E1E",
+        "#A85151",
+        "#C08484",
+        "#D8B7B7",
+        "#F0EAE8"
+      ]
+    },
+    {
+      "name": "Rustic Harmony",
+      "swatches": [
+        "#901E1E",
+        "#5E4242",
+        "#A67C52",
+        "#D4A373",
+        "#F2D396"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Restaurant branding",
+      "Packaging for artisanal goods"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Brick Buildings",
+      "description": "Traditional brick buildings showcasing the color's durability and timeless appeal.",
+      "image_url": "https://example.com/brick_building.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "Fall foliage with rich Old Brick tones adding warmth to the landscape.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with greens and browns for an earthy palette.",
+    "Accent with golds and bronzes for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Old Brick Color Meaning: Discover the Psychology and Uses of #901E1E",
+    "description": "Uncover the meaning behind Old Brick (#901E1E). Explore its psychological associations, complementary colors, and industry applications. Find inspiration for your next design project."
+  },
+  "created_at": "2025-06-01T15:56:08.734595+00:00",
+  "updated_at": "2025-06-01T15:56:08.734595+00:00",
+  "slug": "old-brick"
+}

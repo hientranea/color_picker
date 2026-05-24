@@ -1,0 +1,81 @@
+{
+  "id": "529411be-3feb-43f8-887f-cc24b19ba335",
+  "color_name": "Shingle Fawn",
+  "hex_code": "#6B4E31",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Shingle Fawn evokes feelings of stability, reliability, and groundedness. As a neutral earth tone, it represents a connection to nature, promoting a sense of calm and dependability. It can also suggest a sense of classic style and subtle sophistication, making it a versatile and reassuring color choice.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "calm",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#316B4E",
+    "#E0D1C2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#6B4E31",
+        "#A58F7A",
+        "#D4C7BA",
+        "#F2F0EC"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#6B4E31",
+        "#8A6D4F",
+        "#C7B299",
+        "#E6D9C8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Neutral color for data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for coffee and chocolate",
+      "Restaurant interiors promoting a cozy atmosphere"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Classic outerwear",
+      "Sophisticated accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in a Shingle Fawn tone adds a touch of timeless elegance to any living space.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Stone Pathway",
+      "description": "A garden pathway made of Shingle Fawn-colored stones creates a natural and inviting entrance.",
+      "image_url": "https://example.com/stone_pathway.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a classic look.",
+    "Combine with greens and blues for a natural palette.",
+    "Accent with metallic gold or copper for added warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Shingle Fawn Color Meaning: Discover Hex Code, Palettes & More",
+    "description": "Explore the meaning, psychology, and uses of Shingle Fawn (#6B4E31). Find complementary colors, palettes, and industry applications for this earthy tone."
+  },
+  "created_at": "2025-06-01T15:32:19.694863+00:00",
+  "updated_at": "2025-06-01T15:32:19.694863+00:00",
+  "slug": "shingle-fawn"
+}

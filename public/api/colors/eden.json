@@ -1,0 +1,85 @@
+{
+  "id": "136681c6-af58-4c04-a64f-ba2970d2e5ba",
+  "color_name": "Eden",
+  "hex_code": "#105852",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Eden, a dark teal color, evokes feelings of tranquility, sophistication, and depth. It represents a harmonious blend of growth and stability, reminiscent of lush forests and serene waters. This color promotes a sense of calm confidence and can inspire creativity while grounding the mind.",
+  "emotional_associations": [
+    "tranquility",
+    "sophistication",
+    "depth",
+    "growth",
+    "stability",
+    "calm",
+    "confidence",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#581610"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Forest Dusk",
+      "swatches": [
+        "#105852",
+        "#3A7D4D",
+        "#66A55F",
+        "#A6CF98"
+      ]
+    },
+    {
+      "name": "Serene Haven",
+      "swatches": [
+        "#105852",
+        "#508AA4",
+        "#82B2B4",
+        "#B4D9C7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards requiring a calm aesthetic",
+      "Navigation menus for nature-themed apps",
+      "Loading screens for relaxation apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation app design",
+      "Yoga studio interiors"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Athletic wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Sea Diving Gear",
+      "description": "The color Eden is often used in diving gear to blend in with the deep ocean environment.",
+      "image_url": "https://example.com/diving_gear.jpg"
+    },
+    {
+      "title": "Forest Green Homes",
+      "description": "Some eco-friendly homes are painted in Eden to reflect a connection with nature.",
+      "image_url": "https://example.com/forest_home.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a balanced look.",
+    "Combine with gold or copper accents for a touch of luxury.",
+    "Use with lighter teal shades for a monochromatic palette.",
+    "Consider pairing with earthy tones such as browns and tans."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and create stunning color palettes using our color picker tool.",
+  "seo_meta": {
+    "title": "Eden Color Meaning: Discover the Psychology of #105852",
+    "description": "Uncover the meaning of Eden (#105852), its psychological effects, and how to use it in design and branding to evoke tranquility and sophistication."
+  },
+  "created_at": "2025-06-01T14:48:11.281458+00:00",
+  "updated_at": "2025-06-01T14:48:11.281458+00:00",
+  "slug": "eden"
+}

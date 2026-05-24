@@ -1,0 +1,85 @@
+{
+  "id": "9fa4af45-9e16-4c81-90ec-74dae3ffe08e",
+  "color_name": "Stonewall",
+  "hex_code": "#928573",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Stonewall represents stability, resilience, and groundedness. It evokes a sense of calm and dependability, suggesting steadfastness and a connection to the earth. It can also communicate neutrality and a lack of strong emotion, offering a sense of refuge from overwhelming stimuli.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "resilience",
+    "groundedness",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#738092"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#928573",
+        "#A69A88",
+        "#7A6E5C",
+        "#C0B4A2"
+      ]
+    },
+    {
+      "name": "Neutral Contrast",
+      "swatches": [
+        "#928573",
+        "#FFFFFF",
+        "#333333",
+        "#E0E0E0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist interfaces",
+      "Subtle text highlights",
+      "Neutral container elements"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors emphasizing rustic charm",
+      "Menu design for earthy cuisine"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation app backgrounds",
+      "Packaging for natural skincare"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Neutral bases for layering"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Buildings",
+      "description": "The color Stonewall is reminiscent of classic stone buildings, conveying a sense of history and permanence.",
+      "image_url": "https://example.com/stonewall_building.jpg"
+    },
+    {
+      "title": "Pebble Beaches",
+      "description": "The neutral tones of Stonewall evoke the serene beauty of pebble beaches and coastal landscapes.",
+      "image_url": "https://example.com/stonewall_beach.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a calming effect.",
+    "Combine with muted greens for an earthy palette.",
+    "Use with pops of brighter colors for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to discover harmonious color combinations for Stonewall.",
+  "seo_meta": {
+    "title": "Stonewall Color Meaning: Psychology, Palettes, and Uses | Color Meanings",
+    "description": "Discover the meaning of Stonewall (#928573), its psychological impact, best color pairings, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:56:59.203491+00:00",
+  "updated_at": "2025-06-01T15:56:59.203491+00:00",
+  "slug": "stonewall"
+}

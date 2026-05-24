@@ -1,0 +1,81 @@
+{
+  "id": "9137aa00-3cca-4cc2-a55f-0342afd9f3b9",
+  "color_name": "Galliano",
+  "hex_code": "#DCB20C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Galliano, with its rich gold undertones, evokes feelings of luxury, confidence, and warmth. It blends the optimism of yellow with the grounding stability of brown, creating a sense of sophisticated energy. This color often represents abundance, prosperity, and a zest for life, inspiring creativity and ambition.",
+  "emotional_associations": [
+    "luxury",
+    "confidence",
+    "warmth",
+    "optimism",
+    "abundance",
+    "energy"
+  ],
+  "complementary_colors": [
+    "#0C64DC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#DCB20C",
+        "#A67B00",
+        "#F2E2CE",
+        "#734A00",
+        "#D9A641"
+      ]
+    },
+    {
+      "name": "Gilded Age",
+      "swatches": [
+        "#DCB20C",
+        "#C0C0C0",
+        "#808080",
+        "#F0E68C",
+        "#4682B4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Highlighting premium features",
+      "Call-to-action buttons for luxury products"
+    ],
+    "food_beverage": [
+      "Packaging for gourmet foods",
+      "Branding for high-end spirits"
+    ],
+    "fashion": [
+      "Accents in evening wear",
+      "Luxury accessories"
+    ],
+    "wellness": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interiors",
+      "description": "Often used as accents in luxury car interiors to convey sophistication and premium quality.",
+      "image_url": "https://example.com/luxury_car_interior.jpg"
+    },
+    {
+      "title": "Gourmet Food Packaging",
+      "description": "Used in the packaging of gourmet chocolates and other luxury food items to communicate richness and indulgence.",
+      "image_url": "https://example.com/gourmet_food_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep blues for contrast.",
+    "Use with neutral grays for a sophisticated look.",
+    "Combine with earthy browns for a warm, inviting palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Galliano Color Meaning: Understanding #DCB20C",
+    "description": "Explore the meaning, psychology, and uses of Galliano (#DCB20C). Discover complementary colors, palettes, and real-world examples for your designs."
+  },
+  "created_at": "2025-06-01T16:34:31.285377+00:00",
+  "updated_at": "2025-06-01T16:34:31.285377+00:00",
+  "slug": "galliano"
+}

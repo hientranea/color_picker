@@ -1,0 +1,78 @@
+{
+  "id": "83bc9501-e284-47ef-bcb5-1c018d8980d7",
+  "color_name": "Medium Purple",
+  "hex_code": "#9370DB",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Medium Purple is often associated with creativity, wisdom, and spirituality. It embodies a sense of mystery and imagination, while also conveying feelings of calm and introspection. This color can inspire innovation and encourage unconventional thinking, making it a favorite for those seeking originality and depth.",
+  "emotional_associations": [
+    "creativity",
+    "wisdom",
+    "spirituality",
+    "mystery",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#70931E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dream",
+      "swatches": [
+        "#9370DB",
+        "#D8BFD8",
+        "#E6E6FA",
+        "#F8F8FF"
+      ]
+    },
+    {
+      "name": "Royal Dusk",
+      "swatches": [
+        "#9370DB",
+        "#4B0082",
+        "#2E0854",
+        "#6A5ACD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Apps focused on creativity and mindfulness",
+      "Websites promoting education and spiritual guidance"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Bohemian-inspired clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cadbury Chocolate",
+      "description": "The iconic purple packaging of Cadbury chocolate represents indulgence and a sense of luxury.",
+      "image_url": "url_to_cadbury_image.jpg"
+    },
+    {
+      "title": "University Branding",
+      "description": "Many universities use purple in their branding to signify wisdom, knowledge, and academic excellence.",
+      "image_url": "url_to_university_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft grays for a sophisticated look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with greens and blues for a calming and natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color possibilities and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Medium Purple Color Meaning: Symbolism, Combinations & Design Tips",
+    "description": "Discover the meaning and symbolism of Medium Purple. Learn how to use this color in design, find complementary colors, and explore inspiring color palettes."
+  },
+  "created_at": "2025-06-01T15:57:12.384791+00:00",
+  "updated_at": "2025-06-01T15:57:12.384791+00:00",
+  "slug": "medium-purple"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "dd0e3e29-f682-43c4-90e1-350b300eeb53",
+  "color_name": "El Salva",
+  "hex_code": "#8F3E33",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "El Salva evokes feelings of warmth, stability, and earthiness. It suggests a connection to nature and a sense of groundedness. This color can also represent sophistication and understated elegance, conveying a sense of comfort and reliability.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "earthiness",
+    "sophistication",
+    "comfort",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#338F9A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#8F3E33",
+        "#D4A373",
+        "#F2EBD3",
+        "#606C5F"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#8F3E33",
+        "#A67B5B",
+        "#E0C2A3",
+        "#4A4E69"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studios",
+      "Natural skincare products"
+    ],
+    "fashion": [
+      "Autumn clothing",
+      "Leather accessories",
+      "Bohemian styles"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rustic Cabin Interior",
+      "description": "A cozy cabin interior featuring walls and furniture in El Salva, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/cabin_interior.jpg"
+    },
+    {
+      "title": "Leather Handbag",
+      "description": "A stylish leather handbag in El Salva, showcasing its sophisticated and timeless appeal.",
+      "image_url": "https://example.com/leather_handbag.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with greens and browns for a natural palette.",
+    "Use with metallic accents for a touch of elegance.",
+    "Contrast with teal or turquoise for a vibrant feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and create your perfect color scheme using our color picker tool!",
+  "seo_meta": {
+    "title": "El Salva Color Meaning: Psychology, Associations, and Palettes",
+    "description": "Discover the meaning of El Salva, its emotional associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:55:33.932606+00:00",
+  "updated_at": "2025-06-01T15:55:33.932606+00:00",
+  "slug": "el-salva"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "849e1059-648d-4a7b-87ca-56de911d170b",
+  "color_name": "Napa",
+  "hex_code": "#ACA494",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Napa evokes a sense of calm, sophistication, and understated elegance. Its muted, earthy tones suggest stability, reliability, and a connection to nature, making it a color that promotes relaxation and a feeling of groundedness. It's often associated with refinement and a timeless aesthetic.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "elegance",
+    "stability",
+    "reliability",
+    "nature",
+    "groundedness",
+    "refinement"
+  ],
+  "complementary_colors": [
+    "#949CAC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#ACA494",
+        "#D8CBBF",
+        "#736A62",
+        "#F2EFE9"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#ACA494",
+        "#FFFFFF",
+        "#333333",
+        "#E0DAD5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral text colors",
+      "Calm data visualizations"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interior design",
+      "Branding for coffee shops"
+    ],
+    "wellness": [
+      "Spa and wellness center branding",
+      "Meditation app design",
+      "Yoga studio interiors"
+    ],
+    "fashion": [
+      "Neutral clothing pieces",
+      "Accessories",
+      "Footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Living Room",
+      "description": "A living room featuring Napa-colored walls, creating a serene and inviting space.",
+      "image_url": "https://example.com/napa_living_room.jpg"
+    },
+    {
+      "title": "Elegant Business Card",
+      "description": "A business card using Napa as the background color for a sophisticated and professional look.",
+      "image_url": "https://example.com/napa_business_card.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and modern look.",
+    "Combine with darker browns for a warm and inviting feel.",
+    "Use with metallics like gold or silver for added elegance.",
+    "Contrast with deep blues or greens for a nature-inspired palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Napa Color Meaning: Discover the Psychology of #ACA494",
+    "description": "Uncover the meaning, associations, and best uses of Napa (#ACA494). Explore color palettes and design inspiration for this sophisticated neutral color."
+  },
+  "created_at": "2025-06-01T16:10:59.846351+00:00",
+  "updated_at": "2025-06-01T16:10:59.846351+00:00",
+  "slug": "napa"
+}

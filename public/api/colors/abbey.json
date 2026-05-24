@@ -1,0 +1,83 @@
+{
+  "id": "2aa5ae09-bacb-41df-8f6d-725459de55c8",
+  "color_name": "Abbey",
+  "hex_code": "#4C4F56",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Abbey, a muted gray, evokes feelings of neutrality, sophistication, and calmness. It is often associated with practicality, stability, and a sense of quiet confidence. This color suggests a lack of extremes, promoting a balanced and dependable atmosphere. Abbey can also convey a sense of formality and understated elegance.",
+  "emotional_associations": [
+    "Neutrality",
+    "Calmness",
+    "Sophistication",
+    "Stability",
+    "Formality"
+  ],
+  "complementary_colors": [
+    "#F6F3EC",
+    "#A3A099"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#4C4F56",
+        "#666970",
+        "#80838A",
+        "#9A9DA4",
+        "#B4B7BE"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4C4F56",
+        "#8B8378",
+        "#D1BFA3",
+        "#A9A18F",
+        "#736A62"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Menu bars",
+      "Backgrounds",
+      "Text highlighting"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Understated accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "An apartment living room featuring Abbey-colored walls, creating a serene and sophisticated atmosphere.",
+      "image_url": "https://example.com/abbey_apartment.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A corporate website using Abbey as a primary color to convey professionalism and trustworthiness.",
+      "image_url": "https://example.com/abbey_corporate.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic look.",
+    "Combine with pastel colors for a soft, balanced palette.",
+    "Use as a neutral backdrop for brighter accent colors.",
+    "Contrast with warm woods and natural textures."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our interactive color palette generator.",
+  "seo_meta": {
+    "title": "Abbey Color Meaning: Understanding the Psychology of #4C4F56",
+    "description": "Discover the meaning and associations of Abbey (#4C4F56), a sophisticated gray color. Explore its uses in design and find complementary colors."
+  },
+  "created_at": "2025-06-01T15:17:11.353372+00:00",
+  "updated_at": "2025-06-01T15:17:11.353372+00:00",
+  "slug": "abbey"
+}

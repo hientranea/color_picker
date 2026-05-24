@@ -1,0 +1,78 @@
+{
+  "id": "1a97cc82-144c-4b29-bb0d-9bb4a7ff261c",
+  "color_name": "Midnight",
+  "hex_code": "#011635",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Midnight evokes feelings of calmness, mystery, and sophistication. It's associated with the quiet hours of the night, offering a sense of peace and contemplation. This color often represents elegance and a sense of understated power, suggesting depth and intrigue.",
+  "emotional_associations": [
+    "calmness",
+    "mystery",
+    "sophistication",
+    "peace",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#FEE500"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Deep Sea",
+      "swatches": [
+        "#011635",
+        "#172B4D",
+        "#37474F",
+        "#607D8B"
+      ]
+    },
+    {
+      "name": "Nocturnal",
+      "swatches": [
+        "#011635",
+        "#264653",
+        "#2A9D8F",
+        "#F4A261"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Data visualization backgrounds"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Midnight Sky",
+      "description": "A photo of the night sky filled with stars, representing the vastness and beauty of the universe.",
+      "image_url": "https://example.com/midnight_sky.jpg"
+    },
+    {
+      "title": "Midnight Blue Suit",
+      "description": "A stylish midnight blue suit, conveying sophistication and professional elegance.",
+      "image_url": "https://example.com/midnight_suit.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with metallics for a luxurious feel.",
+    "Combine with lighter blues for a harmonious gradient.",
+    "Contrast with warm yellows for a striking visual impact."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of blue and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Midnight Color Meaning: Symbolism and Design Ideas",
+    "description": "Discover the meaning of Midnight, its psychological effects, and how to use it effectively in design, branding, and art."
+  },
+  "created_at": "2025-06-01T14:39:45.428745+00:00",
+  "updated_at": "2025-06-01T14:39:45.428745+00:00",
+  "slug": "midnight"
+}

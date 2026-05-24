@@ -1,0 +1,77 @@
+{
+  "id": "c869b9c8-48d3-49d7-af84-f7536fea0efb",
+  "color_name": "Gumbo",
+  "hex_code": "#7CA1A6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gumbo is a muted, calming color that evokes feelings of tranquility and stability. It suggests a sense of reliability and trustworthiness, often associated with nature and the earth. This color can promote a feeling of balance and harmony, making it suitable for environments where relaxation and clear thinking are desired.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "trust",
+    "balance",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#A67D7C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#7CA1A6",
+        "#D3DEDC",
+        "#A2B5A7",
+        "#52616B"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#7CA1A6",
+        "#BDB2FF",
+        "#343A40",
+        "#F0EFEB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Settings panels",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites",
+      "Yoga studios"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Minimalist Bedroom",
+      "description": "A bedroom featuring Gumbo colored walls to create a relaxing atmosphere.",
+      "image_url": "https://example.com/gumbo_bedroom.jpg"
+    },
+    {
+      "title": "Modern Office Space",
+      "description": "An office using Gumbo accents to promote a sense of calm and productivity.",
+      "image_url": "https://example.com/gumbo_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a subtle look.",
+    "Use with darker grays for a modern feel.",
+    "Combine with muted purples for a calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Gumbo Color Meaning: Discover the Psychology of #7CA1A6",
+    "description": "Uncover the meaning and associations of the color Gumbo (#7CA1A6). Learn about its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:44:04.837037+00:00",
+  "updated_at": "2025-06-01T15:44:04.837037+00:00",
+  "slug": "gumbo"
+}

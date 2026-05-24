@@ -1,0 +1,86 @@
+{
+  "id": "3c30a39a-45fd-478e-ac4c-92785c82ff56",
+  "color_name": "Lunar Green",
+  "hex_code": "#3C493A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lunar Green evokes feelings of tranquility, growth, and subtle sophistication. It combines the calming aspects of green with a hint of mystery, representing balance and renewal with an understated elegance. This color is often associated with nature, stability, and a sense of calm introspection.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "sophistication",
+    "balance",
+    "renewal",
+    "nature",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#A9424B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#3C493A",
+        "#A3B18A",
+        "#D3E4CD",
+        "#748A6B"
+      ]
+    },
+    {
+      "name": "Mystic Forest",
+      "swatches": [
+        "#3C493A",
+        "#2E3A2D",
+        "#5F6F52",
+        "#829976"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background accents",
+      "Calming interface elements",
+      "Data visualization (charts, graphs)"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Sustainable beverage labels"
+    ],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa branding",
+      "Eco-friendly product packaging"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Nature-inspired accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Architecture",
+      "description": "Exterior siding on a modern eco-friendly home, blending seamlessly with the surrounding foliage.",
+      "image_url": "https://example.com/lunar_green_architecture.jpg"
+    },
+    {
+      "title": "Calming Spa Interior",
+      "description": "Walls in a spa painted in Lunar Green to promote relaxation and a sense of well-being.",
+      "image_url": "https://example.com/lunar_green_spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for balance.",
+    "Use with muted gold for subtle elegance.",
+    "Combine with deep browns for an earthy feel.",
+    "Accent with terracotta for a natural, grounded palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Lunar Green Color Meaning: Symbolism, Psychology, and Design Ideas",
+    "description": "Discover the meaning of Lunar Green (#3C493A), its psychological effects, and how to use it effectively in your designs. Explore palettes and industry use cases."
+  },
+  "created_at": "2025-06-01T15:08:31.584851+00:00",
+  "updated_at": "2025-06-01T15:08:31.584851+00:00",
+  "slug": "lunar-green"
+}

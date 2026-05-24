@@ -1,0 +1,86 @@
+{
+  "id": "3afe063f-d6b8-47ae-af94-4832e391dbc4",
+  "color_name": "English Holly",
+  "hex_code": "#022D15",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "English Holly, a deep forest green, evokes feelings of tranquility, growth, and connection to nature. It symbolizes stability, endurance, and a sense of grounding. It can also represent prosperity and a deep understanding of the natural world, inspiring contemplation and a balanced outlook.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "stability",
+    "tranquility",
+    "prosperity"
+  ],
+  "complementary_colors": [
+    "#D30018"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#022D15",
+        "#A68A64",
+        "#E3DAC9",
+        "#4A655B"
+      ]
+    },
+    {
+      "name": "Forest Dawn",
+      "swatches": [
+        "#022D15",
+        "#77ACA2",
+        "#F2E7DC",
+        "#264A3D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Data visualization",
+      "Application themes"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant branding",
+      "Tea and herbal supplement marketing"
+    ],
+    "wellness": [
+      "Spa and retreat branding",
+      "Meditation app design",
+      "Eco-friendly product packaging"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories",
+      "Earthy-tone collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "A dense forest canopy filters sunlight, creating a calming and shaded environment.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Moss Covered Stone",
+      "description": "An ancient stone covered in lush English Holly colored moss, showcasing nature's resilience.",
+      "image_url": "https://example.com/moss_stone.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy neutrals for a grounded feel.",
+    "Combine with gold accents for luxury.",
+    "Use with lighter greens for a natural gradient.",
+    "Contrast with warm reds for a vibrant palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "English Holly Color Meaning: Discover the Psychology of #022D15",
+    "description": "Uncover the meaning and symbolism behind English Holly (#022D15). Learn about its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T14:41:27.948914+00:00",
+  "updated_at": "2025-06-01T14:41:27.948914+00:00",
+  "slug": "english-holly"
+}

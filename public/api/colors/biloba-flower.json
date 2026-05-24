@@ -1,0 +1,78 @@
+{
+  "id": "8c5f6c88-b88a-46ec-ac97-945e985a08f8",
+  "color_name": "Biloba Flower",
+  "hex_code": "#B2A1EA",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Biloba Flower, a soft lavender with grey undertones, evokes feelings of serenity, creativity, and thoughtfulness. It is often associated with introspection, spirituality, and a sense of calm. This color encourages contemplation and can inspire artistic expression, providing a soothing and balanced atmosphere.",
+  "emotional_associations": [
+    "serenity",
+    "creativity",
+    "introspection",
+    "spirituality",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#EAB9A1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dream",
+      "swatches": [
+        "#B2A1EA",
+        "#D8BFD8",
+        "#E6E6FA",
+        "#F0F8FF"
+      ]
+    },
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#B2A1EA",
+        "#C8BFE7",
+        "#A69ACD",
+        "#8073AC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Mindfulness platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Spring dresses",
+      "Light sweaters"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Biloba Flower Field",
+      "description": "A field of biloba flowers under the soft light of dawn, creating a serene and calming landscape.",
+      "image_url": "https://example.com/biloba_field.jpg"
+    },
+    {
+      "title": "Lavender Amethyst",
+      "description": "A beautiful amethyst crystal with a soft lavender hue, symbolizing spiritual growth and tranquility.",
+      "image_url": "https://example.com/lavender_amethyst.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals like beige or grey for a calming effect.",
+    "Combine with muted greens for a natural and organic feel.",
+    "Use with gold or silver accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more calming color palettes with our intuitive color picker tool!",
+  "seo_meta": {
+    "title": "Biloba Flower Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Biloba Flower (#B2A1EA), its psychological associations, complementary colors, and inspiring palette ideas for your next design project."
+  },
+  "created_at": "2025-06-01T16:15:44.654578+00:00",
+  "updated_at": "2025-06-01T16:15:44.654578+00:00",
+  "slug": "biloba-flower"
+}

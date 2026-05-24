@@ -1,0 +1,82 @@
+{
+  "id": "a9970c07-c552-4227-b094-ce12bfb50c2d",
+  "color_name": "Fun Green",
+  "hex_code": "#016D39",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Fun Green is often associated with nature, growth, and renewal. It evokes feelings of tranquility, harmony, and balance. This color can promote a sense of well-being and encourage optimism, making it a popular choice for environments where relaxation and creativity are desired.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "harmony",
+    "balance",
+    "optimism"
+  ],
+  "complementary_colors": [
+    "#D40135"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#016D39",
+        "#A0D6B4",
+        "#774F38",
+        "#E0A96F"
+      ]
+    },
+    {
+      "name": "Vibrant Growth",
+      "swatches": [
+        "#016D39",
+        "#FFD700",
+        "#FFFFFF",
+        "#4682B4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Eco-friendly app interfaces"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Healthy beverage branding"
+    ],
+    "wellness": [
+      "Spa websites",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amazon Rainforest",
+      "description": "The lush greenery of the Amazon rainforest symbolizes life, growth, and the power of nature.",
+      "image_url": "https://example.com/amazon_rainforest.jpg"
+    },
+    {
+      "title": "Yoga Studio Interior",
+      "description": "A yoga studio painted in shades of green creates a calming and harmonious atmosphere, promoting relaxation and focus.",
+      "image_url": "https://example.com/yoga_studio.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with warm neutrals like beige or cream for a balanced look.",
+    "Pair with complementary reds for a vibrant contrast.",
+    "Use with other shades of green for a harmonious monochromatic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of green and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Fun Green Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Fun Green, its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T14:40:52.734742+00:00",
+  "updated_at": "2025-06-01T14:40:52.734742+00:00",
+  "slug": "fun-green"
+}

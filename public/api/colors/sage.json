@@ -1,0 +1,84 @@
+{
+  "id": "6eb64ea0-f79b-4e7f-a734-d0d07dfaab34",
+  "color_name": "Sage",
+  "hex_code": "#9EA587",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sage is a muted green that embodies growth, stability, and nature. It evokes feelings of serenity, wisdom, and health. Its calming presence can create a balanced and harmonious environment, promoting a sense of tranquility and well-being. Sage is often associated with organic living and sustainability.",
+  "emotional_associations": [
+    "Calm",
+    "Natural",
+    "Peaceful",
+    "Stable",
+    "Wise"
+  ],
+  "complementary_colors": [
+    "#A59E96",
+    "#879E9A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#9EA587",
+        "#D3D1C1",
+        "#736A57",
+        "#A69382",
+        "#E8E4D4"
+      ]
+    },
+    {
+      "name": "Sage & Blush",
+      "swatches": [
+        "#9EA587",
+        "#F2D7D5",
+        "#6B8E23",
+        "#E6A8A4",
+        "#8FBC8F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for meditation apps",
+      "Icons for environmental dashboards"
+    ],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Restaurant decor for farm-to-table establishments"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Accessories with a natural aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sage Green Walls",
+      "description": "A bedroom painted in sage green promotes relaxation and tranquility.",
+      "image_url": "https://example.com/sage_bedroom.jpg"
+    },
+    {
+      "title": "Sage Colored Sofa",
+      "description": "A sage-colored sofa adds a touch of nature to a living room.",
+      "image_url": "https://example.com/sage_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, natural look.",
+    "Combine with dusty rose for a vintage feel.",
+    "Use with dark browns for an earthy palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color picker tool today!",
+  "seo_meta": {
+    "title": "Sage Color Meaning: Symbolism, Combinations & Design Tips",
+    "description": "Discover the meaning of sage green, its psychological effects, and how to use it in your designs. Explore sage color palettes and combinations."
+  },
+  "created_at": "2025-06-01T16:02:40.371141+00:00",
+  "updated_at": "2025-06-01T16:02:40.371141+00:00",
+  "slug": "sage"
+}

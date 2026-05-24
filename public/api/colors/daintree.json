@@ -1,0 +1,86 @@
+{
+  "id": "e61f581d-e625-4a04-a594-cf8b73d70835",
+  "color_name": "Daintree",
+  "hex_code": "#012731",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Daintree is a deep, muted teal that evokes feelings of tranquility, sophistication, and connection to nature. It suggests stability, reliability, and a sense of calm confidence. This color is often associated with wisdom, integrity, and a refined aesthetic.",
+  "emotional_associations": [
+    "tranquility",
+    "sophistication",
+    "nature",
+    "stability",
+    "wisdom"
+  ],
+  "complementary_colors": [
+    "#310701"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#012731",
+        "#A9B388",
+        "#635A43",
+        "#D5C6AA"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#012731",
+        "#B0E2FF",
+        "#87CEEB",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Financial analysis tools",
+      "Security software interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Branding for upscale seafood restaurants",
+      "Labels for artisanal water"
+    ],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa branding",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Sophisticated office attire",
+      "Accessories like scarves and handbags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Daintree Rainforest",
+      "description": "The lush greenery of the Daintree Rainforest inspires the color's name, reflecting its deep, natural hues.",
+      "image_url": "https://example.com/daintree_rainforest.jpg"
+    },
+    {
+      "title": "Elegant Home Office",
+      "description": "A Daintree-colored accent wall adds a touch of sophistication and tranquility to a modern home office.",
+      "image_url": "https://example.com/daintree_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige or cream.",
+    "Use with metallic accents like gold or copper for a luxurious feel.",
+    "Combine with other shades of blue and green for a harmonious palette.",
+    "Contrast with a bright accent color like coral or yellow for a pop of energy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Daintree Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Daintree (#012731), its psychological effects, best color combinations, and inspiring design palettes."
+  },
+  "created_at": "2025-06-01T14:39:55.239309+00:00",
+  "updated_at": "2025-06-01T14:39:55.239309+00:00",
+  "slug": "daintree"
+}

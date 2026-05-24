@@ -1,0 +1,85 @@
+{
+  "id": "35f029a5-6fa2-4f73-88f3-bf14945cd0de",
+  "color_name": "Chatelle",
+  "hex_code": "#BDB3C7",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Chatelle, a muted and sophisticated color, evokes feelings of calmness and tranquility. It suggests a sense of balance and neutrality, blending the stability of gray with the purity of white. This color promotes introspection and serenity, creating a comfortable and relaxing atmosphere.",
+  "emotional_associations": [
+    "serenity",
+    "balance",
+    "neutrality",
+    "comfort",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#C7BEB3",
+    "#B3C7BD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Whispering Winds",
+      "swatches": [
+        "#BDB3C7",
+        "#E5E3E6",
+        "#A6A2A9",
+        "#FFFFFF",
+        "#706E73"
+      ]
+    },
+    {
+      "name": "Urban Dusk",
+      "swatches": [
+        "#BDB3C7",
+        "#504A4B",
+        "#8C8789",
+        "#D1CDD2",
+        "#262424"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Subtle backgrounds",
+      "Calming notification shades"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Understated accessories",
+      "Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room using Chatelle on the walls to create a calming and inviting space.",
+      "image_url": "https://example.com/chatelle_apartment.jpg"
+    },
+    {
+      "title": "Fashionable Scarf",
+      "description": "A soft, elegant scarf in Chatelle, perfect for adding a touch of sophistication to any outfit.",
+      "image_url": "https://example.com/chatelle_scarf.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, minimalist look.",
+    "Combine with deeper grays for added depth.",
+    "Use with pastel colors for a soft, gentle palette.",
+    "Contrast with jewel tones for a touch of drama."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Chatelle Color Meaning: Discover the Psychology of #BDB3C7",
+    "description": "Uncover the meaning and emotional associations of Chatelle (#BDB3C7). Learn how to use this color in design and branding to evoke feelings of serenity and balance."
+  },
+  "created_at": "2025-06-01T16:22:21.555663+00:00",
+  "updated_at": "2025-06-01T16:22:21.555663+00:00",
+  "slug": "chatelle"
+}

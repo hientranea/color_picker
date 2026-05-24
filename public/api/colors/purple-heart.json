@@ -1,0 +1,83 @@
+{
+  "id": "cdb06c13-cb3b-4332-b2f4-312a8b55be0a",
+  "color_name": "Purple Heart",
+  "hex_code": "#652DC1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Purple Heart embodies a blend of calmness and intensity. It often symbolizes royalty, nobility, luxury, power, and ambition. It conveys wealth, extravagance, creativity, wisdom, dignity, grandeur, devotion, peace, pride, mystery, independence, and magic. The color purple is also associated with spirituality, sacredness, transformation, wisdom, and enlightenment. It combines the stability of blue and the energy of red.",
+  "emotional_associations": [
+    "royalty",
+    "wisdom",
+    "spirituality",
+    "creativity",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#C18A2D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Twilight",
+      "swatches": [
+        "#652DC1",
+        "#A080D0",
+        "#291562",
+        "#D3CEDF",
+        "#43345C"
+      ]
+    },
+    {
+      "name": "Mystic Garden",
+      "swatches": [
+        "#652DC1",
+        "#8ECFC2",
+        "#F0E68C",
+        "#E0BBE4",
+        "#957DAD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Premium apps",
+      "Luxury branding",
+      "Creative tools"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios",
+      "Spiritual retreats"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Statement pieces"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "Amethyst geodes showcase the natural beauty and spiritual associations of purple.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Lavender Fields",
+      "description": "Vast fields of lavender evoke feelings of tranquility and serenity.",
+      "image_url": "https://example.com/lavender.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with green for a balanced palette.",
+    "Use with neutrals for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to discover more harmonious shades and create your perfect palette!",
+  "seo_meta": {
+    "title": "Purple Heart Color Meaning: Symbolism, Psychology & Palettes",
+    "description": "Discover the meaning of Purple Heart, its psychological effects, and how to use it in design. Explore color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:28:59.392963+00:00",
+  "updated_at": "2025-06-01T15:28:59.392963+00:00",
+  "slug": "purple-heart"
+}

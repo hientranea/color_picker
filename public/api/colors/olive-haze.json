@@ -1,0 +1,81 @@
+{
+  "id": "8a375394-7889-4646-bd9f-3e30cbb6b8c7",
+  "color_name": "Olive Haze",
+  "hex_code": "#8B8470",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Olive Haze evokes feelings of peace, tranquility, and connection to nature. It suggests maturity, sophistication, and a sense of calm, grounded energy. It can also represent growth, renewal, and a harmonious balance between the natural world and human experience.",
+  "emotional_associations": [
+    "calm",
+    "nature",
+    "sophistication",
+    "peace",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#70778B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#8B8470",
+        "#D4CABD",
+        "#556B2F",
+        "#A8A293"
+      ]
+    },
+    {
+      "name": "Modern Rustic",
+      "swatches": [
+        "#8B8470",
+        "#FFFFFF",
+        "#4A4A4A",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Zen mode interfaces"
+    ],
+    "food_beverage": [
+      "Sustainable packaging",
+      "Organic food branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Autumnal collections",
+      "Earthy accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Haze Living Room",
+      "description": "A living room featuring Olive Haze walls, creating a serene and relaxing atmosphere.",
+      "image_url": "https://example.com/olive-haze-living-room.jpg"
+    },
+    {
+      "title": "Olive Haze Business Card",
+      "description": "A sophisticated business card using Olive Haze to convey professionalism and trustworthiness.",
+      "image_url": "https://example.com/olive-haze-business-card.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a soft, elegant look.",
+    "Combine with darker greens for a natural, grounded feel.",
+    "Use with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints of Olive Haze using our color picker tool!",
+  "seo_meta": {
+    "title": "Olive Haze Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Olive Haze, its psychological effects, ideal color combinations, and inspiring palettes. Enhance your designs with this earthy and sophisticated color."
+  },
+  "created_at": "2025-06-01T15:52:33.893554+00:00",
+  "updated_at": "2025-06-01T15:52:33.893554+00:00",
+  "slug": "olive-haze"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "79428446-44e4-47db-9288-8f916d50cb81",
+  "color_name": "Hunter Green",
+  "hex_code": "#161D10",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Hunter Green evokes feelings of nature, growth, and stability. It's often associated with wealth, ambition, and endurance. The color can also represent a sense of calmness and sophistication, making it a popular choice for brands seeking to project an image of trustworthiness and reliability. It is often used to promote well-being and environmental consciousness, connecting to feelings of peace, balance, and harmony.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "stability",
+    "wealth",
+    "calmness",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#D1161D",
+    "#D1C816"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#161D10",
+        "#A3B18A",
+        "#DAD7CD",
+        "#588157"
+      ]
+    },
+    {
+      "name": "Forest Abundance",
+      "swatches": [
+        "#161D10",
+        "#344E41",
+        "#0B525B",
+        "#2A6F36"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Tea brands",
+      "Healthy snacks"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Classic clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Hunter Green SUV",
+      "description": "A rugged SUV painted in hunter green, conveying a sense of adventure and capability.",
+      "image_url": "https://example.com/hunter_green_suv.jpg"
+    },
+    {
+      "title": "Hunter Green Living Room",
+      "description": "A living room with hunter green walls, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/hunter_green_living_room.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural look.",
+    "Use with gold accents for a touch of luxury.",
+    "Combine with earthy browns for a grounded palette.",
+    "Contrast with terracotta for a vibrant scheme"
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of green and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Hunter Green Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Hunter Green, its psychological effects, and how to use it in design with complementary colors and palettes."
+  },
+  "created_at": "2025-06-01T14:49:57.914411+00:00",
+  "updated_at": "2025-06-01T14:49:57.914411+00:00",
+  "slug": "hunter-green"
+}

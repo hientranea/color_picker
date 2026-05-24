@@ -1,0 +1,80 @@
+{
+  "id": "7b76f757-5863-4aa7-be11-382d4144bfec",
+  "color_name": "Cold Purple",
+  "hex_code": "#ABA0D9",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cold Purple evokes a sense of mystery, sophistication, and calm introspection. It combines the energy and passion of red with the stability and tranquility of blue, resulting in a color that encourages contemplation and creativity while also suggesting a degree of formality and restraint. It can also represent royalty, luxury, and spirituality.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "calm",
+    "introspection",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#D9B6A0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#ABA0D9",
+        "#D4D0E9",
+        "#F0EDF9",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Regal Dusk",
+      "swatches": [
+        "#ABA0D9",
+        "#7B68EE",
+        "#483D8B",
+        "#2F4F4F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "application backgrounds",
+      "iconography",
+      "loading screens"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "meditation apps",
+      "relaxation products"
+    ],
+    "fashion": [
+      "evening wear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lavender Fields at Dusk",
+      "description": "The soft purple hues of lavender fields at twilight evoke a sense of peace and tranquility.",
+      "image_url": "url_to_lavender_field_image.jpg"
+    },
+    {
+      "title": "Amethyst Geode",
+      "description": "An amethyst geode showcases the rich, crystalline beauty of purple in its natural form.",
+      "image_url": "url_to_amethyst_geode_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver for a modern, elegant look.",
+    "Combine with soft grays for a minimalist feel.",
+    "Use with deep blues to enhance the sense of calm.",
+    "Contrast with warm yellows for a balanced, eye-catching design."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Cold Purple Color Meaning: Symbolism, Psychology, and Design",
+    "description": "Discover the meaning of Cold Purple, its psychological effects, and how to use it in design. Explore color palettes, pairings, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:10:24.089585+00:00",
+  "updated_at": "2025-06-01T16:10:24.089585+00:00",
+  "slug": "cold-purple"
+}

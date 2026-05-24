@@ -1,0 +1,82 @@
+{
+  "id": "6c7478bf-f152-467a-8e03-19e5152b44ea",
+  "color_name": "Matisse",
+  "hex_code": "#1B659D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Matisse, a sophisticated blue, evokes feelings of trust, stability, and intelligence. It is associated with calmness and serenity, promoting a sense of security and order. Its depth inspires contemplation and encourages a sense of loyalty, making it a popular choice for organizations seeking to build strong relationships with their audience.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intelligence",
+    "calmness",
+    "serenity",
+    "security"
+  ],
+  "complementary_colors": [
+    "#9D531B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depths",
+      "swatches": [
+        "#1B659D",
+        "#ADD8E6",
+        "#003366",
+        "#E0FFFF"
+      ]
+    },
+    {
+      "name": "Corporate Calm",
+      "swatches": [
+        "#1B659D",
+        "#FFFFFF",
+        "#D3D3D3",
+        "#808080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Data visualization",
+      "Backgrounds for professional applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spas",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Branding",
+      "description": "Matisse is often used in corporate branding to project an image of reliability and expertise.",
+      "image_url": "https://example.com/corporate_branding.jpg"
+    },
+    {
+      "title": "Website Design",
+      "description": "A Matisse color scheme can create a calming and professional atmosphere for a website.",
+      "image_url": "https://example.com/website_design.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray and white for a classic look.",
+    "Combine with lighter blues for a monochromatic palette.",
+    "Use with its complementary color (orange) for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade of Matisse for your next project!",
+  "seo_meta": {
+    "title": "Matisse Color Meaning: Understanding #1B659D",
+    "description": "Explore the meaning, psychology, and uses of Matisse (#1B659D). Discover color palettes and design inspiration for your next project."
+  },
+  "created_at": "2025-06-01T14:52:19.547386+00:00",
+  "updated_at": "2025-06-01T14:52:19.547386+00:00",
+  "slug": "matisse"
+}

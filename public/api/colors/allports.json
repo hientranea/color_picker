@@ -1,0 +1,79 @@
+{
+  "id": "6e05bfee-d38c-4810-908a-81c93fcaf6e7",
+  "color_name": "Allports",
+  "hex_code": "#0076A3",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Allports, a deep and calming blue, evokes feelings of trust, security, and intelligence. It's often associated with stability and reliability, making it a color that inspires confidence. This shade of blue promotes a sense of peace and tranquility, encouraging introspection and clear thinking.",
+  "emotional_associations": [
+    "trust",
+    "security",
+    "intelligence",
+    "calm",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#A32D00"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Oceanic Harmony",
+      "swatches": [
+        "#0076A3",
+        "#ADD8E6",
+        "#FFFFFF",
+        "#2F4F4F"
+      ]
+    },
+    {
+      "name": "Corporate Confidence",
+      "swatches": [
+        "#0076A3",
+        "#6495ED",
+        "#E6E6FA",
+        "#36454F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Loading screens",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Business attire",
+      "Evening wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Website Redesign",
+      "description": "A company revamped its website using Allports as the primary color to convey professionalism and reliability.",
+      "image_url": "https://example.com/image1.jpg"
+    },
+    {
+      "title": "Luxury Watch Advertisement",
+      "description": "A high-end watch brand used Allports in its advertising campaign to associate the product with sophistication and trust.",
+      "image_url": "https://example.com/image2.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a modern look.",
+    "Combine with white for a clean, professional feel.",
+    "Use with a touch of orange for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Allports Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Allports (#0076A3), its psychological effects, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T14:37:59.159987+00:00",
+  "updated_at": "2025-06-01T14:37:59.159987+00:00",
+  "slug": "allports"
+}

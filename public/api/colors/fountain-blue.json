@@ -1,0 +1,81 @@
+{
+  "id": "338d2f0c-1ced-4dce-86fe-965858b201af",
+  "color_name": "Fountain Blue",
+  "hex_code": "#56B4BE",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fountain Blue evokes feelings of tranquility, clarity, and peace. It is often associated with open communication and a sense of calm, promoting introspection and thoughtful decision-making. This color can inspire creativity and a connection to nature, particularly water and sky.",
+  "emotional_associations": [
+    "Tranquility",
+    "Clarity",
+    "Peace",
+    "Openness",
+    "Creativity"
+  ],
+  "complementary_colors": [
+    "#BE5658"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Shores",
+      "swatches": [
+        "#56B4BE",
+        "#A7D9E2",
+        "#F0F8FF",
+        "#87CEEB"
+      ]
+    },
+    {
+      "name": "Balanced Harmony",
+      "swatches": [
+        "#56B4BE",
+        "#80CBC4",
+        "#E0F2F1",
+        "#26A69A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Communication apps"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Resort wear",
+      "Athletic apparel",
+      "Swimwear"
+    ],
+    "food_beverage": null
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Home Interior",
+      "description": "A living room featuring Fountain Blue walls with white trim, creating a relaxing and airy atmosphere.",
+      "image_url": "https://example.com/coastal_interior.jpg"
+    },
+    {
+      "title": "Fitness Tracker Interface",
+      "description": "A fitness tracker using Fountain Blue as the primary color for its user interface, conveying a sense of health and well-being.",
+      "image_url": "https://example.com/fitness_tracker.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like white, cream, or gray for a calming effect.",
+    "Combine with coral or peach for a vibrant and energetic contrast.",
+    "Use with other blues and greens for a harmonious and natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Fountain Blue Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Fountain Blue, its emotional associations, and how to use it in design, branding, and more. Explore color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:22:37.055958+00:00",
+  "updated_at": "2025-06-01T15:22:37.055958+00:00",
+  "slug": "fountain-blue"
+}

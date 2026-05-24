@@ -1,0 +1,81 @@
+{
+  "id": "20683702-56f4-485d-91f6-fef411dce03a",
+  "color_name": "Smalt Blue",
+  "hex_code": "#51808F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Smalt Blue evokes feelings of calmness, stability, and sophistication. It blends the tranquility of blue with a hint of complexity, suggesting trustworthiness and reliability. It is often associated with professionalism and understated elegance, lending a sense of competence and peace. This color can also inspire introspection and a sense of inner peace.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "sophistication",
+    "trustworthiness",
+    "reliability",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#8F5E51"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#51808F",
+        "#B0C4DE",
+        "#E6E6FA",
+        "#F0F8FF"
+      ]
+    },
+    {
+      "name": "Professional Edge",
+      "swatches": [
+        "#51808F",
+        "#36454F",
+        "#A9A9A9",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Navigation bars",
+      "Backgrounds"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Business attire",
+      "Evening wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Office Interior",
+      "description": "Smalt Blue walls create a calming and professional environment in a modern office space.",
+      "image_url": "https://example.com/smalt_blue_office.jpg"
+    },
+    {
+      "title": "Elegant Evening Gown",
+      "description": "A flowing Smalt Blue gown exudes sophistication and grace on the red carpet.",
+      "image_url": "https://example.com/smalt_blue_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a classic look.",
+    "Combine with grays for a modern, sophisticated feel.",
+    "Use with muted golds for a touch of luxury.",
+    "Contrast with terracotta hues for a warm and inviting palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Smalt Blue with our color picker tool!",
+  "seo_meta": {
+    "title": "Smalt Blue Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning and symbolism of Smalt Blue. Learn about its psychological effects, ideal color pairings, and real-world applications for design and branding."
+  },
+  "created_at": "2025-06-01T15:20:53.10404+00:00",
+  "updated_at": "2025-06-01T15:20:53.10404+00:00",
+  "slug": "smalt-blue"
+}

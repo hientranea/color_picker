@@ -1,0 +1,84 @@
+{
+  "id": "8b60ef64-439a-47f6-b225-7627f68fb3da",
+  "color_name": "Thatch",
+  "hex_code": "#B69D98",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Thatch evokes a sense of warmth, comfort, and rustic charm. It represents stability, reliability, and a connection to nature. This color is often associated with feelings of nostalgia, simplicity, and down-to-earth practicality, offering a sense of grounding and reassurance.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "rustic",
+    "stability",
+    "nostalgia"
+  ],
+  "complementary_colors": [
+    "#98B69D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#B69D98",
+        "#D2B48C",
+        "#A9A18F",
+        "#79695B",
+        "#E6E1C5"
+      ]
+    },
+    {
+      "name": "Rustic Harmony",
+      "swatches": [
+        "#B69D98",
+        "#8B4513",
+        "#C04000",
+        "#F0E68C",
+        "#6B8E23"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for artisanal bread",
+      "Branding for coffee shops",
+      "Restaurant interior design"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design",
+      "Packaging for organic skincare products"
+    ],
+    "fashion": [
+      "Autumn/Winter clothing lines",
+      "Accessories (bags, shoes)",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Thatch Roof Cottage",
+      "description": "A traditional cottage with a classic thatch roof, providing a cozy and timeless feel.",
+      "image_url": "https://example.com/thatch_cottage.jpg"
+    },
+    {
+      "title": "Woven Basket",
+      "description": "A hand-woven basket in a thatch-like color, showcasing the natural texture and earthiness of the hue.",
+      "image_url": "https://example.com/woven_basket.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural look.",
+    "Combine with creams and whites for a soft, inviting palette.",
+    "Use with darker browns for a rich, grounded feel.",
+    "Accent with pops of orange or red for warmth and energy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Thatch Color Meaning: Understanding the Psychology of #B69D98",
+    "description": "Discover the meaning and symbolism of Thatch (#B69D98). Learn about its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:17:46.500881+00:00",
+  "updated_at": "2025-06-01T16:17:46.500881+00:00",
+  "slug": "thatch"
+}

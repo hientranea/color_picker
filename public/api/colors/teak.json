@@ -1,0 +1,81 @@
+{
+  "id": "41952d66-d16f-4663-b788-830d3dc94433",
+  "color_name": "Teak",
+  "hex_code": "#B19461",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Teak evokes feelings of warmth, stability, and natural comfort. It is associated with reliability, groundedness, and a sense of history. This color can also suggest sophistication and understated elegance, reminiscent of aged wood and natural materials.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "comfort",
+    "reliability",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#618EB1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#B19461",
+        "#D4A373",
+        "#6F4E37",
+        "#F5E7D0"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#B19461",
+        "#8A6F4E",
+        "#CDB38B",
+        "#E9DAC1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for gourmet coffee",
+      "Branding for natural teas",
+      "Restaurant interiors with a rustic theme"
+    ],
+    "wellness": [
+      "Spas and retreats",
+      "Meditation apps and websites",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Leather goods",
+      "Accessories with a vintage aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Teak Wood Furniture",
+      "description": "Classic teak wood furniture brings a sense of timeless elegance to outdoor spaces.",
+      "image_url": "https://example.com/teak_furniture.jpg"
+    },
+    {
+      "title": "Teak Flooring",
+      "description": "Teak flooring provides a warm and durable surface for homes and commercial spaces.",
+      "image_url": "https://example.com/teak_flooring.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a classic look.",
+    "Combine with deep greens or blues for a natural, grounding effect.",
+    "Add metallic accents (gold, bronze) for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious color combinations using our color palette generator tool!",
+  "seo_meta": {
+    "title": "Teak Color Meaning: Discover the Psychology of #B19461",
+    "description": "Explore the meaning and associations of the color Teak (#B19461). Learn about its psychological effects, complementary colors, and best uses in design and branding."
+  },
+  "created_at": "2025-06-01T16:15:15.451026+00:00",
+  "updated_at": "2025-06-01T16:15:15.451026+00:00",
+  "slug": "teak"
+}

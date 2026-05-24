@@ -1,0 +1,76 @@
+{
+  "id": "e95cf920-3278-4215-810b-3ae974fd9504",
+  "color_name": "Rhino",
+  "hex_code": "#2E3F62",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Rhino, a deep and muted blue-gray, evokes feelings of stability, resilience, and quiet strength. It suggests dependability and a sense of groundedness, mirroring the steadfast nature of its namesake. This color is often associated with a sense of calm authority and understated power.",
+  "emotional_associations": [
+    "stability",
+    "resilience",
+    "dependability",
+    "calm",
+    "understated power"
+  ],
+  "complementary_colors": [
+    "#F2E12D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#2E3F62",
+        "#A39788",
+        "#E3DAC9",
+        "#73626B"
+      ]
+    },
+    {
+      "name": "Cool Contrast",
+      "swatches": [
+        "#2E3F62",
+        "#FFFFFF",
+        "#ADD8E6",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Data visualization",
+      "Navigation bars"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Architecture",
+      "description": "A modern building facade using Rhino as the primary color, conveying strength and sophistication.",
+      "image_url": "https://example.com/rhino_architecture.jpg"
+    },
+    {
+      "title": "Luxury Car Interior",
+      "description": "The interior of a luxury vehicle featuring Rhino-colored leather seats, exuding elegance and comfort.",
+      "image_url": "https://example.com/rhino_car_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use as a background color to make brighter colors pop.",
+    "Combine with metallic accents for a touch of luxury.",
+    "Contrast with yellows or oranges for visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Rhino Color Meaning: Understanding #2E3F62",
+    "description": "Explore the meaning, psychology, and best uses of the color Rhino (#2E3F62), a deep and stable blue-gray. Find complementary colors and palette ideas for your next project."
+  },
+  "created_at": "2025-06-01T15:00:28.444426+00:00",
+  "updated_at": "2025-06-01T15:00:28.444426+00:00",
+  "slug": "rhino"
+}

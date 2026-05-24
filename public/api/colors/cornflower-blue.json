@@ -1,0 +1,80 @@
+{
+  "id": "2ede2311-f7d8-4cf7-ab57-e9bb711443fd",
+  "color_name": "Cornflower Blue",
+  "hex_code": "#6495ED",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cornflower blue is often associated with serenity, peace, and tranquility. It evokes feelings of calmness and relaxation, promoting a sense of order and stability. This color can also symbolize trust, loyalty, and intelligence, making it a versatile choice for creating a sense of reliability and professionalism.",
+  "emotional_associations": [
+    "serenity",
+    "peace",
+    "tranquility",
+    "trust",
+    "loyalty",
+    "intelligence"
+  ],
+  "complementary_colors": [
+    "#ED7364"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dreams",
+      "swatches": [
+        "#6495ED",
+        "#B0E2FF",
+        "#E6E6FA",
+        "#F0F8FF"
+      ]
+    },
+    {
+      "name": "Cool Confidence",
+      "swatches": [
+        "#6495ED",
+        "#4682B4",
+        "#778899",
+        "#ADD8E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "calming backgrounds",
+      "trustworthy icons",
+      "reliable interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "relaxation apps",
+      "meditation aids"
+    ],
+    "fashion": [
+      "casual wear",
+      "dress shirts"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cornflowers in a Field",
+      "description": "A vibrant field of cornflowers under a clear blue sky evokes feelings of peace and tranquility.",
+      "image_url": "https://example.com/cornflowers.jpg"
+    },
+    {
+      "title": "Cornflower Blue Pottery",
+      "description": "A ceramic vase in cornflower blue adds a touch of elegance and calmness to any room.",
+      "image_url": "https://example.com/pottery.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft yellows for a sunny feel.",
+    "Combine with grays for a sophisticated look.",
+    "Use with whites for a clean and airy aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with Cornflower Blue and discover the perfect palette for your next project using our color picker!",
+  "seo_meta": {
+    "title": "Cornflower Blue Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Explore the meaning of Cornflower Blue, its psychological impact, complementary colors, and how to use it effectively in design."
+  },
+  "created_at": "2025-06-01T15:28:30.800169+00:00",
+  "updated_at": "2025-06-01T15:28:30.800169+00:00",
+  "slug": "cornflower-blue"
+}

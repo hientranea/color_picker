@@ -1,0 +1,80 @@
+{
+  "id": "2527dae3-59ee-497c-8d8a-28c0ea5fc3a0",
+  "color_name": "Dolphin",
+  "hex_code": "#646077",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Dolphin, a sophisticated blend of gray and purple, evokes feelings of calmness, introspection, and neutrality. It represents a balance between stability and creativity, offering a sense of quiet confidence and subtle elegance. This color is often associated with thoughtfulness and a refined aesthetic.",
+  "emotional_associations": [
+    "calmness",
+    "introspection",
+    "neutrality",
+    "sophistication",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#777B60"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Elegance",
+      "swatches": [
+        "#646077",
+        "#7A768A",
+        "#908CA0",
+        "#A6A2B4"
+      ]
+    },
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#646077",
+        "#A0B4A2",
+        "#D4DED1",
+        "#E9E6D9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Application backgrounds",
+      "Button hover states",
+      "Text accents"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Dolphin-colored walls, creating a relaxing and sophisticated atmosphere.",
+      "image_url": "https://example.com/dolphin_apartment.jpg"
+    },
+    {
+      "title": "Dolphin Grey Business Suit",
+      "description": "A tailored suit in Dolphin grey, exemplifying understated elegance and professionalism.",
+      "image_url": "https://example.com/dolphin_suit.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter greys for a monochromatic scheme.",
+    "Combine with teal for a balanced contrast.",
+    "Use with white or cream for a clean and modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints of Dolphin using our color picker tool!",
+  "seo_meta": {
+    "title": "Dolphin Color Meaning: The Psychology of #646077",
+    "description": "Discover the meaning and psychology behind the color Dolphin (#646077). Learn about its emotional associations, complementary colors, and best use cases."
+  },
+  "created_at": "2025-06-01T15:28:03.101984+00:00",
+  "updated_at": "2025-06-01T15:28:03.101984+00:00",
+  "slug": "dolphin"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "5ce14bd3-edb7-4fff-a327-fc32751cd317",
+  "color_name": "Skeptic",
+  "hex_code": "#CAE6DA",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Skeptic, represented by #CAE6DA, evokes feelings of calm neutrality and cautious optimism. It suggests an analytical mindset, valuing evidence and thoughtful consideration. This color inspires trust and encourages a balanced perspective, avoiding rash judgments and embracing a measured approach to decision-making. It promotes a sense of peace through understanding and critical thinking.",
+  "emotional_associations": [
+    "calmness",
+    "neutrality",
+    "caution",
+    "optimism",
+    "trust",
+    "analytical"
+  ],
+  "complementary_colors": [
+    "#DACAE6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Skepticism",
+      "swatches": [
+        "#CAE6DA",
+        "#F0F8F4",
+        "#A9D1BA",
+        "#70A88A",
+        "#3B6A50"
+      ]
+    },
+    {
+      "name": "Balanced Approach",
+      "swatches": [
+        "#CAE6DA",
+        "#E9ECEF",
+        "#CED4DA",
+        "#ADB5BD",
+        "#6C757D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Analytics platforms",
+      "Security software interfaces"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Therapy websites",
+      "Mental health resources"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Financial Analysis Dashboard",
+      "description": "A clean, intuitive dashboard using #CAE6DA to represent data trends and financial insights, promoting clarity and informed decision-making.",
+      "image_url": "https://example.com/financial_dashboard.jpg"
+    },
+    {
+      "title": "Meditation App Interface",
+      "description": "A calming interface for a meditation app using #CAE6DA as a primary color, fostering a sense of tranquility and focus during mindfulness exercises.",
+      "image_url": "https://example.com/meditation_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with darker greens for a natural, grounding effect.",
+    "Use with muted blues to create a sense of peaceful contemplation."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to discover more complementary colors and create stunning designs!",
+  "seo_meta": {
+    "title": "Skeptic Color Meaning: Understanding the Psychology of #CAE6DA",
+    "description": "Explore the meaning and associations of Skeptic (#CAE6DA). Discover its psychological effects, complementary colors, and design applications."
+  },
+  "created_at": "2025-06-01T16:33:17.51996+00:00",
+  "updated_at": "2025-06-01T16:33:17.51996+00:00",
+  "slug": "skeptic"
+}

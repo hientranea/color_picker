@@ -1,0 +1,86 @@
+{
+  "id": "43344d80-22e0-4aa5-91ea-b1b79064f19c",
+  "color_name": "Nevada",
+  "hex_code": "#646E75",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Nevada, a muted gray-brown, evokes feelings of stability, neutrality, and a connection to the earth. It represents a sense of groundedness and reliability, often associated with simplicity and practicality. This color can also symbolize sophistication and understated elegance, providing a calm and balanced aesthetic.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "groundedness",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#756B64",
+    "#B5AEB4"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#646E75",
+        "#A0948A",
+        "#D6C9C2",
+        "#4A4440"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#646E75",
+        "#FFFFFF",
+        "#E0E0E0",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard backgrounds",
+      "form elements",
+      "data visualization"
+    ],
+    "food_beverage": [
+      "packaging for organic products",
+      "restaurant decor",
+      "coffee branding"
+    ],
+    "wellness": [
+      "spa interiors",
+      "meditation apps",
+      "yoga studio branding"
+    ],
+    "fashion": [
+      "outerwear",
+      "accessories",
+      "casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Nevada-colored walls, creating a calming and sophisticated space.",
+      "image_url": "https://example.com/nevada_apartment.jpg"
+    },
+    {
+      "title": "Luxury Car Exterior",
+      "description": "A high-end vehicle with a Nevada paint finish, showcasing understated elegance and style.",
+      "image_url": "https://example.com/nevada_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and modern look.",
+    "Combine with deep greens for a natural and earthy feel.",
+    "Use with gold accents for a touch of luxury.",
+    "Contrast with bright blues for a striking visual effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to create harmonious palettes featuring Nevada!",
+  "seo_meta": {
+    "title": "Nevada Color Meaning: Discover Shades, Palettes & Design Ideas | ColorMeanings.com",
+    "description": "Explore the meaning of Nevada (#646E75), its psychological effects, best pairings, and design applications. Find inspiration for your next project!"
+  },
+  "created_at": "2025-06-01T15:28:24.238606+00:00",
+  "updated_at": "2025-06-01T15:28:24.238606+00:00",
+  "slug": "nevada"
+}

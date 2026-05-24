@@ -1,0 +1,80 @@
+{
+  "id": "945a8b1e-e407-4eea-948d-e8aa2d917fb5",
+  "color_name": "Eggplant",
+  "hex_code": "#614051",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Eggplant, a deep and muted purple, evokes feelings of sophistication, mystery, and creativity. It combines the stability of blue with the energy of red, resulting in a color that can be both calming and stimulating. Eggplant is often associated with luxury, royalty, and wisdom, but its darker undertones can also suggest introspection and contemplation.",
+  "emotional_associations": [
+    "Sophistication",
+    "Mystery",
+    "Creativity",
+    "Luxury",
+    "Introspection"
+  ],
+  "complementary_colors": [
+    "#406150",
+    "#DEDEDE"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#614051",
+        "#A98D77",
+        "#D4C4B3",
+        "#E8E2DA"
+      ]
+    },
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#614051",
+        "#3B2A33",
+        "#7C6154",
+        "#B0A188"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes for apps",
+      "Website backgrounds for luxury brands"
+    ],
+    "food_beverage": [
+      "Packaging for premium wines",
+      "Restaurant branding for upscale dining"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Winter coats"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Eggplant Vegetable",
+      "description": "The vegetable itself, showcasing the natural color.",
+      "image_url": "https://example.com/eggplant_vegetable.jpg"
+    },
+    {
+      "title": "Eggplant Colored Wall",
+      "description": "A living room painted in a deep eggplant hue.",
+      "image_url": "https://example.com/eggplant_wall.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with neutral grays for a modern look.",
+    "Use with lighter purples for a monochromatic scheme.",
+    "Contrast with greens for a vibrant palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and generate your own palettes with our color picker!",
+  "seo_meta": {
+    "title": "Eggplant Color Meaning: The Psychology of #614051",
+    "description": "Discover the meaning, associations, and best uses of the eggplant color (#614051). Explore palettes, complementary colors, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:26:44.674767+00:00",
+  "updated_at": "2025-06-01T15:26:44.674767+00:00",
+  "slug": "eggplant"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "c19aa042-319c-4a4a-8760-44973efb1912",
+  "color_name": "Copper Rose",
+  "hex_code": "#996666",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Copper Rose is often associated with feelings of warmth, comfort, and nostalgia. It evokes a sense of vintage charm and understated elegance. This color can also represent maturity, stability, and a connection to the earth, offering a calming and reassuring presence.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "nostalgia",
+    "elegance",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#669999"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Haze",
+      "swatches": [
+        "#996666",
+        "#D4A373",
+        "#6B4F4F",
+        "#E0CBA8"
+      ]
+    },
+    {
+      "name": "Vintage Romance",
+      "swatches": [
+        "#996666",
+        "#CDB38B",
+        "#F2EBD3",
+        "#A2845E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for herbal teas",
+      "Label design for artisanal chocolates"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Autumn/winter clothing lines",
+      "Vintage-inspired accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Jewelry Box",
+      "description": "A vintage jewelry box with a copper rose finish, adding a touch of old-world charm to any room.",
+      "image_url": "https://example.com/jewelry_box.jpg"
+    },
+    {
+      "title": "Rustic Wedding Decor",
+      "description": "Copper rose-colored linens and floral arrangements create a romantic and intimate atmosphere at a rustic wedding.",
+      "image_url": "https://example.com/wedding_decor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, classic look.",
+    "Combine with deep greens for an earthy and natural feel.",
+    "Use with gold accents for a touch of luxury and sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities and create your perfect palette using our color picker tool!",
+  "seo_meta": {
+    "title": "Copper Rose Color Meaning: Understanding #996666",
+    "description": "Discover the meaning, associations, and best uses for the Copper Rose color (#996666). Explore palettes and design inspiration for this warm and comforting hue."
+  },
+  "created_at": "2025-06-01T16:00:24.034846+00:00",
+  "updated_at": "2025-06-01T16:00:24.034846+00:00",
+  "slug": "copper-rose"
+}

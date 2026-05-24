@@ -1,0 +1,79 @@
+{
+  "id": "6f61580c-bbc7-4afe-aae6-b716be5ee144",
+  "color_name": "Disco",
+  "hex_code": "#871550",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Disco evokes feelings of luxury, sophistication, and a touch of mystery. It combines the passion of red with the stability of blue, creating a unique sense of creative energy and ambition. This color suggests confidence and can also represent unconventional thinking and a desire for individuality.",
+  "emotional_associations": [
+    "luxury",
+    "sophistication",
+    "mystery",
+    "creativity",
+    "ambition",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#15876F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegant Evening",
+      "swatches": [
+        "#871550",
+        "#333333",
+        "#E6E6E6",
+        "#C0B283"
+      ]
+    },
+    {
+      "name": "Creative Spark",
+      "swatches": [
+        "#871550",
+        "#F2D7EE",
+        "#A9A9A9",
+        "#6B4F4F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Premium app themes"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Luxury chocolate packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Statement jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Velvet Curtains",
+      "description": "Rich velvet curtains in a deep disco color add a touch of opulence to any room.",
+      "image_url": "https://example.com/velvet_curtains.jpg"
+    },
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purple hues of an amethyst geode echo the color of disco, representing inner peace and tranquility.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Use with gold or silver accents for a touch of glamour.",
+    "Combine with teal or emerald green for a bold and contrasting palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors using our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Disco Color Meaning: The Psychology of #871550",
+    "description": "Uncover the meaning and associations of the color Disco (#871550), its psychological impact, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:49:57.570127+00:00",
+  "updated_at": "2025-06-01T15:49:57.570127+00:00",
+  "slug": "disco"
+}

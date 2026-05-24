@@ -1,0 +1,82 @@
+{
+  "id": "5342c4bb-70df-4f67-ac9d-60dffccaba82",
+  "color_name": "Ship Cove",
+  "hex_code": "#788BBA",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Ship Cove is a cool, muted blue that evokes feelings of tranquility, stability, and calmness. It can also represent trustworthiness and reliability, making it a popular choice for brands wanting to project a sense of security and professionalism. The grey undertones add a touch of sophistication and subtlety, preventing it from being overly energetic or stimulating.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "trustworthiness",
+    "sophistication",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#BAA778"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#788BBA",
+        "#A9B7CE",
+        "#D1DCE5",
+        "#F2F4F7"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#788BBA",
+        "#52678C",
+        "#9BB7D4",
+        "#E8ECF2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spas",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Bedroom Interior",
+      "description": "A bedroom with Ship Cove walls, creating a relaxing and serene atmosphere.",
+      "image_url": "https://example.com/ship_cove_bedroom.jpg"
+    },
+    {
+      "title": "Website Design",
+      "description": "A website using Ship Cove as the primary color for a professional and trustworthy feel.",
+      "image_url": "https://example.com/ship_cove_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or cream for a soft, calming palette.",
+    "Combine with warm greys for a sophisticated and modern look.",
+    "Use with muted yellows or oranges for a subtle contrast.",
+    "Consider using metallic accents like silver or chrome to enhance its elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades to complement Ship Cove!",
+  "seo_meta": {
+    "title": "Ship Cove Color Meaning: Understanding #788BBA",
+    "description": "Discover the meaning, psychology, and best uses for Ship Cove (#788BBA), a tranquil and sophisticated blue-grey color."
+  },
+  "created_at": "2025-06-01T15:40:51.229414+00:00",
+  "updated_at": "2025-06-01T15:40:51.229414+00:00",
+  "slug": "ship-cove"
+}

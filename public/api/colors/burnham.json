@@ -1,0 +1,80 @@
+{
+  "id": "8ad1e6f3-be86-482d-a163-85ed1b71e48c",
+  "color_name": "Burnham",
+  "hex_code": "#002E20",
+  "wheel_position": "primary",
+  "psychological_meaning": "Burnham, a deep shade of green, evokes feelings of tranquility, stability, and growth. It resonates with nature, symbolizing life, renewal, and harmony. This color often represents balance and endurance, instilling a sense of calm and well-being. It is associated with reliability and a grounded perspective, making it a choice that suggests dependability and environmental consciousness.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "growth",
+    "nature",
+    "harmony",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#E20012"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#002E20",
+        "#A8A495",
+        "#D3CBB6",
+        "#5F6B53"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "swatches": [
+        "#002E20",
+        "#228B22",
+        "#3CB371",
+        "#90EE90"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "organic food packaging",
+      "health drink branding"
+    ],
+    "wellness": [
+      "spa interiors",
+      "eco-friendly product labels"
+    ],
+    "fashion": [
+      "outdoor wear",
+      "sustainable fashion lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Evergreen Forest",
+      "description": "The lush green canopy of an evergreen forest embodies Burnham's natural and calming essence.",
+      "image_url": "https://example.com/evergreen_forest.jpg"
+    },
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "Sustainable product packaging often uses Burnham to convey an environmentally conscious message.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or cream for a calming effect.",
+    "Combine with gold or brass accents for a touch of luxury.",
+    "Use with lighter greens for a harmonious, natural palette.",
+    "Contrast with reds or oranges for a vibrant and energizing look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator!",
+  "seo_meta": {
+    "title": "Burnham Color Meaning: Discover the Psychology of #002E20",
+    "description": "Uncover the meaning behind the color Burnham (#002E20), its psychological impact, and how to use it effectively in design and branding."
+  },
+  "created_at": "2025-05-18T14:02:26.472076+00:00",
+  "updated_at": "2025-05-18T14:02:26.472076+00:00",
+  "slug": "burnham"
+}

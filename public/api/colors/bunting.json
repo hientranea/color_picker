@@ -1,0 +1,81 @@
+{
+  "id": "7f138194-9d29-4d58-bfb8-35979f75c826",
+  "color_name": "Bunting",
+  "hex_code": "#151F4C",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Bunting evokes feelings of stability, depth, and sophistication. Its resemblance to deep night skies or tranquil waters can inspire contemplation and a sense of calm authority. It is often associated with trust and reliability, making it a favored choice for environments seeking to project a sense of security and professionalism.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "sophistication",
+    "calm",
+    "authority"
+  ],
+  "complementary_colors": [
+    "#F4E613"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Deep Sea Serenity",
+      "swatches": [
+        "#151F4C",
+        "#36454F",
+        "#708090",
+        "#B0C4DE"
+      ]
+    },
+    {
+      "name": "Nocturnal Bloom",
+      "swatches": [
+        "#151F4C",
+        "#483D8B",
+        "#9370DB",
+        "#E6E6FA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation menus",
+      "Dashboard backgrounds",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal suits",
+      "Winter accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Navy Blue Suit",
+      "description": "A classic navy blue suit conveys professionalism and trustworthiness, often worn in corporate settings.",
+      "image_url": "https://example.com/navy_suit.jpg"
+    },
+    {
+      "title": "Deep Blue Ocean",
+      "description": "The vast, deep blue ocean inspires a sense of awe and tranquility.",
+      "image_url": "https://example.com/deep_ocean.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for a touch of luxury.",
+    "Combine with light grays for a modern, professional look.",
+    "Use with creams and off-whites for a classic, elegant feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious shades and create your perfect palette with our color tool.",
+  "seo_meta": {
+    "title": "Bunting Color Meaning: Understanding #151F4C",
+    "description": "Explore the meaning, psychology, and best uses of Bunting (#151F4C), a sophisticated and trustworthy color. Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T14:49:28.896136+00:00",
+  "updated_at": "2025-06-01T14:49:28.896136+00:00",
+  "slug": "bunting"
+}

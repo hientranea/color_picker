@@ -1,0 +1,82 @@
+{
+  "id": "de529023-30c6-4cc5-b340-cb9cd2dfb9d9",
+  "color_name": "Tiara",
+  "hex_code": "#C3D1D1",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Tiara, a soft grayish-blue, evokes feelings of calmness, serenity, and sophistication. It suggests stability and reliability, while also possessing a subtle touch of elegance. This color is often associated with peace, tranquility, and a sense of quiet confidence.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "sophistication",
+    "stability",
+    "peace",
+    "tranquility"
+  ],
+  "complementary_colors": [
+    "#D1C3C3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#C3D1D1",
+        "#A3B1B1",
+        "#839191",
+        "#637171"
+      ]
+    },
+    {
+      "name": "Elegance and Grace",
+      "swatches": [
+        "#C3D1D1",
+        "#E8E8E8",
+        "#A9A9A9",
+        "#696969"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Icons",
+      "Text color (secondary)"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Evening gowns",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Tiara-colored walls creates a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/tiara_apartment.jpg"
+    },
+    {
+      "title": "Corporate Website Design",
+      "description": "A website using Tiara as a background color projects trustworthiness and professionalism.",
+      "image_url": "https://example.com/tiara_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with whites for a clean and modern look.",
+    "Combine with darker grays for a sophisticated contrast.",
+    "Add pops of color like blush pink or muted gold for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations with our color palette generator to find the perfect match for your project!",
+  "seo_meta": {
+    "title": "Tiara Color Meaning: Understanding the Psychology of #C3D1D1",
+    "description": "Discover the meaning, associations, and best uses of the Tiara color (#C3D1D1). Learn how to incorporate this calming and sophisticated hue into your designs."
+  },
+  "created_at": "2025-06-01T16:26:47.47164+00:00",
+  "updated_at": "2025-06-01T16:26:47.47164+00:00",
+  "slug": "tiara"
+}

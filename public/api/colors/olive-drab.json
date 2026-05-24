@@ -1,0 +1,84 @@
+{
+  "id": "cc6fe789-8181-4473-ad5a-a61fd6e8f66e",
+  "color_name": "Olive Drab",
+  "hex_code": "#6B8E23",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Olive drab is often associated with nature, peace, and resilience. It evokes feelings of stability, conservation, and practicality. Due to its historical use in military contexts, it can also symbolize camouflage, duty, and preparedness. Its muted tone makes it a grounding and reassuring color.",
+  "emotional_associations": [
+    "nature",
+    "peace",
+    "resilience",
+    "stability",
+    "conservation",
+    "practicality"
+  ],
+  "complementary_colors": [
+    "#8E236B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#6B8E23",
+        "#A8B878",
+        "#D2B48C",
+        "#8B4513",
+        "#FAF9F6"
+      ]
+    },
+    {
+      "name": "Camouflage Cool",
+      "swatches": [
+        "#6B8E23",
+        "#556B2F",
+        "#8FBC8F",
+        "#2F4F4F",
+        "#C0C0C0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "packaging for organic foods",
+      "branding for healthy snacks"
+    ],
+    "wellness": [
+      "spa interiors",
+      "yoga studios",
+      "natural health product labels"
+    ],
+    "fashion": [
+      "military-inspired clothing",
+      "outdoor apparel",
+      "casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Military Uniform",
+      "description": "Olive drab is a common color for military uniforms, providing camouflage in natural environments.",
+      "image_url": "https://example.com/military_uniform.jpg"
+    },
+    {
+      "title": "Olive Tree",
+      "description": "The leaves of olive trees display a range of olive drab hues.",
+      "image_url": "https://example.com/olive_tree.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural look.",
+    "Use with browns and tans for an earthy palette.",
+    "Combine with metallics like gold or bronze for a sophisticated touch.",
+    "Contrast with brighter colors like coral or mustard for a bolder statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Olive Drab Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Olive Drab, its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:32:41.365402+00:00",
+  "updated_at": "2025-06-01T15:32:41.365402+00:00",
+  "slug": "olive-drab"
+}

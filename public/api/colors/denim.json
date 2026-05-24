@@ -1,0 +1,79 @@
+{
+  "id": "36dbd600-b8a7-405b-9c23-f03181f20a10",
+  "color_name": "Denim",
+  "hex_code": "#1560BD",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Denim blue evokes feelings of calmness and dependability. It's associated with stability, trust, and security, much like the sturdy fabric it represents. It can also inspire a sense of nostalgia and a connection to everyday life.",
+  "emotional_associations": [
+    "calmness",
+    "dependability",
+    "trust",
+    "security",
+    "nostalgia"
+  ],
+  "complementary_colors": [
+    "#BD7215"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Denim Days",
+      "swatches": [
+        "#1560BD",
+        "#74A3D9",
+        "#E6F0FF",
+        "#333333"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#1560BD",
+        "#A8D0E6",
+        "#F0EAD6",
+        "#957DAD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Button backgrounds",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Uniforms"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Denim Jeans",
+      "description": "Classic denim jeans, a staple in wardrobes worldwide, embodying comfort and practicality.",
+      "image_url": "https://example.com/denim_jeans.jpg"
+    },
+    {
+      "title": "Denim Shirt",
+      "description": "A versatile denim shirt, perfect for layering and adding a touch of casual style.",
+      "image_url": "https://example.com/denim_shirt.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like white, gray, or beige for a balanced look.",
+    "Combine with shades of brown for a rustic and earthy feel.",
+    "Use with complementary colors like warm oranges or yellows for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to create your perfect Denim-inspired palette!",
+  "seo_meta": {
+    "title": "Denim Color Meaning: Understanding #1560BD",
+    "description": "Discover the meaning and associations of the Denim color (#1560BD), including its psychological effects, complementary colors, and usage in design."
+  },
+  "created_at": "2025-06-01T14:49:35.405356+00:00",
+  "updated_at": "2025-06-01T14:49:35.405356+00:00",
+  "slug": "denim"
+}

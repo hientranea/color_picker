@@ -1,0 +1,79 @@
+{
+  "id": "2896ec2a-cef1-4de5-a3dc-0f327d534882",
+  "color_name": "Indigo",
+  "hex_code": "#4F69C6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Indigo is often associated with intuition, perception, and higher ideals. It conveys integrity and deep sincerity. This color promotes feelings of justice and fairness. Indigo is a color of devotion, wisdom and justice. Being a mix of deep blue and violet, indigo shares some attributes with each of these colors.",
+  "emotional_associations": [
+    "intuition",
+    "integrity",
+    "wisdom",
+    "spirituality",
+    "dignity"
+  ],
+  "complementary_colors": [
+    "#C6A24F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Indigo Dreams",
+      "swatches": [
+        "#4F69C6",
+        "#A2AEC6",
+        "#E6E6E6",
+        "#263240"
+      ]
+    },
+    {
+      "name": "Deep Sea",
+      "swatches": [
+        "#4F69C6",
+        "#2A4390",
+        "#001F54",
+        "#738BC6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Security software",
+      "Educational apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Indigo Denim Jeans",
+      "description": "Classic indigo denim jeans, a staple in wardrobes around the world.",
+      "image_url": "https://example.com/indigo_jeans.jpg"
+    },
+    {
+      "title": "Indigo Dye Textile",
+      "description": "A traditionally dyed indigo textile from Japan.",
+      "image_url": "https://example.com/indigo_textile.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a sophisticated look.",
+    "Combine with gold for an elegant touch.",
+    "Use with greens for a natural feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Indigo and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Indigo Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning of the color indigo, its psychological associations, and inspiring color palettes for your next design project."
+  },
+  "created_at": "2025-06-01T15:19:33.860105+00:00",
+  "updated_at": "2025-06-01T15:19:33.860105+00:00",
+  "slug": "indigo"
+}

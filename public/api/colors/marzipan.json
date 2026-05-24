@@ -1,0 +1,81 @@
+{
+  "id": "758c4273-701a-4752-9176-d94c8623bba4",
+  "color_name": "Marzipan",
+  "hex_code": "#F8DB9D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Marzipan, with its soft, creamy hue, evokes feelings of comfort, sweetness, and warmth. It's often associated with nurturing, gentleness, and a sense of security. This color promotes relaxation and can create a welcoming and inviting atmosphere.",
+  "emotional_associations": [
+    "comfort",
+    "sweetness",
+    "warmth",
+    "nurturing",
+    "gentleness"
+  ],
+  "complementary_colors": [
+    "#9DF8E7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Pastel Dreams",
+      "swatches": [
+        "#F8DB9D",
+        "#E0BBE4",
+        "#957DAD",
+        "#D291BC"
+      ]
+    },
+    {
+      "name": "Earthy Comfort",
+      "swatches": [
+        "#F8DB9D",
+        "#A38B6A",
+        "#73626B",
+        "#C6BDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Highlighting interactive elements"
+    ],
+    "food_beverage": [
+      "Packaging for baked goods",
+      "Cafe branding"
+    ],
+    "wellness": [
+      "Spa websites",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Lightweight scarves"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Marzipan Candy",
+      "description": "A classic confectionery made from almond paste and sugar, often molded into decorative shapes.",
+      "image_url": "https://example.com/marzipan_candy.jpg"
+    },
+    {
+      "title": "Vintage Wallpaper",
+      "description": "A delicate floral wallpaper pattern featuring a marzipan-colored background.",
+      "image_url": "https://example.com/vintage_wallpaper.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lavender for a calming effect.",
+    "Combine with muted greens for an earthy palette.",
+    "Use with brighter yellows for a cheerful contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Marzipan Color Meaning: Understanding #F8DB9D",
+    "description": "Discover the meaning, associations, and best uses for the color Marzipan (#F8DB9D). Explore palettes and examples to inspire your next design."
+  },
+  "created_at": "2025-06-01T16:35:51.102214+00:00",
+  "updated_at": "2025-06-01T16:35:51.102214+00:00",
+  "slug": "marzipan"
+}

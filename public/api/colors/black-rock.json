@@ -1,0 +1,84 @@
+{
+  "id": "316df3fa-d266-475d-a451-9ffedb4450af",
+  "color_name": "Black Rock",
+  "hex_code": "#0D0332",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Black Rock evokes feelings of mystery, depth, and sophistication. It suggests a sense of groundedness and stability, while also hinting at hidden strength and potential. This color can represent introspection, contemplation, and a connection to the unknown, offering a sense of security and quiet power.",
+  "emotional_associations": [
+    "mystery",
+    "depth",
+    "sophistication",
+    "stability",
+    "power"
+  ],
+  "complementary_colors": [
+    "#F2FC2D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#0D0332",
+        "#38304A",
+        "#625D63",
+        "#8C8A7B",
+        "#B6B794"
+      ]
+    },
+    {
+      "name": "Midnight Bloom",
+      "swatches": [
+        "#0D0332",
+        "#2C1A56",
+        "#4B327A",
+        "#6A499E",
+        "#8961C2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Security software dashboards",
+      "High-end gaming consoles"
+    ],
+    "food_beverage": null,
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Luxury spas (branding)"
+    ],
+    "fashion": [
+      "Formal wear",
+      "High-end accessories",
+      "Gothic-inspired collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Obsidian",
+      "description": "A dark, volcanic glass known for its sharp edges and deep color.",
+      "image_url": "https://example.com/obsidian.jpg"
+    },
+    {
+      "title": "Deep Sea Trench",
+      "description": "The Mariana Trench, the deepest part of the ocean, represents the unexplored depths and mysteries of the underwater world.",
+      "image_url": "https://example.com/trench.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with silver for a modern look.",
+    "Use with lighter grays for a balanced palette.",
+    "Contrast with vibrant yellows for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Black Rock and create your perfect color palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Black Rock Color Meaning: Symbolism, Palettes & Design Ideas",
+    "description": "Explore the meaning of Black Rock (#0D0332) color. Discover its psychological effects, complementary colors, suggested palettes, and real-world examples for your design projects."
+  },
+  "created_at": "2025-06-01T14:47:05.314895+00:00",
+  "updated_at": "2025-06-01T14:47:05.314895+00:00",
+  "slug": "black-rock"
+}

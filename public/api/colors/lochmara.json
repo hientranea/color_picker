@@ -1,0 +1,81 @@
+{
+  "id": "ae78ceb9-25e8-4c88-8628-97abfc68186e",
+  "color_name": "Lochmara",
+  "hex_code": "#007EC7",
+  "wheel_position": "primary",
+  "psychological_meaning": "Lochmara is a deeply calming and trustworthy color, reminiscent of the ocean's depths and the vastness of the sky. It evokes feelings of stability, security, and intelligence, promoting a sense of peace and tranquility. It's a color that inspires confidence and encourages introspection, making it ideal for creating environments that foster focus and relaxation.",
+  "emotional_associations": [
+    "trust",
+    "calm",
+    "intelligence",
+    "security",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#C74A00"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Harmony",
+      "swatches": [
+        "#007EC7",
+        "#ADD8E6",
+        "#003366",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#007EC7",
+        "#E0E0E0",
+        "#434A54",
+        "#F5F7FA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Call-to-action buttons",
+      "Backgrounds for data visualizations"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Products promoting relaxation"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Swimwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Branding",
+      "description": "A tech company uses Lochmara as their primary brand color to convey trustworthiness and innovation.",
+      "image_url": "https://example.com/lochmara_corporate.jpg"
+    },
+    {
+      "title": "Interior Design",
+      "description": "A living room painted in Lochmara creates a calming and inviting atmosphere.",
+      "image_url": "https://example.com/lochmara_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with neutrals like gray or white for a sophisticated look.",
+    "Pair with complementary colors like orange for a vibrant contrast.",
+    "Use lighter shades of blue for a more airy and calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color palette generator!",
+  "seo_meta": {
+    "title": "Lochmara Color Meaning: Psychology, Combinations, and Design Tips",
+    "description": "Discover the meaning of Lochmara (#007EC7), its psychological effects, best color combinations, and design applications. Learn how to use Lochmara effectively in your projects."
+  },
+  "created_at": "2025-06-01T14:38:13.252711+00:00",
+  "updated_at": "2025-06-01T14:38:13.252711+00:00",
+  "slug": "lochmara"
+}

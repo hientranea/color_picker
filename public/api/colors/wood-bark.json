@@ -1,0 +1,83 @@
+{
+  "id": "520748a0-7146-4f5a-8e07-7a57d983c44f",
+  "color_name": "Wood Bark",
+  "hex_code": "#261105",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Wood Bark, a deep and grounding brown, evokes feelings of stability, security, and connection to nature. It represents dependability, resilience, and a sense of history. This color is often associated with maturity, steadfastness, and a down-to-earth sensibility, providing a sense of comfort and reliability.",
+  "emotional_associations": [
+    "stability",
+    "security",
+    "nature",
+    "dependability",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#051E26"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#261105",
+        "#52220A",
+        "#A64414",
+        "#D46A29",
+        "#F2A950"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#261105",
+        "#736357",
+        "#B29F94",
+        "#D1CBC0",
+        "#F0ECE3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Organic food labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Outdoor apparel",
+      "Autumn/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Floor",
+      "description": "The rich brown of decaying leaves and damp earth in a dense forest.",
+      "image_url": "https://example.com/forest_floor.jpg"
+    },
+    {
+      "title": "Aged Leather Boots",
+      "description": "The worn, deep brown leather of well-loved and durable boots.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a sophisticated look.",
+    "Combine with greens for a natural, earthy feel.",
+    "Use with oranges and yellows for warmth and vibrancy.",
+    "Contrast with blues for a striking and balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more earthy tones and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Wood Bark Color Meaning: Understanding #261105",
+    "description": "Explore the meaning, associations, and uses of Wood Bark (#261105). Discover complementary colors and palette ideas for your next design project."
+  },
+  "created_at": "2025-06-01T14:56:23.235658+00:00",
+  "updated_at": "2025-06-01T14:56:23.235658+00:00",
+  "slug": "wood-bark"
+}

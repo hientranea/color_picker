@@ -1,0 +1,88 @@
+{
+  "id": "3317338c-2295-495e-b70e-25d54e55d28b",
+  "color_name": "Caribbean Green",
+  "hex_code": "#00CC99",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Caribbean Green evokes feelings of tranquility, balance, and rejuvenation. It blends the calming properties of blue with the growth and renewal associated with green, creating a sense of harmony and peace. This color often represents nature, health, and well-being, promoting a feeling of freshness and vitality.",
+  "emotional_associations": [
+    "Tranquility",
+    "Balance",
+    "Rejuvenation",
+    "Nature",
+    "Health",
+    "Well-being",
+    "Freshness"
+  ],
+  "complementary_colors": [
+    "#CC0033"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#00CC99",
+        "#A0D6B4",
+        "#E0FFFF",
+        "#708090"
+      ]
+    },
+    {
+      "name": "Tropical Escape",
+      "swatches": [
+        "#00CC99",
+        "#FFD700",
+        "#FA8072",
+        "#40E0D0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health tracking apps",
+      "Meditation apps",
+      "Environmental dashboards"
+    ],
+    "food_beverage": [
+      "Herbal teas",
+      "Organic snacks",
+      "Health food packaging"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Eco-friendly product lines"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Activewear",
+      "Resort wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Caribbean Sea",
+      "description": "The turquoise waters of the Caribbean Sea are a perfect example of this vibrant green hue.",
+      "image_url": "https://example.com/caribbean_sea.jpg"
+    },
+    {
+      "title": "Spa Interiors",
+      "description": "Many spas use Caribbean Green in their interiors to create a relaxing and rejuvenating atmosphere.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with sandy beige for a beachy vibe.",
+    "Use with coral for a vibrant tropical feel.",
+    "Combine with white for a clean and fresh look.",
+    "Contrast with deep reds for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Caribbean Green Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of Caribbean Green, its psychological effects, and how to use it in design. Explore complementary colors and inspiring palettes."
+  },
+  "created_at": "2025-06-01T14:39:03.042531+00:00",
+  "updated_at": "2025-06-01T14:39:03.042531+00:00",
+  "slug": "caribbean-green"
+}

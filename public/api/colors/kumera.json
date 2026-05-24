@@ -1,0 +1,80 @@
+{
+  "id": "db4e1e79-972b-4f10-9ca0-5c3a90b74036",
+  "color_name": "Kumera",
+  "hex_code": "#886221",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Kumera, a warm and earthy brown, evokes feelings of stability, comfort, and connection to the earth. It is often associated with reliability, resilience, and resourcefulness. This color can also represent a sense of history, tradition, and groundedness, promoting a feeling of security and warmth.",
+  "emotional_associations": [
+    "stability",
+    "comfort",
+    "earthiness",
+    "reliability",
+    "warmth"
+  ],
+  "complementary_colors": [
+    "#6288DE"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#886221",
+        "#D4A373",
+        "#A98D62",
+        "#594A42",
+        "#E2DCC8"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#886221",
+        "#BFA180",
+        "#736A62",
+        "#E3D5CA",
+        "#403930"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee",
+      "Branding for organic food products"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Boots",
+      "description": "Classic leather boots in a rich Kumera color, symbolizing durability and style.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    },
+    {
+      "title": "Wooden Furniture",
+      "description": "A rustic wooden table with a Kumera stain, evoking a sense of warmth and tradition.",
+      "image_url": "https://example.com/wooden_table.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a calming effect.",
+    "Combine with teal or turquoise for a balanced contrast.",
+    "Use with gold accents for a luxurious feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Kumera for your next design project!",
+  "seo_meta": {
+    "title": "Kumera Color Meaning: Discover the Psychology of #886221",
+    "description": "Uncover the meaning and symbolism behind Kumera (#886221). Explore its emotional associations, complementary colors, and best uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:50:39.929672+00:00",
+  "updated_at": "2025-06-01T15:50:39.929672+00:00",
+  "slug": "kumera"
+}

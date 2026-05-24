@@ -1,0 +1,81 @@
+{
+  "id": "2a7c6d33-aaae-44e9-ba15-fa9d04ab2529",
+  "color_name": "Comet",
+  "hex_code": "#5C5D75",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Comet is a muted, cool-toned gray that evokes feelings of serenity, neutrality, and sophistication. It suggests stability and reliability, but also can project a sense of detachment or formality. Comet is often associated with intelligence, knowledge, and introspection, making it a suitable choice for designs aiming for a calm and collected aesthetic.",
+  "emotional_associations": [
+    "serenity",
+    "neutrality",
+    "sophistication",
+    "stability",
+    "detachment"
+  ],
+  "complementary_colors": [
+    "#75745C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#5C5D75",
+        "#D3D4D9",
+        "#A6A7AD",
+        "#E8E9EB"
+      ]
+    },
+    {
+      "name": "Modern Steel",
+      "swatches": [
+        "#5C5D75",
+        "#36373D",
+        "#828389",
+        "#BDBEC2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization tools",
+      "Mobile app backgrounds"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aid products",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring walls painted in Comet gray, creating a serene and modern atmosphere.",
+      "image_url": "https://example.com/comet_apartment.jpg"
+    },
+    {
+      "title": "High-End Car Exterior",
+      "description": "A luxury sedan with a Comet-colored paint job, exuding sophistication and understated elegance.",
+      "image_url": "https://example.com/comet_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with light blues for a calming effect.",
+    "Use with metallic accents for a modern touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Comet Color Meaning: Understanding #5C5D75 | Color Psychology",
+    "description": "Discover the meaning, associations, and best uses of the color Comet (#5C5D75), a sophisticated and neutral gray hue."
+  },
+  "created_at": "2025-06-01T15:24:30.568357+00:00",
+  "updated_at": "2025-06-01T15:24:30.568357+00:00",
+  "slug": "comet"
+}

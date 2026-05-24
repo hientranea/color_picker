@@ -1,0 +1,82 @@
+{
+  "id": "64002a88-b6e0-4378-9d17-29829a336b4e",
+  "color_name": "Cutty Sark",
+  "hex_code": "#507672",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cutty Sark evokes feelings of tranquility, sophistication, and stability. It's a color that suggests reliability and calmness, often associated with nature and the sea. This color can create a sense of peace and balance, making it suitable for environments where serenity is desired.",
+  "emotional_associations": [
+    "tranquility",
+    "sophistication",
+    "stability",
+    "calmness",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#765054"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#507672",
+        "#A9B7B5",
+        "#E6E6E6",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#507672",
+        "#8B7355",
+        "#D2B48C",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data Visualization",
+      "Dashboard Design"
+    ],
+    "food_beverage": [
+      "Tea Packaging",
+      "Water Bottle Design"
+    ],
+    "wellness": [
+      "Spa Branding",
+      "Meditation Apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Used as an accent wall color to create a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/apartment.jpg"
+    },
+    {
+      "title": "Luxury Car Paint",
+      "description": "Applied to a high-end vehicle to convey elegance and understated style.",
+      "image_url": "https://example.com/car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with warm woods for an earthy feel.",
+    "Use with metallic accents like gold or copper for added elegance.",
+    "Contrast with brighter colors like coral or mustard for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Cutty Sark Color Meaning: Discover its Psychology and Uses",
+    "description": "Explore the meaning, psychology, and practical uses of the Cutty Sark color (#507672). Find complementary colors, palette ideas, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:20:16.521438+00:00",
+  "updated_at": "2025-06-01T15:20:16.521438+00:00",
+  "slug": "cutty-sark"
+}

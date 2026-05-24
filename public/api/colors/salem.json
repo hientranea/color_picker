@@ -1,0 +1,86 @@
+{
+  "id": "0dcb50dc-cf55-45f5-92ad-dd34dcd0c4c6",
+  "color_name": "Salem",
+  "hex_code": "#097F4B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Salem, a deep, muted green, evokes feelings of tranquility, nature, and stability. It suggests a connection to the earth and a sense of groundedness. This color can also represent growth, renewal, and a quiet confidence, often associated with established institutions and enduring quality.",
+  "emotional_associations": [
+    "nature",
+    "tranquility",
+    "stability",
+    "growth",
+    "endurance"
+  ],
+  "complementary_colors": [
+    "#7F093F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#097F4B",
+        "#A3B18A",
+        "#E5E8DF",
+        "#4A5D23"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#097F4B",
+        "#7D5A50",
+        "#C3B091",
+        "#F4F1DE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Security applications",
+      "Environmental dashboards"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal teas",
+      "Sustainable agriculture branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion lines",
+      "Accessories with a natural touch"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The dense canopy of a temperate forest, showcasing the rich, muted green tones of Salem.",
+      "image_url": "url_to_forest_image.jpg"
+    },
+    {
+      "title": "Vintage Leather Bag",
+      "description": "A classic leather bag in a Salem-like shade, highlighting its timeless appeal and connection to nature.",
+      "image_url": "url_to_bag_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted browns for an earthy feel.",
+    "Combine with creams for a vintage aesthetic.",
+    "Use with deep reds for a sophisticated contrast.",
+    "Accent with gold for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our comprehensive color palette generator!",
+  "seo_meta": {
+    "title": "Salem Color Meaning: Understanding the Psychology of #097F4B",
+    "description": "Discover the meaning and psychology behind the color Salem (#097F4B). Learn about its emotional associations, complementary colors, and practical uses in design."
+  },
+  "created_at": "2025-06-01T14:45:25.361759+00:00",
+  "updated_at": "2025-06-01T14:45:25.361759+00:00",
+  "slug": "salem"
+}

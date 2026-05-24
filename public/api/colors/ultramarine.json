@@ -1,0 +1,76 @@
+{
+  "id": "72b67bd1-b807-4af1-8762-b3141c389fce",
+  "color_name": "Ultramarine",
+  "hex_code": "#120A8F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Ultramarine is a deep blue pigment that evokes feelings of calm, trust, and stability. It is often associated with intelligence, authority, and sophistication. This color can inspire introspection and promote a sense of order and peace, making it suitable for environments that require focus and serenity.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intelligence",
+    "calm",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#8F870A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic Elegance",
+      "swatches": [
+        "#120A8F",
+        "#FFFFFF",
+        "#808080"
+      ]
+    },
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#120A8F",
+        "#4682B4",
+        "#ADD8E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Nautical themed clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Yves Klein's Ultramarine Pigment",
+      "description": "Artist Yves Klein famously patented a specific shade of Ultramarine, known as International Klein Blue (IKB), highlighting its unique intensity and impact in art.",
+      "image_url": "https://example.com/yves_klein_ultramarine.jpg"
+    },
+    {
+      "title": "Deep Sea Photography",
+      "description": "Ultramarine hues often dominate underwater photography, capturing the mystique and depth of the ocean's darker regions.",
+      "image_url": "https://example.com/deep_sea_ultramarine.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, sophisticated look.",
+    "Combine with silver or gold for a touch of luxury.",
+    "Use with lighter blues to create a calming, monochromatic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator!",
+  "seo_meta": {
+    "title": "Ultramarine Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning, psychology, and best uses for the color Ultramarine (#120A8F), including complementary colors and palette suggestions."
+  },
+  "created_at": "2025-06-01T14:48:25.198125+00:00",
+  "updated_at": "2025-06-01T14:48:25.198125+00:00",
+  "slug": "ultramarine"
+}

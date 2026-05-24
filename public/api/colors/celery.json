@@ -1,0 +1,78 @@
+{
+  "id": "64de29dd-fd4c-4e0c-bb3c-625460d04bbc",
+  "color_name": "Celery",
+  "hex_code": "#B8C25D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Celery green evokes feelings of freshness, vitality, and health. It blends the optimism of yellow with the natural calmness of green, suggesting growth, renewal, and a connection to nature. This color often represents balance, harmony, and a sense of well-being.",
+  "emotional_associations": [
+    "freshness",
+    "health",
+    "nature",
+    "balance",
+    "growth"
+  ],
+  "complementary_colors": [
+    "#C25DB8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#B8C25D",
+        "#7A8B42",
+        "#D3E2CD",
+        "#5C6E34"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#B8C25D",
+        "#F2E8C9",
+        "#A7D1AB",
+        "#6B8E23"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "packaging for organic produce",
+      "branding for health food restaurants"
+    ],
+    "wellness": [
+      "yoga studios",
+      "eco-friendly spas"
+    ],
+    "fashion": [
+      "spring and summer apparel",
+      "accessories with a natural feel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Fresh Celery Sticks",
+      "description": "Crisp, green celery sticks represent a healthy snack option.",
+      "image_url": "https://example.com/celery_sticks.jpg"
+    },
+    {
+      "title": "Organic Food Packaging",
+      "description": "Packaging using celery green to signify organic and natural products.",
+      "image_url": "https://example.com/organic_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with earthy browns for a natural feel.",
+    "Pair with muted yellows for a harmonious palette.",
+    "Use with crisp whites for a clean and fresh look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of green and find the perfect hue for your project with our color picker!",
+  "seo_meta": {
+    "title": "Celery Color Meaning: Exploring the Psychology of #B8C25D",
+    "description": "Discover the meaning and associations of celery green (#B8C25D). Learn how to use this fresh and natural color in your designs and branding."
+  },
+  "created_at": "2025-06-01T16:19:36.598748+00:00",
+  "updated_at": "2025-06-01T16:19:36.598748+00:00",
+  "slug": "celery"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "d1eff6b4-12a4-4010-8cef-996d4caa70c8",
+  "color_name": "Sapphire",
+  "hex_code": "#2F519E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sapphire is associated with intelligence, wisdom, and good fortune. It evokes feelings of trust, loyalty, and stability, making it a popular choice for brands aiming to convey reliability and sophistication. This deep blue color also has calming and centering effects.",
+  "emotional_associations": [
+    "wisdom",
+    "loyalty",
+    "trust",
+    "calm",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#9E7C2F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic Elegance",
+      "swatches": [
+        "#2F519E",
+        "#FFFFFF",
+        "#000000",
+        "#A9A9A9"
+      ]
+    },
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#2F519E",
+        "#4682B4",
+        "#ADD8E6",
+        "#E0FFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security applications",
+      "Educational platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Relaxation aids"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Jewelry design",
+      "Formal attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sapphire Engagement Ring",
+      "description": "A beautiful sapphire engagement ring symbolizes enduring love and commitment.",
+      "image_url": "https://example.com/sapphire_ring.jpg"
+    },
+    {
+      "title": "The Blue Danube River",
+      "description": "The Danube's deep blue hues on a clear day inspire awe and serenity.",
+      "image_url": "https://example.com/blue_danube.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold for a luxurious feel.",
+    "Combine with white or cream for a classic look.",
+    "Use with light blues and greens for a calming effect.",
+    "Contrast with oranges and yellows for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your own palettes using our color picker tool!",
+  "seo_meta": {
+    "title": "Sapphire Color Meaning: The Psychology of #2F519E",
+    "description": "Discover the meaning and associations of the sapphire color (#2F519E), its psychological impact, and how to use it in your designs and branding."
+  },
+  "created_at": "2025-06-01T15:01:03.005194+00:00",
+  "updated_at": "2025-06-01T15:01:03.005194+00:00",
+  "slug": "sapphire"
+}

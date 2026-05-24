@@ -1,0 +1,80 @@
+{
+  "id": "bc2a8f77-3c1c-4122-923c-97f7a7cea8a6",
+  "color_name": "Flush Mahogany",
+  "hex_code": "#CA3435",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Flush Mahogany evokes feelings of warmth, comfort, and sophistication. It combines the energy of red with the grounding qualities of brown, suggesting a sense of stability and passion. This color can also represent a connection to nature, particularly wood and earth tones, creating a feeling of reassurance and dependability.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "sophistication",
+    "passion",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#35CAC9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Harmony",
+      "swatches": [
+        "#CA3435",
+        "#F08080",
+        "#A0522D",
+        "#D2B48C",
+        "#FAF0E6"
+      ]
+    },
+    {
+      "name": "Rustic Elegance",
+      "swatches": [
+        "#CA3435",
+        "#702963",
+        "#4682B4",
+        "#E6E6FA",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for gourmet coffee",
+      "Branding for rustic bakeries",
+      "Restaurant interiors aiming for a cozy ambiance"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Autumn/winter clothing lines",
+      "Leather accessories",
+      "Warm-toned cosmetics"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mahogany Furniture",
+      "description": "A classic mahogany desk showcasing the color's rich and warm tones.",
+      "image_url": "https://example.com/mahogany_desk.jpg"
+    },
+    {
+      "title": "Flush Mahogany Leather Boots",
+      "description": "Stylish leather boots in a flush mahogany hue, perfect for fall fashion.",
+      "image_url": "https://example.com/mahogany_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a classic look.",
+    "Use with teal or turquoise for a contrasting palette.",
+    "Combine with gold accents for added luxury.",
+    "Try with forest green for an earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color picker tool!",
+  "seo_meta": {
+    "title": "Flush Mahogany Color Meaning: Discover Its Symbolism and Uses",
+    "description": "Uncover the meaning behind Flush Mahogany (#CA3435), its psychological associations, and how to effectively use this warm and sophisticated color in design."
+  },
+  "created_at": "2025-06-01T16:32:48.847025+00:00",
+  "updated_at": "2025-06-01T16:32:48.847025+00:00",
+  "slug": "flush-mahogany"
+}

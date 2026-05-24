@@ -1,0 +1,79 @@
+{
+  "id": "23160e4e-4ffb-4f06-955a-bd051f93c511",
+  "color_name": "Treehouse",
+  "hex_code": "#3B2820",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Treehouse evokes feelings of stability, comfort, and groundedness. It represents a connection to nature and the feeling of being protected and secure. It also symbolizes resilience and enduring strength, reminiscent of the solid structure of a treehouse.",
+  "emotional_associations": [
+    "stability",
+    "comfort",
+    "groundedness",
+    "security",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#203B33",
+    "#D4C7BD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Comfort",
+      "swatches": [
+        "#3B2820",
+        "#826F66",
+        "#BFA180",
+        "#EBD9C1"
+      ]
+    },
+    {
+      "name": "Rustic Retreat",
+      "swatches": [
+        "#3B2820",
+        "#594A42",
+        "#A69A8F",
+        "#D4C7BD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rustic Cabin Exterior",
+      "description": "A cozy cabin nestled in the woods, painted in Treehouse to blend with the natural surroundings.",
+      "image_url": "https://example.com/cabin.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "Durable leather boots in a rich Treehouse color, perfect for outdoor adventures.",
+      "image_url": "https://example.com/boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, natural look.",
+    "Combine with greens and blues for an outdoorsy feel.",
+    "Contrast with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to discover more colors like Treehouse and create your perfect design!",
+  "seo_meta": {
+    "title": "Treehouse Color Meaning: Understanding #3B2820",
+    "description": "Explore the meaning, psychology, and uses of the Treehouse color (#3B2820). Discover palettes, complementary colors, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:07:18.098198+00:00",
+  "updated_at": "2025-06-01T15:07:18.098198+00:00",
+  "slug": "treehouse"
+}

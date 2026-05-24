@@ -1,0 +1,78 @@
+{
+  "id": "292dc44e-0172-4861-9d1b-d20c4761d6a8",
+  "color_name": "Sky Blue",
+  "hex_code": "#76D7EA",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sky Blue evokes feelings of calmness, serenity, and peace. It is often associated with open spaces, freedom, and intuition. This color can promote relaxation and reduce stress, making it a popular choice for creating a tranquil environment. Sky Blue also symbolizes loyalty, trust, and intelligence, encouraging clarity of thought and communication.",
+  "emotional_associations": [
+    "peace",
+    "calm",
+    "serenity",
+    "trust",
+    "openness"
+  ],
+  "complementary_colors": [
+    "#EA7976"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#76D7EA",
+        "#FFFFFF",
+        "#B0E2FF",
+        "#A9D18E"
+      ]
+    },
+    {
+      "name": "Tranquil Dawn",
+      "swatches": [
+        "#76D7EA",
+        "#E0FFFF",
+        "#7DF9FF",
+        "#ADD8E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Weather apps",
+      "Meditation apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Clear Sky",
+      "description": "The vast expanse of a clear sky on a sunny day.",
+      "image_url": "https://example.com/clear_sky.jpg"
+    },
+    {
+      "title": "Swimming Pool",
+      "description": "The inviting blue of a pristine swimming pool.",
+      "image_url": "https://example.com/pool.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, airy look.",
+    "Combine with soft greens for a natural feel.",
+    "Use with a touch of coral for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Sky Blue Color Meaning: Psychology, Palettes & Codes",
+    "description": "Explore the meaning of Sky Blue, its psychological effects, suggested color palettes, and hex codes. Discover how to use Sky Blue in design and branding."
+  },
+  "created_at": "2025-06-01T15:39:19.50502+00:00",
+  "updated_at": "2025-06-01T15:39:19.50502+00:00",
+  "slug": "sky-blue"
+}

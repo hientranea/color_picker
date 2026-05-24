@@ -1,0 +1,75 @@
+{
+  "id": "7301a91a-f440-4882-908a-d8fafa83f9f7",
+  "color_name": "Diesel",
+  "hex_code": "#130000",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Diesel, a very dark shade of red, evokes feelings of power, resilience, and intensity. It often symbolizes inner strength and a grounded nature, suggesting a personality that is both determined and unwavering. This color can also represent a deep passion and a strong connection to the earth.",
+  "emotional_associations": [
+    "power",
+    "resilience",
+    "intensity",
+    "groundedness",
+    "passion"
+  ],
+  "complementary_colors": [
+    "#001313"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Strength",
+      "swatches": [
+        "#130000",
+        "#330000",
+        "#663300",
+        "#A66633",
+        "#D9B38C"
+      ]
+    },
+    {
+      "name": "Midnight Ember",
+      "swatches": [
+        "#130000",
+        "#260000",
+        "#390000",
+        "#4C0000",
+        "#590000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "High-end leather goods",
+      "Winter outerwear",
+      "Statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The deep, rich color of the leather interior conveys sophistication and power.",
+      "image_url": "https://example.com/diesel_car_interior.jpg"
+    },
+    {
+      "title": "Designer Leather Jacket",
+      "description": "A diesel-colored leather jacket projects a sense of rugged style and timeless appeal.",
+      "image_url": "https://example.com/diesel_leather_jacket.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for a touch of luxury.",
+    "Contrast with light creams for a sophisticated look.",
+    "Combine with other dark neutrals for a powerful palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar deep shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Diesel Color Meaning: Exploring the Power of Dark Red",
+    "description": "Discover the meaning and symbolism of Diesel (#130000). Learn about its emotional associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T14:48:46.445324+00:00",
+  "updated_at": "2025-06-01T14:48:46.445324+00:00",
+  "slug": "diesel"
+}

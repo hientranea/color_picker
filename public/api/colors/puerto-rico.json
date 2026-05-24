@@ -1,0 +1,75 @@
+{
+  "id": "37ed719b-990c-4fc1-b7bb-2caf24cdc88e",
+  "color_name": "Puerto Rico",
+  "hex_code": "#3FC1AA",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Puerto Rico, a vibrant teal, evokes feelings of tranquility, balance, and rejuvenation. It combines the calming qualities of blue with the growth and renewal aspects of green, suggesting harmony and peace. This color promotes clarity of thought, reduces stress, and encourages a sense of well-being, making it ideal for environments intended for relaxation and reflection.",
+  "emotional_associations": [
+    "tranquility",
+    "balance",
+    "rejuvenation",
+    "clarity",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#C13F56"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#3FC1AA",
+        "#74D3AE",
+        "#A8E5B2",
+        "#DDF7B6"
+      ]
+    },
+    {
+      "name": "Zen Garden",
+      "swatches": [
+        "#3FC1AA",
+        "#528B8B",
+        "#8FBC8F",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "calming dashboard elements",
+      "success state notifications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa branding",
+      "meditation apps"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Tropical Lagoon",
+      "description": "The color of a clear, shallow tropical lagoon, with sunlight reflecting off the sandy bottom.",
+      "image_url": "https://example.com/lagoon.jpg"
+    },
+    {
+      "title": "Yoga Studio Interior",
+      "description": "Used in the walls of a yoga studio to create a peaceful and inviting space for practice.",
+      "image_url": "https://example.com/yoga_studio.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral greys for a sophisticated look.",
+    "Combine with sandy beige for a beachy vibe.",
+    "Use with warm yellows for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our color palette generator!",
+  "seo_meta": {
+    "title": "Puerto Rico Color Meaning: Understanding #3FC1AA",
+    "description": "Discover the meaning, psychology, and best uses of the color Puerto Rico (#3FC1AA). Explore palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T15:10:31.316305+00:00",
+  "updated_at": "2025-06-01T15:10:31.316305+00:00",
+  "slug": "puerto-rico"
+}

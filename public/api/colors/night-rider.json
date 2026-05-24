@@ -1,0 +1,80 @@
+{
+  "id": "bb88b339-8497-4cef-bd61-3350458f8262",
+  "color_name": "Night Rider",
+  "hex_code": "#1F120F",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Night Rider evokes feelings of sophistication, mystery, and grounded stability. It suggests a sense of quiet strength and understated elegance. This color can also imply a connection to the earth and natural elements, providing a sense of security and reliability.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "stability",
+    "elegance",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#0F1C1F",
+    "#F0E3E0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#1F120F",
+        "#A77A5B",
+        "#D3BCA4",
+        "#F2EAD3"
+      ]
+    },
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#1F120F",
+        "#4A4E69",
+        "#9A8C98",
+        "#C9BBCF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Backgrounds for data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for gourmet coffee",
+      "Branding for upscale chocolate"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening wear",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The deep brown leather interior of a high-end car provides a sense of comfort and refined taste.",
+      "image_url": "https://example.com/car_interior.jpg"
+    },
+    {
+      "title": "Dark Chocolate Packaging",
+      "description": "The packaging for premium dark chocolate uses a similar color to convey richness and indulgence.",
+      "image_url": "https://example.com/chocolate_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a sophisticated look.",
+    "Combine with metallics for added glamour.",
+    "Use with muted greens for an earthy feel.",
+    "Contrast with brighter colors for a modern edge."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Night Rider Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning of Night Rider (#1F120F), including its psychological associations, complementary colors, suggested palettes, and industry use cases."
+  },
+  "created_at": "2025-06-01T14:53:48.462744+00:00",
+  "updated_at": "2025-06-01T14:53:48.462744+00:00",
+  "slug": "night-rider"
+}

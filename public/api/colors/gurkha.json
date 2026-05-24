@@ -1,0 +1,80 @@
+{
+  "id": "63a2864e-90fb-4ef6-9f94-5304a1d65308",
+  "color_name": "Gurkha",
+  "hex_code": "#9A9577",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gurkha, a muted olive-green, evokes feelings of calm, stability, and connection to nature. It suggests reliability, resilience, and a grounded perspective, often associated with maturity and quiet confidence. This color can promote a sense of peace and well-being, fostering an environment of understated elegance and thoughtful reflection.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "nature",
+    "resilience",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#777C9A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#9A9577",
+        "#D4D0C5",
+        "#6B8E23",
+        "#A9A9A9"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#9A9577",
+        "#8B4513",
+        "#F5DEB3",
+        "#C04000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant interiors aiming for a natural feel"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor wear",
+      "Neutral basics",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Military Uniforms",
+      "description": "Often used in military uniforms to provide camouflage and blend into natural environments.",
+      "image_url": "url_to_military_uniform_image.jpg"
+    },
+    {
+      "title": "Natural Landscapes",
+      "description": "Reflects the colors found in forests, fields, and other natural settings, particularly in areas with muted vegetation.",
+      "image_url": "url_to_natural_landscape_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with creams and beiges for a neutral palette.",
+    "Add pops of terracotta or rust for warmth.",
+    "Pair with deep blues for a sophisticated contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create harmonious color schemes with our color palette generator!",
+  "seo_meta": {
+    "title": "Gurkha Color Meaning: Symbolism, Palettes & Design Tips",
+    "description": "Discover the meaning of Gurkha (#9A9577), its emotional associations, complementary colors, and how to use it in your designs. Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T16:01:06.958712+00:00",
+  "updated_at": "2025-06-01T16:01:06.958712+00:00",
+  "slug": "gurkha"
+}

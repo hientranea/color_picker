@@ -1,0 +1,82 @@
+{
+  "id": "85161468-0575-4266-b7ae-27019bf6ebcb",
+  "color_name": "Scooter",
+  "hex_code": "#2EBFD4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Scooter is a vibrant and refreshing cyan that evokes feelings of tranquility, clarity, and openness. It's often associated with communication, creativity, and a sense of freedom. This color can promote a sense of calm and balance, encouraging introspection and thoughtful expression.",
+  "emotional_associations": [
+    "calm",
+    "clarity",
+    "communication",
+    "creativity",
+    "openness"
+  ],
+  "complementary_colors": [
+    "#D42E3B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Breeze",
+      "swatches": [
+        "#2EBFD4",
+        "#FFFFFF",
+        "#A7D9ED",
+        "#70A9A1"
+      ]
+    },
+    {
+      "name": "Creative Spark",
+      "swatches": [
+        "#2EBFD4",
+        "#FFD700",
+        "#7B68EE",
+        "#F0FFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Mobile app design",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Activewear",
+      "Summer dresses"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Swimming Pool Tiles",
+      "description": "The turquoise color of pool tiles creates a relaxing and inviting atmosphere.",
+      "image_url": "https://example.com/pool_tiles.jpg"
+    },
+    {
+      "title": "Spa Interior",
+      "description": "Scooter paint in a spa creates a calming and refreshing environment for relaxation.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean look.",
+    "Combine with yellow for a playful vibe.",
+    "Use with navy blue for a sophisticated contrast.",
+    "Add a touch of coral for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your own palettes with our color picker tool.",
+  "seo_meta": {
+    "title": "Scooter Color Meaning: Understanding the Psychology of #2EBFD4",
+    "description": "Discover the meaning, psychology, and best uses of Scooter, a refreshing cyan color. Explore complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T15:00:42.508512+00:00",
+  "updated_at": "2025-06-01T15:00:42.508512+00:00",
+  "slug": "scooter"
+}

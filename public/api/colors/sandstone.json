@@ -1,0 +1,78 @@
+{
+  "id": "8d36ada5-7fa5-41ab-b2a3-a370796899db",
+  "color_name": "Sandstone",
+  "hex_code": "#796D62",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Sandstone evokes feelings of stability, reliability, and warmth. It is often associated with nature, grounding, and a sense of calm. This color can also represent history, tradition, and a connection to the earth, providing a sense of comfort and security.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "calm",
+    "grounding",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#626A79"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#796D62",
+        "#A39486",
+        "#D1C1B3",
+        "#594F45"
+      ]
+    },
+    {
+      "name": "Desert Sunset",
+      "swatches": [
+        "#796D62",
+        "#C0A38E",
+        "#E3D5C6",
+        "#A68A64"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Restaurant decor to create a rustic ambiance"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Neutral clothing items",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sandstone Building Facade",
+      "description": "A historic building with a facade constructed from sandstone, showcasing the color's timeless appeal and durability.",
+      "image_url": "url_to_sandstone_building_facade_image"
+    },
+    {
+      "title": "Desert Landscape",
+      "description": "A photograph of a desert landscape where the sand and rock formations exhibit a sandstone hue, conveying the natural beauty of the color.",
+      "image_url": "url_to_desert_landscape_image"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a classic, neutral look.",
+    "Combine with greens and blues to evoke a natural, earthy feel.",
+    "Use with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our comprehensive color picker tool!",
+  "seo_meta": {
+    "title": "Sandstone Color Meaning: Discover the Psychology of #796D62",
+    "description": "Uncover the emotional associations, suggested palettes, and best uses for the Sandstone color (#796D62) in design and branding."
+  },
+  "created_at": "2025-06-01T15:41:34.229033+00:00",
+  "updated_at": "2025-06-01T15:41:34.229033+00:00",
+  "slug": "sandstone"
+}

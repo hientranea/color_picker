@@ -1,0 +1,81 @@
+{
+  "id": "5ea9c3ad-bdc6-4c3f-948a-9e1483716291",
+  "color_name": "Vida Loca",
+  "hex_code": "#549019",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Vida Loca, with its blend of green and yellow undertones, evokes feelings of vitality, growth, and a touch of untamed energy. It suggests a connection to nature, renewal, and a vibrant, adventurous spirit. The color promotes a sense of optimism and can stimulate creativity, making it a refreshing and invigorating choice.",
+  "emotional_associations": [
+    "vitality",
+    "growth",
+    "adventure",
+    "optimism",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#901954"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#549019",
+        "#A0C49D",
+        "#7A9D96",
+        "#36454F"
+      ]
+    },
+    {
+      "name": "Vibrant Forest",
+      "swatches": [
+        "#549019",
+        "#F0E68C",
+        "#D2B48C",
+        "#228B22"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard indicators",
+      "confirmation messages"
+    ],
+    "food_beverage": [
+      "organic food packaging",
+      "fresh juice labels"
+    ],
+    "wellness": [
+      "eco-friendly spa branding",
+      "sustainable product design"
+    ],
+    "fashion": [
+      "outdoor apparel accents",
+      "sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Organic Farm Logo",
+      "description": "The logo of a local organic farm uses Vida Loca to represent freshness and natural growth.",
+      "image_url": "url_to_farm_logo_image.jpg"
+    },
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "A line of eco-friendly cleaning products features Vida Loca in its packaging to convey sustainability.",
+      "image_url": "url_to_eco_packaging_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural feel.",
+    "Combine with mustard yellow for a vibrant contrast.",
+    "Use with muted greys for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Vida Loca Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Vida Loca (#549019), its psychological associations, ideal color pairings, and industry applications for design and branding."
+  },
+  "created_at": "2025-06-01T15:22:02.128888+00:00",
+  "updated_at": "2025-06-01T15:22:02.128888+00:00",
+  "slug": "vida-loca"
+}

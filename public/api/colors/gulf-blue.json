@@ -1,0 +1,80 @@
+{
+  "id": "4e3eee67-160a-4bee-96ff-d1463dafefd3",
+  "color_name": "Gulf Blue",
+  "hex_code": "#051657",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Gulf Blue evokes feelings of stability, trust, and intelligence. It is often associated with depth, expertise, and authority, making it a popular choice for brands seeking to project reliability and competence. This shade can also inspire a sense of calm and tranquility, like the deep sea.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intelligence",
+    "calm",
+    "authority"
+  ],
+  "complementary_colors": [
+    "#F4E908"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Oceanic Depth",
+      "swatches": [
+        "#051657",
+        "#79A7D3",
+        "#B0D0D3",
+        "#EFE7BB"
+      ]
+    },
+    {
+      "name": "Professional Confidence",
+      "swatches": [
+        "#051657",
+        "#334756",
+        "#82AA9F",
+        "#F6AE2D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data dashboards",
+      "Security software",
+      "Enterprise solutions"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Therapy websites"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Navy Blue Suit",
+      "description": "A classic navy blue suit projects professionalism and trustworthiness.",
+      "image_url": "https://example.com/navy_suit.jpg"
+    },
+    {
+      "title": "Deep Sea Photography",
+      "description": "Images of the deep sea often feature calming and mysterious shades of dark blue.",
+      "image_url": "https://example.com/deep_sea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light yellows for contrast.",
+    "Combine with grays for a sophisticated look.",
+    "Use with whites for a clean and professional feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Gulf Blue Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of Gulf Blue, its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T14:43:18.495057+00:00",
+  "updated_at": "2025-06-01T14:43:18.495057+00:00",
+  "slug": "gulf-blue"
+}

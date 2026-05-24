@@ -1,0 +1,86 @@
+{
+  "id": "1028d11f-26b2-4e5e-aa2c-0d0b8c976083",
+  "color_name": "Nomad",
+  "hex_code": "#BAB1A2",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Nomad is a subdued, earthy neutral that evokes feelings of calm, stability, and understated elegance. It suggests a connection to nature and a sense of grounding, making it a reliable and reassuring color choice. It's often associated with sophistication and timelessness without being overtly flashy.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "understated elegance",
+    "sophistication",
+    "timelessness"
+  ],
+  "complementary_colors": [
+    "#A2ABB9",
+    "#B9A2AB"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#BAB1A2",
+        "#D4CABB",
+        "#A69E91",
+        "#7D766A"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#BAB1A2",
+        "#FFFFFF",
+        "#333333",
+        "#E8E8E8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for apps",
+      "Website headers",
+      "Subtle button designs"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interior design",
+      "Cafe branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app UI",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Neutral clothing items",
+      "Accessories like scarves and bags",
+      "Footwear design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "The walls are painted in a Nomad hue, providing a calming backdrop for the minimalist furniture.",
+      "image_url": "https://example.com/nomad_apartment.jpg"
+    },
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "Organic granola bars are packaged in boxes featuring the Nomad color to convey a sense of natural goodness.",
+      "image_url": "https://example.com/nomad_granola.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a soft, airy feel.",
+    "Combine with natural wood tones for warmth.",
+    "Add pops of muted colors like sage green or dusty rose for interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Nomad with our color palette generator!",
+  "seo_meta": {
+    "title": "Nomad Color Meaning: Understanding #BAB1A2",
+    "description": "Discover the meaning and uses of Nomad (#BAB1A2), a sophisticated neutral color. Explore its emotional associations, complementary colors, and ideal applications."
+  },
+  "created_at": "2025-06-01T16:20:55.714779+00:00",
+  "updated_at": "2025-06-01T16:20:55.714779+00:00",
+  "slug": "nomad"
+}

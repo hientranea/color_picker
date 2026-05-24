@@ -1,0 +1,86 @@
+{
+  "id": "5061c9da-6e88-441a-90f4-038265f1d383",
+  "color_name": "Shadow",
+  "hex_code": "#837050",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Shadow represents mystery, the unknown, and introspection. It can evoke feelings of fear or uncertainty, but also a sense of depth and hidden potential. Shadow colors are often associated with sophistication and elegance, adding a touch of drama and intrigue to designs. They can also signify protection and security.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "elegance",
+    "security",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#506383",
+    "#D6C3A3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#837050",
+        "#B0A08A",
+        "#D7CEC1",
+        "#E8E3D9"
+      ]
+    },
+    {
+      "name": "Urban Concrete",
+      "swatches": [
+        "#837050",
+        "#666666",
+        "#999999",
+        "#CCCCCC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Professional dashboards",
+      "Secure login screens"
+    ],
+    "food_beverage": [
+      "Luxury chocolate packaging",
+      "Whiskey labels",
+      "Coffee branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spas"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Shadowy Forest",
+      "description": "A dense forest with shadows creating a sense of depth and mystery.",
+      "image_url": "https://example.com/shadowy_forest.jpg"
+    },
+    {
+      "title": "Stone Fortress",
+      "description": "The color of an ancient fortress, offering protection and a sense of history.",
+      "image_url": "https://example.com/stone_fortress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for contrast.",
+    "Use with metallic accents for an elegant touch.",
+    "Combine with jewel tones for a dramatic effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades like Shadow and create your perfect color scheme using our color palette generator!",
+  "seo_meta": {
+    "title": "Shadow Color Meaning: Symbolism and Design Ideas",
+    "description": "Discover the meaning of the color Shadow, its psychological effects, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:48:14.544334+00:00",
+  "updated_at": "2025-06-01T15:48:14.544334+00:00",
+  "slug": "shadow"
+}

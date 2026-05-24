@@ -1,0 +1,79 @@
+{
+  "id": "b93ecce8-f2c8-4c56-86df-7ea269a72169",
+  "color_name": "Deep Sea",
+  "hex_code": "#01826B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Deep Sea evokes feelings of tranquility, mystery, and depth. It is often associated with the ocean's hidden depths, suggesting introspection, stability, and a sense of calm. This color can also represent wisdom, trust, and a connection to the natural world.",
+  "emotional_associations": [
+    "calm",
+    "mystery",
+    "depth",
+    "stability",
+    "wisdom",
+    "trust"
+  ],
+  "complementary_colors": [
+    "#820118"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Oceanic Calm",
+      "swatches": [
+        "#01826B",
+        "#A7D1AB",
+        "#E0F2E9",
+        "#4A655D"
+      ]
+    },
+    {
+      "name": "Deep Sea Contrast",
+      "swatches": [
+        "#01826B",
+        "#820118",
+        "#FFFFFF",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Security applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Activewear",
+      "Swimwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Sea Kelp Forest",
+      "description": "Underwater kelp forests present a vibrant example of this color in its natural habitat, showcasing its depth and association with marine life.",
+      "image_url": "https://example.com/kelp_forest.jpg"
+    },
+    {
+      "title": "Modern Architecture Accent",
+      "description": "Deep Sea can be used in architectural accents to give a building a modern, sophisticated look while evoking a sense of calm.",
+      "image_url": "https://example.com/modern_architecture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Combine with complementary colors for contrast.",
+    "Use lighter shades for a softer, more airy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Deep Sea Color Meaning: Psychology, Palettes & More",
+    "description": "Discover the meaning of Deep Sea (#01826B), its psychological effects, complementary colors, and how to use it in design. Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T14:41:13.354769+00:00",
+  "updated_at": "2025-06-01T14:41:13.354769+00:00",
+  "slug": "deep-sea"
+}

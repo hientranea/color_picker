@@ -1,0 +1,79 @@
+{
+  "id": "7f510d1a-6eaa-4e32-853d-f8c0769f7035",
+  "color_name": "Green Smoke",
+  "hex_code": "#A4AF6E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Green Smoke evokes a sense of tranquility and understated elegance. It combines the calming properties of green with a muted, smoky quality, suggesting sophistication and subtlety. It can represent growth and renewal, while also hinting at mystery and introspection.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "peace",
+    "mystery",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#AF6EA4"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#A4AF6E",
+        "#D3D1C3",
+        "#7A8664",
+        "#594F4F"
+      ]
+    },
+    {
+      "name": "Smoky Neutrals",
+      "swatches": [
+        "#A4AF6E",
+        "#C0C0C0",
+        "#808080",
+        "#696969"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Secondary text color",
+      "Confirmation alerts"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Green Smoke Painted Wall",
+      "description": "A living room with walls painted in Green Smoke, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/green_smoke_wall.jpg"
+    },
+    {
+      "title": "Green Smoke Scarf",
+      "description": "A lightweight scarf in Green Smoke adds a touch of understated elegance to an outfit.",
+      "image_url": "https://example.com/green_smoke_scarf.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Combine with other muted greens and blues for a calming palette.",
+    "Use as a subtle accent color against darker backgrounds."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette using our color picker tool!",
+  "seo_meta": {
+    "title": "Green Smoke Color Meaning: Psychology, Palettes & More | ColorBlog",
+    "description": "Discover the meaning of Green Smoke, its psychological associations, complementary colors, and how to use it in design and fashion."
+  },
+  "created_at": "2025-06-01T16:05:40.562985+00:00",
+  "updated_at": "2025-06-01T16:05:40.562985+00:00",
+  "slug": "green-smoke"
+}

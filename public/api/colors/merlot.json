@@ -1,0 +1,76 @@
+{
+  "id": "6551fb75-c868-4723-8bd1-893ea58e792f",
+  "color_name": "Merlot",
+  "hex_code": "#831923",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Merlot evokes feelings of sophistication and understated elegance. It suggests maturity, confidence, and a touch of mystery. This color often represents refined taste and a connection to heritage, offering a sense of grounded stability and quiet strength.",
+  "emotional_associations": [
+    "Sophistication",
+    "Elegance",
+    "Maturity",
+    "Confidence",
+    "Stability"
+  ],
+  "complementary_colors": [
+    "#198379"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#831923",
+        "#D4A373",
+        "#E9D8A6",
+        "#95A5A6"
+      ]
+    },
+    {
+      "name": "Wine & Roses",
+      "swatches": [
+        "#831923",
+        "#F4D0D0",
+        "#A9A9A9",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Fine dining restaurants"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening wear",
+      "Accessories (e.g., handbags, shoes)",
+      "Outerwear (e.g., coats, jackets)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Merlot Leather Sofa",
+      "description": "A luxurious leather sofa in a deep merlot color, providing a sophisticated and comfortable seating option.",
+      "image_url": "https://example.com/merlot_sofa.jpg"
+    },
+    {
+      "title": "Merlot Wine Bottle",
+      "description": "A bottle of fine Merlot wine, showcasing the rich, dark color associated with the varietal.",
+      "image_url": "https://example.com/merlot_wine.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and neutrals for a classic look.",
+    "Combine with golds and bronzes for a touch of luxury.",
+    "Use with teals or greens to create contrast and visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades of Merlot and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Merlot Color Meaning: Understanding #831923",
+    "description": "Explore the meaning, associations, and uses of Merlot color (#831923). Discover complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T15:48:06.909763+00:00",
+  "updated_at": "2025-06-01T15:48:06.909763+00:00",
+  "slug": "merlot"
+}

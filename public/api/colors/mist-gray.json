@@ -1,0 +1,84 @@
+{
+  "id": "4935aa5e-c39f-4c2d-8562-f34c349dd180",
+  "color_name": "Mist Gray",
+  "hex_code": "#C4C4BC",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Mist Gray evokes feelings of calm, neutrality, and sophistication. It is often associated with peace, reliability, and a sense of understated elegance. This color can create a soothing and balanced atmosphere, promoting a sense of stability and composure.",
+  "emotional_associations": [
+    "calm",
+    "neutrality",
+    "sophistication",
+    "peace",
+    "reliability",
+    "elegance",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#BCC4C4",
+    "#C4BCC4",
+    "#80807A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#C4C4BC",
+        "#E0E0D8",
+        "#A0A098",
+        "#60605A"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#C4C4BC",
+        "#FFFFFF",
+        "#333333",
+        "#F0F0F0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Buttons",
+      "Text"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Foggy Morning",
+      "description": "The color of the sky during a foggy morning, creating a sense of mystery and peace.",
+      "image_url": "https://example.com/foggy_morning.jpg"
+    },
+    {
+      "title": "Concrete Building",
+      "description": "Modern architecture utilizing gray concrete for a sleek and minimalist design.",
+      "image_url": "https://example.com/concrete_building.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean look.",
+    "Combine with pastel colors for a soft palette.",
+    "Use with black for a modern and sophisticated feel.",
+    "Add a pop of color with a vibrant accent."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Mist Gray Color Meaning, Code & Palettes",
+    "description": "Discover the meaning of Mist Gray (#C4C4BC), its psychological effects, and explore stunning color palettes for your next design project."
+  },
+  "created_at": "2025-06-01T16:27:22.595151+00:00",
+  "updated_at": "2025-06-01T16:27:22.595151+00:00",
+  "slug": "mist-gray"
+}

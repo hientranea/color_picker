@@ -1,0 +1,88 @@
+{
+  "id": "f7eab181-7058-4b8a-ac46-634a238ccd88",
+  "color_name": "Jagger",
+  "hex_code": "#350E57",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jagger is a deep, mysterious color that evokes feelings of luxury, sophistication, and creativity. It combines the stability of blue with the energy of red, creating a balance between power and introspection. It can also represent ambition, royalty, and independence.",
+  "emotional_associations": [
+    "Mystery",
+    "Luxury",
+    "Creativity",
+    "Sophistication",
+    "Power",
+    "Independence"
+  ],
+  "complementary_colors": [
+    "#E7D00A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#350E57",
+        "#79499F",
+        "#BDB0D1",
+        "#F0EDEE",
+        "#A6A0A3"
+      ]
+    },
+    {
+      "name": "Royal Glamour",
+      "swatches": [
+        "#350E57",
+        "#C4A484",
+        "#E4D00A",
+        "#708090",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Premium app themes",
+      "Security software"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Gourmet chocolate packaging",
+      "Luxury tea branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Aromatherapy packaging",
+      "Spiritual retreats"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Jewelry design",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Galaxy S21 Phantom Violet",
+      "description": "Samsung's Phantom Violet option for the Galaxy S21 series uses a similar color to convey innovation and style.",
+      "image_url": "https://example.com/galaxy_violet.jpg"
+    },
+    {
+      "title": "Deep Amethyst Jewelry",
+      "description": "Amethyst gemstones with deep purple hues are often associated with royalty and spirituality.",
+      "image_url": "https://example.com/amethyst_jewelry.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold or silver for a luxurious feel.",
+    "Combine with lighter purples and greys for a sophisticated look.",
+    "Use with contrasting yellows or oranges for a vibrant and energetic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to discover more harmonious color combinations.",
+  "seo_meta": {
+    "title": "Jagger Color Meaning: The Psychology of #350E57",
+    "description": "Uncover the meaning and symbolism behind the color Jagger (#350E57). Explore its psychological effects, complementary colors, and best uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:03:51.614402+00:00",
+  "updated_at": "2025-06-01T15:03:51.614402+00:00",
+  "slug": "jagger"
+}

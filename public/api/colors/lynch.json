@@ -1,0 +1,82 @@
+{
+  "id": "76683bf5-e583-4207-b73a-e097c9add04d",
+  "color_name": "Lynch",
+  "hex_code": "#697E9A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lynch is a muted, cool-toned gray-blue that evokes feelings of serenity, stability, and sophistication. It suggests reliability and trustworthiness, while also hinting at creativity and introspection. This color can be perceived as calming and reassuring, making it suitable for environments where clarity and composure are valued.",
+  "emotional_associations": [
+    "serenity",
+    "stability",
+    "sophistication",
+    "trust",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#9A8169"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic Comfort",
+      "swatches": [
+        "#697E9A",
+        "#A3B18A",
+        "#D0C9B5",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#697E9A",
+        "#89A3B8",
+        "#E8F0F2",
+        "#303030"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Application backgrounds",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding",
+      "Healthcare websites"
+    ],
+    "fashion": [
+      "Business attire",
+      "Casual wear",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Office Interior",
+      "description": "A modern office space featuring Lynch-colored walls to promote a calm and productive work environment.",
+      "image_url": "https://example.com/office_interior.jpg"
+    },
+    {
+      "title": "Bedroom Design",
+      "description": "A bedroom with Lynch-colored accents, creating a serene and relaxing atmosphere for sleep.",
+      "image_url": "https://example.com/bedroom_design.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for balance.",
+    "Use with white for a clean, modern look.",
+    "Combine with deeper blues for a monochromatic palette.",
+    "Accent with metallic finishes for added sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints with our color palette generator to find the perfect hue for your project.",
+  "seo_meta": {
+    "title": "Lynch Color Meaning: Understanding #697E9A",
+    "description": "Explore the meaning, psychology, and uses of the Lynch color (#697E9A). Discover palettes, pairings, and real-world examples for your design projects."
+  },
+  "created_at": "2025-06-01T15:31:35.666034+00:00",
+  "updated_at": "2025-06-01T15:31:35.666034+00:00",
+  "slug": "lynch"
+}

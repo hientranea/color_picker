@@ -1,0 +1,82 @@
+{
+  "id": "db967da8-9566-4144-92d3-e43e9c421d21",
+  "color_name": "Deep Sapphire",
+  "hex_code": "#082567",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Deep Sapphire evokes feelings of trust, loyalty, and wisdom. It is associated with intelligence, stability, and efficiency. This color promotes a sense of security and calms the mind, encouraging deep thought and introspection. Deep Sapphire is often linked to authority and sophistication.",
+  "emotional_associations": [
+    "trust",
+    "loyalty",
+    "wisdom",
+    "stability",
+    "intelligence",
+    "security"
+  ],
+  "complementary_colors": [
+    "#674A08"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#082567",
+        "#2B547E",
+        "#6A89CC",
+        "#BBD0FF"
+      ]
+    },
+    {
+      "name": "Regal Evening",
+      "swatches": [
+        "#082567",
+        "#46344E",
+        "#77635B",
+        "#A89268"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces",
+      "Corporate communication platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Yoga studios (branding)"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal accessories",
+      "Corporate attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sapphire Gemstone",
+      "description": "A natural deep blue sapphire, symbolizing wisdom and royalty.",
+      "image_url": "https://example.com/sapphire.jpg"
+    },
+    {
+      "title": "Deep Sea Photography",
+      "description": "An image capturing the mesmerizing depths of the ocean, showcasing the color's serene qualities.",
+      "image_url": "https://example.com/deepsea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with lighter blues for a calming effect.",
+    "Use with neutral grays for a professional look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of blues and create your own palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Deep Sapphire Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of Deep Sapphire, its emotional associations, and how to use it in design. Explore color palettes and industry use cases."
+  },
+  "created_at": "2025-06-01T14:44:28.642198+00:00",
+  "updated_at": "2025-06-01T14:44:28.642198+00:00",
+  "slug": "deep-sapphire"
+}

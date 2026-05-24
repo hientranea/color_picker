@@ -1,0 +1,83 @@
+{
+  "id": "7cf7f172-fea0-415a-933b-f3eeb927157c",
+  "color_name": "Spice",
+  "hex_code": "#6A442E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Spice evokes feelings of warmth, comfort, and earthiness. It is associated with stability, reliability, and a sense of groundedness. This color often conveys a sense of sophistication and maturity, reminiscent of natural materials and cozy environments. It is a color that invites relaxation and a feeling of being secure.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "stability",
+    "earthiness",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#446A5A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#6A442E",
+        "#D4A373",
+        "#A98D62",
+        "#8C6A50",
+        "#F2EBD3"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#6A442E",
+        "#C09978",
+        "#594A4E",
+        "#928274",
+        "#E8DED4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation apps",
+      "Natural skincare branding"
+    ],
+    "fashion": [
+      "Fall clothing lines",
+      "Leather accessories",
+      "Bohemian style"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a spice color, adding warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Spiced Latte",
+      "description": "The color of a spiced latte, creating a cozy and inviting feeling.",
+      "image_url": "https://example.com/spiced_latte.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, inviting look.",
+    "Combine with greens for an earthy, natural feel.",
+    "Use with golds for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Spice Color Meaning: Discover the Warmth of #6A442E",
+    "description": "Uncover the psychological meaning, associations, and best uses of Spice (#6A442E), a warm and earthy color. Find palettes, industry examples, and pairing tips."
+  },
+  "created_at": "2025-06-01T15:31:43.127763+00:00",
+  "updated_at": "2025-06-01T15:31:43.127763+00:00",
+  "slug": "spice"
+}

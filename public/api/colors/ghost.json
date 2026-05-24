@@ -1,0 +1,82 @@
+{
+  "id": "391ff1ec-b53e-409b-8659-f9958613e66a",
+  "color_name": "Ghost",
+  "hex_code": "#C7C9D5",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Ghost represents a sense of calm, quiet, and ethereal beauty. It evokes feelings of serenity and peacefulness, often associated with the supernatural or spiritual. The color exudes a delicate and refined aesthetic, suggesting a sense of mystery and hidden depths.",
+  "emotional_associations": [
+    "serenity",
+    "calm",
+    "mystery",
+    "peace",
+    "ethereal"
+  ],
+  "complementary_colors": [
+    "#D5C7C9",
+    "#C9D5C7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dawn",
+      "swatches": [
+        "#C7C9D5",
+        "#E8E9F3",
+        "#A9ACB6",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Mystic Haze",
+      "swatches": [
+        "#C7C9D5",
+        "#B0B0B0",
+        "#DCDCDC",
+        "#F5F5F5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Subtle backgrounds",
+      "Clean navigation menus"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Relaxation websites",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Bridal wear",
+      "Elegant accessories",
+      "Sophisticated evening gowns"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ghost Orchid",
+      "description": "The ghost orchid, a rare and elusive flower, embodies the delicate beauty and mystery associated with the color ghost.",
+      "image_url": "https://example.com/ghost_orchid.jpg"
+    },
+    {
+      "title": "Foggy Landscape",
+      "description": "A landscape shrouded in a light fog, creating a serene and peaceful scene reminiscent of the color ghost.",
+      "image_url": "https://example.com/foggy_landscape.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with other neutrals for a sophisticated look.",
+    "Combine with soft pastels for a calming palette.",
+    "Use as a background color to highlight brighter accents."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations using our interactive color palette tool!",
+  "seo_meta": {
+    "title": "Ghost Color Meaning: Shades, Psychology & Palettes | Color Meaning Blog",
+    "description": "Discover the meaning, psychology, and best pairings for the color Ghost (#C7C9D5). Explore palettes and industry use cases for this serene and elegant hue."
+  },
+  "created_at": "2025-06-01T16:30:28.076463+00:00",
+  "updated_at": "2025-06-01T16:30:28.076463+00:00",
+  "slug": "ghost"
+}

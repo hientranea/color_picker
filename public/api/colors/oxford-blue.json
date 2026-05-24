@@ -1,0 +1,79 @@
+{
+  "id": "c0695ca8-3933-4529-b13b-667f6ac6f726",
+  "color_name": "Oxford Blue",
+  "hex_code": "#384555",
+  "wheel_position": "Cool Neutral",
+  "psychological_meaning": "Oxford Blue evokes feelings of intelligence, authority, and sophistication. It's a color often associated with institutions of higher learning and conveys a sense of reliability and trustworthiness. Its muted tone creates a calm and stable environment, encouraging contemplation and focus. It suggests both tradition and modernity, lending a grounded and professional air.",
+  "emotional_associations": [
+    "intelligence",
+    "trust",
+    "calm",
+    "stability",
+    "professionalism"
+  ],
+  "complementary_colors": [
+    "#554838",
+    "#F5E7D7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Classic & Sophisticated",
+      "swatches": [
+        "#384555",
+        "#A9B7C6",
+        "#FFFFFF",
+        "#222222"
+      ]
+    },
+    {
+      "name": "Earthy & Grounded",
+      "swatches": [
+        "#384555",
+        "#6B8E23",
+        "#D3D3D3",
+        "#A0522D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Formal wear",
+      "Outerwear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Oxford University Crest",
+      "description": "The Oxford University crest prominently features a shade of Oxford Blue, symbolizing its academic heritage and intellectual rigor.",
+      "image_url": "url_to_oxford_crest_image.jpg"
+    },
+    {
+      "title": "Luxury Sedan Interior",
+      "description": "The interior of a luxury sedan often incorporates Oxford Blue leather upholstery to create an atmosphere of understated elegance and refined comfort.",
+      "image_url": "url_to_sedan_interior_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with metallic accents like gold or silver for added sophistication.",
+    "Use with brighter blues for a monochromatic effect.",
+    "Contrast with warm oranges or yellows for a vibrant feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Oxford Blue Color Meaning: Understanding #384555",
+    "description": "Discover the meaning and symbolism of Oxford Blue (#384555). Explore its psychological impact, complementary colors, and design applications."
+  },
+  "created_at": "2025-06-01T15:05:45.105101+00:00",
+  "updated_at": "2025-06-01T15:05:45.105101+00:00",
+  "slug": "oxford-blue"
+}

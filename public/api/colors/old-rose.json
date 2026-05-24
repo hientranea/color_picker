@@ -1,0 +1,79 @@
+{
+  "id": "9309badc-9e74-4fcd-9369-25632368a52a",
+  "color_name": "Old Rose",
+  "hex_code": "#C08081",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Old Rose evokes feelings of nostalgia, romance, and gentle comfort. It suggests a sense of history and timeless elegance, offering a softer, more muted take on traditional passion. The color is associated with maturity, grace, and a quiet, understated beauty.",
+  "emotional_associations": [
+    "nostalgia",
+    "romance",
+    "comfort",
+    "elegance",
+    "grace",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#80BFC0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#C08081",
+        "#D3B4A8",
+        "#A99285",
+        "#7A6A5A"
+      ]
+    },
+    {
+      "name": "Dusty Rose Garden",
+      "swatches": [
+        "#C08081",
+        "#E0BBE4",
+        "#957DAD",
+        "#D291BC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for herbal teas",
+      "Branding for vintage wines"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Vintage-inspired clothing lines",
+      "Accessories for formal events"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Furniture",
+      "description": "Restored antique furniture often features Old Rose paint, highlighting its historical significance.",
+      "image_url": "https://example.com/old_rose_furniture.jpg"
+    },
+    {
+      "title": "Vintage Wedding Decor",
+      "description": "Old Rose is a popular color for wedding decorations, creating a romantic and nostalgic atmosphere.",
+      "image_url": "https://example.com/old_rose_wedding.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a classic look.",
+    "Combine with greens for a natural, earthy palette.",
+    "Add gold accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of rose and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Old Rose Color Meaning: Symbolism, Psychology & Design Tips",
+    "description": "Discover the meaning and symbolism of Old Rose. Learn how to use this color in design and explore complementary color palettes."
+  },
+  "created_at": "2025-06-01T16:24:18.376704+00:00",
+  "updated_at": "2025-06-01T16:24:18.376704+00:00",
+  "slug": "old-rose"
+}

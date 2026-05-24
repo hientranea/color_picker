@@ -1,0 +1,81 @@
+{
+  "id": "5daf7669-fb85-41e6-a712-0006ec4bb68b",
+  "color_name": "Bossanova",
+  "hex_code": "#4E2A5A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bossanova evokes a sense of mystery, sophistication, and creativity. It blends the stability of blue with the energy of red and is often associated with intuition and spiritual awareness. This color promotes introspection and can inspire deep thought and artistic expression, as well as feelings of luxury and exclusivity.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "creativity",
+    "intuition",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#A6904E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#4E2A5A",
+        "#A392A8",
+        "#D1C5D6",
+        "#F0EDF2",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Royal Garden",
+      "swatches": [
+        "#4E2A5A",
+        "#704F7A",
+        "#8FB88F",
+        "#597A59",
+        "#3F5A3F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Luxury apps",
+      "Creative software"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Jewelry design",
+      "Cosmetics packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual retreats"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Perfume Packaging",
+      "description": "A high-end perfume bottle with a Bossanova-colored label, conveying elegance and exclusivity.",
+      "image_url": "url_to_perfume_image.jpg"
+    },
+    {
+      "title": "Abstract Art Piece",
+      "description": "An abstract painting using Bossanova as a primary color, creating a sense of depth and intrigue.",
+      "image_url": "url_to_artwork_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with metallics like gold or silver for a luxurious feel.",
+    "Combine with muted greens for a sophisticated contrast.",
+    "Use with creams and off-whites for an elegant and understated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color picker tool to find your perfect palette!",
+  "seo_meta": {
+    "title": "Bossanova Color Meaning: Symbolism, Psychology, and Design Ideas",
+    "description": "Discover the meaning of Bossanova color (#4E2A5A), its psychological effects, and how to use it in your designs with complementary colors and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:18:29.837007+00:00",
+  "updated_at": "2025-06-01T15:18:29.837007+00:00",
+  "slug": "bossanova"
+}

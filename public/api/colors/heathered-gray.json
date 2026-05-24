@@ -1,0 +1,80 @@
+{
+  "id": "f5745b19-1fdb-4872-87be-6fb6939c9686",
+  "color_name": "Heathered Gray",
+  "hex_code": "#B6B095",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Heathered Gray evokes feelings of calmness, neutrality, and sophistication. It suggests stability and reliability, often associated with a sense of timelessness and understated elegance. This color can also represent practicality and a grounded perspective, making it feel both comforting and refined.",
+  "emotional_associations": [
+    "neutrality",
+    "calmness",
+    "sophistication",
+    "stability",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#959BB6",
+    "#D4D0B0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#B6B095",
+        "#D4CABB",
+        "#8A8373",
+        "#F2F0EB"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#B6B095",
+        "#FFFFFF",
+        "#333333",
+        "#999999"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Dividers"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Knitwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Heathered Gray Sweater",
+      "description": "A cozy heathered gray sweater provides warmth and a casual, yet put-together look.",
+      "image_url": "https://example.com/heathered_gray_sweater.jpg"
+    },
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A modern apartment interior featuring heathered gray walls, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/heathered_gray_apartment.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a clean, airy look.",
+    "Combine with deep blues for a sophisticated contrast.",
+    "Use with natural wood tones for warmth and texture."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Heathered Gray Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of heathered gray, its psychological associations, complementary colors, and how to use it in design, fashion, and more."
+  },
+  "created_at": "2025-06-01T16:17:54.004559+00:00",
+  "updated_at": "2025-06-01T16:17:54.004559+00:00",
+  "slug": "heathered-gray"
+}

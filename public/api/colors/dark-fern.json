@@ -1,0 +1,86 @@
+{
+  "id": "a747b6a0-943c-41e6-813a-d899c70d8120",
+  "color_name": "Dark Fern",
+  "hex_code": "#0A480D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Dark Fern evokes feelings of tranquility, growth, and stability. It is associated with nature, particularly forests and lush vegetation, suggesting a sense of grounding and connection to the earth. This color promotes a sense of calmness and can inspire feelings of well-being and renewal.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "stability",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#A50D10"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#0A480D",
+        "#779A6B",
+        "#A68B5D",
+        "#D4C4A9"
+      ]
+    },
+    {
+      "name": "Forest Depths",
+      "swatches": [
+        "#0A480D",
+        "#2E5F3D",
+        "#4B7257",
+        "#688571"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization for environmental monitoring apps",
+      "Buttons and accents in nature-themed games",
+      "Background color for productivity apps aiming for a calm atmosphere"
+    ],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Branding for herbal teas and natural remedies",
+      "Restaurant interiors promoting a farm-to-table concept"
+    ],
+    "wellness": [
+      "Logos for yoga studios and meditation centers",
+      "Color scheme for spas and wellness retreats",
+      "Packaging for aromatherapy products and essential oils"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories inspired by nature",
+      "Sustainable and eco-friendly fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The dense foliage of a temperate rainforest creates a calming and immersive environment.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Moss Covered Rocks",
+      "description": "Moss growing on rocks beside a stream is a classic example of dark fern in nature.",
+      "image_url": "https://example.com/moss_covered_rocks.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with earthy browns and creams for a natural palette.",
+    "Use with gold accents for a touch of luxury.",
+    "Pair with lighter greens for a refreshing and vibrant look.",
+    "Contrast with reds or oranges for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Dark Fern with our color picker tool to find the perfect hue for your next project!",
+  "seo_meta": {
+    "title": "Dark Fern Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Dark Fern (#0A480D), its psychological associations, complementary colors, and inspiring palette ideas for your designs."
+  },
+  "created_at": "2025-06-01T14:45:40.320524+00:00",
+  "updated_at": "2025-06-01T14:45:40.320524+00:00",
+  "slug": "dark-fern"
+}

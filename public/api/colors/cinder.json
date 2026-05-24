@@ -1,0 +1,79 @@
+{
+  "id": "35798dcc-ddc8-4fb0-b10e-d304044da506",
+  "color_name": "Cinder",
+  "hex_code": "#0E0E18",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Cinder, a dark and muted color, evokes feelings of sophistication and mystery. Its subtle nature allows for a sense of calm introspection and can be associated with resilience and understated strength. Cinder provides a grounding presence, symbolizing stability and quiet confidence.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "stability",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#F1F1E7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ember Glow",
+      "swatches": [
+        "#0E0E18",
+        "#434354",
+        "#A9A9B3",
+        "#D3D3DD"
+      ]
+    },
+    {
+      "name": "Midnight Serenity",
+      "swatches": [
+        "#0E0E18",
+        "#2C3539",
+        "#708090",
+        "#B0C4DE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Professional dashboards",
+      "Backgrounds for data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Charcoal Furniture",
+      "description": "A modern living room featuring a cinder-colored sofa, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/cinder_sofa.jpg"
+    },
+    {
+      "title": "Dark Stone Pavement",
+      "description": "A pedestrian walkway using cinder-toned stone paving, exuding urban elegance and durability.",
+      "image_url": "https://example.com/cinder_pavement.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic scheme.",
+    "Accent with metallics like silver or gold for added elegance.",
+    "Use with blues or greens for a calming, nature-inspired palette.",
+    "Contrast with bright colors like yellow or orange for a modern pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to discover more shades and create your perfect palette!",
+  "seo_meta": {
+    "title": "Cinder Color Meaning: Understanding the Psychology of #0E0E18",
+    "description": "Discover the meaning, associations, and best uses for Cinder (#0E0E18), a sophisticated dark color that evokes mystery and stability."
+  },
+  "created_at": "2025-06-01T14:47:34.525077+00:00",
+  "updated_at": "2025-06-01T14:47:34.525077+00:00",
+  "slug": "cinder"
+}

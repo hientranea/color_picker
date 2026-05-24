@@ -1,0 +1,81 @@
+{
+  "id": "8b61722a-21f5-4ccc-b339-370739bc2a9d",
+  "color_name": "Polo Blue",
+  "hex_code": "#8DA8CC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Polo Blue evokes feelings of calmness, stability, and trust. It's often associated with professionalism and reliability, making it a popular choice for corporate branding. The color suggests a sense of sophistication and serenity, while also hinting at intelligence and depth.",
+  "emotional_associations": [
+    "calmness",
+    "trust",
+    "stability",
+    "sophistication",
+    "intelligence"
+  ],
+  "complementary_colors": [
+    "#CCB48D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#8DA8CC",
+        "#A7BECD",
+        "#CCDDEB",
+        "#E6F0FA"
+      ]
+    },
+    {
+      "name": "Corporate Trust",
+      "swatches": [
+        "#8DA8CC",
+        "#5D7FA3",
+        "#36547A",
+        "#1A3251"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Business attire",
+      "Casual wear (shirts, sweaters)",
+      "Accessories (scarves)"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Bank Website",
+      "description": "A bank uses Polo Blue in its website design to convey trustworthiness and security.",
+      "image_url": "url_to_bank_website_screenshot.jpg"
+    },
+    {
+      "title": "Medical Clinic Branding",
+      "description": "A medical clinic incorporates Polo Blue into its logo and interior design to create a calming and professional atmosphere.",
+      "image_url": "url_to_medical_clinic_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a classic look.",
+    "Combine with white for a clean and airy feel.",
+    "Use with a contrasting warm color like peach or coral for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and build your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Polo Blue Color Meaning, Code & Palettes | ColorMeanings.com",
+    "description": "Discover the meaning of Polo Blue (#8DA8CC), its psychological associations, complementary colors, and suggested palettes for your design projects."
+  },
+  "created_at": "2025-06-01T15:54:37.4303+00:00",
+  "updated_at": "2025-06-01T15:54:37.4303+00:00",
+  "slug": "polo-blue"
+}

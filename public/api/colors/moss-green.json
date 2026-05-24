@@ -1,0 +1,86 @@
+{
+  "id": "83efc22b-b42a-4e23-abd4-5079159c1ab1",
+  "color_name": "Moss Green",
+  "hex_code": "#ADDFAD",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Moss Green evokes feelings of nature, growth, and stability. It is associated with tranquility, peace, and harmony, reflecting the quiet strength and resilience found in the natural world. Moss green can also symbolize wealth, health, and renewal, creating a sense of balance and well-being.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "stability",
+    "tranquility",
+    "peace",
+    "harmony",
+    "wealth",
+    "health",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#DAADDA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#ADDFAD",
+        "#7A9D96",
+        "#A38D89",
+        "#D9C9BC",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Natural Harmony",
+      "swatches": [
+        "#ADDFAD",
+        "#558B2F",
+        "#9CCC65",
+        "#FFF59D",
+        "#A1887F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation app designs",
+      "Eco-friendly product branding"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Floor",
+      "description": "The color of a lush forest floor covered in moss and ferns.",
+      "image_url": "https://example.com/forest_floor.jpg"
+    },
+    {
+      "title": "Moss Agate Jewelry",
+      "description": "Moss agate gemstones showcase the beauty of natural green hues in jewelry design.",
+      "image_url": "https://example.com/moss_agate.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural look.",
+    "Combine with creams or whites for a calming effect.",
+    "Use with muted yellows for a touch of warmth.",
+    "Contrast with dusty rose for a sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of green and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Moss Green Color Meaning: Symbolism, Palettes & Design Tips",
+    "description": "Discover the meaning of Moss Green, its emotional associations, complementary colors, and how to use it in your designs. Explore beautiful Moss Green color palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T16:12:10.520379+00:00",
+  "updated_at": "2025-06-01T16:12:10.520379+00:00",
+  "slug": "moss-green"
+}

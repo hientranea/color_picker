@@ -1,0 +1,80 @@
+{
+  "id": "c7408992-2bab-4a40-be3e-af700127ef44",
+  "color_name": "Steel Blue",
+  "hex_code": "#4682B4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Steel Blue evokes feelings of calmness, stability, and sophistication. It is often associated with trust, intelligence, and efficiency. This color can promote a sense of order and tranquility, making it suitable for environments that require focus and composure. It combines the steadfastness of blue with a hint of gray, resulting in a color that is both reliable and modern.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "sophistication",
+    "trust",
+    "intelligence",
+    "efficiency"
+  ],
+  "complementary_colors": [
+    "#B47246"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Oceanic Serenity",
+      "swatches": [
+        "#4682B4",
+        "#B0C4DE",
+        "#E6E6FA",
+        "#778899"
+      ]
+    },
+    {
+      "name": "Modern Professional",
+      "swatches": [
+        "#4682B4",
+        "#FFFFFF",
+        "#36454F",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Corporate website design",
+      "Security software interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation app design"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business casual attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Headquarters Lobby",
+      "description": "A modern corporate lobby featuring steel blue accents in the furniture and artwork to create a professional and welcoming atmosphere.",
+      "image_url": "https://example.com/steel_blue_lobby.jpg"
+    },
+    {
+      "title": "Steel Blue Sedan",
+      "description": "A sleek sedan painted in steel blue, exuding sophistication and reliability.",
+      "image_url": "https://example.com/steel_blue_sedan.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or white for a clean look.",
+    "Combine with muted yellows or oranges for a balanced contrast.",
+    "Use with silver or chrome accents for a modern aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade of Steel Blue for your next project!",
+  "seo_meta": {
+    "title": "Steel Blue Color Meaning: Psychology, Combinations & Design Tips",
+    "description": "Discover the meaning and psychology of Steel Blue (#4682B4). Learn how to use Steel Blue in design, find complementary colors, and explore suggested palettes."
+  },
+  "created_at": "2025-06-01T15:14:32.882779+00:00",
+  "updated_at": "2025-06-01T15:14:32.882779+00:00",
+  "slug": "steel-blue"
+}

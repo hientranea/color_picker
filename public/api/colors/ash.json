@@ -1,0 +1,80 @@
+{
+  "id": "96272bf3-b71b-46f6-b525-533830df7ee0",
+  "color_name": "Ash",
+  "hex_code": "#C6C3B5",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Ash is a neutral and calming color that evokes feelings of sophistication and stability. It is often associated with maturity, reliability, and a sense of groundedness. Ash can also represent a quiet strength and resilience, reminiscent of the natural world.",
+  "emotional_associations": [
+    "calmness",
+    "sophistication",
+    "stability",
+    "maturity",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#B5C6C3",
+    "#C3B5C6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Serenity",
+      "swatches": [
+        "#C6C3B5",
+        "#E9E7E2",
+        "#A3A193",
+        "#706E63"
+      ]
+    },
+    {
+      "name": "Modern Industrial",
+      "swatches": [
+        "#C6C3B5",
+        "#545454",
+        "#808080",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "borders",
+      "text highlights"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa interiors",
+      "meditation apps"
+    ],
+    "fashion": [
+      "outerwear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ash-colored Sofa",
+      "description": "A comfortable ash-colored sofa in a minimalist living room.",
+      "image_url": "https://example.com/ash_sofa.jpg"
+    },
+    {
+      "title": "Ash Concrete Wall",
+      "description": "An ash-colored concrete wall providing a sleek and modern backdrop.",
+      "image_url": "https://example.com/ash_wall.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues for a serene atmosphere.",
+    "Combine with warm woods for a balanced feel.",
+    "Use with metallic accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Ash Color Meaning: Symbolism, Psychology & Design",
+    "description": "Discover the meaning and psychology of the color ash. Explore its uses in design, branding, and art, and find inspiring color palettes."
+  },
+  "created_at": "2025-06-01T16:29:05.800714+00:00",
+  "updated_at": "2025-06-01T16:29:05.800714+00:00",
+  "slug": "ash"
+}

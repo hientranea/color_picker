@@ -1,0 +1,82 @@
+{
+  "id": "0cf2ee81-4d44-4287-b658-dcc1a4c613e5",
+  "color_name": "Crowshead",
+  "hex_code": "#1C1208",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Crowshead evokes feelings of grounding and stability. Its deep, muted tone inspires a sense of tradition, reliability, and understated elegance. It is often associated with nature, resilience, and a quiet strength, making it suitable for designs that require a sense of familiarity and longevity.",
+  "emotional_associations": [
+    "stability",
+    "grounding",
+    "tradition",
+    "resilience",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#08121C",
+    "#E3D8CF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#1C1208",
+        "#A69A8F",
+        "#E8E2D4",
+        "#736A62"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#1C1208",
+        "#6B5A47",
+        "#B8A795",
+        "#D4C2AE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist dashboards",
+      "Text color for high contrast readability"
+    ],
+    "food_beverage": [
+      "Packaging for organic coffee",
+      "Branding for craft breweries"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear design",
+      "Footwear accents"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Bound Journal",
+      "description": "A classic leather-bound journal embodying timeless style.",
+      "image_url": "https://example.com/leather_journal.jpg"
+    },
+    {
+      "title": "Wooden Cabin Exterior",
+      "description": "The exterior of a rustic wooden cabin nestled in the woods.",
+      "image_url": "https://example.com/wooden_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with muted greens for a natural palette.",
+    "Combine with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your perfect color scheme with our color palette generator!",
+  "seo_meta": {
+    "title": "Crowshead Color Meaning: Discover Its Symbolism and Uses",
+    "description": "Uncover the meaning behind Crowshead (#1C1208), its emotional associations, and how to use it in your designs for a timeless and grounded aesthetic."
+  },
+  "created_at": "2025-06-01T14:52:26.64259+00:00",
+  "updated_at": "2025-06-01T14:52:26.64259+00:00",
+  "slug": "crowshead"
+}

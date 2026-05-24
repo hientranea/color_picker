@@ -1,0 +1,82 @@
+{
+  "id": "9fb51fdb-a792-4594-a983-781365604742",
+  "color_name": "Atoll",
+  "hex_code": "#0A6F75",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Atoll evokes feelings of tranquility and depth, reminiscent of serene ocean lagoons. It suggests stability, trustworthiness, and a connection to nature, making it a color that promotes calmness and reflection.",
+  "emotional_associations": [
+    "serenity",
+    "trust",
+    "stability",
+    "nature",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#750A00"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#0A6F75",
+        "#2E8B57",
+        "#ADD8E6",
+        "#F0FFFF"
+      ]
+    },
+    {
+      "name": "Tranquil Escape",
+      "swatches": [
+        "#0A6F75",
+        "#A9D18E",
+        "#FAFAD2",
+        "#66CDAA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Meditation apps",
+      "Security software"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Aromatherapy products"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Casual wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Maldivian Atoll",
+      "description": "The crystal-clear waters surrounding a Maldivian atoll reflect a stunning turquoise hue, embodying tranquility and natural beauty.",
+      "image_url": "https://example.com/maldives_atoll.jpg"
+    },
+    {
+      "title": "Atoll Blue Gemstone",
+      "description": "A rare gemstone with a captivating atoll blue color, symbolizing serenity and hidden depths.",
+      "image_url": "https://example.com/atoll_gemstone.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones like beige or brown for a natural feel.",
+    "Combine with light blues and greens for a coastal aesthetic.",
+    "Use with white for a clean and sophisticated look.",
+    "Accent with gold or copper for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and palettes using our color picker tool!",
+  "seo_meta": {
+    "title": "Atoll Color Meaning: Discover the Psychology of #0A6F75",
+    "description": "Uncover the meaning, associations, and best uses for the color Atoll (#0A6F75). Learn how to incorporate this serene hue into your designs and branding."
+  },
+  "created_at": "2025-06-01T14:45:54.634588+00:00",
+  "updated_at": "2025-06-01T14:45:54.634588+00:00",
+  "slug": "atoll"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "b5b5810b-e32a-4868-8c1f-33345d0ffeec",
+  "color_name": "Loulou",
+  "hex_code": "#460B41",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Loulou, a deep and mysterious purple, evokes feelings of luxury, sophistication, and creativity. It is often associated with royalty, spirituality, and the subconscious mind. This color can inspire introspection and imagination, while also conveying a sense of power and ambition.",
+  "emotional_associations": [
+    "luxury",
+    "mystery",
+    "creativity",
+    "spirituality",
+    "power"
+  ],
+  "complementary_colors": [
+    "#0B4610"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#460B41",
+        "#7B3F76",
+        "#B073AB",
+        "#E5A7E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Regal Opulence",
+      "swatches": [
+        "#460B41",
+        "#2E072A",
+        "#603813",
+        "#A68B64",
+        "#D1B078"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Premium apps",
+      "Security software",
+      "AI interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios",
+      "Spiritual retreats"
+    ],
+    "fashion": [
+      "High-end evening wear",
+      "Jewelry design",
+      "Luxury accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Royal Amethyst Jewelry",
+      "description": "Amethyst, a gemstone often associated with the color Loulou, symbolizes royalty and inner peace.",
+      "image_url": "https://example.com/amethyst_jewelry.jpg"
+    },
+    {
+      "title": "Luxury Perfume Packaging",
+      "description": "Many high-end perfume brands use deep purple packaging to convey a sense of exclusivity and sophistication.",
+      "image_url": "https://example.com/purple_perfume.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with silver for a modern, sophisticated look.",
+    "Use with lighter purples and pinks for a softer, more feminine palette.",
+    "Contrast with shades of green for a vibrant and dynamic combination."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Loulou Color Meaning: Psychology, Associations, and Palettes",
+    "description": "Discover the meaning of Loulou (#460B41), its psychological associations, and how to use it in your designs with suggested palettes and examples."
+  },
+  "created_at": "2025-06-01T15:14:12.088448+00:00",
+  "updated_at": "2025-06-01T15:14:12.088448+00:00",
+  "slug": "loulou"
+}

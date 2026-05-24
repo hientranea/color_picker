@@ -1,0 +1,85 @@
+{
+  "id": "24a8bc65-2a9c-4c38-a0ac-1e783b697b05",
+  "color_name": "Las Palmas",
+  "hex_code": "#C6E610",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Las Palmas is a vibrant, energetic yellow-green that evokes feelings of freshness, vitality, and optimism. It is associated with growth, renewal, and the exuberance of nature. This color can stimulate creativity, promote a sense of well-being, and inspire a positive outlook.",
+  "emotional_associations": [
+    "energy",
+    "freshness",
+    "optimism",
+    "growth",
+    "vitality"
+  ],
+  "complementary_colors": [
+    "#6E10C6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Tropical Sunrise",
+      "swatches": [
+        "#C6E610",
+        "#FFD700",
+        "#FFA07A",
+        "#40E0D0"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#C6E610",
+        "#90EE90",
+        "#F0FFFF",
+        "#E6E6FA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Highlighting interactive elements",
+      "Signifying growth or success",
+      "Creating a lively and engaging user experience"
+    ],
+    "food_beverage": [
+      "Packaging for fresh produce",
+      "Marketing materials for healthy snacks",
+      "Branding for organic or vegan products"
+    ],
+    "wellness": [
+      "Branding for eco-friendly products",
+      "Creating a relaxing atmosphere in spas",
+      "Promoting mindfulness and positive energy"
+    ],
+    "fashion": [
+      "Spring/Summer collections",
+      "Activewear",
+      "Accents in accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Bright Green Fields",
+      "description": "Lush fields of grass under a summer sky.",
+      "image_url": "https://example.com/field.jpg"
+    },
+    {
+      "title": "Lime Green Sports Car",
+      "description": "A sports car with a glossy Las Palmas-like paint job.",
+      "image_url": "https://example.com/car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with teals and blues for a calming effect.",
+    "Combine with bright yellows and oranges for energy.",
+    "Use with neutral grays for a sophisticated contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator!",
+  "seo_meta": {
+    "title": "Las Palmas Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning, psychology, and best uses of Las Palmas (#C6E610) color. Explore color palettes and complementary colors for your design projects."
+  },
+  "created_at": "2025-06-01T16:29:45.760027+00:00",
+  "updated_at": "2025-06-01T16:29:45.760027+00:00",
+  "slug": "las-palmas"
+}

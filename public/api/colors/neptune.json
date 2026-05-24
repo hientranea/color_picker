@@ -1,0 +1,81 @@
+{
+  "id": "007ded88-3474-4843-a797-2f9f7ed57504",
+  "color_name": "Neptune",
+  "hex_code": "#7CB7BB",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Neptune evokes feelings of tranquility, peace, and serenity, reminiscent of the sea after which it's named. It encourages introspection and a sense of calm, providing a soothing effect on the mind and promoting relaxation and mental clarity.",
+  "emotional_associations": [
+    "calm",
+    "peace",
+    "serenity",
+    "tranquility",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#BB7C7C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#7CB7BB",
+        "#B0D9D9",
+        "#E2F4F4",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#7CB7BB",
+        "#A2C7C7",
+        "#D1E9E2",
+        "#F0FAF7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation Apps",
+      "Weather Apps",
+      "Personal Finance Apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation centers"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Casual wear",
+      "Resort wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Living Room",
+      "description": "A living room painted in Neptune creates a serene and inviting atmosphere, perfect for relaxation and unwinding.",
+      "image_url": "https://example.com/neptune_living_room.jpg"
+    },
+    {
+      "title": "Spa Branding",
+      "description": "Neptune is used in spa branding to convey a sense of calmness and tranquility, enhancing the overall experience.",
+      "image_url": "https://example.com/neptune_spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with whites for a clean and airy feel.",
+    "Combine with natural wood tones for warmth.",
+    "Use with darker blues for depth and contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Neptune Color Meaning: Understanding #7CB7BB",
+    "description": "Discover the meaning and psychology behind the color Neptune (#7CB7BB). Learn about its emotional associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:44:19.269635+00:00",
+  "updated_at": "2025-06-01T15:44:19.269635+00:00",
+  "slug": "neptune"
+}

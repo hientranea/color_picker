@@ -1,0 +1,82 @@
+{
+  "id": "a3a65f1c-392f-44b5-9ba1-80228fe5833c",
+  "color_name": "Blackcurrant",
+  "hex_code": "#32293A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blackcurrant is a sophisticated and mysterious color, often associated with luxury, depth, and introspection. It evokes a sense of calm and contemplation, while also hinting at hidden power and creativity. This color can inspire feelings of elegance and refinement, as well as a connection to the unknown and the unconventional.",
+  "emotional_associations": [
+    "luxury",
+    "mystery",
+    "sophistication",
+    "introspection",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#A8A165"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Dark Academia",
+      "swatches": [
+        "#32293A",
+        "#5C5470",
+        "#A39F9A",
+        "#D4CFC9"
+      ]
+    },
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#32293A",
+        "#6E607A",
+        "#B3A1B1",
+        "#E8DED4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Luxury app interfaces"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Dark chocolate packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Blackcurrant Jam",
+      "description": "A jar of homemade blackcurrant jam, rich in color and flavor.",
+      "image_url": "https://example.com/blackcurrant_jam.jpg"
+    },
+    {
+      "title": "Velvet Gown",
+      "description": "A luxurious blackcurrant velvet gown, exuding elegance and sophistication.",
+      "image_url": "https://example.com/velvet_gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a touch of luxury.",
+    "Combine with muted greens for a natural, earthy feel.",
+    "Use with light grays for a modern and sophisticated look.",
+    "Contrast with bright yellows to create a dramatic effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Blackcurrant Color Meaning: Discover its Psychology and Uses",
+    "description": "Uncover the meaning of Blackcurrant color, its psychological associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:02:43.077139+00:00",
+  "updated_at": "2025-06-01T15:02:43.077139+00:00",
+  "slug": "blackcurrant"
+}

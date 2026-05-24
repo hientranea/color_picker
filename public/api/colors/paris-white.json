@@ -1,0 +1,84 @@
+{
+  "id": "a468cff4-f864-4952-83a6-590265d59957",
+  "color_name": "Paris White",
+  "hex_code": "#CADCD4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Paris White evokes feelings of tranquility, purity, and sophistication. It suggests a sense of calm and understated elegance, reminiscent of classic French design. This color can also represent cleanliness, spaciousness, and a connection to nature through its subtle earthy undertones, providing a sense of peace and serenity.",
+  "emotional_associations": [
+    "calm",
+    "purity",
+    "sophistication",
+    "cleanliness",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#D4CACD",
+    "#CDD4CA",
+    "#20262B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#CADCD4",
+        "#F5F5F5",
+        "#D3D3D3",
+        "#A9A9A9"
+      ]
+    },
+    {
+      "name": "Coastal Breeze",
+      "swatches": [
+        "#CADCD4",
+        "#B0E2FF",
+        "#ADD8E6",
+        "#87CEEB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Neutral interface elements",
+      "Subtle accents"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Bridal wear",
+      "Linen clothing",
+      "Relaxed summer outfits"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Parisian Apartment Interior",
+      "description": "A living room with Paris White walls, creating a serene and elegant atmosphere.",
+      "image_url": "https://example.com/paris_white_apartment.jpg"
+    },
+    {
+      "title": "Wedding Dress",
+      "description": "A flowy, Paris White wedding dress evoking a sense of delicate beauty.",
+      "image_url": "https://example.com/paris_white_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft grays for a subtle, sophisticated look.",
+    "Combine with light blues and greens for a calming coastal vibe.",
+    "Use with metallic accents like gold or silver for added elegance.",
+    "Contrast with darker neutrals like charcoal for a modern feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Paris White Color Meaning: Understanding #CADCD4 | Color Psychology",
+    "description": "Discover the meaning and psychology behind Paris White (#CADCD4). Explore its emotional associations, complementary colors, and ideal use cases in design and branding."
+  },
+  "created_at": "2025-06-01T16:33:03.096738+00:00",
+  "updated_at": "2025-06-01T16:33:03.096738+00:00",
+  "slug": "paris-white"
+}

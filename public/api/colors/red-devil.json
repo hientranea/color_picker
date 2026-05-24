@@ -1,0 +1,78 @@
+{
+  "id": "a8514ff9-21c8-4f39-9860-44f85d54d89a",
+  "color_name": "Red Devil",
+  "hex_code": "#860111",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Red Devil evokes strong emotions associated with passion, energy, and intensity. It symbolizes power, courage, and excitement, often linked to primal instincts and a sense of urgency. However, it can also represent aggression, danger, and a warning, demanding attention and immediate action.",
+  "emotional_associations": [
+    "passion",
+    "energy",
+    "power",
+    "danger",
+    "excitement"
+  ],
+  "complementary_colors": [
+    "#018676"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ember Glow",
+      "swatches": [
+        "#860111",
+        "#330007",
+        "#D97373",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Dark Crimson",
+      "swatches": [
+        "#860111",
+        "#59010B",
+        "#260004",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Error messages",
+      "Urgent notifications"
+    ],
+    "food_beverage": [
+      "Spicy sauces",
+      "Rich wines"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Statement pieces",
+      "Bold accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ferrari",
+      "description": "The iconic sports car known for its speed and luxury.",
+      "image_url": "https://example.com/ferrari.jpg"
+    },
+    {
+      "title": "Stop Signs",
+      "description": "A universal symbol of warning and immediate halt.",
+      "image_url": "https://example.com/stopsign.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for balance.",
+    "Use sparingly as an accent color.",
+    "Combine with contrasting colors like teal for a dynamic look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints with our color picker to find your perfect Red Devil variation.",
+  "seo_meta": {
+    "title": "Red Devil Color Meaning: Symbolism, Palettes & Uses",
+    "description": "Discover the meaning, psychology, and practical applications of Red Devil (#860111). Explore complementary colors, suggested palettes, and industry use cases."
+  },
+  "created_at": "2025-06-01T15:49:06.388173+00:00",
+  "updated_at": "2025-06-01T15:49:06.388173+00:00",
+  "slug": "red-devil"
+}

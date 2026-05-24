@@ -1,0 +1,89 @@
+{
+  "id": "13b074d8-eaff-40fa-afb1-3a243671b750",
+  "color_name": "Apple",
+  "hex_code": "#4FA83D",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Apple green evokes feelings of freshness, health, and nature. It is often associated with growth, vitality, and renewal. This color can also represent balance and harmony, promoting a sense of well-being and connection to the environment.",
+  "emotional_associations": [
+    "freshness",
+    "health",
+    "nature",
+    "growth",
+    "vitality",
+    "renewal",
+    "balance",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#A83D4F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#4FA83D",
+        "#A0D65B",
+        "#E8F5C2",
+        "#7DB9DE"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#4FA83D",
+        "#826F66",
+        "#C6B49E",
+        "#F4EAD5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Health trackers",
+      "Gardening apps"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Juice branding",
+      "Smoothie shops"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Spa branding",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Activewear",
+      "Casual wear",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Apple Orchard",
+      "description": "Vibrant green leaves of apple trees signify growth and abundance.",
+      "image_url": "https://example.com/apple_orchard.jpg"
+    },
+    {
+      "title": "Green Smoothie",
+      "description": "A refreshing green smoothie packed with healthy ingredients.",
+      "image_url": "https://example.com/green_smoothie.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light yellows for a cheerful look.",
+    "Combine with browns for an earthy feel.",
+    "Use with whites for a clean and fresh aesthetic.",
+    "Accent with darker greens for depth and contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Apple Green Color Meaning: Symbolism, Psychology & Palettes",
+    "description": "Discover the meaning of apple green, its psychological effects, and explore inspiring color palettes to use in your designs."
+  },
+  "created_at": "2025-06-07T08:17:40.424695+00:00",
+  "updated_at": "2025-06-07T08:17:40.424695+00:00",
+  "slug": "apple"
+}

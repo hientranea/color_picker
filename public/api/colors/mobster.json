@@ -1,0 +1,78 @@
+{
+  "id": "c49950d9-fc65-40a6-91be-e84869d4b615",
+  "color_name": "Mobster",
+  "hex_code": "#7F7589",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mobster, a muted grayish-purple, evokes a sense of sophistication, mystery, and understated power. It suggests introspection, calm, and a hint of the unconventional. This color can be perceived as both calming and subtly intriguing, blending the stability of gray with the enigmatic allure of purple.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "calm",
+    "introspection",
+    "understated power"
+  ],
+  "complementary_colors": [
+    "#898F75"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Twilight",
+      "swatches": [
+        "#7F7589",
+        "#A29BA8",
+        "#D5D0DA",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Urban Chic",
+      "swatches": [
+        "#7F7589",
+        "#4A454D",
+        "#BDBDBD",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization tools"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring walls painted in a similar shade of grayish-purple, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/mobster_apartment.jpg"
+    },
+    {
+      "title": "Designer Handbag",
+      "description": "A stylish handbag in a muted grayish-purple hue, exemplifying understated elegance.",
+      "image_url": "https://example.com/mobster_handbag.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a minimalist look.",
+    "Combine with muted golds for a touch of luxury.",
+    "Use with teal accents for a balanced contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create stunning palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Mobster Color Meaning: Understanding #7F7589",
+    "description": "Discover the meaning, associations, and best uses of Mobster (#7F7589), a sophisticated grayish-purple color. Explore palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T15:45:21.200437+00:00",
+  "updated_at": "2025-06-01T15:45:21.200437+00:00",
+  "slug": "mobster"
+}

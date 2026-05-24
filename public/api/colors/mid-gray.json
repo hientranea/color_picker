@@ -1,0 +1,79 @@
+{
+  "id": "80d18f15-aa88-4a28-9d5f-bf28ab9a7502",
+  "color_name": "Mid Gray",
+  "hex_code": "#5F5F6E",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Mid Gray represents neutrality, balance, and calm. It can evoke feelings of practicality and sophistication, but also detachment and a lack of strong emotion. Often associated with maturity and composure, Mid Gray is a versatile color that can be used to create a sense of stability and timelessness.",
+  "emotional_associations": [
+    "Neutrality",
+    "Balance",
+    "Calm",
+    "Sophistication",
+    "Stability"
+  ],
+  "complementary_colors": [
+    "#6E6E5F",
+    "#8A8A7A",
+    "#A6A696"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#2E2E34",
+        "#5F5F6E",
+        "#9090A8"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#5F5F6E",
+        "#A69385",
+        "#D4C4B6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Application backgrounds",
+      "Button states",
+      "Typography"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa design",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Mid Gray walls and furniture, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/mid-gray-apartment.jpg"
+    },
+    {
+      "title": "Minimalist Website Design",
+      "description": "A website using Mid Gray as the background color, providing a clean and professional look.",
+      "image_url": "https://example.com/mid-gray-website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues for a tranquil effect.",
+    "Combine with metallic accents for a modern look.",
+    "Use with bright colors as a neutral backdrop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color palettes and harmonies with our color picker tool!",
+  "seo_meta": {
+    "title": "Mid Gray Color Meaning: Understanding #5F5F6E",
+    "description": "Discover the meaning and associations of Mid Gray (#5F5F6E). Explore its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:25:40.775131+00:00",
+  "updated_at": "2025-06-01T15:25:40.775131+00:00",
+  "slug": "mid-gray"
+}

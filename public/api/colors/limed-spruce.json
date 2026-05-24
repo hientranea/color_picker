@@ -1,0 +1,84 @@
+{
+  "id": "d0cfcf4c-a67a-46f1-8e45-beb42749a344",
+  "color_name": "Limed Spruce",
+  "hex_code": "#394851",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Limed Spruce evokes feelings of sophistication, stability, and tranquility. It's a color that suggests trustworthiness and reliability, while also hinting at a connection to nature and the outdoors. This color often provides a sense of calm and understated elegance.",
+  "emotional_associations": [
+    "Sophistication",
+    "Tranquility",
+    "Reliability",
+    "Nature",
+    "Calm"
+  ],
+  "complementary_colors": [
+    "#514239",
+    "#B4A59C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#394851",
+        "#A3B18A",
+        "#DAD7CD",
+        "#588157"
+      ]
+    },
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#394851",
+        "#77ACA2",
+        "#9DBC98",
+        "#B8D5B8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization tools",
+      "Navigation menus"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors with a natural theme"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Apartment Lobby",
+      "description": "A modern apartment lobby featuring walls painted in Limed Spruce, accented with natural wood and subtle lighting, creating a sophisticated and welcoming atmosphere.",
+      "image_url": "https://example.com/apartment_lobby.jpg"
+    },
+    {
+      "title": "High-End Watch Design",
+      "description": "A luxury watch with a Limed Spruce dial, paired with a leather strap, conveys a sense of timeless elegance and understated style.",
+      "image_url": "https://example.com/luxury_watch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals like beige or cream for a balanced look.",
+    "Combine with natural wood tones to enhance the earthy feel.",
+    "Use metallic accents like gold or silver for a touch of elegance.",
+    "Contrast with a pop of a complementary color such as a light orange."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color palette generator!",
+  "seo_meta": {
+    "title": "Limed Spruce Color Meaning: Psychology, Combinations & Use Cases | ColorMeaning.com",
+    "description": "Discover the meaning of Limed Spruce (#394851), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:05:59.275446+00:00",
+  "updated_at": "2025-06-01T15:05:59.275446+00:00",
+  "slug": "limed-spruce"
+}

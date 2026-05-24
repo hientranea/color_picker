@@ -1,0 +1,82 @@
+{
+  "id": "21ab8579-333b-4711-a9b6-d330b12169cb",
+  "color_name": "Inch Worm",
+  "hex_code": "#B0E313",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Inch Worm, a vibrant yellow-green, evokes feelings of freshness, growth, and vitality. It's a color that connects us to nature, symbolizing new beginnings and the energy of springtime. It suggests a sense of optimism and a forward-looking perspective, blending the cheerfulness of yellow with the grounding stability of green.",
+  "emotional_associations": [
+    "freshness",
+    "growth",
+    "vitality",
+    "optimism",
+    "energy"
+  ],
+  "complementary_colors": [
+    "#E313B0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#B0E313",
+        "#78AB46",
+        "#D3FFCE",
+        "#A2D149"
+      ]
+    },
+    {
+      "name": "Citrus Burst",
+      "swatches": [
+        "#B0E313",
+        "#FFC300",
+        "#FF5733",
+        "#DAF7A8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Highlighting interactive elements",
+      "Signifying success or completion"
+    ],
+    "food_beverage": [
+      "Packaging for organic or health foods",
+      "Marketing campaigns emphasizing freshness"
+    ],
+    "wellness": [
+      "Branding for eco-friendly products",
+      "Spa and wellness center aesthetics"
+    ],
+    "fashion": [
+      "Accents in sportswear",
+      "Spring and summer apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lime Green Convertible",
+      "description": "A vintage convertible car painted in a striking Inch Worm green, cruising down a coastal highway.",
+      "image_url": "url_to_lime_car_image.jpg"
+    },
+    {
+      "title": "Green Apple Orchard",
+      "description": "Rows of green apple trees, their leaves a similar shade to Inch Worm, bathed in sunlight.",
+      "image_url": "url_to_green_apple_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a modern look.",
+    "Combine with blues for a calming effect.",
+    "Use with bright oranges for a vibrant and energetic palette.",
+    "Contrast with deep purples for a sophisticated feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our color palette generator tool!",
+  "seo_meta": {
+    "title": "Inch Worm Color Meaning: Discover the Psychology of #B0E313",
+    "description": "Uncover the meaning and associations of Inch Worm (#B0E313). Explore its psychological impact, complementary colors, and industry applications."
+  },
+  "created_at": "2025-06-01T16:14:40.294586+00:00",
+  "updated_at": "2025-06-01T16:14:40.294586+00:00",
+  "slug": "inch-worm"
+}

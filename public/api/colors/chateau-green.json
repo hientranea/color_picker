@@ -1,0 +1,83 @@
+{
+  "id": "ce5504f8-b2e6-4164-8279-6bd334f4f4c9",
+  "color_name": "Chateau Green",
+  "hex_code": "#40A860",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Chateau Green evokes feelings of nature, growth, and tranquility. It is associated with balance and harmony, often used to represent renewal and sustainability. This color promotes a sense of calmness and can inspire feelings of optimism and well-being. It suggests stability and endurance, mirroring the resilience of the natural world.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "harmony",
+    "renewal",
+    "optimism",
+    "well-being"
+  ],
+  "complementary_colors": [
+    "#A84088"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#40A860",
+        "#A9B791",
+        "#79866A",
+        "#E4E8E1"
+      ]
+    },
+    {
+      "name": "Vibrant Garden",
+      "swatches": [
+        "#40A860",
+        "#F08A5D",
+        "#B83B5E",
+        "#6A2C70"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Wellness trackers"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal teas branding"
+    ],
+    "wellness": [
+      "Spa design",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The lush green canopy of a dense forest, symbolizing life and growth.",
+      "image_url": "url_to_forest_image.jpg"
+    },
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "Sustainable packaging for organic products, showcasing a commitment to the environment.",
+      "image_url": "url_to_packaging_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones for a natural feel.",
+    "Combine with muted pastels for a soft aesthetic.",
+    "Use with bright accents for a lively contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more shades and create your perfect color scheme with our color palette generator!",
+  "seo_meta": {
+    "title": "Chateau Green: Color Meaning, Psychology, and Design Ideas",
+    "description": "Explore the meaning of Chateau Green, its psychological effects, and how to use it in your design projects. Find complementary colors and inspiring palettes."
+  },
+  "created_at": "2025-06-01T15:11:27.91551+00:00",
+  "updated_at": "2025-06-01T15:11:27.91551+00:00",
+  "slug": "chateau-green"
+}

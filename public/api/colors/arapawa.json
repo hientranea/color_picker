@@ -1,0 +1,82 @@
+{
+  "id": "00373101-0465-42e1-9e91-d65660b35c3c",
+  "color_name": "Arapawa",
+  "hex_code": "#110C6C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Arapawa is a deep, mysterious color often associated with intelligence, stability, and sophistication. It can evoke feelings of trust and authority, while also hinting at creativity and introspection. Its calming nature makes it suitable for creating a sense of peace and order.",
+  "emotional_associations": [
+    "intelligence",
+    "stability",
+    "sophistication",
+    "trust",
+    "authority",
+    "creativity",
+    "peace",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#6C1011"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Deep Ocean",
+      "swatches": [
+        "#110C6C",
+        "#3B3486",
+        "#665D9F",
+        "#9086B9",
+        "#BAB0D2"
+      ]
+    },
+    {
+      "name": "Twilight Calm",
+      "swatches": [
+        "#110C6C",
+        "#2B247A",
+        "#463D88",
+        "#615696",
+        "#7C6FAA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation menus",
+      "Data visualization backgrounds",
+      "Loading screens"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Relaxation products"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Branding",
+      "description": "Arapawa is used in the branding of a consulting firm to project an image of competence and reliability.",
+      "image_url": "https://example.com/arapawa_corporate.jpg"
+    },
+    {
+      "title": "Luxury Watch Design",
+      "description": "Arapawa is incorporated into the design of a luxury watch to convey elegance and timelessness.",
+      "image_url": "https://example.com/arapawa_watch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a modern feel.",
+    "Combine with a contrasting yellow for energy.",
+    "Use with muted greens for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints of Arapawa using our color palette generator.",
+  "seo_meta": {
+    "title": "Arapawa Color Meaning: Understanding #110C6C",
+    "description": "Discover the psychological meaning, associations, and best uses of Arapawa (#110C6C) in design and branding."
+  },
+  "created_at": "2025-06-01T14:48:18.478416+00:00",
+  "updated_at": "2025-06-01T14:48:18.478416+00:00",
+  "slug": "arapawa"
+}

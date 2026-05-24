@@ -1,0 +1,89 @@
+{
+  "id": "a11a9892-5175-42ae-9e04-0bb25de7527b",
+  "color_name": "Salt Box",
+  "hex_code": "#685E6E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Salt Box, a muted and sophisticated color, evokes feelings of stability, tradition, and quiet strength. Its subdued nature provides a sense of calm and reliability, while hints of warmth prevent it from feeling cold or sterile. It is often associated with timelessness and understated elegance.",
+  "emotional_associations": [
+    "stability",
+    "tradition",
+    "calm",
+    "sophistication",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#5E6858",
+    "#6E5E68",
+    "#5E6E58",
+    "#B0A6B0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#685E6E",
+        "#A9A19A",
+        "#D4CCC5",
+        "#EBE6E1"
+      ]
+    },
+    {
+      "name": "Modern Vintage",
+      "swatches": [
+        "#685E6E",
+        "#8F7A66",
+        "#C6B39D",
+        "#F2E8D5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background color for dashboards",
+      "Text color for improved readability",
+      "Neutral element for highlighting key data points"
+    ],
+    "food_beverage": [
+      "Packaging for artisanal goods",
+      "Restaurant interior design for a sophisticated ambiance",
+      "Website design for organic food brands"
+    ],
+    "wellness": [
+      "Spa branding to create relaxing atmosphere",
+      "Meditation app for reducing stress",
+      "Logo color for natural medicine brands"
+    ],
+    "fashion": [
+      "Fall/Winter apparel, like sweaters or overcoats",
+      "Footwear colorway for comfort shoes",
+      "Accessory color for bags and belts"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Salt Box Colonial Home",
+      "description": "A classic Salt Box colonial house painted in a similar muted grey, showcasing the color's timeless appeal.",
+      "image_url": "https://example.com/saltbox_house.jpg"
+    },
+    {
+      "title": "Sophisticated Living Room",
+      "description": "A modern living room incorporating Salt Box-colored furniture and decor elements for a calming and elegant space.",
+      "image_url": "https://example.com/saltbox_livingroom.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a calming palette.",
+    "Combine with muted golds for a touch of luxury.",
+    "Use with deep greens for an earthy and natural feel.",
+    "Contrast with bright blues for a modern and striking look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our interactive color palette generator today!",
+  "seo_meta": {
+    "title": "Salt Box Color Meaning: Understanding #685E6E | Color Psychology",
+    "description": "Explore the meaning, psychology, and best uses for Salt Box (#685E6E), a sophisticated and calming color. Discover palettes, pairings, and examples."
+  },
+  "created_at": "2025-06-01T15:31:05.93959+00:00",
+  "updated_at": "2025-06-01T15:31:05.93959+00:00",
+  "slug": "salt-box"
+}

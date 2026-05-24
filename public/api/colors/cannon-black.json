@@ -1,0 +1,79 @@
+{
+  "id": "1154da14-4e4a-48f8-9f7e-1d8d1027b789",
+  "color_name": "Cannon Black",
+  "hex_code": "#251706",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Cannon Black evokes a sense of strength, stability, and groundedness. It suggests reliability and sophistication, often associated with tradition and timeless elegance. The color conveys a feeling of security and understated power, making it suitable for designs that aim to inspire confidence and trust.",
+  "emotional_associations": [
+    "stability",
+    "sophistication",
+    "security",
+    "power",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#061425",
+    "#F0E2D1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#251706",
+        "#523A28",
+        "#A3856A",
+        "#D4C4B4"
+      ]
+    },
+    {
+      "name": "Modern Contrast",
+      "swatches": [
+        "#251706",
+        "#FFFFFF",
+        "#808080",
+        "#C0C0C0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Executive dashboards"
+    ],
+    "food_beverage": [
+      "Coffee packaging",
+      "Premium spirits branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Formal wear",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The interior of a luxury vehicle featuring dark leather seats and wood trim.",
+      "image_url": "https://example.com/cannon_black_car.jpg"
+    },
+    {
+      "title": "Classic Watch Design",
+      "description": "A timeless watch with a black face and leather strap.",
+      "image_url": "https://example.com/cannon_black_watch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for contrast.",
+    "Use with metallic accents for luxury.",
+    "Combine with deep reds for a dramatic effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator today!",
+  "seo_meta": {
+    "title": "Cannon Black Color Meaning: Understanding #251706",
+    "description": "Explore the meaning, psychology, and best uses of Cannon Black (#251706). Discover complementary colors, palettes, and design tips."
+  },
+  "created_at": "2025-06-01T14:55:33.819479+00:00",
+  "updated_at": "2025-06-01T14:55:33.819479+00:00",
+  "slug": "cannon-black"
+}

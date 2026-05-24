@@ -1,0 +1,82 @@
+{
+  "id": "01cdf8c3-7713-46c1-8aa3-5b53ea309580",
+  "color_name": "Sinbad",
+  "hex_code": "#9FD7D3",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sinbad, a light and airy teal, evokes feelings of tranquility, peace, and clarity. Its association with water brings a sense of refreshment and rejuvenation, while its subtle green undertones promote balance and harmony. This color encourages introspection and fosters a calm, optimistic outlook.",
+  "emotional_associations": [
+    "tranquility",
+    "peace",
+    "clarity",
+    "refreshment",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#D39F9F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#9FD7D3",
+        "#F5F5DC",
+        "#8FBC8F",
+        "#BDBDBD"
+      ]
+    },
+    {
+      "name": "Serene Morning",
+      "swatches": [
+        "#9FD7D3",
+        "#E0FFFF",
+        "#ADD8E6",
+        "#778899"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Calming notification screens",
+      "Relaxation apps"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites",
+      "Mental health platforms"
+    ],
+    "fashion": [
+      "Light summer dresses",
+      "Beachwear",
+      "Casual shirts"
+    ],
+    "food_beverage": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Tropical Lagoon",
+      "description": "The color of clear, shallow water in a tropical lagoon.",
+      "image_url": "https://example.com/lagoon.jpg"
+    },
+    {
+      "title": "Spa Decor",
+      "description": "Used in spa interiors to create a relaxing atmosphere.",
+      "image_url": "https://example.com/spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creamy whites for a clean look.",
+    "Combine with light blues for a nautical theme.",
+    "Use with gray tones for a modern feel.",
+    "Accent with sandy beige for a beachy vibe."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Sinbad Color Meaning: Discover the Tranquility of #9FD7D3",
+    "description": "Explore the meaning, associations, and best uses of Sinbad, a calming teal color. Find complementary colors, palette ideas, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:03:36.589379+00:00",
+  "updated_at": "2025-06-01T16:03:36.589379+00:00",
+  "slug": "sinbad"
+}

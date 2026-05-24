@@ -1,0 +1,83 @@
+{
+  "id": "d7e16daf-14a3-42a4-9c51-fe74cedda2f9",
+  "color_name": "Rolling Stone",
+  "hex_code": "#747D83",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Rolling Stone, a muted gray, evokes feelings of neutrality, sophistication, and calm. It suggests stability and dependability, while also hinting at a sense of understated elegance. This color can be perceived as conservative and practical, making it a versatile choice for creating a balanced and trustworthy atmosphere.",
+  "emotional_associations": [
+    "Neutrality",
+    "Sophistication",
+    "Calm",
+    "Stability",
+    "Dependability"
+  ],
+  "complementary_colors": [
+    "#83747D",
+    "#7D8374"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#F2F3F4",
+        "#D3D3D3",
+        "#A9A9A9",
+        "#747D83",
+        "#525252"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#FFFFFF",
+        "#747D83",
+        "#222831",
+        "#F0F0F0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Settings panels",
+      "Backgrounds for data visualization",
+      "Neutral button states"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Relaxation product packaging"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring walls painted in a Rolling Stone gray, creating a serene and sophisticated atmosphere.",
+      "image_url": "https://example.com/rolling_stone_apartment.jpg"
+    },
+    {
+      "title": "Elegant Business Card",
+      "description": "A business card with a Rolling Stone background, conveying professionalism and reliability.",
+      "image_url": "https://example.com/rolling_stone_business_card.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and modern look.",
+    "Combine with pastel colors for a soft and calming effect.",
+    "Use with black and metallic accents for a sophisticated and edgy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Rolling Stone Color Meaning: Discover the Psychology of #747D83",
+    "description": "Uncover the meaning and associations behind the Rolling Stone color (#747D83). Explore its psychological impact, complementary colors, and design applications."
+  },
+  "created_at": "2025-06-01T15:38:16.160166+00:00",
+  "updated_at": "2025-06-01T15:38:16.160166+00:00",
+  "slug": "rolling-stone"
+}

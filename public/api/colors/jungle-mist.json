@@ -1,0 +1,84 @@
+{
+  "id": "626d54c8-bbc8-4fef-b7bf-87aeeb7970b6",
+  "color_name": "Jungle Mist",
+  "hex_code": "#B4CFD3",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jungle Mist evokes feelings of tranquility, peace, and serenity. It is often associated with nature, freshness, and calmness, promoting a sense of balance and harmony. This color can also inspire creativity and introspection, fostering a soothing and reflective atmosphere.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "freshness",
+    "peace",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#D3B4CF",
+    "#CFD3B4",
+    "#CFB4D3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Escape",
+      "swatches": [
+        "#B4CFD3",
+        "#E8F0F2",
+        "#A0C4C7",
+        "#708D8A"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#B4CFD3",
+        "#F0E68C",
+        "#8FBC8F",
+        "#4682B4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Calming app backgrounds",
+      "Relaxation app interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation app design",
+      "Yoga studio interiors"
+    ],
+    "fashion": [
+      "Light summer dresses",
+      "Relaxed loungewear",
+      "Accessories for a serene look"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior",
+      "description": "The walls are painted in Jungle Mist to create a relaxing and peaceful environment for clients.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Yoga App UI",
+      "description": "The app uses Jungle Mist as a background color to promote calmness and focus during yoga sessions.",
+      "image_url": "https://example.com/yoga_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, elegant look.",
+    "Combine with light yellows for a cheerful, airy feel.",
+    "Use with darker blues for a sophisticated contrast.",
+    "Accent with natural wood tones for an organic touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more calming color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Jungle Mist Color Meaning: Serenity and Calm | ColorBlog",
+    "description": "Discover the meaning of Jungle Mist (#B4CFD3), its psychological effects, and how to use it in design to create a serene and calming atmosphere."
+  },
+  "created_at": "2025-06-01T16:16:48.379851+00:00",
+  "updated_at": "2025-06-01T16:16:48.379851+00:00",
+  "slug": "jungle-mist"
+}

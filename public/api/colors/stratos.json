@@ -1,0 +1,80 @@
+{
+  "id": "dd5abb71-74f6-4ce7-a217-a076bd6bf26f",
+  "color_name": "Stratos",
+  "hex_code": "#000741",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Stratos evokes feelings of mystery, depth, and sophistication. As a deep, dark hue, it is often associated with the night sky, the unknown, and a sense of quiet power. It can inspire introspection and a feeling of calm intensity, while also suggesting exclusivity and elegance.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "calm",
+    "power",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#F9F20E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nightfall",
+      "swatches": [
+        "#000741",
+        "#2C3559",
+        "#606C84",
+        "#A2A8B4"
+      ]
+    },
+    {
+      "name": "Deep Sea",
+      "swatches": [
+        "#000741",
+        "#001F3F",
+        "#003366",
+        "#004C99"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization backdrops",
+      "Navigation menus for tech platforms",
+      "Security software interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation app backgrounds",
+      "Sleep aid product packaging"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Formal accessories",
+      "High-end jewelry packaging"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The interior of a high-end vehicle featuring dark blue leather seats and trim.",
+      "image_url": "https://example.com/luxury_car.jpg"
+    },
+    {
+      "title": "Starry Night Sky",
+      "description": "A photograph capturing the deep blue hues of a clear night sky filled with stars.",
+      "image_url": "https://example.com/starry_night.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with metallic accents like silver or gold for a luxurious feel.",
+    "Use with lighter blues or grays to create depth and contrast.",
+    "Combine with white or cream for a classic and elegant look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Stratos Color Meaning: Discover the Allure of #000741",
+    "description": "Uncover the meaning and psychology behind the color Stratos (#000741). Explore its associations, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-05-18T14:01:57.792193+00:00",
+  "updated_at": "2025-05-18T14:01:57.792193+00:00",
+  "slug": "stratos"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "f3a1b2c7-1705-4bc0-93d0-7f657a6a45d2",
+  "color_name": "Edgewater",
+  "hex_code": "#C8E3D7",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Edgewater evokes feelings of tranquility and calm, reminiscent of peaceful shores and serene waters. It suggests balance, growth, and a connection to nature, promoting a sense of harmony and rejuvenation. This gentle hue encourages introspection and provides a soothing backdrop for contemplation.",
+  "emotional_associations": [
+    "calm",
+    "tranquility",
+    "peace",
+    "growth",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#E3C8D3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Serenity",
+      "swatches": [
+        "#C8E3D7",
+        "#F0F4F3",
+        "#A2B5B0",
+        "#748A85"
+      ]
+    },
+    {
+      "name": "Ethereal Garden",
+      "swatches": [
+        "#C8E3D7",
+        "#E8E2D4",
+        "#B5C6A3",
+        "#809A6F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Relaxing app interfaces",
+      "Soothing notification backgrounds"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Lightweight scarves",
+      "Resort wear"
+    ],
+    "food_beverage": null
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior",
+      "description": "The walls of the spa are painted in Edgewater, creating a calming and peaceful atmosphere.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Website Design",
+      "description": "Edgewater is used as the primary background color for a website promoting relaxation techniques.",
+      "image_url": "https://example.com/website_design.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a classic, serene look.",
+    "Combine with natural wood tones for an earthy feel.",
+    "Add accents of gold or silver for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious colors and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Edgewater Color Meaning: Understanding the Psychology of #C8E3D7",
+    "description": "Explore the meaning, associations, and best uses of Edgewater (#C8E3D7), a calming and tranquil color. Find complementary colors and palette ideas for your next project."
+  },
+  "created_at": "2025-06-01T16:31:29.182049+00:00",
+  "updated_at": "2025-06-01T16:31:29.182049+00:00",
+  "slug": "edgewater"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ceb2d742-15f5-4f4a-bc1f-545f71f014b0",
+  "color_name": "Deep Fir",
+  "hex_code": "#002900",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Deep Fir evokes feelings of nature, tranquility, and grounding. It's associated with growth, stability, and a sense of calm. This color often represents wealth and prosperity, contributing to an atmosphere of sophistication and natural elegance.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "wealth",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#290029",
+    "#292900"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Forest Dawn",
+      "swatches": [
+        "#002900",
+        "#A3B18A",
+        "#344E41",
+        "#DAD7CD"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#002900",
+        "#774F38",
+        "#E0B873",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "packaging for organic food",
+      "restaurant branding for farm-to-table concepts"
+    ],
+    "wellness": [
+      "spa interiors",
+      "yoga studio branding"
+    ],
+    "fashion": [
+      "outerwear",
+      "formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Evergreen Forest",
+      "description": "A lush evergreen forest with towering trees and a carpet of ferns.",
+      "image_url": "https://example.com/evergreen_forest.jpg"
+    },
+    {
+      "title": "Emerald Jewelry",
+      "description": "A stunning emerald necklace that exudes elegance and sophistication.",
+      "image_url": "https://example.com/emerald_necklace.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones for a balanced look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with lighter greens for a harmonious palette.",
+    "Contrast with warm colors for visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect Deep Fir shades for your next project!",
+  "seo_meta": {
+    "title": "Deep Fir Color Meaning: Understanding #002900",
+    "description": "Discover the meaning and uses of Deep Fir (#002900). Learn about its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-05-18T14:02:19.327843+00:00",
+  "updated_at": "2025-05-18T14:02:19.327843+00:00",
+  "slug": "deep-fir"
+}

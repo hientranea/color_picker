@@ -1,0 +1,79 @@
+{
+  "id": "9a1ef633-11c8-4fab-83a6-802d2544f3b3",
+  "color_name": "Woodland",
+  "hex_code": "#4D5328",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Woodland evokes feelings of nature, stability, and grounding. It is associated with growth, renewal, and the outdoors. This color promotes a sense of calm and connection to the earth, symbolizing resilience and natural beauty. It can also represent maturity and dependability.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "growth",
+    "calm",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#D1CA4D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#4D5328",
+        "#736F63",
+        "#A6A48F",
+        "#D9D6C3"
+      ]
+    },
+    {
+      "name": "Forest Dawn",
+      "swatches": [
+        "#4D5328",
+        "#808A56",
+        "#B3BFA7",
+        "#E6E9D9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Sustainable agriculture branding"
+    ],
+    "wellness": [
+      "Eco-friendly spas",
+      "Holistic health products"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The dense green canopy of an ancient forest, filtering sunlight and creating a peaceful atmosphere.",
+      "image_url": "url_to_forest_canopy_image.jpg"
+    },
+    {
+      "title": "Army Fatigue Uniform",
+      "description": "A uniform utilizing woodland to provide effective camouflage in forested environments.",
+      "image_url": "url_to_army_fatigue_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with beige for a natural look.",
+    "Combine with cream for a soft contrast.",
+    "Use with terracotta for an earthy palette.",
+    "Accent with gold for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Woodland Color Meaning: Understanding #4D5328",
+    "description": "Discover the meaning, associations, and best uses of Woodland color. Explore palettes, industry applications, and real-world examples of this earthy shade."
+  },
+  "created_at": "2025-06-01T15:18:15.684195+00:00",
+  "updated_at": "2025-06-01T15:18:15.684195+00:00",
+  "slug": "woodland"
+}

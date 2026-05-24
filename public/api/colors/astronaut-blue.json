@@ -1,0 +1,80 @@
+{
+  "id": "901a9baf-e19f-457a-9b81-9651c980bdde",
+  "color_name": "Astronaut Blue",
+  "hex_code": "#013E62",
+  "wheel_position": "Cool Blue",
+  "psychological_meaning": "Astronaut Blue evokes feelings of trust, stability, and intelligence. It is associated with depth and expertise, offering a sense of security and reliability. This color promotes a calm and collected atmosphere, making it suitable for conveying professionalism and trustworthiness.",
+  "emotional_associations": [
+    "Trust",
+    "Stability",
+    "Intelligence",
+    "Calm",
+    "Professionalism"
+  ],
+  "complementary_colors": [
+    "#622401"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Deep Sea Harmony",
+      "swatches": [
+        "#013E62",
+        "#77B5FE",
+        "#E0FFFF",
+        "#000080"
+      ]
+    },
+    {
+      "name": "Corporate Calm",
+      "swatches": [
+        "#013E62",
+        "#A9A9A9",
+        "#FFFFFF",
+        "#2F4F4F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data dashboards",
+      "Security software",
+      "Corporate websites"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Healthcare branding"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Headquarters Lobby",
+      "description": "The reception area is painted in Astronaut Blue to project an image of competence and stability.",
+      "image_url": "https://example.com/astronaut_blue_lobby.jpg"
+    },
+    {
+      "title": "Security Software Interface",
+      "description": "The user interface utilizes Astronaut Blue to instill confidence in the software's reliability.",
+      "image_url": "https://example.com/astronaut_blue_software.png"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with lighter blues for a calming monochromatic scheme.",
+    "Use sparingly with bright accents for a pop of color."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations of Astronaut Blue with our color palette generator.",
+  "seo_meta": {
+    "title": "Astronaut Blue Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning, psychology, and best uses of Astronaut Blue. Explore color palettes and how to incorporate this calming color into your designs."
+  },
+  "created_at": "2025-06-01T14:40:17.219107+00:00",
+  "updated_at": "2025-06-01T14:40:17.219107+00:00",
+  "slug": "astronaut-blue"
+}

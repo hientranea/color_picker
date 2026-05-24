@@ -1,0 +1,83 @@
+{
+  "id": "ff8bea1e-fec3-48bb-8ab1-6f72f5c2bc72",
+  "color_name": "Bush",
+  "hex_code": "#0D2E1C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bush green evokes feelings of nature, growth, and stability. It is associated with the outdoors and can promote a sense of tranquility and groundedness. This color often represents resilience and a connection to the earth, offering a sense of calm and security.",
+  "emotional_associations": [
+    "nature",
+    "stability",
+    "growth",
+    "tranquility",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#E2D113"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#0D2E1C",
+        "#355E3B",
+        "#608268",
+        "#A3BCB6",
+        "#D0D0D0"
+      ]
+    },
+    {
+      "name": "Forest Calm",
+      "swatches": [
+        "#0D2E1C",
+        "#228B22",
+        "#6B8E23",
+        "#BDB76B",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Environmental monitoring apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Branding for health food stores"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Outdoor clothing",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Evergreen Forest",
+      "description": "The lush greenery of a dense evergreen forest, symbolizing natural abundance and peace.",
+      "image_url": "https://example.com/evergreen_forest.jpg"
+    },
+    {
+      "title": "Mossy Rock",
+      "description": "A rock covered in vibrant green moss, illustrating the beauty of subtle, natural colors.",
+      "image_url": "https://example.com/mossy_rock.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones for a balanced look.",
+    "Combine with earthy browns and beiges for a natural feel.",
+    "Use with gold accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Bush Color Meaning: Understanding #0D2E1C",
+    "description": "Discover the meaning and associations of the Bush color (#0D2E1C). Learn about its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T14:47:27.419681+00:00",
+  "updated_at": "2025-06-01T14:47:27.419681+00:00",
+  "slug": "bush"
+}

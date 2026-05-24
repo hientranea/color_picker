@@ -1,0 +1,80 @@
+{
+  "id": "50a273d3-d76a-413f-8b2d-90b3cf17191c",
+  "color_name": "Bright Gray",
+  "hex_code": "#3C4151",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Bright Gray represents neutrality, balance, and calm. It's often associated with sophistication, practicality, and a sense of stability. This color can evoke feelings of composure and reliability, making it a versatile choice for creating a sense of understated elegance.",
+  "emotional_associations": [
+    "Neutrality",
+    "Balance",
+    "Calm",
+    "Sophistication",
+    "Practicality",
+    "Stability"
+  ],
+  "complementary_colors": [
+    "#514C3C",
+    "#A5A094"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#3C4151",
+        "#707784",
+        "#A5ADBA"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#3C4151",
+        "#A68B60",
+        "#D4A373"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Clean dashboards",
+      "Minimalist apps",
+      "Backgrounds for data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Relaxation products packaging"
+    ],
+    "fashion": [
+      "Neutral basics",
+      "Professional attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room with bright gray walls provides a calm and sophisticated backdrop for colorful furniture and artwork.",
+      "image_url": "https://example.com/bright_gray_apartment.jpg"
+    },
+    {
+      "title": "Tech Gadget Packaging",
+      "description": "The packaging of a high-end tech device uses bright gray to convey a sense of innovation and quality.",
+      "image_url": "https://example.com/bright_gray_gadget.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with pastels for a soft, airy look.",
+    "Use with bolder colors to create contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Bright Gray Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of Bright Gray, its psychological effects, best color combinations, and applications in design, marketing, and more."
+  },
+  "created_at": "2025-06-01T15:08:16.529515+00:00",
+  "updated_at": "2025-06-01T15:08:16.529515+00:00",
+  "slug": "bright-gray"
+}

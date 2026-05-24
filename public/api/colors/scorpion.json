@@ -1,0 +1,83 @@
+{
+  "id": "4606548d-c1e5-4639-82da-8e83ca9c9572",
+  "color_name": "Scorpion",
+  "hex_code": "#695F62",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Scorpion, a muted, dusky gray, often evokes feelings of sophistication, mystery, and introspection. It sits comfortably between black and white, suggesting neutrality and balance, while hinting at hidden depths and complexities. It can also represent resilience and adaptability.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "balance",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#5F6966",
+    "#626965"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#695F62",
+        "#A09893",
+        "#D7CEC7",
+        "#4A4440"
+      ]
+    },
+    {
+      "name": "Monochrome Mood",
+      "swatches": [
+        "#695F62",
+        "#8B8386",
+        "#ACAAAB",
+        "#282526"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "subtle backgrounds",
+      "muted text",
+      "inactive states"
+    ],
+    "food_beverage": [
+      "packaging for premium goods",
+      "restaurant interiors",
+      "menu design"
+    ],
+    "wellness": [
+      "spa decor",
+      "meditation apps"
+    ],
+    "fashion": [
+      "outerwear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A sleek apartment utilizes Scorpion on its walls to create a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/scorpion_apartment.jpg"
+    },
+    {
+      "title": "High-End Watch Design",
+      "description": "A luxury watch features a Scorpion-colored band, conveying elegance and understated style.",
+      "image_url": "https://example.com/scorpion_watch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic scheme.",
+    "Use with teal or muted blues for a calming contrast.",
+    "Combine with warm browns for an earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore complementary colors and create your own palettes with our color tool.",
+  "seo_meta": {
+    "title": "Scorpion Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Uncover the meaning of Scorpion (#695F62). Explore its psychological impact, find complementary colors, and discover inspiring palettes for your next project."
+  },
+  "created_at": "2025-06-01T15:31:28.282622+00:00",
+  "updated_at": "2025-06-01T15:31:28.282622+00:00",
+  "slug": "scorpion"
+}

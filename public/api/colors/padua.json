@@ -1,0 +1,81 @@
+{
+  "id": "577e56e6-bf4e-4c64-941b-76a64fec45cf",
+  "color_name": "Padua",
+  "hex_code": "#ADE6C4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Padua, a soft and gentle green, evokes feelings of tranquility, growth, and renewal. It is often associated with nature, health, and well-being, promoting a sense of calm and balance. This color can inspire feelings of hope, peace, and harmony, making it ideal for spaces intended for relaxation and rejuvenation.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "renewal",
+    "health",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#E6ADA5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nature's Embrace",
+      "swatches": [
+        "#ADE6C4",
+        "#77DD77",
+        "#90EE90",
+        "#D0F0C0"
+      ]
+    },
+    {
+      "name": "Serene Spa",
+      "swatches": [
+        "#ADE6C4",
+        "#B0E57C",
+        "#E0FFFF",
+        "#F0FFF0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health tracking apps",
+      "Meditation apps"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Spring and summer collections",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior",
+      "description": "A calming spa interior featuring Padua-colored walls and accents to promote relaxation.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Organic Food Packaging",
+      "description": "Packaging for organic green tea, utilizing Padua to convey natural and healthy qualities.",
+      "image_url": "https://example.com/tea_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals like white or cream for a soothing effect.",
+    "Combine with earthy tones like browns and tans for a natural feel.",
+    "Use with soft blues or yellows for a harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Padua Color Meaning: Tranquility, Growth, and Harmony",
+    "description": "Discover the meaning, psychology, and best uses of Padua (#ADE6C4), a gentle green color associated with nature, health, and well-being."
+  },
+  "created_at": "2025-06-01T16:12:17.226765+00:00",
+  "updated_at": "2025-06-01T16:12:17.226765+00:00",
+  "slug": "padua"
+}

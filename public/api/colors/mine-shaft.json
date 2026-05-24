@@ -1,0 +1,79 @@
+{
+  "id": "ad40eb4d-7370-4cf1-9b35-6b9ec435c3ee",
+  "color_name": "Mine Shaft",
+  "hex_code": "#323232",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Mine Shaft, a deep, cool gray, evokes feelings of sophistication, neutrality, and grounded stability. It often represents practicality, timelessness, and a sense of calm reserve. This color can be seen as understated and reliable, suggesting a sense of composure and quiet strength.",
+  "emotional_associations": [
+    "sophistication",
+    "neutrality",
+    "stability",
+    "calm",
+    "understated",
+    "reliable"
+  ],
+  "complementary_colors": [
+    "#DEDEDE",
+    "#9B9B9B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Elegance",
+      "swatches": [
+        "#323232",
+        "#4D4D4D",
+        "#696969",
+        "#858585"
+      ]
+    },
+    {
+      "name": "Urban Chic",
+      "swatches": [
+        "#323232",
+        "#A9A9A9",
+        "#FFFFFF",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard backgrounds",
+      "form elements",
+      "text contrast"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "outerwear",
+      "formal wear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring walls painted in a Mine Shaft color, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/mine-shaft-apartment.jpg"
+    },
+    {
+      "title": "Steel Office Building",
+      "description": "The exterior of a contemporary office building using Mine Shaft colored steel panels.",
+      "image_url": "https://example.com/mine-shaft-building.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with brighter colors for a balanced contrast.",
+    "Use with natural textures like wood for added warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Mine Shaft Color Meaning: Understanding the Psychology of #323232",
+    "description": "Discover the meaning and associations of Mine Shaft (#323232), a sophisticated gray color. Explore its psychology, complementary colors, and usage in design."
+  },
+  "created_at": "2025-06-01T15:02:49.694559+00:00",
+  "updated_at": "2025-06-01T15:02:49.694559+00:00",
+  "slug": "mine-shaft"
+}

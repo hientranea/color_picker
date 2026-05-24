@@ -1,0 +1,82 @@
+{
+  "id": "fed11c02-8f31-428d-a0b5-04c6f755f12d",
+  "color_name": "Vesuvius",
+  "hex_code": "#B14A0B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Vesuvius, a deep, earthy reddish-brown, evokes feelings of warmth, stability, and connection to the earth. It suggests reliability, resilience, and a grounded nature, reminiscent of ancient landscapes and natural materials. This color can also imply a sense of history, tradition, and timeless beauty, fostering a sense of comfort and security.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "earthiness",
+    "reliability",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#0BBDB1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#B14A0B",
+        "#D4A373",
+        "#A98D72",
+        "#6B5845"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#B14A0B",
+        "#F2EBD3",
+        "#73626B",
+        "#4A4E69"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee",
+      "Branding for artisanal bread",
+      "Restaurant interiors with a cozy atmosphere"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter clothing",
+      "Accessories like scarves and belts"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a Vesuvius-like hue adds warmth and sophistication to a living space.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "The vibrant reddish-brown of autumn leaves showcases the natural beauty of the Vesuvius color.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Combine with teal for a balanced contrast.",
+    "Use with cream or beige for a warm and inviting feel.",
+    "Accent with gold for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies using our color palette generator!",
+  "seo_meta": {
+    "title": "Vesuvius Color Meaning: Understanding #B14A0B | Color Meanings",
+    "description": "Discover the meaning, psychology, and uses of Vesuvius (#B14A0B). Explore palettes and industry applications for this earthy reddish-brown color."
+  },
+  "created_at": "2025-06-01T16:14:54.398843+00:00",
+  "updated_at": "2025-06-01T16:14:54.398843+00:00",
+  "slug": "vesuvius"
+}

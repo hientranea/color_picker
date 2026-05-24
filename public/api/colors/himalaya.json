@@ -1,0 +1,80 @@
+{
+  "id": "8b880a4c-8752-4f97-805e-cbd66d6ba1ae",
+  "color_name": "Himalaya",
+  "hex_code": "#6A5D1B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Himalaya evokes feelings of earthiness, stability, and quiet strength. It represents a connection to nature and a sense of grounding. This color can inspire feelings of resilience and dependability, making it a comforting and reassuring choice.",
+  "emotional_associations": [
+    "earthiness",
+    "stability",
+    "resilience",
+    "grounding",
+    "dependability"
+  ],
+  "complementary_colors": [
+    "#5D6A80"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#6A5D1B",
+        "#A3946B",
+        "#D1C6A3",
+        "#596E79",
+        "#36454F"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#6A5D1B",
+        "#8B4513",
+        "#A0522D",
+        "#CD853F",
+        "#DEB887"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Restaurant interiors with a focus on natural elements"
+    ],
+    "wellness": [
+      "Spa interiors to promote relaxation",
+      "Branding for natural health products"
+    ],
+    "fashion": [
+      "Outdoor apparel and accessories",
+      "Sustainable and eco-friendly clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Clothing Brand",
+      "description": "A clothing brand uses Himalaya as a key color in its branding to emphasize its commitment to sustainability and natural materials.",
+      "image_url": "https://example.com/himalaya_clothing.jpg"
+    },
+    {
+      "title": "Eco-Friendly Packaging",
+      "description": "Himalaya is used in the packaging design of a line of organic food products, conveying a sense of natural goodness and environmental responsibility.",
+      "image_url": "https://example.com/himalaya_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural, understated look.",
+    "Combine with blues and greens to enhance the connection to nature.",
+    "Use with metallic accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Himalaya Color Meaning: Understanding #6A5D1B",
+    "description": "Discover the meaning, associations, and best uses of the Himalaya color (#6A5D1B). Find complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:31:50.223639+00:00",
+  "updated_at": "2025-06-01T15:31:50.223639+00:00",
+  "slug": "himalaya"
+}

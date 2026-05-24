@@ -1,0 +1,79 @@
+{
+  "id": "1fa0d7be-7007-4be4-89ba-4901894edd73",
+  "color_name": "Silver Chalice",
+  "hex_code": "#ACACAC",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Silver Chalice represents neutrality, sophistication, and modernity. Its muted gray tone evokes feelings of calmness and balance, while also suggesting a sense of understated elegance and practicality. It's often associated with technology, efficiency, and a refined aesthetic.",
+  "emotional_associations": [
+    "neutrality",
+    "sophistication",
+    "modernity",
+    "calmness",
+    "balance",
+    "elegance",
+    "practicality"
+  ],
+  "complementary_colors": [
+    "#ACACAC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Elegance",
+      "swatches": [
+        "#ACACAC",
+        "#C0C0C0",
+        "#999999"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#ACACAC",
+        "#FFFFFF",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard backgrounds",
+      "iconography",
+      "text highlights"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa branding",
+      "meditation apps"
+    ],
+    "fashion": [
+      "minimalist clothing lines",
+      "accessory design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A minimalist apartment featuring Silver Chalice walls and accents.",
+      "image_url": "https://example.com/silver_chalice_apartment.jpg"
+    },
+    {
+      "title": "Sleek Tech Gadget",
+      "description": "A new smartphone with a Silver Chalice finish.",
+      "image_url": "https://example.com/silver_chalice_phone.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean look.",
+    "Combine with black for a sophisticated contrast.",
+    "Use with cool blues and greens for a calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Silver Chalice Color Meaning: Hex Code, Psychology & Palettes",
+    "description": "Discover the meaning of Silver Chalice (#ACACAC), its psychological effects, best palettes, and real-world examples. Create beautiful designs with this versatile neutral color."
+  },
+  "created_at": "2025-06-01T16:11:20.498488+00:00",
+  "updated_at": "2025-06-01T16:11:20.498488+00:00",
+  "slug": "silver-chalice"
+}

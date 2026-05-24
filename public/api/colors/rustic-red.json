@@ -1,0 +1,77 @@
+{
+  "id": "ab86b01d-6b00-41fc-9e05-c16b45851f71",
+  "color_name": "Rustic Red",
+  "hex_code": "#480404",
+  "wheel_position": "Shade of Red",
+  "psychological_meaning": "Rustic Red evokes feelings of warmth, tradition, and groundedness. It combines the energy of red with a touch of earthiness, suggesting stability and a connection to the natural world. It can also represent a sense of heritage and timelessness, often associated with vintage or handcrafted items.",
+  "emotional_associations": [
+    "warmth",
+    "tradition",
+    "groundedness",
+    "stability",
+    "heritage"
+  ],
+  "complementary_colors": [
+    "#044848"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#480404",
+        "#D3A625",
+        "#7A3E3E",
+        "#E07A5F",
+        "#4A4E69"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#480404",
+        "#A98D72",
+        "#64574A",
+        "#F2EBD3",
+        "#8A817C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Coffee packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Autumn wear",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Barn",
+      "description": "An old, weathered barn painted in a rustic red hue, symbolizing rural life and history.",
+      "image_url": "https://example.com/barn.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "A pair of well-worn leather boots in a rustic red color, representing durability and timeless style.",
+      "image_url": "https://example.com/boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with deep greens for a nature-inspired palette.",
+    "Use with metallics for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and variations with our color picker tool.",
+  "seo_meta": {
+    "title": "Rustic Red Color Meaning: Symbolism and Design Ideas",
+    "description": "Discover the meaning of Rustic Red, its psychological effects, and how to use it in your designs for a warm, traditional feel."
+  },
+  "created_at": "2025-06-01T15:14:40.21613+00:00",
+  "updated_at": "2025-06-01T15:14:40.21613+00:00",
+  "slug": "rustic-red"
+}

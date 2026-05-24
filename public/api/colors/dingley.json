@@ -1,0 +1,80 @@
+{
+  "id": "e77917d0-c14c-458b-ad92-3a9e75fc6da6",
+  "color_name": "Dingley",
+  "hex_code": "#5D7747",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Dingley, a muted olive green, evokes feelings of tranquility, stability, and connection to nature. It suggests growth, renewal, and harmony, often associated with balance and resilience. Its earthy tones can create a calming and reassuring atmosphere, promoting a sense of well-being and groundedness.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "nature",
+    "growth",
+    "harmony",
+    "balance",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#775D6D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#5D7747",
+        "#A3B18A",
+        "#E5E6C6",
+        "#8F9779"
+      ]
+    },
+    {
+      "name": "Rustic Harmony",
+      "swatches": [
+        "#5D7747",
+        "#D4A373",
+        "#745435",
+        "#BFA180"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Sustainable agriculture branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Eco-friendly spa branding"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Grove",
+      "description": "The color of olive groves in the late afternoon sun, conveying peace and abundance.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    },
+    {
+      "title": "Forest Trail",
+      "description": "The muted green of a forest trail, representing exploration and tranquility.",
+      "image_url": "https://example.com/forest_trail.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted browns for a natural look.",
+    "Combine with creams and beiges for a calming palette.",
+    "Accent with terracotta for a touch of warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Dingley Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning, psychology, and best uses of Dingley (#5D7747). Explore complementary colors, palettes, and industry applications for this tranquil olive green."
+  },
+  "created_at": "2025-06-01T15:25:05.366541+00:00",
+  "updated_at": "2025-06-01T15:25:05.366541+00:00",
+  "slug": "dingley"
+}

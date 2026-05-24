@@ -1,0 +1,84 @@
+{
+  "id": "923d68dc-21af-4741-806d-63477a31f189",
+  "color_name": "Limeade",
+  "hex_code": "#6F9D02",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Limeade evokes feelings of freshness, energy, and a youthful zest for life. It is associated with optimism, growth, and a connection to nature, offering a sense of revitalization and playful creativity. It suggests a blend of zest and tranquility, making it a refreshing and vibrant choice.",
+  "emotional_associations": [
+    "freshness",
+    "energy",
+    "youth",
+    "optimism",
+    "growth",
+    "nature",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#9D056D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Citrus Burst",
+      "swatches": [
+        "#6F9D02",
+        "#FFC300",
+        "#FFA500",
+        "#FFFDD0"
+      ]
+    },
+    {
+      "name": "Earthy Revival",
+      "swatches": [
+        "#6F9D02",
+        "#A0522D",
+        "#D2B48C",
+        "#228B22"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "App icons for health and wellness apps",
+      "Call-to-action buttons for eco-friendly products"
+    ],
+    "food_beverage": [
+      "Packaging for lime-flavored beverages",
+      "Branding for organic food stores"
+    ],
+    "wellness": [
+      "Logos for yoga studios",
+      "Website design for health retreats"
+    ],
+    "fashion": [
+      "Accent color in sportswear",
+      "Summer dresses"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Limeade Drink",
+      "description": "The color of freshly squeezed limeade on a sunny day.",
+      "image_url": "https://example.com/limeade_drink.jpg"
+    },
+    {
+      "title": "Green Apple",
+      "description": "The vibrant hue of a crisp green apple.",
+      "image_url": "https://example.com/green_apple.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with yellows for a bright, energetic feel.",
+    "Combine with browns for an earthy, natural look.",
+    "Use with whites for a clean, refreshing palette.",
+    "Accent with dark greens for depth and contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades with our color palette generator!",
+  "seo_meta": {
+    "title": "Limeade Color Meaning: Discover the Psychology of #6F9D02",
+    "description": "Uncover the meaning and associations of Limeade (#6F9D02). Explore its psychological effects, complementary colors, and industry use cases for design inspiration."
+  },
+  "created_at": "2025-06-01T15:34:41.637898+00:00",
+  "updated_at": "2025-06-01T15:34:41.637898+00:00",
+  "slug": "limeade"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "5afcff61-4ec4-4840-ba30-3f5beebd4492",
+  "color_name": "Lemon Ginger",
+  "hex_code": "#AC9E22",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lemon Ginger evokes feelings of warmth, comfort, and natural energy. It is associated with health, vitality, and a sense of earthy well-being. The color suggests a balanced blend of zest and groundedness, inspiring optimism and gentle strength.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "natural energy",
+    "health",
+    "vitality",
+    "optimism"
+  ],
+  "complementary_colors": [
+    "#222EAC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#AC9E22",
+        "#7A6A15",
+        "#D4C159",
+        "#524607",
+        "#E6E0C4"
+      ]
+    },
+    {
+      "name": "Zesty Spice",
+      "swatches": [
+        "#AC9E22",
+        "#FFA500",
+        "#F0E68C",
+        "#CD853F",
+        "#8B4513"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for teas and spices",
+      "Restaurant branding emphasizing natural ingredients"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Autumn apparel",
+      "Accessories with an earthy tone"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ginger Tea Packaging",
+      "description": "A tea brand uses Lemon Ginger to highlight the natural ingredients and soothing qualities of their ginger tea.",
+      "image_url": "https://example.com/ginger_tea.jpg"
+    },
+    {
+      "title": "Natural Soap Label",
+      "description": "A handcrafted soap company incorporates Lemon Ginger into their label design to convey the natural and gentle nature of their product.",
+      "image_url": "https://example.com/natural_soap.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with creams and whites for a cozy aesthetic.",
+    "Use with dark browns for an earthy and grounded palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Lemon Ginger and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Lemon Ginger Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Lemon Ginger (#AC9E22), its psychological associations, complementary colors, and practical applications in design."
+  },
+  "created_at": "2025-06-01T16:10:52.67743+00:00",
+  "updated_at": "2025-06-01T16:10:52.67743+00:00",
+  "slug": "lemon-ginger"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "ba0a86a5-920b-4c05-9e4c-4d582a2237b8",
+  "color_name": "Eastern Blue",
+  "hex_code": "#1E9AB0",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Eastern Blue evokes feelings of tranquility, stability, and trustworthiness. It is often associated with clear communication, intelligence, and efficiency. This color can promote a sense of calm and serenity, while also inspiring confidence and reliability. It is a versatile color that can be both professional and approachable.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "trust",
+    "communication",
+    "intelligence",
+    "serenity",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#B0311E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Shores",
+      "swatches": [
+        "#1E9AB0",
+        "#A7D1AB",
+        "#F2EBD3",
+        "#73626E"
+      ]
+    },
+    {
+      "name": "Professional Calm",
+      "swatches": [
+        "#1E9AB0",
+        "#34495E",
+        "#F9AA33",
+        "#ECF0F1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Communication apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Therapy websites"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Business attire",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Robin's Egg",
+      "description": "The delicate blue of a robin's egg shares a similar hue to Eastern Blue, representing new beginnings and natural beauty.",
+      "image_url": "https://example.com/robinsegg.jpg"
+    },
+    {
+      "title": "Clear Sky",
+      "description": "On a calm day, the sky can resemble Eastern Blue, bringing a sense of peace and openness.",
+      "image_url": "https://example.com/clearsky.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with teal or aqua for a harmonious palette.",
+    "Use with orange or coral for a vibrant contrast.",
+    "Add white for a clean and fresh feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore complementary colors and create stunning palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Eastern Blue Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of Eastern Blue, its psychological associations, best color combinations, and industry use cases for branding and design."
+  },
+  "created_at": "2025-06-01T14:53:41.311153+00:00",
+  "updated_at": "2025-06-01T14:53:41.311153+00:00",
+  "slug": "eastern-blue"
+}

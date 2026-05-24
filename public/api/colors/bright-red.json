@@ -1,0 +1,82 @@
+{
+  "id": "656471e2-2313-413a-b0d3-3a9f8a124755",
+  "color_name": "Bright Red",
+  "hex_code": "#B10000",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Bright red is a stimulating color that evokes feelings of energy, excitement, and passion. It is associated with courage, strength, and power. However, it can also signify danger, aggression, and impulsiveness, depending on the context and culture. It is a color that demands attention and can be used to create a sense of urgency or importance.",
+  "emotional_associations": [
+    "energy",
+    "passion",
+    "excitement",
+    "courage",
+    "warmth",
+    "alertness"
+  ],
+  "complementary_colors": [
+    "#009AB1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Fiery Sunset",
+      "swatches": [
+        "#B10000",
+        "#FF4500",
+        "#FFA500",
+        "#FFD700"
+      ]
+    },
+    {
+      "name": "Bold Contrast",
+      "swatches": [
+        "#B10000",
+        "#FFFFFF",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Call-to-action buttons",
+      "Error messages",
+      "Highlighting important information"
+    ],
+    "food_beverage": [
+      "Restaurant branding",
+      "Energy drinks",
+      "Spicy food packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Statement pieces",
+      "Accents",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ferrari",
+      "description": "The iconic sports car, symbolizing speed and luxury.",
+      "image_url": "url_to_ferrari_image.jpg"
+    },
+    {
+      "title": "Coca-Cola Logo",
+      "description": "The classic logo, representing refreshment and nostalgia.",
+      "image_url": "url_to_coca_cola_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and modern look.",
+    "Use with black for a dramatic and powerful effect.",
+    "Combine with gold for a luxurious feel.",
+    "Balance with cooler colors like blue or green."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of red and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Bright Red Color Meaning: Symbolism, Psychology & Design",
+    "description": "Discover the meaning of bright red, its psychological impact, emotional associations, and how to use it in design. Explore color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T16:14:47.173281+00:00",
+  "updated_at": "2025-06-01T16:14:47.173281+00:00",
+  "slug": "bright-red"
+}

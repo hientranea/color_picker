@@ -1,0 +1,82 @@
+{
+  "id": "25b9613e-4583-4f8b-a826-c01f77d8fcf7",
+  "color_name": "Buttered Rum",
+  "hex_code": "#A1750D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Buttered Rum, a warm and inviting shade of brown, evokes feelings of comfort, security, and nostalgia. It represents stability and reliability, suggesting a connection to the earth and a sense of grounding. This color promotes feelings of warmth, coziness, and relaxation, reminiscent of comforting beverages and familiar surroundings. It can also suggest maturity, wisdom, and a connection to traditional values.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "security",
+    "nostalgia",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#0DA195"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#A1750D",
+        "#D4A373",
+        "#E2D1B3",
+        "#8C826A"
+      ]
+    },
+    {
+      "name": "Cozy Cabin",
+      "swatches": [
+        "#A1750D",
+        "#654321",
+        "#C04000",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Whiskey labels",
+      "Bakery branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation apps",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter apparel",
+      "Boots and accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Armchair",
+      "description": "A classic leather armchair in a Buttered Rum hue, radiating comfort and sophistication.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    },
+    {
+      "title": "Wooden Coffee Table",
+      "description": "A rustic wooden coffee table with a rich Buttered Rum finish, adding warmth to a living room.",
+      "image_url": "https://example.com/wooden_table.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with deep greens for a nature-inspired palette.",
+    "Use with blues and teals for a contrasting, yet harmonious feel.",
+    "Add metallic accents like gold or copper for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and palettes with our interactive color picker!",
+  "seo_meta": {
+    "title": "Buttered Rum Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of Buttered Rum (#A1750D), its psychological associations, best color pairings, and real-world applications. Explore harmonious palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T16:03:58.774494+00:00",
+  "updated_at": "2025-06-01T16:03:58.774494+00:00",
+  "slug": "buttered-rum"
+}

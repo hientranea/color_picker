@@ -1,0 +1,76 @@
+{
+  "id": "7ad88b39-c900-4802-8f38-f08f6501e304",
+  "color_name": "Cloudy",
+  "hex_code": "#ACA59F",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Cloudy evokes feelings of calmness, neutrality, and introspection. It represents stability and can create a sense of serenity and peace. However, it can also symbolize melancholy or a lack of energy if not balanced with brighter hues.",
+  "emotional_associations": [
+    "calmness",
+    "neutrality",
+    "serenity",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#9FACA5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#ACA59F",
+        "#C0B8B2",
+        "#A09993"
+      ]
+    },
+    {
+      "name": "Earthy Contrast",
+      "swatches": [
+        "#ACA59F",
+        "#6B5F58",
+        "#E6DCD4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Text",
+      "Buttons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Relaxation content"
+    ],
+    "fashion": [
+      "Neutral clothing",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cloudy Sky",
+      "description": "A serene cloudy sky during the daytime.",
+      "image_url": "https://example.com/cloudy_sky.jpg"
+    },
+    {
+      "title": "Stone Architecture",
+      "description": "Buildings made of natural stone, featuring cloudy color variations.",
+      "image_url": "https://example.com/stone_architecture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with soft blues for a calming ambiance.",
+    "Use with warmer tones for a balanced contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover harmonious color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Cloudy Color Meaning: Understanding #ACA59F",
+    "description": "Explore the meaning, psychology, and uses of the color Cloudy (#ACA59F). Find complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:11:14.001112+00:00",
+  "updated_at": "2025-06-01T16:11:14.001112+00:00",
+  "slug": "cloudy"
+}

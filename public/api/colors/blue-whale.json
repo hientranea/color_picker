@@ -1,0 +1,75 @@
+{
+  "id": "d2b29dc3-cd02-4422-aa5a-95c732220fb7",
+  "color_name": "Blue Whale",
+  "hex_code": "#042E4C",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Blue Whale, a deep and serene blue, evokes feelings of tranquility, stability, and introspection. It is often associated with the vastness of the ocean and the wisdom of the natural world, promoting a sense of calm and security while inspiring contemplation and inner peace.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "introspection",
+    "wisdom",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#FCA311"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#042E4C",
+        "#748DA6",
+        "#A9BCD0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Tranquil Dusk",
+      "swatches": [
+        "#042E4C",
+        "#345B63",
+        "#152D35",
+        "#E0E2DB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Backgrounds",
+      "Loading screens"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spa branding"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Sea Exploration",
+      "description": "The color of a deep-sea submersible, exploring the mysteries of the ocean's depths.",
+      "image_url": "https://example.com/deep_sea.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "Used in the logo of a financial institution to convey trustworthiness and stability.",
+      "image_url": "https://example.com/corporate_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use with lighter blues for a monochromatic scheme.",
+    "Combine with orange or coral for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Blue Whale Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning and associations of Blue Whale (#042E4C), and explore stunning color palettes and design inspiration for your next project."
+  },
+  "created_at": "2025-06-01T14:42:52.356026+00:00",
+  "updated_at": "2025-06-01T14:42:52.356026+00:00",
+  "slug": "blue-whale"
+}

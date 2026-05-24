@@ -1,0 +1,79 @@
+{
+  "id": "18df807e-56a9-421b-8e87-db362ab794a5",
+  "color_name": "Thunder",
+  "hex_code": "#33292F",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Thunder evokes feelings of strength, resilience, and a touch of melancholy. It represents power and the ability to weather storms, both literally and figuratively, suggesting stability and a grounded nature. This color conveys a sense of depth and quiet determination, often associated with introspection and a thoughtful approach to life.",
+  "emotional_associations": [
+    "strength",
+    "resilience",
+    "melancholy",
+    "stability",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#2F3329",
+    "#F2E9F5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Calm",
+      "swatches": [
+        "#33292F",
+        "#706466",
+        "#A69A94",
+        "#DED2CE"
+      ]
+    },
+    {
+      "name": "Stormy Contrast",
+      "swatches": [
+        "#33292F",
+        "#665259",
+        "#A68C94",
+        "#E6C2CC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode backgrounds",
+      "Subtle accents in data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for dark chocolate",
+      "Branding for robust coffee blends"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Outerwear",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Thundercloud",
+      "description": "A gathering storm cloud overhead, promising rain.",
+      "image_url": "https://example.com/thundercloud.jpg"
+    },
+    {
+      "title": "Dark Roast Coffee Beans",
+      "description": "A pile of freshly roasted dark coffee beans.",
+      "image_url": "https://example.com/coffeebeans.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for contrast",
+    "Use with deep blues and greens for a natural feel",
+    "Add metallic accents for a touch of sophistication"
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades with our interactive color palette tool!",
+  "seo_meta": {
+    "title": "Thunder Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Explore the meaning of Thunder color, its psychological associations, complementary colors, and inspiring palettes for your next design project."
+  },
+  "created_at": "2025-06-01T15:03:14.995429+00:00",
+  "updated_at": "2025-06-01T15:03:14.995429+00:00",
+  "slug": "thunder"
+}

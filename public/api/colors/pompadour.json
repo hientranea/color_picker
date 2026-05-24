@@ -1,0 +1,83 @@
+{
+  "id": "842e272c-08ac-4566-a67c-4ace12c20f41",
+  "color_name": "Pompadour",
+  "hex_code": "#660045",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pompadour is a deep, rich magenta that exudes sophistication and luxury. It often evokes feelings of creativity, passion, and ambition. This color can also symbolize unconventional beauty and a flair for the dramatic, inspiring confidence and a unique sense of style.",
+  "emotional_associations": [
+    "luxury",
+    "passion",
+    "creativity",
+    "confidence",
+    "ambition"
+  ],
+  "complementary_colors": [
+    "#006621"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Royal Dusk",
+      "swatches": [
+        "#660045",
+        "#330022",
+        "#993366",
+        "#CC6699",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Creative Burst",
+      "swatches": [
+        "#660045",
+        "#FFCC00",
+        "#0099CC",
+        "#FFFFFF",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Premium app themes",
+      "Luxury e-commerce platforms"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Exotic fruit packaging"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Aromatherapy products"
+    ],
+    "fashion": [
+      "High-end clothing",
+      "Statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Boutique Interior",
+      "description": "The walls are painted in a Pompadour hue, creating a sophisticated and inviting atmosphere.",
+      "image_url": "https://example.com/boutique.jpg"
+    },
+    {
+      "title": "Fashion Designer's Collection",
+      "description": "A stunning Pompadour gown takes center stage in a high-fashion runway show.",
+      "image_url": "https://example.com/gown.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with teal for a contrasting, vibrant look.",
+    "Use with creams and whites for a softer, more elegant palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Pompadour Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Pompadour (#660045), its psychological effects, emotional associations, and find beautiful color palettes for your next project."
+  },
+  "created_at": "2025-06-01T15:29:27.746155+00:00",
+  "updated_at": "2025-06-01T15:29:27.746155+00:00",
+  "slug": "pompadour"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "19fe4360-c70a-4e08-a7b4-e0a54a841345",
+  "color_name": "Jazzberry Jam",
+  "hex_code": "#A50B5E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jazzberry Jam evokes feelings of passion, sophistication, and creativity. It's a bold and energetic color that combines the warmth of red with the stability of purple, suggesting a dynamic yet grounded personality. This color can inspire confidence and encourage unconventional thinking.",
+  "emotional_associations": [
+    "passion",
+    "sophistication",
+    "creativity",
+    "energy",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#0BB467"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Berry Delight",
+      "swatches": [
+        "#A50B5E",
+        "#F2D7EE",
+        "#6C5B7B",
+        "#355C7D"
+      ]
+    },
+    {
+      "name": "Jam Session",
+      "swatches": [
+        "#A50B5E",
+        "#E56B6F",
+        "#B565A7",
+        "#4A4E69"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for premium jams and preserves",
+      "Branding for upscale dessert shops"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Jazzberry Jam Lipstick",
+      "description": "A popular lipstick shade known for its bold and sophisticated look.",
+      "image_url": "https://example.com/jazzberry_lipstick.jpg"
+    },
+    {
+      "title": "Abstract Painting",
+      "description": "An abstract painting that uses Jazzberry Jam to convey passion and energy.",
+      "image_url": "https://example.com/jazzberry_painting.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with teal for a vibrant contrast.",
+    "Use with soft pinks for a romantic feel.",
+    "Combine with grays for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Jazzberry Jam Color Meaning: Discover Its Psychology and Uses",
+    "description": "Uncover the meaning of Jazzberry Jam (#A50B5E), its psychological impact, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:05:47.11534+00:00",
+  "updated_at": "2025-06-01T16:05:47.11534+00:00",
+  "slug": "jazzberry-jam"
+}

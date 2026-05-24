@@ -1,0 +1,83 @@
+{
+  "id": "0c2575c6-1ac0-46e4-b836-fca4378003f8",
+  "color_name": "Mountain Mist",
+  "hex_code": "#959396",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Mountain Mist evokes feelings of calmness, serenity, and neutrality. It suggests stability and reliability, making it a color that promotes relaxation and a sense of balance. This color is often associated with sophistication and timelessness, creating a soothing and peaceful atmosphere.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "neutrality",
+    "sophistication",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#969895",
+    "#A29F97",
+    "#8A8C97"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dawn",
+      "swatches": [
+        "#959396",
+        "#D3D0CB",
+        "#EAE7E0",
+        "#7A7775"
+      ]
+    },
+    {
+      "name": "Urban Calm",
+      "swatches": [
+        "#959396",
+        "#5E5E5E",
+        "#BDBDBD",
+        "#F2F2F2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral text colors",
+      "Iconography"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Neutral clothing",
+      "Accessories",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "The walls are painted in Mountain Mist, creating a calm and inviting living space.",
+      "image_url": "https://example.com/mountain_mist_apartment.jpg"
+    },
+    {
+      "title": "Minimalist Website Design",
+      "description": "A website uses Mountain Mist as the background color for a clean and professional look.",
+      "image_url": "https://example.com/mountain_mist_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for an airy feel.",
+    "Combine with darker grays for sophistication.",
+    "Use with muted blues or greens for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to create your perfect palette with Mountain Mist!",
+  "seo_meta": {
+    "title": "Mountain Mist Color Meaning: Understanding #959396",
+    "description": "Explore the meaning, psychology, and best uses of Mountain Mist (#959396), a calming and sophisticated neutral color."
+  },
+  "created_at": "2025-06-01T15:58:01.720056+00:00",
+  "updated_at": "2025-06-01T15:58:01.720056+00:00",
+  "slug": "mountain-mist"
+}

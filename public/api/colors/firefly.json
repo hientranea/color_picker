@@ -1,0 +1,79 @@
+{
+  "id": "872f9818-fbf8-4055-84c4-22fb985a22f8",
+  "color_name": "Firefly",
+  "hex_code": "#0E2A30",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Firefly evokes feelings of tranquility and mystery, reminiscent of twilight nights illuminated by gentle, glowing insects. It suggests sophistication and introspection, blending the stability of darker hues with a hint of enchanting luminance. It is often associated with calm confidence and a subtle, understated elegance.",
+  "emotional_associations": [
+    "mystery",
+    "tranquility",
+    "sophistication",
+    "calm",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#30160E",
+    "#A38780"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Deep Ocean",
+      "swatches": [
+        "#0E2A30",
+        "#1A4750",
+        "#547E8C",
+        "#A6BCC2"
+      ]
+    },
+    {
+      "name": "Twilight Forest",
+      "swatches": [
+        "#0E2A30",
+        "#223B30",
+        "#4A655D",
+        "#8CA6A6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Data visualization dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Nocturnal Sky",
+      "description": "A photograph capturing the subtle hues of the night sky just after sunset.",
+      "image_url": "https://example.com/nocturnal_sky.jpg"
+    },
+    {
+      "title": "Deep Sea Coral",
+      "description": "An image showcasing the dark, mysterious colors found in deep sea coral reefs.",
+      "image_url": "https://example.com/deep_sea_coral.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for a touch of luxury.",
+    "Combine with lighter blues for a calming effect.",
+    "Use with creams and off-whites for a classic look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our intuitive color palette generator.",
+  "seo_meta": {
+    "title": "Firefly Color Meaning: Understanding #0E2A30",
+    "description": "Discover the meaning, psychology, and best uses of the color Firefly (#0E2A30) in design and branding."
+  },
+  "created_at": "2025-06-01T14:47:41.56224+00:00",
+  "updated_at": "2025-06-01T14:47:41.56224+00:00",
+  "slug": "firefly"
+}

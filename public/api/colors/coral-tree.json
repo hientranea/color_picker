@@ -1,0 +1,78 @@
+{
+  "id": "b00b3832-4e98-46c5-8b03-96482ea56a76",
+  "color_name": "Coral Tree",
+  "hex_code": "#A86B6B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Coral Tree, a muted reddish-brown, evokes feelings of warmth, stability, and earthiness. It suggests a connection to nature and a sense of grounded comfort. It can also represent resilience and a quiet strength.",
+  "emotional_associations": [
+    "Warmth",
+    "Stability",
+    "Earthiness",
+    "Comfort",
+    "Resilience"
+  ],
+  "complementary_colors": [
+    "#6BA8A8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#A86B6B",
+        "#D3B9A1",
+        "#776B5D",
+        "#E2DCC8"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#A86B6B",
+        "#8B4513",
+        "#C04000",
+        "#F08080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee shops branding",
+      "Chocolate packaging"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A comfortable leather sofa in a Coral Tree hue.",
+      "image_url": "https://example.com/coral_tree_sofa.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "Close-up of autumn leaves displaying the Coral Tree color.",
+      "image_url": "https://example.com/coral_tree_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a neutral palette.",
+    "Combine with teal or turquoise for a complementary contrast.",
+    "Use with darker browns for a grounded, earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Coral Tree Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Coral Tree (#A86B6B), its psychological associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:07:11.651527+00:00",
+  "updated_at": "2025-06-01T16:07:11.651527+00:00",
+  "slug": "coral-tree"
+}

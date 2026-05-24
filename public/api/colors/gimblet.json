@@ -1,0 +1,77 @@
+{
+  "id": "7653a5a2-07b7-4427-bd9b-acdc413c97c1",
+  "color_name": "Gimblet",
+  "hex_code": "#B8B56A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gimblet is a muted, earthy yellow-green that evokes feelings of tranquility and groundedness. It suggests stability and a connection to nature, offering a sense of calm and understated elegance. This color often represents maturity, reliability, and a subtle appreciation for the natural world.",
+  "emotional_associations": [
+    "calm",
+    "nature",
+    "maturity",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#6AB8B5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#B8B56A",
+        "#8F8C53",
+        "#D3D09B",
+        "#5A573B"
+      ]
+    },
+    {
+      "name": "Muted Spring",
+      "swatches": [
+        "#B8B56A",
+        "#D9D9D9",
+        "#A6A6A6",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Neutral accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Grove",
+      "description": "Rolling hills covered in olive trees, a serene landscape.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    },
+    {
+      "title": "Vintage Military Uniform",
+      "description": "An old military uniform showing its age and history.",
+      "image_url": "https://example.com/military_uniform.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, inviting look.",
+    "Combine with deep browns for a rustic feel.",
+    "Use with light greys for a modern, minimalist aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Gimblet Color Meaning: Discover Harmony and Balance | ColorBlog",
+    "description": "Uncover the meaning of Gimblet (#B8B56A), its psychological effects, and how to use it in your designs. Find complementary colors and palette suggestions for a balanced aesthetic."
+  },
+  "created_at": "2025-06-01T16:19:22.824156+00:00",
+  "updated_at": "2025-06-01T16:19:22.824156+00:00",
+  "slug": "gimblet"
+}

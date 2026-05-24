@@ -1,0 +1,83 @@
+{
+  "id": "37b26eed-e55f-4d13-971f-9b013c4948b1",
+  "color_name": "William",
+  "hex_code": "#3A686C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "William evokes a sense of tranquility and stability, blending the calming aspects of blue with the natural grounding of green. It suggests reliability, harmony, and a connection to nature, often associated with balance and rejuvenation. This color encourages contemplation and provides a sense of security, making it suitable for environments that require a calming influence.",
+  "emotional_associations": [
+    "calm",
+    "reliable",
+    "natural",
+    "serene"
+  ],
+  "complementary_colors": [
+    "#6C3A3A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#3A686C",
+        "#A68B6B",
+        "#D4C2AB",
+        "#627E72"
+      ]
+    },
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#3A686C",
+        "#77B5FE",
+        "#E0FFFF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation bars",
+      "Data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors promoting a natural vibe"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outdoor clothing",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Serene Bedroom",
+      "description": "A bedroom painted in William to promote relaxation and restful sleep.",
+      "image_url": "https://example.com/serene_bedroom.jpg"
+    },
+    {
+      "title": "Natural Food Packaging",
+      "description": "Organic food packaging using William to convey a sense of health and freshness.",
+      "image_url": "https://example.com/natural_food_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a subtle look.",
+    "Combine with warm earthy tones for a balanced palette.",
+    "Use with light blues and whites for a coastal feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color picker tool to find the perfect match for your project!",
+  "seo_meta": {
+    "title": "William Color Meaning: Understanding #3A686C",
+    "description": "Discover the meaning, psychology, and best uses of the color William (#3A686C). Find complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:06:35.506022+00:00",
+  "updated_at": "2025-06-01T15:06:35.506022+00:00",
+  "slug": "william"
+}

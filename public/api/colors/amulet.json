@@ -1,0 +1,87 @@
+{
+  "id": "c174d185-d21a-4a7a-a534-24c22ca75c86",
+  "color_name": "Amulet",
+  "hex_code": "#7B9F80",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Amulet, a muted green, evokes feelings of tranquility, growth, and security. It balances the energy of green with a hint of sophistication, suggesting stability and resilience. This color is often associated with nature and well-being, making it a calming and reassuring choice.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "security",
+    "balance",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#9F7B9A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#7B9F80",
+        "#A3B18A",
+        "#D0C9B0",
+        "#A9927D",
+        "#635A43"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#7B9F80",
+        "#A1C3D1",
+        "#E0F2F1",
+        "#77ACA2",
+        "#2E5F68"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Accessibility focused design"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding",
+      "Farm-to-table restaurant decor"
+    ],
+    "wellness": [
+      "Spa websites",
+      "Meditation app interfaces",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Sustainable fashion brands",
+      "Outdoor apparel",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mossy Forest Floor",
+      "description": "The muted green of moss covering the forest floor after a rain, providing a sense of peace and connection to nature.",
+      "image_url": "https://example.com/mossy_forest.jpg"
+    },
+    {
+      "title": "Vintage Military Tent",
+      "description": "A vintage military tent, its Amulet color faded by time, evokes a feeling of resilience and history.",
+      "image_url": "https://example.com/military_tent.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural, calming feel.",
+    "Use with copper or gold accents for a touch of sophistication.",
+    "Combine with blues and grays for a serene and modern aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Amulet Color Meaning: Understanding #7B9F80 | Color Psychology",
+    "description": "Discover the meaning, psychology, and best uses of the color Amulet (#7B9F80). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:43:08.531286+00:00",
+  "updated_at": "2025-06-01T15:43:08.531286+00:00",
+  "slug": "amulet"
+}

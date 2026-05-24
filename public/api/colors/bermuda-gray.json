@@ -1,0 +1,80 @@
+{
+  "id": "7a507694-9761-4eb5-b30f-00821f868c74",
+  "color_name": "Bermuda Gray",
+  "hex_code": "#6B8BA2",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bermuda Gray evokes feelings of tranquility, stability, and sophistication. It blends the calming aspects of blue with the grounded nature of gray, creating a sense of balance and understated elegance. This color is often associated with professionalism, reliability, and a quiet confidence.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "sophistication",
+    "professionalism",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#A2836B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#6B8BA2",
+        "#B0C4DE",
+        "#E6E6FA",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Professional Palette",
+      "swatches": [
+        "#6B8BA2",
+        "#36454F",
+        "#A9A9A9",
+        "#F5F5F5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Settings menus"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Business casual attire",
+      "Understated accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Bermuda Gray walls, creating a calming and sophisticated atmosphere.",
+      "image_url": "https://example.com/bermuda_gray_apartment.jpg"
+    },
+    {
+      "title": "Corporate Website Design",
+      "description": "A website using Bermuda Gray as a primary color for its professional and trustworthy feel.",
+      "image_url": "https://example.com/bermuda_gray_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use with crisp whites for a clean aesthetic.",
+    "Combine with deeper blues for a monochromatic scheme.",
+    "Accent with metallics like silver or chrome."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color palette generator!",
+  "seo_meta": {
+    "title": "Bermuda Gray Color Meaning: Understanding #6B8BA2",
+    "description": "Discover the meaning and psychology behind Bermuda Gray (#6B8BA2). Explore its emotional associations, complementary colors, and ideal uses in design and branding."
+  },
+  "created_at": "2025-06-01T15:32:34.164478+00:00",
+  "updated_at": "2025-06-01T15:32:34.164478+00:00",
+  "slug": "bermuda-gray"
+}

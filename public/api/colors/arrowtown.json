@@ -1,0 +1,85 @@
+{
+  "id": "b2c64f84-1ddd-4f86-b050-45557c30735f",
+  "color_name": "Arrowtown",
+  "hex_code": "#948771",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Arrowtown, a muted, earthy gray-brown, evokes feelings of stability, reliability, and groundedness. It suggests a connection to nature and a sense of timelessness. This color promotes a feeling of calm and can be perceived as sophisticated and understated, making it suitable for environments where trust and dependability are paramount.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "groundedness",
+    "calm",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#717E94"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#948771",
+        "#C6BDB4",
+        "#7A6E5F",
+        "#E8E2D7"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#948771",
+        "#FFFFFF",
+        "#333333",
+        "#A0A0A0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization",
+      "Neutral accents in dashboards",
+      "Subtle button styles"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interior design",
+      "Menu design"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding",
+      "Meditation app design"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Fireplace",
+      "description": "A natural stone fireplace in a modern living room showcases the warmth and grounding effect of Arrowtown.",
+      "image_url": "https://example.com/stone-fireplace.jpg"
+    },
+    {
+      "title": "Wool Coat",
+      "description": "A stylish wool coat in Arrowtown offers a sophisticated and timeless look for any occasion.",
+      "image_url": "https://example.com/wool-coat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a calming effect.",
+    "Use with deep blues for a sophisticated contrast.",
+    "Combine with greens and browns to enhance the earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Arrowtown Color Meaning: Understand the Psychology of #948771",
+    "description": "Discover the meaning and associations of Arrowtown (#948771), a muted gray-brown color. Learn about its psychological impact, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:57:40.686023+00:00",
+  "updated_at": "2025-06-01T15:57:40.686023+00:00",
+  "slug": "arrowtown"
+}

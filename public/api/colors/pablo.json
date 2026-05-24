@@ -1,0 +1,86 @@
+{
+  "id": "f67458bb-4af2-4013-ae8b-bf5c58628390",
+  "color_name": "Pablo",
+  "hex_code": "#776F61",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Pablo is a muted, earthy neutral, evoking feelings of groundedness, stability, and sophistication. It suggests a sense of calm and reliability, often associated with natural materials and understated elegance. This color promotes a sense of quiet confidence and timeless appeal.",
+  "emotional_associations": [
+    "stability",
+    "sophistication",
+    "calm",
+    "groundedness",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#616977"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#776F61",
+        "#A8A493",
+        "#D9D5C3",
+        "#595244"
+      ]
+    },
+    {
+      "name": "Modern Rustic",
+      "swatches": [
+        "#776F61",
+        "#C0B283",
+        "#4A4E4D",
+        "#9FA8A3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral text color",
+      "Minimalist design"
+    ],
+    "food_beverage": [
+      "Coffee branding",
+      "Organic food packaging",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation apps",
+      "Natural skincare products"
+    ],
+    "fashion": [
+      "Classic outerwear",
+      "Neutral accessories",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Fireplace",
+      "description": "A natural stone fireplace adds warmth and a grounding element to a living space.",
+      "image_url": "https://example.com/fireplace.jpg"
+    },
+    {
+      "title": "Minimalist Apartment",
+      "description": "A minimalist apartment features Pablo-colored walls to create a serene and uncluttered environment.",
+      "image_url": "https://example.com/apartment.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with off-whites for a soft, serene look.",
+    "Combine with deeper browns for a rich, earthy feel.",
+    "Use metallic accents (gold or silver) for a touch of elegance.",
+    "Contrast with muted blues or greens for balance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Pablo with our color picker tool to find the perfect match for your project.",
+  "seo_meta": {
+    "title": "Pablo Color Meaning: Understanding #776F61",
+    "description": "Explore the meaning, associations, and best uses of Pablo (#776F61), a sophisticated neutral color. Find color palettes, pairing suggestions, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:39:47.604454+00:00",
+  "updated_at": "2025-06-01T15:39:47.604454+00:00",
+  "slug": "pablo"
+}

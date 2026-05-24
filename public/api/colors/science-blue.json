@@ -1,0 +1,71 @@
+{
+  "id": "7cdd7054-2ea1-477f-8eba-897cf3793638",
+  "color_name": "Science Blue",
+  "hex_code": "#0066CC",
+  "wheel_position": "primary",
+  "psychological_meaning": "Science Blue evokes feelings of trust, intelligence, and professionalism. It is associated with competence, logic, and efficiency, making it a popular choice for conveying reliability and stability. This color is often perceived as calming and reassuring, promoting a sense of order and clarity.",
+  "emotional_associations": [
+    "trust",
+    "intelligence",
+    "professionalism",
+    "calm",
+    "clarity"
+  ],
+  "complementary_colors": [
+    "#CC6600"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Modern Tech",
+      "swatches": [
+        "#0066CC",
+        "#FFFFFF",
+        "#333333"
+      ]
+    },
+    {
+      "name": "Corporate Calm",
+      "swatches": [
+        "#0066CC",
+        "#ADD8E6",
+        "#E0FFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Application interfaces",
+      "Data visualization",
+      "Security software"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "IBM Logo",
+      "description": "The IBM logo uses a shade of blue to convey trust and reliability in the technology sector.",
+      "image_url": "https://example.com/ibm_logo.jpg"
+    },
+    {
+      "title": "Medical Information Website",
+      "description": "Many healthcare websites use blue to instill a sense of calmness and professionalism.",
+      "image_url": "https://example.com/medical_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and modern look.",
+    "Combine with gray for a professional and sophisticated feel.",
+    "Use with orange for a vibrant and energetic contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of blue and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Science Blue Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Science Blue (#0066CC), its psychological associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T14:37:38.704625+00:00",
+  "updated_at": "2025-06-01T14:37:38.704625+00:00",
+  "slug": "science-blue"
+}

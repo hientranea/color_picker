@@ -1,0 +1,78 @@
+{
+  "id": "cf418413-0c7d-4460-b75e-912e4302e055",
+  "color_name": "Hairy Heath",
+  "hex_code": "#6B2A14",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Hairy Heath evokes feelings of groundedness, resilience, and connection to nature. Its earthy tones suggest stability and reliability, while also hinting at a subtle warmth. This color can be associated with a sense of heritage, comfort, and understated elegance, making it a good choice for conveying authenticity and dependability.",
+  "emotional_associations": [
+    "groundedness",
+    "resilience",
+    "comfort",
+    "heritage",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#14416B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Autumn",
+      "swatches": [
+        "#6B2A14",
+        "#A55129",
+        "#D99250",
+        "#F2D7B3"
+      ]
+    },
+    {
+      "name": "Rustic Retreat",
+      "swatches": [
+        "#6B2A14",
+        "#4A342A",
+        "#8A6E5A",
+        "#C6B1A5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Whiskey labels"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather goods",
+      "Boots",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Armchair",
+      "description": "A classic leather armchair in a Hairy Heath shade, providing comfort and style to a living room.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    },
+    {
+      "title": "Autumnal Forest",
+      "description": "The undergrowth of an autumnal forest, with Hairy Heath hues dominating the leaf litter.",
+      "image_url": "https://example.com/autumnal_forest.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural look.",
+    "Combine with creams and beiges for a classic style.",
+    "Use with metallics like gold or bronze for added warmth.",
+    "Contrast with teal or deep blues for a bolder statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your own palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Hairy Heath Color Meaning: Discover the Psychology and Uses of #6B2A14",
+    "description": "Uncover the meaning behind Hairy Heath (#6B2A14), its emotional associations, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:32:04.530649+00:00",
+  "updated_at": "2025-06-01T15:32:04.530649+00:00",
+  "slug": "hairy-heath"
+}

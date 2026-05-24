@@ -1,0 +1,81 @@
+{
+  "id": "5c898bb0-63e5-4ce4-b452-d9c0f77d423e",
+  "color_name": "Blush",
+  "hex_code": "#B44668",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blush is a delicate and gentle color, often associated with feelings of romance, innocence, and femininity. It evokes a sense of calmness and tranquility, creating a soothing and comforting atmosphere. Blush also represents youthfulness and beauty, and can be used to add a touch of elegance and sophistication to any design.",
+  "emotional_associations": [
+    "Romance",
+    "Innocence",
+    "Femininity",
+    "Calmness",
+    "Youthfulness"
+  ],
+  "complementary_colors": [
+    "#46B490"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dawn",
+      "swatches": [
+        "#B44668",
+        "#F2D7D9",
+        "#E2A9B5",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Vintage Romance",
+      "swatches": [
+        "#B44668",
+        "#735262",
+        "#A68DAD",
+        "#D6CBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Gentle backgrounds for calming apps",
+      "Highlighting interactive elements in a subtle way"
+    ],
+    "food_beverage": [
+      "Packaging for rosé wines",
+      "Presentation of desserts like macarons"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Bridal wear",
+      "Lingerie"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Blush Wedding Dress",
+      "description": "A delicate blush-colored wedding dress exudes romance and elegance.",
+      "image_url": "https://example.com/blush_wedding_dress.jpg"
+    },
+    {
+      "title": "Blush Interior Design",
+      "description": "A living room with blush walls and soft furnishings creates a calming and inviting space.",
+      "image_url": "https://example.com/blush_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft grays for a sophisticated look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with greens and whites for a natural and serene feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Blush and create your own color palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Blush Color Meaning: Understanding the Psychology of #B44668",
+    "description": "Discover the meaning and symbolism of the color Blush (#B44668), its emotional associations, and how to use it effectively in design."
+  },
+  "created_at": "2025-06-01T16:16:40.203563+00:00",
+  "updated_at": "2025-06-01T16:16:40.203563+00:00",
+  "slug": "blush"
+}

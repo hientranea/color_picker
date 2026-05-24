@@ -1,0 +1,78 @@
+{
+  "id": "bab4e877-f29a-4fa9-9e7f-a6391f65ebb6",
+  "color_name": "Rosewood",
+  "hex_code": "#65000B",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Rosewood evokes feelings of sophistication and understated elegance. It is associated with maturity, stability, and a sense of groundedness. This color suggests a quiet confidence and a connection to natural beauty, often hinting at tradition and quality.",
+  "emotional_associations": [
+    "Sophistication",
+    "Stability",
+    "Elegance",
+    "Natural",
+    "Mature"
+  ],
+  "complementary_colors": [
+    "#0B655A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#65000B",
+        "#A86454",
+        "#D2B48C",
+        "#E5CAA8"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#65000B",
+        "#33292A",
+        "#A68A64",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Gourmet chocolate packaging"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rosewood Furniture",
+      "description": "Antique rosewood furniture adds a touch of classic elegance to any room.",
+      "image_url": "https://example.com/rosewood_furniture.jpg"
+    },
+    {
+      "title": "Rosewood Leather Handbag",
+      "description": "A stylish rosewood leather handbag is a timeless accessory.",
+      "image_url": "https://example.com/rosewood_handbag.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with creams for a soft look.",
+    "Pair with gold accents for luxury.",
+    "Use with greens for a nature-inspired palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Rosewood Color Meaning: Understanding the Psychology of #65000B",
+    "description": "Discover the meaning and symbolism of Rosewood (#65000B). Learn about its psychological effects, emotional associations, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:28:44.402152+00:00",
+  "updated_at": "2025-06-01T15:28:44.402152+00:00",
+  "slug": "rosewood"
+}

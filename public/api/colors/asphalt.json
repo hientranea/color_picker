@@ -1,0 +1,79 @@
+{
+  "id": "909973fb-0889-41ea-92ac-638c48a6b8fa",
+  "color_name": "Asphalt",
+  "hex_code": "#130A06",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Asphalt is often associated with stability, dependability, and a grounded nature. It can evoke feelings of resilience and strength, reminiscent of the roads and foundations upon which we build. While sometimes linked to urban environments and practicality, it also hints at hidden depths and a quiet sense of assurance.",
+  "emotional_associations": [
+    "stability",
+    "dependability",
+    "resilience",
+    "grounded",
+    "urban",
+    "practicality"
+  ],
+  "complementary_colors": [
+    "#060D13",
+    "#F2E9E4"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Urban Dusk",
+      "swatches": [
+        "#130A06",
+        "#37302D",
+        "#6B6461",
+        "#A59E9B"
+      ]
+    },
+    {
+      "name": "Earthy Contrast",
+      "swatches": [
+        "#130A06",
+        "#5E4A3A",
+        "#A88A6D",
+        "#F2E9E4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "borders",
+      "text"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "outerwear",
+      "footwear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Asphalt Road",
+      "description": "A freshly paved asphalt road symbolizing stability and journey.",
+      "image_url": "https://example.com/asphalt_road.jpg"
+    },
+    {
+      "title": "Concrete Building",
+      "description": "The base of a concrete building, representing the solid foundation.",
+      "image_url": "https://example.com/concrete_building.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a sophisticated look.",
+    "Use with metallic accents for an industrial feel.",
+    "Combine with earth tones for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Asphalt Color Meaning: Discover the Psychology of #130A06",
+    "description": "Uncover the meaning and associations of Asphalt (#130A06). Explore palettes, industry uses, and how to pair this grounded color in your designs."
+  },
+  "created_at": "2025-06-01T14:48:53.119492+00:00",
+  "updated_at": "2025-06-01T14:48:53.119492+00:00",
+  "slug": "asphalt"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "fb5e083a-4e3f-4b5e-93e6-58f67e302523",
+  "color_name": "Deep Forest Green",
+  "hex_code": "#182D09",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Deep Forest Green evokes feelings of tranquility, nature, and growth. It is associated with stability, endurance, and a sense of grounding. This color often represents wealth, abundance, and a connection to the natural world, suggesting a calming and secure environment.",
+  "emotional_associations": [
+    "tranquility",
+    "nature",
+    "growth",
+    "stability",
+    "wealth"
+  ],
+  "complementary_colors": [
+    "#D52609"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#182D09",
+        "#A0785A",
+        "#E8DAB2",
+        "#4A644A"
+      ]
+    },
+    {
+      "name": "Forest Dawn",
+      "swatches": [
+        "#182D09",
+        "#F2EBD3",
+        "#779ECB",
+        "#558B2F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for nature-themed apps",
+      "Subtle accents in productivity tools",
+      "Data visualization for environmental reports"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant interiors promoting a healthy atmosphere"
+    ],
+    "wellness": [
+      "Spa branding and décor",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories that complement earthy tones"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "National Park Signage",
+      "description": "The deep green used in national park signs conveys a sense of authority and connection to nature.",
+      "image_url": "https://example.com/national_park_sign.jpg"
+    },
+    {
+      "title": "Luxury Car Interior",
+      "description": "Deep forest green leather in car interiors creates a sophisticated and calming environment.",
+      "image_url": "https://example.com/car_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural feel.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with creams and beiges for a soft contrast.",
+    "Contrast with a muted red or orange for balance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Deep Forest Green Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of Deep Forest Green, its psychological effects, best color combinations, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T14:50:47.802134+00:00",
+  "updated_at": "2025-06-01T14:50:47.802134+00:00",
+  "slug": "deep-forest-green"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "3157b985-7274-404e-8671-5ed090b3c6f3",
+  "color_name": "Temptress",
+  "hex_code": "#3B000B",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Temptress embodies a sense of mystery and deep allure. It evokes feelings of passion, hidden desires, and a touch of the forbidden. This color suggests intensity and can be associated with strong emotions, both positive and negative, leaning towards sophistication and a daring spirit.",
+  "emotional_associations": [
+    "passion",
+    "mystery",
+    "desire",
+    "sophistication",
+    "intensity"
+  ],
+  "complementary_colors": [
+    "#0B3B31"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Dark Romance",
+      "swatches": [
+        "#3B000B",
+        "#702963",
+        "#A72168",
+        "#C05E8F",
+        "#F5D7E3"
+      ]
+    },
+    {
+      "name": "Forbidden Fruit",
+      "swatches": [
+        "#3B000B",
+        "#5E2E27",
+        "#9E4770",
+        "#D77FA6",
+        "#F7D0E2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels for bold reds",
+      "Packaging for dark chocolate"
+    ],
+    "wellness": [
+      "Spa decor for creating an intimate setting",
+      "Candle scents marketed towards relaxation"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Lingerie",
+      "Accessories for a dramatic look"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Red Velvet Curtains",
+      "description": "Thick velvet curtains in a Temptress-like hue provide a sense of luxury and drama to a theatre or opera house.",
+      "image_url": "url_to_red_velvet_curtains_image.jpg"
+    },
+    {
+      "title": "Dark Burgundy Lipstick",
+      "description": "A classic dark burgundy lipstick color creates a bold and sophisticated statement.",
+      "image_url": "url_to_burgundy_lipstick_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with greys for a modern aesthetic.",
+    "Use with lighter pinks to soften the intensity."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Temptress Color Meaning: Symbolism, Psychology, and Uses",
+    "description": "Discover the meaning and psychology behind the Temptress color (#3B000B), its associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:06:57.063898+00:00",
+  "updated_at": "2025-06-01T15:06:57.063898+00:00",
+  "slug": "temptress"
+}

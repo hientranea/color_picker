@@ -1,0 +1,78 @@
+{
+  "id": "a73eb28a-8f9a-4cc5-82cd-48d11c9ca97b",
+  "color_name": "Rainee",
+  "hex_code": "#B9C8AC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rainee evokes a sense of tranquility and natural balance. It suggests calmness and serenity, often associated with nature and peaceful environments. This color promotes feelings of stability and relaxation, making it a comforting and reassuring choice.",
+  "emotional_associations": [
+    "calm",
+    "nature",
+    "peaceful",
+    "stability",
+    "relaxation"
+  ],
+  "complementary_colors": [
+    "#C8B9D3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#B9C8AC",
+        "#D8E2DC",
+        "#A3B18A",
+        "#6B705C"
+      ]
+    },
+    {
+      "name": "Gentle Pastels",
+      "swatches": [
+        "#B9C8AC",
+        "#C5DDB7",
+        "#E8F0E4",
+        "#A8BFA0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Environmental dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Sustainable fashion lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Natural Landscape Painting",
+      "description": "An oil painting depicting a serene forest scene, dominated by Rainee hues in the foliage and background.",
+      "image_url": "https://example.com/raintree_painting.jpg"
+    },
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "Sustainable product packaging using Rainee as the primary color to convey an eco-friendly message.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones for a sophisticated look.",
+    "Combine with earthy browns for a natural feel.",
+    "Use with pastel shades for a gentle, calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Rainee Color Meaning: Discover the Psychology & Combinations of #B9C8AC",
+    "description": "Explore the meaning, psychology, and best color combinations for Rainee (#B9C8AC). Learn how to use this calming color in your design projects."
+  },
+  "created_at": "2025-06-01T16:20:19.71711+00:00",
+  "updated_at": "2025-06-01T16:20:19.71711+00:00",
+  "slug": "rainee"
+}

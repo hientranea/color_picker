@@ -1,0 +1,78 @@
+{
+  "id": "a4296feb-3d8e-4e22-9f32-eb97791d8bff",
+  "color_name": "Vivid Violet",
+  "hex_code": "#803790",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Vivid Violet is associated with creativity, imagination, and spirituality. It is often linked to royalty, luxury, and ambition. This color can evoke feelings of mystery, wisdom, and independence, and is thought to inspire contemplation and higher thought. It's a color that balances the stimulation of red with the calmness of blue.",
+  "emotional_associations": [
+    "creativity",
+    "spirituality",
+    "luxury",
+    "mystery",
+    "wisdom"
+  ],
+  "complementary_colors": [
+    "#70C847"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dreams",
+      "swatches": [
+        "#803790",
+        "#D8BFD8",
+        "#E6E6FA",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Regal Twilight",
+      "swatches": [
+        "#803790",
+        "#4B0082",
+        "#2E294E",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "App design for creative tools",
+      "Websites focused on spiritual content"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Aromatherapy product packaging"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Statement jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Violet Amethyst Gemstone",
+      "description": "A natural amethyst gemstone showcasing the vibrant violet color.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Lavender Fields in Provence",
+      "description": "Expansive fields of lavender in Provence, France, displaying various shades of violet.",
+      "image_url": "https://example.com/lavender.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Use with neutral grays for a sophisticated look.",
+    "Combine with greens for a natural and balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Vivid Violet Color Meaning: Symbolism, Psychology & Palettes",
+    "description": "Discover the meaning of Vivid Violet, its psychological effects, and inspiring color palettes for your designs and projects."
+  },
+  "created_at": "2025-06-01T15:46:17.952817+00:00",
+  "updated_at": "2025-06-01T15:46:17.952817+00:00",
+  "slug": "vivid-violet"
+}

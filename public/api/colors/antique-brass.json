@@ -1,0 +1,79 @@
+{
+  "id": "ebd4fda9-fbbf-4ba8-88d7-b8ca1f8b9ffb",
+  "color_name": "Antique Brass",
+  "hex_code": "#C88A65",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Antique Brass evokes feelings of history, tradition, and understated elegance. It suggests a sense of timelessness and stability, often associated with sophistication and refinement. The color inspires a feeling of warmth and familiarity, reminiscent of classic and enduring aesthetics.",
+  "emotional_associations": [
+    "History",
+    "Elegance",
+    "Warmth",
+    "Stability",
+    "Sophistication"
+  ],
+  "complementary_colors": [
+    "#6597C8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#C88A65",
+        "#E8DAB2",
+        "#A9927D",
+        "#5C4033",
+        "#F5F5DC"
+      ]
+    },
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#C88A65",
+        "#7A6C5D",
+        "#D2B48C",
+        "#8B4513",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for artisanal coffee",
+      "Restaurant interiors with a classic feel"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Vintage-inspired clothing lines",
+      "Leather accessories",
+      "Classic watches"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Hardware",
+      "description": "Antique brass doorknobs and drawer pulls add a touch of old-world charm.",
+      "image_url": "https://example.com/antique_hardware.jpg"
+    },
+    {
+      "title": "Leather Furniture",
+      "description": "A well-worn leather armchair in antique brass tones provides comfort and style.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a soft palette.",
+    "Combine with deep blues for a sophisticated contrast.",
+    "Use with greens and browns for a natural, earthy feel.",
+    "Add metallic accents like gold or copper for extra elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations using our color palette generator tool!",
+  "seo_meta": {
+    "title": "Antique Brass Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning and associations of Antique Brass (#C88A65). Explore color palettes, industry use cases, and how to pair this elegant color."
+  },
+  "created_at": "2025-06-01T16:30:49.638666+00:00",
+  "updated_at": "2025-06-01T16:30:49.638666+00:00",
+  "slug": "antique-brass"
+}

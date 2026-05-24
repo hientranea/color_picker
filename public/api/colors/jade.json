@@ -1,0 +1,82 @@
+{
+  "id": "c1ff9e9f-2e92-455f-b190-a496e4145f24",
+  "color_name": "Jade",
+  "hex_code": "#00A86B",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "Jade is a color associated with tranquility, wisdom, and justice. It promotes feelings of love, nurture, and harmony. The color is also linked to good health and a renewed sense of purpose. It embodies balance and stability, fostering generosity and a deep connection with family.",
+  "emotional_associations": [
+    "tranquility",
+    "wisdom",
+    "harmony",
+    "health",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#A8003D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#00A86B",
+        "#A68B60",
+        "#E3CAA5",
+        "#7B664A"
+      ]
+    },
+    {
+      "name": "Jewel Tone Richness",
+      "swatches": [
+        "#00A86B",
+        "#3D00A8",
+        "#A8003D",
+        "#00A8A8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health tracking apps",
+      "Meditation apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Labels for natural supplements"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Elegant evening wear",
+      "Relaxed resort wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Jade Jewelry",
+      "description": "Jade is a precious stone often used in jewelry, symbolizing luck and prosperity.",
+      "image_url": "url_to_jade_jewelry_image.jpg"
+    },
+    {
+      "title": "Lush Forests",
+      "description": "Jade evokes the dense greenery of a lush, healthy forest ecosystem.",
+      "image_url": "url_to_forest_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones for a natural feel.",
+    "Combine with gold for a luxurious aesthetic.",
+    "Use with cream or white for a clean, modern look.",
+    "Contrast with reds and purples for a striking visual impact."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator!",
+  "seo_meta": {
+    "title": "Jade Color Meaning: Symbolism, Psychology & Design Tips",
+    "description": "Discover the meaning of jade green, its psychological effects, complementary colors, and how to use it in design projects."
+  },
+  "created_at": "2025-06-01T14:38:55.840523+00:00",
+  "updated_at": "2025-06-01T14:38:55.840523+00:00",
+  "slug": "jade"
+}

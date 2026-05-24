@@ -1,0 +1,81 @@
+{
+  "id": "db540bc7-be89-47b2-a784-37ad3132701c",
+  "color_name": "Nugget",
+  "hex_code": "#C59922",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Nugget, a muted gold, evokes feelings of warmth, comfort, and earthiness. It suggests maturity, reliability, and a connection to nature. Unlike brighter golds that symbolize extravagance, Nugget provides a sense of grounded stability and subtle sophistication, often associated with heritage and traditional values.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "earthiness",
+    "reliability",
+    "tradition"
+  ],
+  "complementary_colors": [
+    "#228AC5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#C59922",
+        "#8B4513",
+        "#D2B48C",
+        "#A0522D",
+        "#F5DEB3"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#C59922",
+        "#556B2F",
+        "#8FBC8F",
+        "#BC8F8F",
+        "#E9DABB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "packaging for organic snacks",
+      "restaurant decor for rustic themes"
+    ],
+    "wellness": [
+      "branding for natural skincare products",
+      "spa interiors to create a relaxing atmosphere"
+    ],
+    "fashion": [
+      "autumnal clothing lines",
+      "leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Handbag",
+      "description": "A classic leather handbag in a Nugget shade, showcasing its understated elegance.",
+      "image_url": "https://example.com/nugget_handbag.jpg"
+    },
+    {
+      "title": "Rustic Kitchen",
+      "description": "A kitchen with Nugget-colored cabinets, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/nugget_kitchen.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep greens for a natural look.",
+    "Combine with creams and whites for a classic feel.",
+    "Use with browns for an earthy palette.",
+    "Accent with teal for a modern twist."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades to complement Nugget!",
+  "seo_meta": {
+    "title": "Nugget Color Meaning: Understanding #C59922",
+    "description": "Explore the meaning, associations, and best uses of the Nugget color (#C59922) in design and branding."
+  },
+  "created_at": "2025-06-01T16:27:50.927171+00:00",
+  "updated_at": "2025-06-01T16:27:50.927171+00:00",
+  "slug": "nugget"
+}

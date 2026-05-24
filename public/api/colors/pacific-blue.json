@@ -1,0 +1,81 @@
+{
+  "id": "fe086e97-f706-4dc1-9020-a0f2fb3ecc62",
+  "color_name": "Pacific Blue",
+  "hex_code": "#009DC4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pacific Blue evokes feelings of calmness, serenity, and stability. It is often associated with the ocean and sky, promoting relaxation and a sense of peace. This color can also represent trustworthiness, reliability, and open communication, making it suitable for environments where these qualities are valued.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "trust",
+    "peace",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#C43000"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#009DC4",
+        "#A7D1AB",
+        "#F0EAD6",
+        "#79A3B1"
+      ]
+    },
+    {
+      "name": "Tranquil Dusk",
+      "swatches": [
+        "#009DC4",
+        "#50514F",
+        "#F25F5C",
+        "#247BA0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Dashboard interfaces",
+      "Mobile app design"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Casual wear",
+      "Athletic apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Hotel Room",
+      "description": "A hotel room designed with Pacific Blue accents to create a relaxing atmosphere.",
+      "image_url": "https://example.com/coastal_hotel.jpg"
+    },
+    {
+      "title": "Data Visualization Dashboard",
+      "description": "A business dashboard using Pacific Blue to highlight key performance indicators.",
+      "image_url": "https://example.com/data_dashboard.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with coral or orange for a vibrant, contrasting palette.",
+    "Use with white to create a clean and airy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Pacific Blue Color Meaning: Exploring the Psychology and Uses of #009DC4",
+    "description": "Discover the meaning, psychology, and best uses of Pacific Blue (#009DC4). Learn how to incorporate this calming color into your designs and branding."
+  },
+  "created_at": "2025-06-01T14:38:41.451842+00:00",
+  "updated_at": "2025-06-01T14:38:41.451842+00:00",
+  "slug": "pacific-blue"
+}

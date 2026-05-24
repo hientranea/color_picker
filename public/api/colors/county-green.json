@@ -1,0 +1,79 @@
+{
+  "id": "32811f91-c02e-4ed6-94d0-16693b794990",
+  "color_name": "County Green",
+  "hex_code": "#01371A",
+  "wheel_position": "Secondary",
+  "psychological_meaning": "County Green evokes feelings of nature, growth, and tranquility. It is associated with stability, endurance, and harmony. The color is often linked to prosperity and new beginnings, suggesting a sense of balance and well-being. It is perceived as a calming and reassuring color, promoting feelings of security and connection to the earth.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "stability",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#D4011E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#01371A",
+        "#A3C4BC",
+        "#E5DDC8",
+        "#6B8E23"
+      ]
+    },
+    {
+      "name": "Forest Dawn",
+      "swatches": [
+        "#01371A",
+        "#228B22",
+        "#BDB76B",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Sustainable agriculture branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Eco-friendly products"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "National Park Signage",
+      "description": "The color of signs guiding visitors through national parks, symbolizing a connection to nature.",
+      "image_url": "https://example.com/national_park_sign.jpg"
+    },
+    {
+      "title": "Organic Farm Branding",
+      "description": "Used in the branding of an organic farm to convey freshness and natural growth.",
+      "image_url": "https://example.com/organic_farm_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural look.",
+    "Combine with muted yellows for a balanced palette.",
+    "Use with creams and whites for a clean, sophisticated feel.",
+    "Accent with terracotta or rust colors to enhance warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade and create stunning color palettes!",
+  "seo_meta": {
+    "title": "County Green Color Meaning, Code #01371A | Color Psychology",
+    "description": "Discover the meaning, psychology, and best uses for County Green (#01371A). Explore palettes and examples of this natural and calming color."
+  },
+  "created_at": "2025-06-01T14:40:09.91967+00:00",
+  "updated_at": "2025-06-01T14:40:09.91967+00:00",
+  "slug": "county-green"
+}

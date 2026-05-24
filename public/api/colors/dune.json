@@ -1,0 +1,87 @@
+{
+  "id": "c59bbfb7-bf35-4348-8147-1048f137695d",
+  "color_name": "Dune",
+  "hex_code": "#383533",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Dune evokes feelings of groundedness, stability, and quiet strength. It suggests a connection to nature and raw, untouched landscapes. This color also promotes a sense of calm and understated elegance, ideal for designs aiming to convey resilience and trustworthiness.",
+  "emotional_associations": [
+    "stability",
+    "groundedness",
+    "calm",
+    "elegance",
+    "strength"
+  ],
+  "complementary_colors": [
+    "#333638",
+    "#A3A6A8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#383533",
+        "#A8A39E",
+        "#E3DCCB",
+        "#7A6E64"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#383533",
+        "#FFFFFF",
+        "#808080",
+        "#C0C0C0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization dashboards",
+      "Subtle accent colors in enterprise software",
+      "Neutral tones for e-readers"
+    ],
+    "food_beverage": [
+      "Packaging for gourmet coffee",
+      "Branding for organic snack bars",
+      "Restaurant interiors aiming for a sophisticated feel"
+    ],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Classic trench coats",
+      "Leather goods",
+      "Neutral base layers"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Desert Landscape",
+      "description": "The vast, undulating dunes of the Sahara Desert exemplify the color's natural elegance and resilience.",
+      "image_url": "https://example.com/desert_landscape.jpg"
+    },
+    {
+      "title": "Stone Architecture",
+      "description": "Ancient stone buildings, weathered by time, often display similar hues, evoking a sense of history and permanence.",
+      "image_url": "https://example.com/stone_architecture.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural palette.",
+    "Combine with creams and whites for a minimalist look.",
+    "Use with metallic accents for a touch of sophistication.",
+    "Contrast with bold blues for a striking effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover endless color possibilities with our interactive color picker!",
+  "seo_meta": {
+    "title": "Dune Color Meaning: Symbolism, Psychology, and Design Tips",
+    "description": "Explore the meaning, psychology, and practical applications of the Dune color. Find complementary colors, palette ideas, and design inspiration."
+  },
+  "created_at": "2025-06-01T15:05:37.752218+00:00",
+  "updated_at": "2025-06-01T15:05:37.752218+00:00",
+  "slug": "dune"
+}

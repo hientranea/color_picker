@@ -1,0 +1,85 @@
+{
+  "id": "86826b22-0a9d-4d54-bc96-3cbf6c6b5cdc",
+  "color_name": "Deep Bronze",
+  "hex_code": "#4A3004",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Deep Bronze evokes feelings of stability, maturity, and groundedness. It suggests a connection to the earth and a sense of reliability. This color can also represent sophistication and a quiet confidence, often associated with traditional values and enduring quality.",
+  "emotional_associations": [
+    "stability",
+    "maturity",
+    "groundedness",
+    "reliability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#044A46",
+    "#A58F6B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#4A3004",
+        "#A87830",
+        "#E0C8A0",
+        "#705840",
+        "#201808"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#4A3004",
+        "#705840",
+        "#B8860B",
+        "#F0E68C",
+        "#6B8E23"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Whiskey labels",
+      "Chocolate branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation spaces",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Winter coats",
+      "Classic footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Furniture",
+      "description": "A beautifully restored antique cabinet showcasing the rich, deep bronze tones of aged wood.",
+      "image_url": "https://example.com/antique_cabinet.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "A pair of well-worn leather boots in a deep bronze hue, representing durability and timeless style.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with deep greens for an earthy palette.",
+    "Accent with gold or brass for added elegance.",
+    "Use with charcoal gray for a sophisticated contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of bronze and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Deep Bronze Color Meaning: Symbolism, Associations & Palettes",
+    "description": "Discover the meaning of Deep Bronze, its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:16:14.295797+00:00",
+  "updated_at": "2025-06-01T15:16:14.295797+00:00",
+  "slug": "deep-bronze"
+}

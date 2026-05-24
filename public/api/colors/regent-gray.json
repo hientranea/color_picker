@@ -1,0 +1,78 @@
+{
+  "id": "8d8c77c1-0a2e-4018-b68f-82a94b3d27de",
+  "color_name": "Regent Gray",
+  "hex_code": "#86949F",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Regent Gray is often associated with sophistication, neutrality, and calmness. It can evoke feelings of stability and reliability, making it a popular choice for conveying a sense of professionalism and composure. However, it can also represent a lack of emotion or detachment if used excessively.",
+  "emotional_associations": [
+    "sophistication",
+    "neutrality",
+    "calmness",
+    "stability",
+    "professionalism"
+  ],
+  "complementary_colors": [
+    "#9F9186",
+    "#F0E6D9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#86949F",
+        "#A7B5BF",
+        "#65737D"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#86949F",
+        "#D3CEC4",
+        "#A9927C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "buttons",
+      "backgrounds",
+      "dividers"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa decor",
+      "meditation apps"
+    ],
+    "fashion": [
+      "outerwear",
+      "formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "The walls are painted in Regent Gray to create a serene and sophisticated living space.",
+      "image_url": "https://example.com/regent_gray_apartment.jpg"
+    },
+    {
+      "title": "Luxury Car Exterior",
+      "description": "A high-end sedan featuring a Regent Gray finish for a sleek and understated look.",
+      "image_url": "https://example.com/regent_gray_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with pastel colors for a soft, calming palette.",
+    "Use with metallic accents for added sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Regent Gray Color Meaning, Combinations, and Design Ideas",
+    "description": "Discover the meaning of Regent Gray (#86949F), its psychological impact, and how to use it in your designs for a sophisticated and calming effect."
+  },
+  "created_at": "2025-06-01T15:49:50.207553+00:00",
+  "updated_at": "2025-06-01T15:49:50.207553+00:00",
+  "slug": "regent-gray"
+}

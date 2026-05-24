@@ -1,0 +1,84 @@
+{
+  "id": "762dd717-80ba-4575-94d6-c6248ec4909c",
+  "color_name": "Zeus",
+  "hex_code": "#292319",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Zeus, a color reminiscent of aged bronze and deep shadows, evokes feelings of strength, history, and grounded stability. It suggests a connection to the earth, a sense of timelessness, and a quiet authority. This color can inspire confidence and a feeling of being rooted, but also carries a hint of mystery and introspection.",
+  "emotional_associations": [
+    "strength",
+    "history",
+    "stability",
+    "mystery",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#192029",
+    "#807A70"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ancient Echoes",
+      "swatches": [
+        "#292319",
+        "#544941",
+        "#807A70",
+        "#A6A199",
+        "#D1CCC4"
+      ]
+    },
+    {
+      "name": "Subtle Power",
+      "swatches": [
+        "#292319",
+        "#403A32",
+        "#5C564E",
+        "#77726A",
+        "#938E86"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization",
+      "Subtle navigation elements",
+      "Text highlighting for code editors"
+    ],
+    "food_beverage": [
+      "Packaging for dark chocolate",
+      "Branding for whiskey or aged spirits",
+      "Restaurant interiors with a sophisticated, earthy feel"
+    ],
+    "wellness": null,
+    "fashion": [
+      "Leather jackets",
+      "Wool coats",
+      "Accessories like belts and boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Bronze Sculpture",
+      "description": "An aged bronze sculpture showcases the rich, dark tones of Zeus, emphasizing its historical and artistic value.",
+      "image_url": "https://example.com/bronze_sculpture.jpg"
+    },
+    {
+      "title": "Weathered Wood Cabin",
+      "description": "The exterior of a weathered wood cabin, stained with a similar dark hue, conveys a sense of rustic charm and resilience.",
+      "image_url": "https://example.com/wood_cabin.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for contrast.",
+    "Use with metallics like gold or copper for a luxurious feel.",
+    "Combine with earthy tones for a natural and grounded palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Zeus Color Meaning: Understanding #292319",
+    "description": "Explore the meaning, associations, and best uses of the Zeus color (#292319) in design and branding."
+  },
+  "created_at": "2025-06-01T14:57:53.860562+00:00",
+  "updated_at": "2025-06-01T14:57:53.860562+00:00",
+  "slug": "zeus"
+}

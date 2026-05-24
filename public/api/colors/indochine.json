@@ -1,0 +1,80 @@
+{
+  "id": "6e62a190-36e2-4e19-94c0-a0f58f3e9d32",
+  "color_name": "Indochine",
+  "hex_code": "#C26B03",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Indochine evokes feelings of warmth, earthiness, and a connection to nature. It suggests stability, comfort, and a sense of grounding. This color is often associated with tradition, heritage, and a touch of exoticism, reminiscent of Southeast Asian landscapes and cultural richness.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "stability",
+    "comfort",
+    "heritage"
+  ],
+  "complementary_colors": [
+    "#035AC2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#C26B03",
+        "#E08214",
+        "#A64D00",
+        "#6B3300",
+        "#F2C94C"
+      ]
+    },
+    {
+      "name": "Spiced Earth",
+      "swatches": [
+        "#C26B03",
+        "#795548",
+        "#A1887F",
+        "#D7CCC8",
+        "#EDE7E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee",
+      "Spice blends branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Autumnal clothing lines",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Autumn Leaves",
+      "description": "The color of falling leaves in autumn, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    },
+    {
+      "title": "Spiced Latte",
+      "description": "The rich brown of a spiced latte, evoking feelings of comfort and warmth.",
+      "image_url": "https://example.com/spiced_latte.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Use with blues for a complementary contrast.",
+    "Combine with greens for an earthy palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades and create stunning palettes!",
+  "seo_meta": {
+    "title": "Indochine Color Meaning: Discover the Psychology & Uses of #C26B03",
+    "description": "Explore the meaning, associations, and practical uses of the Indochine color (#C26B03). Learn how to pair it effectively and create beautiful designs."
+  },
+  "created_at": "2025-06-01T16:25:44.257387+00:00",
+  "updated_at": "2025-06-01T16:25:44.257387+00:00",
+  "slug": "indochine"
+}

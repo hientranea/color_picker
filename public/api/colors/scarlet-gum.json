@@ -1,0 +1,80 @@
+{
+  "id": "712d4548-05fc-4f9e-ac80-efc993e54d3a",
+  "color_name": "Scarlet Gum",
+  "hex_code": "#431560",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Scarlet Gum evokes a sense of mystery and sophistication, blending the passion of red with the stability of blue. It suggests creativity, ambition, and a touch of the unconventional, often associated with artistic expression and innovative thinking. This color can inspire introspection while maintaining a strong sense of purpose and determination.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "creativity",
+    "ambition",
+    "unconventionality"
+  ],
+  "complementary_colors": [
+    "#604315"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Deep Dusk",
+      "swatches": [
+        "#431560",
+        "#7a3a8c",
+        "#a663b5",
+        "#d28cd9",
+        "#f0b7ff"
+      ]
+    },
+    {
+      "name": "Ethereal Bloom",
+      "swatches": [
+        "#431560",
+        "#f5e6cc",
+        "#c8b6a6",
+        "#9aa793",
+        "#6e8b7e"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Creative app interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual guidance websites"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories for a bold look"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Galaxy Nebula",
+      "description": "The deep purplish hues of a distant galaxy, reminiscent of the color's cosmic feel.",
+      "image_url": "https://example.com/galaxy.jpg"
+    },
+    {
+      "title": "Amethyst Gemstone",
+      "description": "The vibrant purple of a cut Amethyst, showing the brilliance of the color.",
+      "image_url": "https://example.com/amethyst.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with golds for a luxurious feel.",
+    "Use with neutral grays for a modern, sophisticated look.",
+    "Combine with teals for a bold and creative statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect color scheme with our color palette generator!",
+  "seo_meta": {
+    "title": "Scarlet Gum Color Meaning: Psychology, Palettes & More",
+    "description": "Discover the meaning of Scarlet Gum (#431560), its psychological impact, suggested color palettes, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:12:54.779159+00:00",
+  "updated_at": "2025-06-01T15:12:54.779159+00:00",
+  "slug": "scarlet-gum"
+}

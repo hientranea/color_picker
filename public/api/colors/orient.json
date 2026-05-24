@@ -1,0 +1,81 @@
+{
+  "id": "b21c8523-3e9a-4a1a-ba1a-9283b0bd401c",
+  "color_name": "Orient",
+  "hex_code": "#015E85",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Orient is a deep, calming blue that evokes feelings of trust, stability, and knowledge. It promotes a sense of tranquility and reflection, encouraging introspection and clear communication. Its depth suggests reliability and sophistication, making it a preferred choice for conveying professionalism and dependability.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "knowledge",
+    "calm",
+    "professionalism"
+  ],
+  "complementary_colors": [
+    "#852A01"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#015E85",
+        "#ADD8E6",
+        "#003366",
+        "#E0FFFF"
+      ]
+    },
+    {
+      "name": "Corporate Confidence",
+      "swatches": [
+        "#015E85",
+        "#FFFFFF",
+        "#808080",
+        "#2F4F4F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces",
+      "Corporate communication platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Business attire",
+      "Evening wear",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Website Design",
+      "description": "A website for a financial institution uses Orient as its primary color to convey trust and reliability.",
+      "image_url": "https://example.com/corporate_website.jpg"
+    },
+    {
+      "title": "Deep Sea Exploration Documentary",
+      "description": "The documentary uses Orient in its branding to represent the mystery and depth of the ocean.",
+      "image_url": "https://example.com/deep_sea_documentary.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray and white for a sophisticated look.",
+    "Combine with lighter blues for a calming and serene palette.",
+    "Use as an accent color with warmer tones for balance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Orient Color Meaning: Understanding #015E85",
+    "description": "Discover the meaning, psychology, and best uses of Orient (#015E85), a deep and calming blue color. Learn how to use it in design, branding, and more."
+  },
+  "created_at": "2025-06-01T14:40:38.069517+00:00",
+  "updated_at": "2025-06-01T14:40:38.069517+00:00",
+  "slug": "orient"
+}

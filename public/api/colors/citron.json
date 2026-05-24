@@ -1,0 +1,88 @@
+{
+  "id": "5419d646-ae8d-4c6a-9d0c-de25f6a59fad",
+  "color_name": "Citron",
+  "hex_code": "#9EA91F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Citron, a lively yellow-green, evokes feelings of freshness, energy, and optimism. It often represents growth, vitality, and a connection to nature. This color can also stimulate creativity and encourage a sense of adventure and exploration.",
+  "emotional_associations": [
+    "freshness",
+    "energy",
+    "optimism",
+    "growth",
+    "vitality",
+    "nature",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#1F90A9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Citron Grove",
+      "swatches": [
+        "#9EA91F",
+        "#F2E7C1",
+        "#6A8A82",
+        "#34495E"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#9EA91F",
+        "#C8E6C9",
+        "#81C784",
+        "#388E3C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Highlighting interactive elements",
+      "Progress bars indicating growth or completion",
+      "Call-to-action buttons to draw attention"
+    ],
+    "food_beverage": [
+      "Packaging for fresh produce or organic products",
+      "Restaurant decor to create an energetic atmosphere",
+      "Branding for healthy food and beverage brands"
+    ],
+    "wellness": [
+      "Logos for eco-friendly brands",
+      "Interior design for spas and yoga studios",
+      "Product packaging for natural skincare lines"
+    ],
+    "fashion": [
+      "Accent color in sportswear and activewear",
+      "Prints for spring and summer clothing",
+      "Accessories to add a pop of color"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Citron-Colored Bicycle",
+      "description": "A vintage bicycle painted a vibrant citron color, parked against a brick wall.",
+      "image_url": "https://example.com/citron_bicycle.jpg"
+    },
+    {
+      "title": "Citron Kitchen Appliances",
+      "description": "Modern kitchen featuring citron-colored stand mixer and toaster.",
+      "image_url": "https://example.com/citron_kitchen.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or white for a balanced look.",
+    "Combine with earthy tones for a natural and organic feel.",
+    "Use with bright blues or purples for a bold and energetic contrast.",
+    "Incorporate metallic accents like gold or silver for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and palettes using our color picker tool today!",
+  "seo_meta": {
+    "title": "Citron Color Meaning: Exploring the Psychology and Uses of #9EA91F",
+    "description": "Discover the meaning, associations, and practical applications of the Citron color (#9EA91F). Learn how to use this vibrant yellow-green in design, branding, and more."
+  },
+  "created_at": "2025-06-01T16:02:48.130335+00:00",
+  "updated_at": "2025-06-01T16:02:48.130335+00:00",
+  "slug": "citron"
+}

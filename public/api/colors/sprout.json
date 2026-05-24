@@ -1,0 +1,82 @@
+{
+  "id": "866949ce-ab2b-4ab2-b53c-253ba04f8114",
+  "color_name": "Sprout",
+  "hex_code": "#C1D7B0",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sprout, a gentle green with a touch of gray, evokes feelings of new beginnings, growth, and tranquility. It suggests a connection to nature, promoting a sense of calm and balance. This color can also symbolize health, renewal, and a fresh perspective.",
+  "emotional_associations": [
+    "growth",
+    "freshness",
+    "tranquility",
+    "health",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#D7B0C1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#C1D7B0",
+        "#E8F5E9",
+        "#A5D6A7",
+        "#66BB6A"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#C1D7B0",
+        "#A1887F",
+        "#BCAAA4",
+        "#8D6E63"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Calming backgrounds for productivity apps",
+      "Subtle accents for eco-conscious platforms"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant decor promoting freshness"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Eco-friendly clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Organic Tea Packaging",
+      "description": "A tea brand uses Sprout to represent the natural and healthy ingredients of their blends.",
+      "image_url": "https://example.com/tea_packaging.jpg"
+    },
+    {
+      "title": "Eco-Friendly Home Decor",
+      "description": "Sprout is used as an accent color in a living room to bring a sense of nature indoors.",
+      "image_url": "https://example.com/home_decor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with browns for an earthy feel.",
+    "Combine with white for a clean and fresh look.",
+    "Use with muted yellows for a harmonious palette.",
+    "Accents of lavender create a soothing contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Sprout Color Meaning: Understanding #C1D7B0",
+    "description": "Discover the meaning and associations of Sprout (#C1D7B0), including its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:25:30.088167+00:00",
+  "updated_at": "2025-06-01T16:25:30.088167+00:00",
+  "slug": "sprout"
+}

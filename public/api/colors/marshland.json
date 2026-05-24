@@ -1,0 +1,75 @@
+{
+  "id": "97e890aa-7aad-44df-b4f3-7d7cc9fbd451",
+  "color_name": "Marshland",
+  "hex_code": "#0B0F08",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Marshland evokes feelings of groundedness, mystery, and connection to nature. It suggests stability, resilience, and a quiet strength. This color can also represent introspection, hidden depths, and the beauty found in the natural world, encouraging contemplation and a sense of calm.",
+  "emotional_associations": [
+    "groundedness",
+    "mystery",
+    "nature",
+    "stability",
+    "introspection"
+  ],
+  "complementary_colors": [
+    "#F4F0F7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#0B0F08",
+        "#4A4A4A",
+        "#808080",
+        "#A9A9A9"
+      ]
+    },
+    {
+      "name": "Mystic Forest",
+      "swatches": [
+        "#0B0F08",
+        "#228B22",
+        "#6B8E23",
+        "#3CB371"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Nature-themed relaxation content"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Floor",
+      "description": "The dark, rich color of the forest floor provides a comforting and stable foundation.",
+      "image_url": "https://example.com/forest_floor.jpg"
+    },
+    {
+      "title": "Deep Cave Entrance",
+      "description": "The mouth of a deep cave, hinting at the unknown and the mysterious.",
+      "image_url": "https://example.com/cave_entrance.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light greys for a modern look.",
+    "Combine with earthy greens for a natural aesthetic.",
+    "Use with off-whites for a classic, understated style."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Marshland Color Meaning: Understanding #0B0F08",
+    "description": "Discover the meaning and associations of Marshland (#0B0F08). Explore its psychological impact, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T14:46:09.380332+00:00",
+  "updated_at": "2025-06-01T14:46:09.380332+00:00",
+  "slug": "marshland"
+}

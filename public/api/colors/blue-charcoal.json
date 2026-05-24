@@ -1,0 +1,82 @@
+{
+  "id": "ae06b7c3-fe94-42fa-a3fe-80d1d79dcc9e",
+  "color_name": "Blue Charcoal",
+  "hex_code": "#010D1A",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Blue Charcoal evokes feelings of sophistication, mystery, and quiet strength. It combines the trustworthiness of blue with the grounded nature of charcoal gray, suggesting stability and understated elegance. This color often represents a balance between tranquility and assertiveness, making it suitable for conveying a sense of calm confidence.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "stability",
+    "understated elegance",
+    "calm confidence"
+  ],
+  "complementary_colors": [
+    "#1A0D01",
+    "#D1A010",
+    "#FFA62F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Calm",
+      "swatches": [
+        "#010D1A",
+        "#141F2B",
+        "#27323C",
+        "#3A454D"
+      ]
+    },
+    {
+      "name": "Sophisticated Contrast",
+      "swatches": [
+        "#010D1A",
+        "#F0E68C",
+        "#808000",
+        "#2E8B57"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Menu navigation",
+      "Data visualization"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Tailored suits",
+      "Winter coats"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The interior of a high-end sedan featuring blue charcoal leather seats and trim.",
+      "image_url": "https://example.com/blue_charcoal_car.jpg"
+    },
+    {
+      "title": "Modern Architecture",
+      "description": "A contemporary building facade utilizing blue charcoal panels for a sleek and sophisticated look.",
+      "image_url": "https://example.com/blue_charcoal_building.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Use with light gray for a modern, minimalist aesthetic.",
+    "Combine with teal for a calming, sophisticated palette.",
+    "Accent with bright orange for a bold contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Blue Charcoal Color Meaning, Combinations, and Design Ideas",
+    "description": "Discover the meaning of Blue Charcoal, its emotional associations, and how to use it in your designs. Explore palettes, industry use cases, and pairing tips."
+  },
+  "created_at": "2025-06-01T14:39:38.412211+00:00",
+  "updated_at": "2025-06-01T14:39:38.412211+00:00",
+  "slug": "blue-charcoal"
+}

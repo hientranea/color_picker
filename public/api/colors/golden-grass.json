@@ -1,0 +1,85 @@
+{
+  "id": "830b535f-450f-48aa-8114-37984fadcb4a",
+  "color_name": "Golden Grass",
+  "hex_code": "#DAA520",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Golden Grass evokes feelings of warmth, nature, and subtle luxury. It's a color that suggests growth, abundance, and the comforting feeling of late summer. This shade is often associated with optimism and a sense of tranquility, offering a grounding yet uplifting experience.",
+  "emotional_associations": [
+    "warmth",
+    "nature",
+    "optimism",
+    "tranquility",
+    "growth"
+  ],
+  "complementary_colors": [
+    "#208ADA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#DAA520",
+        "#A0522D",
+        "#8FBC8F",
+        "#FAF9F6"
+      ]
+    },
+    {
+      "name": "Sunset Serenity",
+      "swatches": [
+        "#DAA520",
+        "#E9967A",
+        "#F08080",
+        "#FFE4E1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle highlights",
+      "Button hover states",
+      "Progress bars"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant branding",
+      "Labeling for natural ingredients"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Eco-friendly product design"
+    ],
+    "fashion": [
+      "Autumn collections",
+      "Accessories",
+      "Bohemian styles"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wheat Field at Sunset",
+      "description": "A vast field of wheat at sunset, capturing the warmth and golden hues of nature's beauty.",
+      "image_url": "https://example.com/wheat_field.jpg"
+    },
+    {
+      "title": "Golden Grass Throw Blanket",
+      "description": "A soft and inviting throw blanket in a golden grass color, perfect for cozy evenings.",
+      "image_url": "https://example.com/golden_blanket.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with natural wood tones for an earthy feel.",
+    "Use with muted greens and browns for a calming palette.",
+    "Pair with navy blue for a sophisticated contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Golden Grass Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Golden Grass (#DAA520), its psychological effects, and find inspiring color palettes and design examples."
+  },
+  "created_at": "2025-06-01T16:34:07.981296+00:00",
+  "updated_at": "2025-06-01T16:34:07.981296+00:00",
+  "slug": "golden-grass"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "f55df0cd-f892-4fde-994c-d294f9f7f9ef",
+  "color_name": "Lavender Purple",
+  "hex_code": "#967BB6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lavender purple is often associated with royalty, elegance, and refinement. It combines the stability of blue with the energy of red, softened by a delicate, airy quality. It evokes feelings of nostalgia, sophistication, and grace, while also promoting tranquility and peace.",
+  "emotional_associations": [
+    "Elegance",
+    "Grace",
+    "Nostalgia",
+    "Tranquility",
+    "Refinement"
+  ],
+  "complementary_colors": [
+    "#B6967B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Vintage Charm",
+      "swatches": [
+        "#967BB6",
+        "#D8BFD8",
+        "#F0E68C",
+        "#BDB76B"
+      ]
+    },
+    {
+      "name": "Serene Sunset",
+      "swatches": [
+        "#967BB6",
+        "#CDB5CD",
+        "#E6E6FA",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist apps",
+      "Wellness platforms"
+    ],
+    "food_beverage": [
+      "Luxury teas",
+      "Floral-infused drinks"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Aromatherapy products"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Spring collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lavender Fields in Provence",
+      "description": "The iconic rolling hills of lavender in Provence, France, showcase the color's natural beauty and calming effect.",
+      "image_url": "url_to_lavender_fields_image.jpg"
+    },
+    {
+      "title": "Luxury Hotel Interiors",
+      "description": "High-end hotels often incorporate lavender purple in their interior design to create a sense of opulence and relaxation.",
+      "image_url": "url_to_luxury_hotel_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft grays for a modern look.",
+    "Combine with creams for a classic feel.",
+    "Accent with gold or silver for added elegance.",
+    "Use with muted greens for a natural touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Lavender Purple with our color picker tool!",
+  "seo_meta": {
+    "title": "Lavender Purple Color Meaning: Symbolism, Psychology, and Uses",
+    "description": "Discover the meaning, psychology, and best uses of Lavender Purple, including color palettes, industry examples, and how to pair it effectively."
+  },
+  "created_at": "2025-06-01T15:58:36.291556+00:00",
+  "updated_at": "2025-06-01T15:58:36.291556+00:00",
+  "slug": "lavender-purple"
+}

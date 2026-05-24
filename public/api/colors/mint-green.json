@@ -1,0 +1,81 @@
+{
+  "id": "eb4a2dad-f0ed-469c-b35b-126d9aef98b1",
+  "color_name": "Mint Green",
+  "hex_code": "#98FF98",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mint Green is often associated with freshness, growth, and tranquility. It combines the calming qualities of blue with the optimism of green, creating a balanced and soothing effect. It can evoke feelings of renewal, cleanliness, and harmony, making it a popular choice for designs aiming to create a sense of peace and well-being.",
+  "emotional_associations": [
+    "freshness",
+    "growth",
+    "tranquility",
+    "cleanliness",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#FF98FF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#98FF98",
+        "#F0FFF0",
+        "#E0FFFF",
+        "#7FFFD4"
+      ]
+    },
+    {
+      "name": "Nature's Calm",
+      "swatches": [
+        "#98FF98",
+        "#A0D6B4",
+        "#B0E57C",
+        "#8FBC8F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Health and wellness apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Branding for mint-flavored products"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Spring/Summer collections",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mint Green Bedroom",
+      "description": "A bedroom painted in mint green to create a calming and relaxing atmosphere.",
+      "image_url": "https://example.com/mint_bedroom.jpg"
+    },
+    {
+      "title": "Mint Green Kitchen Appliances",
+      "description": "A set of vintage-inspired kitchen appliances in a refreshing mint green hue.",
+      "image_url": "https://example.com/mint_kitchen.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a soft, airy feel.",
+    "Combine with pastel colors for a playful look.",
+    "Use with darker greens for depth and contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of green and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Mint Green Color Meaning: The Psychology of #98FF98",
+    "description": "Discover the meaning and associations of Mint Green (#98FF98). Learn how to use this color in your designs to evoke freshness, growth, and tranquility."
+  },
+  "created_at": "2025-06-01T15:59:54.831642+00:00",
+  "updated_at": "2025-06-01T15:59:54.831642+00:00",
+  "slug": "mint-green"
+}

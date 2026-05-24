@@ -1,0 +1,76 @@
+{
+  "id": "36deccaa-28bb-4ea6-b8b2-a6fc55c77952",
+  "color_name": "San Juan",
+  "hex_code": "#304B6A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "San Juan, a muted dark blue, evokes feelings of stability, trustworthiness, and calm. It suggests reliability and can be associated with professionalism and sophistication. This color is often seen as intellectual and reserved, promoting a sense of peace and order, making it a good choice for environments where focus and clarity are desired.",
+  "emotional_associations": [
+    "stability",
+    "trustworthiness",
+    "calm",
+    "professionalism",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#6A4F30"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#304B6A",
+        "#628AA5",
+        "#A1BCCF",
+        "#E0E7EE"
+      ]
+    },
+    {
+      "name": "Corporate Calm",
+      "swatches": [
+        "#304B6A",
+        "#4A6572",
+        "#808E95",
+        "#C2C9D2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Business attire",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Website Design",
+      "description": "A website for a financial institution using San Juan as a primary color to convey trust and reliability.",
+      "image_url": "https://example.com/san_juan_website.jpg"
+    },
+    {
+      "title": "Office Interior",
+      "description": "An office space incorporating San Juan in the decor to promote a calm and focused work environment.",
+      "image_url": "https://example.com/san_juan_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a modern look.",
+    "Combine with warm neutrals for balance.",
+    "Use as an accent color against a white background."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of San Juan using our color picker tool.",
+  "seo_meta": {
+    "title": "San Juan Color Meaning: Understanding #304B6A",
+    "description": "Discover the meaning, psychology, and best uses of San Juan (#304B6A). Learn how to incorporate this color in your designs and branding."
+  },
+  "created_at": "2025-06-01T15:01:45.590969+00:00",
+  "updated_at": "2025-06-01T15:01:45.590969+00:00",
+  "slug": "san-juan"
+}

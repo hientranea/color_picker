@@ -1,0 +1,80 @@
+{
+  "id": "3ae4469a-f2b5-4c33-aa3b-096695d2665e",
+  "color_name": "Woodrush",
+  "hex_code": "#302A0F",
+  "wheel_position": "Analogous",
+  "psychological_meaning": "Woodrush evokes feelings of earthiness, stability, and understated elegance. It provides a sense of grounding and connection to nature, often associated with reliability and quiet strength. This color suggests a mature and sophisticated sensibility, leaning towards natural comfort and enduring style.",
+  "emotional_associations": [
+    "earthiness",
+    "stability",
+    "elegance",
+    "grounding",
+    "reliability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#0F1530"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#302A0F",
+        "#A69A80",
+        "#E3D5C1",
+        "#605540"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#302A0F",
+        "#73654B",
+        "#BFA375",
+        "#594F3F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Organic food labels"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a Woodrush hue adds warmth and sophistication to a living space.",
+      "image_url": "https://example.com/woodrush_sofa.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "The color of Woodrush is reminiscent of the warm, earthy tones of autumn leaves.",
+      "image_url": "https://example.com/woodrush_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with metallics for added elegance.",
+    "Use with muted greens for a natural palette.",
+    "Contrast with navy for a sophisticated vibe."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Woodrush Color Meaning: Discover the Psychology of #302A0F",
+    "description": "Uncover the meaning behind Woodrush (#302A0F), its psychological associations, and how to use it in design and branding. Explore complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T15:01:39.019306+00:00",
+  "updated_at": "2025-06-01T15:01:39.019306+00:00",
+  "slug": "woodrush"
+}

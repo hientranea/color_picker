@@ -1,0 +1,78 @@
+{
+  "id": "35316733-d39d-4063-81c1-657f32a5b8bc",
+  "color_name": "Crater Brown",
+  "hex_code": "#462425",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Crater Brown evokes feelings of stability, earthiness, and resilience. It represents a grounded and dependable nature, often associated with the natural world and a sense of comfort. This color suggests strength and quiet confidence, reminiscent of enduring landscapes and unwavering resolve.",
+  "emotional_associations": [
+    "stability",
+    "earthiness",
+    "resilience",
+    "comfort",
+    "dependability"
+  ],
+  "complementary_colors": [
+    "#254645"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Warmth",
+      "swatches": [
+        "#462425",
+        "#A0522D",
+        "#D2B48C",
+        "#F5F5DC"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#462425",
+        "#654321",
+        "#8B4513",
+        "#C04000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in a Crater Brown hue adds warmth and sophistication to any living space.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Dark Chocolate Bar",
+      "description": "The rich, deep color of a dark chocolate bar signifies its intense and decadent flavor.",
+      "image_url": "https://example.com/chocolate_bar.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with greens and blues for an earthy palette.",
+    "Accent with metallics like gold or copper for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of brown and create your perfect palette using our color picker!",
+  "seo_meta": {
+    "title": "Crater Brown Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning and uses of Crater Brown (#462425). Explore its psychological associations, complementary colors, and suggested palettes for design projects."
+  },
+  "created_at": "2025-06-01T15:14:18.877856+00:00",
+  "updated_at": "2025-06-01T15:14:18.877856+00:00",
+  "slug": "crater-brown"
+}

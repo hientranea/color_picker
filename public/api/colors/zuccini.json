@@ -1,0 +1,83 @@
+{
+  "id": "ac7422a5-a58c-4511-b303-8f252a04dc91",
+  "color_name": "Zuccini",
+  "hex_code": "#044022",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Zuccini evokes feelings of nature, growth, and tranquility. It is associated with health, freshness, and a sense of groundedness. This color often symbolizes harmony, stability, and endurance, making it a comforting and reassuring choice.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "health",
+    "freshness",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#224004",
+    "#F5E7DA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#044022",
+        "#A7D1AB",
+        "#6B8E23",
+        "#E9DAC1",
+        "#333333"
+      ]
+    },
+    {
+      "name": "Natural Harmony",
+      "swatches": [
+        "#044022",
+        "#8FBC8F",
+        "#BC8F8F",
+        "#F0E68C",
+        "#808000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic produce",
+      "Restaurant branding for vegan eateries"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Natural health product labels"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Organic Food Packaging",
+      "description": "The packaging for a line of organic zucchini uses a Zuccini-colored label to convey freshness and natural quality.",
+      "image_url": "url_to_organic_packaging_image.jpg"
+    },
+    {
+      "title": "Eco-Friendly Clothing Line",
+      "description": "An eco-conscious clothing brand incorporates Zuccini into their color palette to represent their commitment to sustainability.",
+      "image_url": "url_to_clothing_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a natural, calming palette.",
+    "Combine with terracotta for a rustic, earthy feel.",
+    "Use with lighter greens and yellows for a fresh, vibrant look.",
+    "Contrast with deep browns or blacks for a sophisticated, grounded style."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades with our color palette generator!",
+  "seo_meta": {
+    "title": "Zuccini Color Meaning: Understanding #044022",
+    "description": "Discover the meaning, psychology, and best uses of Zuccini (#044022), a natural and grounding color. Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T14:42:59.47603+00:00",
+  "updated_at": "2025-06-01T14:42:59.47603+00:00",
+  "slug": "zuccini"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "8d936b19-1465-4e78-92bd-ed4b52ddb2ba",
+  "color_name": "Mosque",
+  "hex_code": "#036A6E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mosque, a deep teal, evokes feelings of tranquility, stability, and wisdom. It is often associated with nature, growth, and trustworthiness. This color promotes a sense of calm and security, making it suitable for environments where focus and introspection are valued.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "wisdom",
+    "trustworthiness"
+  ],
+  "complementary_colors": [
+    "#6E0603"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Landscape",
+      "swatches": [
+        "#036A6E",
+        "#A2B7B9",
+        "#E0D5C1",
+        "#7A6C5D"
+      ]
+    },
+    {
+      "name": "Modern Teal",
+      "swatches": [
+        "#036A6E",
+        "#FFFFFF",
+        "#333333",
+        "#B0BEC5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Interior Design",
+      "description": "Used as an accent wall color in a modern living room.",
+      "image_url": "https://example.com/mosque_interior.jpg"
+    },
+    {
+      "title": "Branding",
+      "description": "Logos for environmental organizations.",
+      "image_url": "https://example.com/mosque_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a calming effect.",
+    "Use with bright yellows or oranges for a vibrant contrast.",
+    "Combine with grays for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Mosque Color Meaning: #036A6E - Psychology, Palette & Combinations",
+    "description": "Discover the meaning of Mosque (#036A6E), its psychological effects, and find inspiring color palettes and combinations for your next project."
+  },
+  "created_at": "2025-06-01T14:42:30.443276+00:00",
+  "updated_at": "2025-06-01T14:42:30.443276+00:00",
+  "slug": "mosque"
+}

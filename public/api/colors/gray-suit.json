@@ -1,0 +1,85 @@
+{
+  "id": "d738fb8f-6fb5-4d79-b6be-eca178feb641",
+  "color_name": "Gray Suit",
+  "hex_code": "#C1BECD",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gray is often associated with neutrality, balance, and sophistication. It can convey a sense of calmness and composure, while also suggesting formality and professionalism. Depending on the shade, gray can evoke feelings of practicality and reliability, but also potentially, detachment or a lack of emotion. Gray is a stable and versatile color, often used as a backdrop to allow other colors to stand out.",
+  "emotional_associations": [
+    "Neutrality",
+    "Sophistication",
+    "Calmness",
+    "Formality",
+    "Reliability"
+  ],
+  "complementary_colors": [
+    "#ECD1BE",
+    "#BED1C1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#F0F0F0",
+        "#D3D3D3",
+        "#A9A9A9",
+        "#808080",
+        "#696969"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#C1BECD",
+        "#A69E8F",
+        "#8C8470",
+        "#726A51",
+        "#585032"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Interface backgrounds",
+      "Text color",
+      "Iconography"
+    ],
+    "food_beverage": null,
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Relaxation aids"
+    ],
+    "fashion": [
+      "Business attire",
+      "Casual wear",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Office Space",
+      "description": "A contemporary office featuring gray walls, furniture, and accents, creating a professional and calming atmosphere.",
+      "image_url": "https://example.com/gray-office.jpg"
+    },
+    {
+      "title": "Gray Wool Coat",
+      "description": "A stylish gray wool coat, embodying sophistication and practicality for colder weather.",
+      "image_url": "https://example.com/gray-coat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with brighter colors like yellow or teal for contrast.",
+    "Combine with other shades of gray for a monochromatic look.",
+    "Use as a neutral backdrop to make other colors pop.",
+    "Consider metallic accents for added sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and build your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Gray Suit Color Meaning: Shades, Psychology, and Design",
+    "description": "Discover the meaning of Gray Suit color, its psychological effects, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T16:25:22.589718+00:00",
+  "updated_at": "2025-06-01T16:25:22.589718+00:00",
+  "slug": "gray-suit"
+}

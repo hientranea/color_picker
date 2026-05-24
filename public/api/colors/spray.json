@@ -1,0 +1,79 @@
+{
+  "id": "9d54dc1a-12cb-4772-b61e-6472c3d8d957",
+  "color_name": "Spray",
+  "hex_code": "#79DEEC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Spray evokes feelings of freshness, cleanliness, and tranquility. It is often associated with water, the sky, and open spaces. This color can promote a sense of calm and relaxation, while also suggesting clarity and innovation.",
+  "emotional_associations": [
+    "calm",
+    "freshness",
+    "clarity",
+    "tranquility",
+    "innovation"
+  ],
+  "complementary_colors": [
+    "#EC7A79"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Breeze",
+      "swatches": [
+        "#79DEEC",
+        "#FFFFFF",
+        "#B0E2FF",
+        "#ADD8E6"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#79DEEC",
+        "#E0FFFF",
+        "#A0D6B4",
+        "#66B2FF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Mobile app design"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Summer apparel",
+      "Swimwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ocean Spray",
+      "description": "The color of ocean spray as waves crash on the shore.",
+      "image_url": "https://example.com/ocean_spray.jpg"
+    },
+    {
+      "title": "Mint Green Car",
+      "description": "The calming color of a vintage mint green car.",
+      "image_url": "https://example.com/mint_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with sandy beige for a coastal vibe.",
+    "Use with navy blue for a sophisticated contrast.",
+    "Add a touch of coral for a vibrant pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with 'Spray' and other colors using our interactive color palette generator to find the perfect match for your next project!",
+  "seo_meta": {
+    "title": "Spray Color Meaning: Psychology, Palettes & Design Tips",
+    "description": "Explore the meaning of 'Spray' (#79DEEC), its psychological impact, complementary colors, suggested palettes, and industry use cases for design inspiration."
+  },
+  "created_at": "2025-06-01T15:41:41.043095+00:00",
+  "updated_at": "2025-06-01T15:41:41.043095+00:00",
+  "slug": "spray"
+}

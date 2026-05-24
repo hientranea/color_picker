@@ -1,0 +1,79 @@
+{
+  "id": "45565da0-bb5e-4374-b00c-72f76123655d",
+  "color_name": "Gull Gray",
+  "hex_code": "#9DACB7",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Gull Gray evokes feelings of calm, neutrality, and sophistication. It is often associated with professionalism, stability, and a sense of understated elegance. It can also convey a sense of impartiality and detachment, making it suitable for environments where objectivity is valued.",
+  "emotional_associations": [
+    "calm",
+    "neutrality",
+    "sophistication",
+    "stability",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#B79DAC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#9DACB7",
+        "#B7C2CC",
+        "#7A8A95"
+      ]
+    },
+    {
+      "name": "Cool & Calm",
+      "swatches": [
+        "#9DACB7",
+        "#D3E0E9",
+        "#607B8B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Application backgrounds",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Relaxation products"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Casual wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Gull Gray walls, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/gull_gray_apartment.jpg"
+    },
+    {
+      "title": "Business Website Design",
+      "description": "A website using Gull Gray as a primary background color to convey trust and professionalism.",
+      "image_url": "https://example.com/gull_gray_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues for a serene feel.",
+    "Combine with bright yellows for contrast.",
+    "Use with natural wood tones for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Gull Gray Color Meaning, Code & Combinations",
+    "description": "Discover the meaning, psychology, and best uses of Gull Gray (#9DACB7) for your design projects."
+  },
+  "created_at": "2025-06-01T16:01:56.800546+00:00",
+  "updated_at": "2025-06-01T16:01:56.800546+00:00",
+  "slug": "gull-gray"
+}

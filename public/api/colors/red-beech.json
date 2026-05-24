@@ -1,0 +1,85 @@
+{
+  "id": "d880613e-be6e-425f-b1e8-b07bc71174c5",
+  "color_name": "Red Beech",
+  "hex_code": "#7B3801",
+  "wheel_position": "tertiary",
+  "psychological_meaning": "Red Beech evokes feelings of warmth, earthiness, and stability. It is associated with reliability, comfort, and a sense of groundedness. This color suggests maturity, resilience, and a connection to nature, particularly autumn landscapes and aged wood.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "stability",
+    "reliability",
+    "comfort",
+    "maturity",
+    "resilience",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#01437A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Harmony",
+      "swatches": [
+        "#7B3801",
+        "#D4A373",
+        "#F2E8CF",
+        "#A68A64",
+        "#582F0E"
+      ]
+    },
+    {
+      "name": "Rustic Elegance",
+      "swatches": [
+        "#7B3801",
+        "#E0C2A3",
+        "#4A3B34",
+        "#C2B280",
+        "#A89A86"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Outerwear",
+      "Autumn collections"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Red Beech Forest",
+      "description": "An image showcasing a forest of Red Beech trees in the fall, highlighting the color's natural beauty.",
+      "image_url": "https://example.com/red_beech_forest.jpg"
+    },
+    {
+      "title": "Leather Armchair",
+      "description": "A luxurious leather armchair in a Red Beech hue, exemplifying the color's association with comfort and sophistication.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with deep blues and greens for a natural palette.",
+    "Use with metallic accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Red Beech Color Meaning: Understanding #7B3801",
+    "description": "Discover the meaning, associations, and best uses for Red Beech (#7B3801), a warm and earthy brown color."
+  },
+  "created_at": "2025-06-01T15:42:24.714077+00:00",
+  "updated_at": "2025-06-01T15:42:24.714077+00:00",
+  "slug": "red-beech"
+}

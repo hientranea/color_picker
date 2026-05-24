@@ -1,0 +1,88 @@
+{
+  "id": "d6ad2580-214a-4594-a25e-1f4ccd96e1c4",
+  "color_name": "Windsor",
+  "hex_code": "#3C0878",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Windsor, a deep and regal purple, evokes feelings of luxury, sophistication, and mystery. It combines the stability of blue with the energy of red, resulting in a color that suggests both power and wisdom. Windsor is often associated with royalty, nobility, and spiritual awareness, making it a color that can inspire creativity and introspection.",
+  "emotional_associations": [
+    "luxury",
+    "sophistication",
+    "mystery",
+    "royalty",
+    "spirituality"
+  ],
+  "complementary_colors": [
+    "#783C08"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Dusk",
+      "swatches": [
+        "#3C0878",
+        "#7A378B",
+        "#A95AA1",
+        "#D77DC7",
+        "#E6A4D4"
+      ]
+    },
+    {
+      "name": "Mystic Night",
+      "swatches": [
+        "#3C0878",
+        "#2E065F",
+        "#552B7B",
+        "#7C4DA3",
+        "#A370CB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security software interfaces",
+      "Premium app designs"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Luxury chocolate packaging",
+      "Gourmet jam branding"
+    ],
+    "wellness": [
+      "Meditation app interfaces",
+      "Spa branding",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Statement jewelry",
+      "Luxury scarves"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Windsor Castle",
+      "description": "The ancestral home of the British royal family, embodying tradition and grandeur.",
+      "image_url": "https://example.com/windsor_castle.jpg"
+    },
+    {
+      "title": "Amethyst Geode",
+      "description": "A stunning natural formation showcasing the deep purple hues associated with spirituality and healing.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Use with silver for a modern touch.",
+    "Combine with cream or ivory for a soft contrast.",
+    "Accent with teal or deep green for a sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore complementary colors and create stunning palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Windsor Color Meaning: The Psychology of #3C0878",
+    "description": "Discover the meaning, associations, and best uses of Windsor, a deep and luxurious purple. Explore palettes, examples, and how to pair this regal color."
+  },
+  "created_at": "2025-06-01T15:07:39.815105+00:00",
+  "updated_at": "2025-06-01T15:07:39.815105+00:00",
+  "slug": "windsor"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "6dc37640-11b5-4bf1-b15b-14f93a97cb83",
+  "color_name": "Lucky Point",
+  "hex_code": "#1A1A68",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lucky Point is a deep, mysterious color evoking feelings of serenity and contemplation. It suggests stability and authority while also hinting at hidden depths and unexplored possibilities. It is often associated with intelligence, trust, and efficiency, making it suitable for creating a sense of calm confidence.",
+  "emotional_associations": [
+    "trust",
+    "serenity",
+    "intelligence",
+    "mystery"
+  ],
+  "complementary_colors": [
+    "#68681A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nocturnal Calm",
+      "swatches": [
+        "#1A1A68",
+        "#333399",
+        "#6666CC",
+        "#9999FF"
+      ]
+    },
+    {
+      "name": "Ethereal Echoes",
+      "swatches": [
+        "#1A1A68",
+        "#E6E6FF",
+        "#B3B3FF",
+        "#8080FF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Security software interfaces",
+      "Educational platforms"
+    ],
+    "wellness": [
+      "Meditation app themes",
+      "Sleep aid product design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Midnight Sky",
+      "description": "The deep blue of a clear night sky, dotted with stars.",
+      "image_url": "https://example.com/midnight_sky.jpg"
+    },
+    {
+      "title": "Deep Ocean Trench",
+      "description": "The mysterious and unexplored depths of the ocean.",
+      "image_url": "https://example.com/ocean_trench.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter blues and grays for a calming effect.",
+    "Use with gold or silver accents for a touch of elegance.",
+    "Contrast with vibrant yellows or oranges to create a dynamic look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Lucky Point Color Meaning: Discover its Psychological Effects",
+    "description": "Uncover the meaning and associations of Lucky Point (#1A1A68). Learn how to use this color in design and branding for a calming and intelligent feel."
+  },
+  "created_at": "2025-06-01T14:51:22.561107+00:00",
+  "updated_at": "2025-06-01T14:51:22.561107+00:00",
+  "slug": "lucky-point"
+}

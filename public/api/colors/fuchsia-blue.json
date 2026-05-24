@@ -1,0 +1,75 @@
+{
+  "id": "ef228017-ea4f-499f-9492-276aab77c6b8",
+  "color_name": "Fuchsia Blue",
+  "hex_code": "#7A58C1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fuchsia Blue is a vibrant and complex color that blends the stability of blue with the passion of magenta. It often evokes feelings of creativity, innovation, and a touch of unconventionality. This color can inspire confidence and a sense of individuality, making it suitable for brands that want to stand out.",
+  "emotional_associations": [
+    "creativity",
+    "innovation",
+    "confidence",
+    "individuality",
+    "energy"
+  ],
+  "complementary_colors": [
+    "#5EC17A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Electric Dreams",
+      "swatches": [
+        "#7A58C1",
+        "#F06292",
+        "#64B5F6",
+        "#A1887F"
+      ]
+    },
+    {
+      "name": "Modern Art",
+      "swatches": [
+        "#7A58C1",
+        "#FFD54F",
+        "#4DB6AC",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Futuristic app interfaces",
+      "Creative software dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [],
+    "fashion": [
+      "Statement pieces",
+      "Avant-garde designs"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Creative Agency Branding",
+      "description": "A creative agency uses Fuchsia Blue to represent their innovative and forward-thinking approach.",
+      "image_url": "https://example.com/fuchsia_blue_agency.jpg"
+    },
+    {
+      "title": "Fashion Designer Collection",
+      "description": "A fashion designer incorporates Fuchsia Blue into their latest collection to add a touch of modernity and boldness.",
+      "image_url": "https://example.com/fuchsia_blue_fashion.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with complementary colors like yellow-green for a vibrant contrast.",
+    "Use as an accent color to add pops of energy to a design."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator today!",
+  "seo_meta": {
+    "title": "Fuchsia Blue Color Meaning: Symbolism and Design Tips",
+    "description": "Discover the meaning and symbolism of Fuchsia Blue, its emotional associations, and how to use it effectively in design."
+  },
+  "created_at": "2025-06-01T15:41:54.675556+00:00",
+  "updated_at": "2025-06-01T15:41:54.675556+00:00",
+  "slug": "fuchsia-blue"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "4c0befd6-4fc4-4d10-a575-4274451f64a3",
+  "color_name": "Pumpkin Skin",
+  "hex_code": "#B1610B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pumpkin Skin evokes feelings of warmth, comfort, and nostalgia, reminiscent of autumn and harvest seasons. It suggests earthiness, naturalness, and a touch of rustic charm, often associated with groundedness and stability. This color can also inspire creativity and a sense of well-being.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "nostalgia",
+    "earthiness",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#0BB18F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#B1610B",
+        "#D38935",
+        "#E6B87A",
+        "#7A5230",
+        "#A67D3D"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#B1610B",
+        "#808000",
+        "#A0522D",
+        "#BC8F8F",
+        "#556B2F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for pumpkin spice lattes",
+      "Branding for organic food products",
+      "Restaurant decor for fall-themed events"
+    ],
+    "wellness": [
+      "Color therapy for grounding and stability",
+      "Spa decor for a warm and inviting atmosphere"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Leather accessories",
+      "Boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Pumpkin Patch",
+      "description": "A field full of ripe pumpkins, ready for harvest.",
+      "image_url": "https://example.com/pumpkin_patch.jpg"
+    },
+    {
+      "title": "Leather Boots",
+      "description": "A pair of worn, brown leather boots.",
+      "image_url": "https://example.com/leather_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige or cream.",
+    "Combine with deep greens for an earthy feel.",
+    "Use with muted blues for a balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Pumpkin Skin Color Meaning, Combinations, and Palettes",
+    "description": "Discover the meaning of Pumpkin Skin (#B1610B), its emotional associations, complementary colors, and inspiring palette ideas."
+  },
+  "created_at": "2025-06-01T16:15:01.536268+00:00",
+  "updated_at": "2025-06-01T16:15:01.536268+00:00",
+  "slug": "pumpkin-skin"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "70e0200b-07ae-4818-b02c-055878c2d08d",
+  "color_name": "Blue Dianne",
+  "hex_code": "#204852",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Dianne evokes feelings of tranquility, stability, and subtle sophistication. It combines the calming essence of blue with a hint of earthy depth, creating a sense of grounded peace. This color often suggests trustworthiness, reliability, and a quiet confidence.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "trustworthiness",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#522A20"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#204852",
+        "#A8BFA6",
+        "#E5DCC8",
+        "#73626B"
+      ]
+    },
+    {
+      "name": "Deep Ocean Calm",
+      "swatches": [
+        "#204852",
+        "#37727A",
+        "#7BB9C1",
+        "#E0FFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Corporate communication platforms",
+      "Educational apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites",
+      "Natural health product packaging"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Living Room",
+      "description": "A contemporary living room featuring Blue Dianne walls, complemented by neutral furniture and natural wood accents, creating a serene and inviting atmosphere.",
+      "image_url": "https://example.com/living_room.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A financial company uses Blue Dianne in its logo and website design to convey trust, security, and stability to its clients.",
+      "image_url": "https://example.com/corporate_brand.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a balanced look.",
+    "Use as an accent color against white or cream backgrounds.",
+    "Combine with shades of green for a nature-inspired palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies using our color palette generator!",
+  "seo_meta": {
+    "title": "Blue Dianne Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Blue Dianne (#204852), its psychological associations, complementary colors, and ideal use cases in design and branding."
+  },
+  "created_at": "2025-06-01T14:54:16.28096+00:00",
+  "updated_at": "2025-06-01T14:54:16.28096+00:00",
+  "slug": "blue-dianne"
+}

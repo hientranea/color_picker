@@ -1,0 +1,88 @@
+{
+  "id": "8ee45a64-8b81-4d64-bfaf-de71f04d4d6d",
+  "color_name": "Yellow Green",
+  "hex_code": "#C5E17A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Yellow-green is often associated with growth, nature, and harmony. It can evoke feelings of freshness, vitality, and balance, combining the optimism of yellow with the grounding qualities of green. It can also represent envy or sickness in some contexts, but generally provides a sense of calm energy and connection to the natural world.",
+  "emotional_associations": [
+    "growth",
+    "nature",
+    "harmony",
+    "freshness",
+    "vitality",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#E17AC5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Meadow",
+      "swatches": [
+        "#C5E17A",
+        "#9CCC65",
+        "#A5D6A7",
+        "#66BB6A",
+        "#81C784"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#C5E17A",
+        "#DCE775",
+        "#A1887F",
+        "#6D4C41",
+        "#4E342E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Fresh interfaces",
+      "Educational apps",
+      "Sustainability focused platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Health drink branding",
+      "Vegan restaurant decor"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Natural health products",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Spring collections",
+      "Eco-friendly clothing lines",
+      "Outdoor wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Granny Smith Apple",
+      "description": "A popular variety of apple known for its tart flavor and vibrant green color.",
+      "image_url": "https://example.com/granny_smith.jpg"
+    },
+    {
+      "title": "New Spring Leaves",
+      "description": "The fresh, vibrant green of new leaves sprouting in springtime signifies renewal and growth.",
+      "image_url": "https://example.com/spring_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a calming effect.",
+    "Combine with complementary colors for a vibrant contrast.",
+    "Use with analogous greens and yellows for a harmonious palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color picker!",
+  "seo_meta": {
+    "title": "Yellow Green Color Meaning: Symbolism, Psychology, and Design",
+    "description": "Discover the meaning of yellow green, its emotional associations, and how to use it in design and branding to evoke feelings of nature, growth, and harmony."
+  },
+  "created_at": "2025-06-01T16:28:12.88592+00:00",
+  "updated_at": "2025-06-01T16:28:12.88592+00:00",
+  "slug": "yellow-green"
+}

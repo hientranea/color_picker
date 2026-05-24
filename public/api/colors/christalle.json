@@ -1,0 +1,84 @@
+{
+  "id": "21e49a90-966f-4e5e-9478-e6c0d61f711f",
+  "color_name": "Christalle",
+  "hex_code": "#33036B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Christalle, a deep and mysterious purple, often evokes feelings of luxury, sophistication, and spirituality. It combines the stability of blue with the energy of red, creating a balance between tranquility and excitement. This color can inspire creativity and introspection, while also projecting an air of exclusivity and elegance.",
+  "emotional_associations": [
+    "luxury",
+    "mystery",
+    "spirituality",
+    "sophistication",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#B86E00"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#33036B",
+        "#5C2A9D",
+        "#916BBF",
+        "#B9A2D8",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Royal Opulence",
+      "swatches": [
+        "#33036B",
+        "#22004F",
+        "#7743DB",
+        "#D5BDFF",
+        "#000000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Premium apps",
+      "Dark mode interfaces",
+      "Gaming platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Luxury spas",
+      "Aromatherapy products"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Jewelry design",
+      "Cosmetics packaging"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Perfume Bottle",
+      "description": "A perfume bottle with a deep purple hue conveys exclusivity and sophistication.",
+      "image_url": "https://example.com/perfume.jpg"
+    },
+    {
+      "title": "Amethyst Gemstone",
+      "description": "Amethyst, a purple gemstone, is often associated with spirituality and healing properties.",
+      "image_url": "https://example.com/amethyst.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with neutral grays for a modern look.",
+    "Use with lighter purples and pinks for a dreamy effect.",
+    "Contrast with yellows or oranges for a vibrant statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your perfect palette using our color picker!",
+  "seo_meta": {
+    "title": "Christalle Color Meaning: Understanding the Color #33036B",
+    "description": "Discover the meaning, associations, and best uses of Christalle (#33036B), a sophisticated and mysterious purple color. Find complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-07T08:17:32.98214+00:00",
+  "updated_at": "2025-06-07T08:17:32.98214+00:00",
+  "slug": "christalle"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "68dce7c3-709b-456f-8f43-6ce416e3981c",
+  "color_name": "Toledo",
+  "hex_code": "#3A0020",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Toledo, a deep and mysterious shade of purple, evokes feelings of sophistication, power, and creativity. It suggests a rich inner world, a sense of luxury, and a connection to the spiritual realm. This color can also inspire introspection and contemplation, inviting a sense of calm and serenity amidst its intensity.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "luxury",
+    "spirituality",
+    "creativity"
+  ],
+  "complementary_colors": [
+    "#003A1A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Royal Dusk",
+      "swatches": [
+        "#3A0020",
+        "#7B3F58",
+        "#C1A3A3",
+        "#F0E6EF"
+      ]
+    },
+    {
+      "name": "Mystic Garden",
+      "swatches": [
+        "#3A0020",
+        "#558B2F",
+        "#A5D6A7",
+        "#E8F5E9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes for apps",
+      "Premium website designs",
+      "Luxury brand interfaces"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Chocolate packaging",
+      "Premium tea branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual retreat branding"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Lingerie",
+      "Formal wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Toledo Velvet Gown",
+      "description": "A luxurious velvet gown in Toledo, radiating elegance and sophistication.",
+      "image_url": "https://example.com/toledo_gown.jpg"
+    },
+    {
+      "title": "Toledo Amethyst Crystal",
+      "description": "A deep Toledo-colored Amethyst crystal, promoting calm and spiritual connection.",
+      "image_url": "https://example.com/toledo_amethyst.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with gray for a sophisticated look.",
+    "Use with soft pinks for a romantic touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Toledo Color Meaning: The Psychology of #3A0020",
+    "description": "Discover the meaning of Toledo (#3A0020), its psychological associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:06:13.74417+00:00",
+  "updated_at": "2025-06-01T15:06:13.74417+00:00",
+  "slug": "toledo"
+}

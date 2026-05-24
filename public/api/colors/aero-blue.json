@@ -1,0 +1,81 @@
+{
+  "id": "fb4c250a-7fcb-4c80-8a30-9242529007ae",
+  "color_name": "Aero Blue",
+  "hex_code": "#C9FFE5",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Aero Blue evokes feelings of tranquility, cleanliness, and freshness. Its light and airy quality is often associated with clarity and open communication, making it a comforting and optimistic color. It promotes a sense of calm and can inspire creativity, making it ideal for environments where focus and peace are desired.",
+  "emotional_associations": [
+    "calm",
+    "freshness",
+    "optimism",
+    "clarity"
+  ],
+  "complementary_colors": [
+    "#FFC9E0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Escape",
+      "swatches": [
+        "#C9FFE5",
+        "#E5F6FF",
+        "#A0D6B4",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Coastal Breeze",
+      "swatches": [
+        "#C9FFE5",
+        "#77DDE7",
+        "#95B9C7",
+        "#F0FFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Messaging apps",
+      "Health trackers",
+      "Weather apps"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mint Green Walls",
+      "description": "Aero Blue painted walls in a modern living room create a relaxing atmosphere.",
+      "image_url": "https://example.com/aero_blue_walls.jpg"
+    },
+    {
+      "title": "Aero Blue Packaging",
+      "description": "Sustainable skincare products are packaged in Aero Blue containers, emphasizing the natural and gentle qualities of the brand.",
+      "image_url": "https://example.com/aero_blue_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, minimalist look.",
+    "Combine with light greys for a sophisticated palette.",
+    "Use with pastel pinks for a soft, feminine feel.",
+    "Contrast with deeper blues for a dynamic, modern style."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color harmonies and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Aero Blue Color Meaning: Psychology, Combinations, and Design",
+    "description": "Discover the meaning of Aero Blue, its emotional associations, and how to use it effectively in your designs. Find color palettes and real-world examples for inspiration."
+  },
+  "created_at": "2025-06-01T16:32:41.642932+00:00",
+  "updated_at": "2025-06-01T16:32:41.642932+00:00",
+  "slug": "aero-blue"
+}

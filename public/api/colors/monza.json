@@ -1,0 +1,77 @@
+{
+  "id": "a15a2eab-a246-49f2-8ab2-ca7cafb2ba85",
+  "color_name": "Monza",
+  "hex_code": "#C7031E",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Monza, a deep and vibrant red, is strongly associated with passion, energy, and excitement. It evokes feelings of intensity, courage, and determination. This color can also symbolize love, danger, and importance, depending on the context. Its bold nature makes it a powerful and attention-grabbing choice.",
+  "emotional_associations": [
+    "passion",
+    "energy",
+    "excitement",
+    "courage",
+    "love",
+    "danger"
+  ],
+  "complementary_colors": [
+    "#03A1C7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Fiery Sunset",
+      "swatches": [
+        "#C7031E",
+        "#FF8C00",
+        "#FFD700",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Bold & Classic",
+      "swatches": [
+        "#C7031E",
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "energy drinks",
+      "spicy sauces"
+    ],
+    "wellness": [],
+    "fashion": [
+      "evening wear",
+      "statement accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ferrari",
+      "description": "The iconic red color of Ferrari cars symbolizes speed, luxury, and Italian passion.",
+      "image_url": "url_to_ferrari_image.jpg"
+    },
+    {
+      "title": "Stop Signs",
+      "description": "The use of red in stop signs universally signifies danger and the need to halt.",
+      "image_url": "url_to_stop_sign_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean, modern look.",
+    "Combine with black for a sophisticated and powerful statement.",
+    "Use with gold accents for a touch of luxury.",
+    "Balance with cooler blues and greens to create contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Monza using our color palette generator!",
+  "seo_meta": {
+    "title": "Monza Color Meaning: The Psychology of #C7031E",
+    "description": "Discover the meaning and symbolism of Monza (#C7031E). Learn about its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:29:52.244941+00:00",
+  "updated_at": "2025-06-01T16:29:52.244941+00:00",
+  "slug": "monza"
+}

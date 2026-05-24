@@ -1,0 +1,84 @@
+{
+  "id": "bb174378-5223-4b78-8adc-d5a71c5fb1f0",
+  "color_name": "Kaitoke Green",
+  "hex_code": "#004620",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Kaitoke Green evokes feelings of tranquility, growth, and connection to nature. It symbolizes harmony, balance, and renewal, often associated with environmental awareness and sustainability. This color promotes a sense of calm and encourages a focus on well-being and natural beauty. Its grounding nature inspires stability and resilience.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "harmony",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#460026"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#004620",
+        "#A0D6B4",
+        "#60826E",
+        "#386641",
+        "#E0E8DA"
+      ]
+    },
+    {
+      "name": "Forest Canopy",
+      "swatches": [
+        "#004620",
+        "#228B22",
+        "#3CB371",
+        "#90EE90",
+        "#F0FFF0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal teas",
+      "Vegan products"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Meditation apps",
+      "Eco-friendly spas"
+    ],
+    "fashion": [
+      "Sustainable clothing brands",
+      "Outdoor apparel",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Kaitoke Regional Park, New Zealand",
+      "description": "The lush greenery of Kaitoke Regional Park exemplifies the richness and vibrancy of Kaitoke Green, providing a natural escape and a sense of serenity.",
+      "image_url": "https://example.com/kaitoke_park.jpg"
+    },
+    {
+      "title": "Sustainable Office Design",
+      "description": "Integrating Kaitoke Green in office spaces to promote a sense of calm and productivity, using plants and eco-friendly materials.",
+      "image_url": "https://example.com/sustainable_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light beiges for a natural, calming effect.",
+    "Combine with gold accents for a touch of elegance.",
+    "Use with contrasting reds to create a vibrant and energetic palette.",
+    "Add muted grays for a sophisticated and modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and palettes using our interactive color picker to find the perfect match for your project!",
+  "seo_meta": {
+    "title": "Kaitoke Green Color Meaning: Symbolism, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Kaitoke Green, its psychological impact, and inspiring color palettes for design and branding. Explore complementary colors and industry applications."
+  },
+  "created_at": "2025-06-01T14:36:54.991185+00:00",
+  "updated_at": "2025-06-01T14:36:54.991185+00:00",
+  "slug": "kaitoke-green"
+}

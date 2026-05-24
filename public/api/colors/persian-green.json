@@ -1,0 +1,80 @@
+{
+  "id": "cf449901-1728-44d9-8025-3a32c9d02d51",
+  "color_name": "Persian Green",
+  "hex_code": "#00A693",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Persian Green is often associated with nature, tranquility, and health. It evokes feelings of calmness, balance, and growth, making it a popular choice for brands and environments aiming to create a sense of well-being and stability. It also suggests sophistication and refinement.",
+  "emotional_associations": [
+    "tranquility",
+    "health",
+    "nature",
+    "sophistication",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#A60013"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#00A693",
+        "#6F4E37",
+        "#A0522D",
+        "#D2B48C"
+      ]
+    },
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#00A693",
+        "#ADD8E6",
+        "#B0E0E6",
+        "#E0FFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health tracking apps",
+      "Environmental dashboards"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior Design",
+      "description": "Walls painted in Persian Green to promote relaxation and tranquility.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Herbal Tea Packaging",
+      "description": "Used on packaging to represent natural ingredients and health benefits.",
+      "image_url": "https://example.com/herbal_tea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones for a natural feel.",
+    "Combine with lighter blues for a calming effect.",
+    "Use with gold accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades using our color palette generator tool!",
+  "seo_meta": {
+    "title": "Persian Green Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Persian Green, its psychological effects, complementary colors, and inspiring palettes for your next design project."
+  },
+  "created_at": "2025-06-01T14:38:48.384296+00:00",
+  "updated_at": "2025-06-01T14:38:48.384296+00:00",
+  "slug": "persian-green"
+}

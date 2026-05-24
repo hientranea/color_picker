@@ -1,0 +1,81 @@
+{
+  "id": "a68b3457-ea69-442e-915d-6526f1606eac",
+  "color_name": "Red Robin",
+  "hex_code": "#80341F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Red Robin, a deep and earthy reddish-brown, evokes feelings of stability, reliability, and connection to the natural world. It suggests a sense of warmth and comfort, reminiscent of autumn leaves and cozy fireplaces. This color inspires trust and security, making it ideal for branding that emphasizes dependability and groundedness.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "warmth",
+    "comfort",
+    "trust",
+    "security"
+  ],
+  "complementary_colors": [
+    "#1F6B80"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#80341F",
+        "#D4A373",
+        "#F2E8CF",
+        "#588157"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#80341F",
+        "#A97142",
+        "#E2C799",
+        "#735133"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee shops",
+      "Chocolate brands",
+      "Bakeries"
+    ],
+    "wellness": [
+      "Spas (earthy tones)",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Leather goods",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A luxurious leather sofa in Red Robin adds warmth and sophistication to any living space.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "The vibrant Red Robin hues of autumn leaves create a beautiful and comforting landscape.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a classic look.",
+    "Combine with greens for a natural feel.",
+    "Use with golds for an elegant touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Red Robin Color Meaning: Understanding #80341F",
+    "description": "Discover the meaning, psychology, and best uses of Red Robin (#80341F), a deep and earthy reddish-brown color. Find color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:46:10.921665+00:00",
+  "updated_at": "2025-06-01T15:46:10.921665+00:00",
+  "slug": "red-robin"
+}

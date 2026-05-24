@@ -1,0 +1,80 @@
+{
+  "id": "7af597d2-f9bf-444f-8786-abbd7cdaab43",
+  "color_name": "Hacienda",
+  "hex_code": "#98811B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Hacienda, a muted olive-gold, evokes feelings of antiquity, groundedness, and understated luxury. It suggests a connection to history, nature, and enduring quality, offering a sense of stability and quiet confidence. This color avoids ostentation, instead conveying a refined, sophisticated sensibility.",
+  "emotional_associations": [
+    "groundedness",
+    "antiquity",
+    "understated luxury",
+    "stability",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#1B3298"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#98811B",
+        "#D4A373",
+        "#6D597A",
+        "#355070",
+        "#F0EAD6"
+      ]
+    },
+    {
+      "name": "Golden Age",
+      "swatches": [
+        "#98811B",
+        "#C0B283",
+        "#EDE0D4",
+        "#6C5B7B",
+        "#355C7D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for artisanal olive oil",
+      "Branding for organic tea blends"
+    ],
+    "wellness": [
+      "Spa interiors emphasizing natural elements",
+      "Yoga studio color schemes"
+    ],
+    "fashion": [
+      "Fall/Winter clothing lines with an earthy feel",
+      "Accessories inspired by vintage aesthetics"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Leather Furniture",
+      "description": "The color of aged leather furniture in a library evokes a sense of history and sophistication.",
+      "image_url": "https://example.com/leather_furniture.jpg"
+    },
+    {
+      "title": "Olive Grove at Sunset",
+      "description": "The muted gold and green hues of an olive grove bathed in the light of the setting sun.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep blues for a sophisticated contrast.",
+    "Combine with creams and beiges for a neutral and calming palette.",
+    "Use with terracotta and rust for a warm, earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Hacienda Color Meaning: Understanding #98811B",
+    "description": "Discover the meaning, associations, and best uses for Hacienda (#98811B), a sophisticated muted olive-gold color. Explore complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T15:59:40.508572+00:00",
+  "updated_at": "2025-06-01T15:59:40.508572+00:00",
+  "slug": "hacienda"
+}

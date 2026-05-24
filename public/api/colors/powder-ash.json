@@ -1,0 +1,81 @@
+{
+  "id": "e7915fa5-f209-4de0-88ed-18642ab60fc7",
+  "color_name": "Powder Ash",
+  "hex_code": "#BCC9C2",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Powder Ash evokes a sense of tranquility and sophistication. It is often associated with calmness, neutrality, and understated elegance. This color promotes feelings of peace and serenity, making it suitable for environments where relaxation is desired.",
+  "emotional_associations": [
+    "calmness",
+    "neutrality",
+    "sophistication",
+    "peace",
+    "serenity"
+  ],
+  "complementary_colors": [
+    "#C2B3BC",
+    "#C9BCC2",
+    "#BCBCC9"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#BCC9C2",
+        "#E5E7E9",
+        "#A3B18A",
+        "#D0D6B4"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#BCC9C2",
+        "#6C757D",
+        "#F8F9FA",
+        "#343A40"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "muted buttons",
+      "subtle accents"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa branding",
+      "meditation apps"
+    ],
+    "fashion": [
+      "casual wear",
+      "minimalist designs"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Walls painted in Powder Ash to create a calming and inviting living space.",
+      "image_url": "https://example.com/powder_ash_apartment.jpg"
+    },
+    {
+      "title": "Yoga Studio Design",
+      "description": "Accents of Powder Ash used in a yoga studio to promote relaxation and focus.",
+      "image_url": "https://example.com/powder_ash_yoga.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a clean look.",
+    "Combine with natural wood tones for warmth.",
+    "Use with muted greens for a nature-inspired palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Powder Ash Color Meaning: Understanding #BCC9C2",
+    "description": "Discover the meaning, associations, and best uses for Powder Ash (#BCC9C2), a calming and sophisticated color. Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T16:21:45.785726+00:00",
+  "updated_at": "2025-06-01T16:21:45.785726+00:00",
+  "slug": "powder-ash"
+}

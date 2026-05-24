@@ -1,0 +1,82 @@
+{
+  "id": "57e1fba8-a2e6-4133-947a-4428deda5e60",
+  "color_name": "Baltic Sea",
+  "hex_code": "#2A2630",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Baltic Sea evokes feelings of calm, mystery, and sophistication. It represents introspection and a connection to the natural world, particularly the depths of the ocean. This color can also suggest stability, resilience, and a subtle elegance, often associated with things that are timeless and enduring.",
+  "emotional_associations": [
+    "calm",
+    "mystery",
+    "sophistication",
+    "stability",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#D5D9CF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Mystery",
+      "swatches": [
+        "#2A2630",
+        "#3E3A44",
+        "#524E58",
+        "#66626C"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#2A2630",
+        "#A7D1AB",
+        "#E0F2E9",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Data visualization dashboards",
+      "Security software"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Sea Diving Gear",
+      "description": "A high-performance diving suit designed to withstand extreme pressures and depths, often incorporating dark, resilient materials.",
+      "image_url": "https://example.com/deep_sea_diving_gear.jpg"
+    },
+    {
+      "title": "Modern Minimalist Home",
+      "description": "An interior space featuring dark walls complemented by natural light and contrasting textures to achieve a sophisticated yet calming ambiance.",
+      "image_url": "https://example.com/modern_minimalist_home.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light greys for a modern look.",
+    "Combine with teal or seafoam green for a coastal vibe.",
+    "Use with gold or silver accents for added elegance.",
+    "Contrast with warm neutrals for balance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Baltic Sea Color Meaning: Understanding #2A2630",
+    "description": "Discover the meaning, psychology, and best uses of Baltic Sea (#2A2630), a sophisticated dark hue. Find complementary colors, palette ideas, and design inspiration."
+  },
+  "created_at": "2025-06-01T14:58:35.640557+00:00",
+  "updated_at": "2025-06-01T14:58:35.640557+00:00",
+  "slug": "baltic-sea"
+}

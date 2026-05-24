@@ -1,0 +1,82 @@
+{
+  "id": "523532ae-18f0-43a2-8b59-236e80e97104",
+  "color_name": "San Felix",
+  "hex_code": "#0B6207",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "San Felix, a deep forest green, evokes feelings of tranquility, growth, and connection to nature. It promotes a sense of stability and endurance, reminding us of the enduring strength and restorative power found in the natural world. This color can inspire feelings of hope, renewal, and a grounded sense of well-being.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "stability",
+    "tranquility",
+    "health"
+  ],
+  "complementary_colors": [
+    "#620B62",
+    "#62620B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#0B6207",
+        "#A0522D",
+        "#8FBC8F",
+        "#DEB887"
+      ]
+    },
+    {
+      "name": "Forest Retreat",
+      "swatches": [
+        "#0B6207",
+        "#228B22",
+        "#3CB371",
+        "#90EE90"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards emphasizing sustainability.",
+      "Navigation menus for eco-conscious apps."
+    ],
+    "food_beverage": [
+      "Packaging for organic and health foods.",
+      "Restaurant branding for farm-to-table establishments."
+    ],
+    "wellness": [
+      "Branding for natural skincare products.",
+      "Interior design for yoga studios and spas."
+    ],
+    "fashion": [
+      "Outdoor and hiking apparel.",
+      "Accessories with a natural, earthy aesthetic."
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amazon Rainforest",
+      "description": "The lush greenery of the Amazon rainforest, a symbol of biodiversity and natural abundance.",
+      "image_url": "https://example.com/amazon_rainforest.jpg"
+    },
+    {
+      "title": "Mossy Forest Floor",
+      "description": "The soft, verdant moss covering a forest floor, creating a serene and calming atmosphere.",
+      "image_url": "https://example.com/mossy_forest.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones like browns and beiges for a natural look.",
+    "Combine with lighter greens and yellows for a fresh and vibrant feel.",
+    "Contrast with reds or oranges for a bold and energetic statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "San Felix Color Meaning: Understanding #0B6207",
+    "description": "Discover the meaning, psychology, and best uses of San Felix (#0B6207), a deep forest green. Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-07T08:16:41.53342+00:00",
+  "updated_at": "2025-06-07T08:16:41.53342+00:00",
+  "slug": "san-felix"
+}

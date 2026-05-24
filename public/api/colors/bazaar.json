@@ -1,0 +1,86 @@
+{
+  "id": "40f8dcb6-d9a7-4121-bb15-3e77993587ab",
+  "color_name": "Bazaar",
+  "hex_code": "#98777B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Bazaar, a muted grayish-brown, evokes a sense of calm and sophistication. It suggests stability, reliability, and a grounded nature. This color often represents practicality and understated elegance, conveying a feeling of comfort and trustworthiness.",
+  "emotional_associations": [
+    "stability",
+    "sophistication",
+    "calm",
+    "reliability",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#7B9894"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#98777B",
+        "#D4A373",
+        "#E9DAC1",
+        "#A9927D"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#98777B",
+        "#6B4F4F",
+        "#CDB380",
+        "#EDEAE0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Neutral elements",
+      "Subtle accents"
+    ],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Natural food labels"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps",
+      "Earthy cosmetic packaging"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Neutral wardrobe staples"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A comfortable leather armchair in Bazaar provides a sense of timeless style and relaxation.",
+      "image_url": "https://example.com/leather_armchair.jpg"
+    },
+    {
+      "title": "Stone Pathways",
+      "description": "Gravel or stone pathways featuring Bazaar-colored stones create a natural and inviting outdoor space.",
+      "image_url": "https://example.com/stone_pathway.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, elegant look.",
+    "Combine with darker browns for a rich, earthy feel.",
+    "Use with muted greens for a natural, calming palette.",
+    "Accent with metallics like gold or bronze for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore the nuances of Bazaar and similar shades with our color picker tool!",
+  "seo_meta": {
+    "title": "Bazaar Color Meaning: Understanding #98777B",
+    "description": "Discover the meaning, psychology, and best uses of Bazaar (#98777B), a sophisticated grayish-brown color. Explore palettes, pairings, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:59:33.274961+00:00",
+  "updated_at": "2025-06-01T15:59:33.274961+00:00",
+  "slug": "bazaar"
+}

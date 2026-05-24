@@ -1,0 +1,83 @@
+{
+  "id": "3b4ddf61-5107-4bb2-a983-5d2eb8975ee6",
+  "color_name": "Botticelli",
+  "hex_code": "#C7DDE5",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Botticelli is a soft, muted blue-green that evokes a sense of tranquility and serenity. It suggests a connection to nature, specifically the sea and sky, and promotes feelings of peace, calm, and reflection. This color is often associated with creativity, inspiration, and a gentle, soothing presence.",
+  "emotional_associations": [
+    "tranquility",
+    "serenity",
+    "peace",
+    "calm",
+    "creativity",
+    "inspiration"
+  ],
+  "complementary_colors": [
+    "#E5C7DD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Harmony",
+      "swatches": [
+        "#C7DDE5",
+        "#F0F4F8",
+        "#A0B4BC",
+        "#788A91"
+      ]
+    },
+    {
+      "name": "Ethereal Dream",
+      "swatches": [
+        "#C7DDE5",
+        "#E8DAD3",
+        "#FFFFFF",
+        "#B8C0C8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Weather applications",
+      "Calming dashboard themes"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation centers"
+    ],
+    "fashion": [
+      "Spring/Summer collections",
+      "Resort wear",
+      "Bridal gowns"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior",
+      "description": "The walls of the spa are painted in Botticelli to create a calming and relaxing atmosphere for clients.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Wedding Invitation",
+      "description": "Botticelli is used as the primary color for a wedding invitation, symbolizing peace and serenity for the upcoming union.",
+      "image_url": "https://example.com/wedding_invitation.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals like beige and cream for a calming effect.",
+    "Combine with light gray for a modern and sophisticated look.",
+    "Use with other pastel shades for a gentle and harmonious palette.",
+    "Accent with metallic silver or gold for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more calming colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Botticelli Color Meaning: Serenity and Inspiration | [Your Blog Name]",
+    "description": "Discover the meaning of Botticelli (#C7DDE5), its emotional associations, complementary colors, and how to use it in your designs. Learn about its psychological impact and industry applications."
+  },
+  "created_at": "2025-06-01T16:30:41.915721+00:00",
+  "updated_at": "2025-06-01T16:30:41.915721+00:00",
+  "slug": "botticelli"
+}

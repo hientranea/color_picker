@@ -1,0 +1,88 @@
+{
+  "id": "01f7869c-304b-4edc-927e-f77680bf8ddc",
+  "color_name": "Almond Frost",
+  "hex_code": "#907B71",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Almond Frost evokes a sense of calm, sophistication, and understated elegance. Its muted, earthy tones create a feeling of stability and reliability, suggesting a connection to nature and organic elements. This color is often associated with neutrality and can provide a grounding effect, making it suitable for creating a balanced and harmonious environment.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "neutrality",
+    "stability",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#718690"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#907B71",
+        "#A6938A",
+        "#C0ACA4",
+        "#D9C7BF",
+        "#F2E4DC"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#907B71",
+        "#736257",
+        "#A67B5B",
+        "#D4A373",
+        "#F0E6D2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds for web applications",
+      "Neutral color for data visualization",
+      "Calming interface elements"
+    ],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Branding for coffee shops",
+      "Restaurant interior design"
+    ],
+    "wellness": [
+      "Spa and yoga studio branding",
+      "Meditation app design",
+      "Packaging for aromatherapy products"
+    ],
+    "fashion": [
+      "Autumn/Winter apparel",
+      "Accessories like scarves and hats",
+      "Footwear design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cozy Living Room",
+      "description": "A living room featuring Almond Frost walls, creating a warm and inviting atmosphere.",
+      "image_url": "https://example.com/almond_frost_living_room.jpg"
+    },
+    {
+      "title": "Elegant Stationery",
+      "description": "Wedding invitations with Almond Frost accents for a sophisticated and timeless look.",
+      "image_url": "https://example.com/almond_frost_stationery.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a harmonious look.",
+    "Combine with deep greens for an earthy feel.",
+    "Accent with metallic gold or copper for added elegance.",
+    "Use with muted blues for a calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Almond Frost Color Meaning: Understanding #907B71",
+    "description": "Discover the meaning, psychology, and best uses of Almond Frost (#907B71), a sophisticated and neutral color. Find complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T15:56:22.961566+00:00",
+  "updated_at": "2025-06-01T15:56:22.961566+00:00",
+  "slug": "almond-frost"
+}

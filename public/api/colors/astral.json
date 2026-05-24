@@ -1,0 +1,77 @@
+{
+  "id": "3b9deaf6-56be-48fb-9fd2-2b7646e9130c",
+  "color_name": "Astral",
+  "hex_code": "#327DA0",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Astral is a serene and contemplative color, evoking feelings of calmness, stability, and introspection. It suggests trustworthiness and reliability, while also hinting at creativity and imagination. This color often inspires a sense of peace and mental clarity, making it ideal for promoting relaxation and focus.",
+  "emotional_associations": [
+    "calmness",
+    "trust",
+    "stability",
+    "introspection",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#A06832"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Oceanic Serenity",
+      "swatches": [
+        "#327DA0",
+        "#77B5FE",
+        "#B0E2FF",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Earthy Balance",
+      "swatches": [
+        "#327DA0",
+        "#A3B18A",
+        "#E5EFC1",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Security software",
+      "Cloud computing platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios",
+      "Spas"
+    ],
+    "fashion": []
+  },
+  "real_world_examples": [
+    {
+      "title": "Astral Blue Office Space",
+      "description": "A modern office space utilizing astral blue to promote a calm and focused working environment.",
+      "image_url": "https://example.com/astral_office.jpg"
+    },
+    {
+      "title": "Astral Colored Living Room",
+      "description": "A living room design featuring astral blue walls, creating a relaxing and inviting atmosphere.",
+      "image_url": "https://example.com/astral_livingroom.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or white for a clean look.",
+    "Combine with warm earthy tones for balance.",
+    "Use as an accent color with brighter blues for depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find more colors and create your perfect palette!",
+  "seo_meta": {
+    "title": "Astral Color Meaning: Understanding #327DA0",
+    "description": "Explore the meaning, psychology, and uses of Astral (#327DA0). Discover complementary colors and create stunning palettes with this serene hue."
+  },
+  "created_at": "2025-06-07T08:17:25.06476+00:00",
+  "updated_at": "2025-06-07T08:17:25.06476+00:00",
+  "slug": "astral"
+}

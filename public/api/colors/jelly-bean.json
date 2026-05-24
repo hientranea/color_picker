@@ -1,0 +1,75 @@
+{
+  "id": "cf1fb163-0c4d-497e-8fae-4a7a24c7708b",
+  "color_name": "Jelly Bean",
+  "hex_code": "#297B9A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jelly Bean, a muted teal, evokes feelings of tranquility and stability. It suggests trustworthiness and reliability, while also hinting at creativity and a touch of the unexpected. It's a color that balances calmness with a sense of forward-thinking innovation.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "calmness",
+    "creativity",
+    "innovation"
+  ],
+  "complementary_colors": [
+    "#9A2930"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#297B9A",
+        "#A9D1D0",
+        "#FFFFFF",
+        "#70A1A1"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#297B9A",
+        "#E8E2DA",
+        "#594A4E",
+        "#A3886E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Progress bars",
+      "Navigation menus"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Natural health products"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mobile App UI",
+      "description": "A fitness app utilizes Jelly Bean as a primary color in its interface to convey trust and stability.",
+      "image_url": "https://example.com/jellybean_app.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A consulting firm uses Jelly Bean in its logo and website to project an image of reliability and innovation.",
+      "image_url": "https://example.com/jellybean_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with coral or peach for a vibrant contrast.",
+    "Use with white to create a clean and calming aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and build your perfect color scheme using our color palette generator!",
+  "seo_meta": {
+    "title": "Jelly Bean Color Meaning: Understanding #297B9A",
+    "description": "Discover the meaning, psychology, and best uses of Jelly Bean (#297B9A). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T14:58:07.008406+00:00",
+  "updated_at": "2025-06-01T14:58:07.008406+00:00",
+  "slug": "jelly-bean"
+}

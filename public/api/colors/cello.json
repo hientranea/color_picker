@@ -1,0 +1,79 @@
+{
+  "id": "6ce7a635-ae37-425a-b203-a3c6ad0bda82",
+  "color_name": "Cello",
+  "hex_code": "#1E385B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cello is a deep, muted blue that evokes feelings of sophistication, stability, and introspection. It suggests a sense of quiet confidence and reliability, often associated with trustworthiness and depth of character. This color can inspire contemplation and a sense of calm assurance.",
+  "emotional_associations": [
+    "Sophistication",
+    "Stability",
+    "Introspection",
+    "Trustworthiness",
+    "Calm"
+  ],
+  "complementary_colors": [
+    "#5B411E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#1E385B",
+        "#A9B7C2",
+        "#E0E5EC",
+        "#F5F7FA"
+      ]
+    },
+    {
+      "name": "Deep Sea",
+      "swatches": [
+        "#1E385B",
+        "#3B597E",
+        "#6C8AB0",
+        "#9DBBD2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars",
+      "Progress indicators",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Formal wear",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Midnight Navy Suit",
+      "description": "A tailored suit in a Cello-like shade exudes professionalism and understated elegance.",
+      "image_url": "https://example.com/navy_suit.jpg"
+    },
+    {
+      "title": "Abstract Painting",
+      "description": "An abstract painting uses Cello to create depth and a sense of tranquility.",
+      "image_url": "https://example.com/abstract_painting.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a balanced look.",
+    "Combine with muted golds for a touch of luxury.",
+    "Use with contrasting warm colors for a vibrant effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Cello Color Meaning: Understanding the Psychology of #1E385B",
+    "description": "Discover the meaning, associations, and best uses of Cello (#1E385B). Learn how to incorporate this sophisticated color into your designs and branding."
+  },
+  "created_at": "2025-06-07T08:17:10.521552+00:00",
+  "updated_at": "2025-06-07T08:17:10.521552+00:00",
+  "slug": "cello"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "b944e037-86a8-4e31-9216-c59e728b8cd8",
+  "color_name": "Astronaut",
+  "hex_code": "#283A77",
+  "wheel_position": "primary",
+  "psychological_meaning": "Astronaut is a deep, contemplative blue that evokes feelings of stability, trust, and intelligence. It is often associated with knowledge, power, integrity, and seriousness. This color promotes a sense of order and can encourage introspection and clear thinking. Its calming nature helps to reduce stress and create a peaceful environment, fostering a sense of loyalty and confidence.",
+  "emotional_associations": [
+    "trust",
+    "loyalty",
+    "intelligence",
+    "stability",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#776528"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Deep Sea",
+      "swatches": [
+        "#283A77",
+        "#5062A3",
+        "#788ACF",
+        "#A0B2FB",
+        "#C8DAFF"
+      ]
+    },
+    {
+      "name": "Corporate Trust",
+      "swatches": [
+        "#283A77",
+        "#3E54AC",
+        "#7B8DBF",
+        "#B8C6D3",
+        "#F5F5F5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard interfaces",
+      "security applications",
+      "data visualization tools"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "meditation apps",
+      "sleep aids",
+      "therapy websites"
+    ],
+    "fashion": [
+      "formal wear",
+      "winter collections",
+      "corporate attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Navy Blue Suit",
+      "description": "A classic navy blue suit symbolizes professionalism and reliability.",
+      "image_url": "https://example.com/navy_suit.jpg"
+    },
+    {
+      "title": "Financial Institution Logo",
+      "description": "A bank logo using a deep blue to convey trustworthiness and stability.",
+      "image_url": "https://example.com/bank_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a professional look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with white for a clean and modern feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Astronaut Color Meaning: Symbolism, Psychology & Palettes",
+    "description": "Discover the meaning of the color Astronaut (#283A77). Learn about its psychological effects, emotional associations, and how to use it in design."
+  },
+  "created_at": "2025-06-01T14:57:24.3891+00:00",
+  "updated_at": "2025-06-01T14:57:24.3891+00:00",
+  "slug": "astronaut"
+}

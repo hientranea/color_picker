@@ -1,0 +1,84 @@
+{
+  "id": "c102e02f-17ad-4e27-8984-f9f7cd5d6109",
+  "color_name": "Earls Green",
+  "hex_code": "#C9B93B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Earls Green evokes a sense of nature, growth, and harmony. It combines the optimism of yellow with the tranquility of green, suggesting balance and renewal. This color often symbolizes prosperity, stability, and a connection to the earth, making it feel both grounded and uplifting.",
+  "emotional_associations": [
+    "growth",
+    "nature",
+    "balance",
+    "optimism",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#3BC9AE"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#C9B93B",
+        "#736A52",
+        "#A68B60",
+        "#E6D8B9",
+        "#403D39"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#C9B93B",
+        "#A8D582",
+        "#F2E8C9",
+        "#6A994E",
+        "#386641"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Sustainable living platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Natural health product labels",
+      "Spa and retreat websites"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Organic Farm Branding",
+      "description": "A local organic farm uses Earls Green in their logo and packaging to convey their commitment to natural and sustainable practices.",
+      "image_url": "https://example.com/farm_logo.jpg"
+    },
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "A company producing eco-friendly cleaning products uses Earls Green to signal their dedication to environmental responsibility.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like beige or gray for a sophisticated look.",
+    "Combine with other earthy colors for a natural and grounded feel.",
+    "Use as an accent color against a darker background to make it pop.",
+    "Contrast with a complementary color like teal for a vibrant combination."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Earls Green Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning of Earls Green, its psychological effects, complementary colors, and suggested palettes for design and branding projects."
+  },
+  "created_at": "2025-06-01T16:32:13.47338+00:00",
+  "updated_at": "2025-06-01T16:32:13.47338+00:00",
+  "slug": "earls-green"
+}

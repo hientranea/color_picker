@@ -1,0 +1,80 @@
+{
+  "id": "60b601d5-8096-49c3-9976-5914fe7e51cc",
+  "color_name": "Amethyst",
+  "hex_code": "#9966CC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Amethyst is associated with spirituality, intuition, and transformation. It fosters a sense of calm and peace, promoting mental clarity and higher consciousness. This color often represents wisdom, dignity, and creativity, encouraging introspection and spiritual growth. It can also symbolize luxury and sophistication due to its historical association with royalty.",
+  "emotional_associations": [
+    "spirituality",
+    "intuition",
+    "calm",
+    "wisdom",
+    "luxury"
+  ],
+  "complementary_colors": [
+    "#CC9966"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#9966CC",
+        "#333366",
+        "#C2A3CE",
+        "#663399",
+        "#E6CCFF"
+      ]
+    },
+    {
+      "name": "Amethyst Harmony",
+      "swatches": [
+        "#9966CC",
+        "#FFFFFF",
+        "#F0E68C",
+        "#D8BFD8",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Apps promoting mindfulness",
+      "Spiritual guidance platforms"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Jewelry design"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "A naturally formed Amethyst geode showcasing the crystal's deep purple hues.",
+      "image_url": "url_to_amethyst_geode_image.jpg"
+    },
+    {
+      "title": "Amethyst Jewelry",
+      "description": "A stunning Amethyst pendant necklace, often associated with royalty and power.",
+      "image_url": "url_to_amethyst_jewelry_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold accents for elegance.",
+    "Combine with muted greens for a natural feel.",
+    "Use with cream or white for a softer, more calming palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and combinations of Amethyst using our color picker tool.",
+  "seo_meta": {
+    "title": "Amethyst Color Meaning: Symbolism, Psychology & Hex Code",
+    "description": "Discover the meaning of Amethyst, its psychological associations, complementary colors, and how to use this elegant purple hue in your designs."
+  },
+  "created_at": "2025-06-01T16:00:31.540217+00:00",
+  "updated_at": "2025-06-01T16:00:31.540217+00:00",
+  "slug": "amethyst"
+}

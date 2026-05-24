@@ -1,0 +1,81 @@
+{
+  "id": "af83fa6d-9dbe-4d30-9d15-bf3be6ef0e12",
+  "color_name": "Topaz",
+  "hex_code": "#7C778A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Topaz, with its muted and sophisticated gray-purple hue, evokes feelings of calmness, introspection, and subtle elegance. It suggests a sense of wisdom and maturity, often associated with reflection and thoughtful consideration. It's a color that inspires contemplation and can create a serene and balanced atmosphere.",
+  "emotional_associations": [
+    "calmness",
+    "introspection",
+    "elegance",
+    "wisdom",
+    "maturity"
+  ],
+  "complementary_colors": [
+    "#8A8377"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Calm",
+      "swatches": [
+        "#7C778A",
+        "#D3D0CB",
+        "#A9A296",
+        "#F0EAD6"
+      ]
+    },
+    {
+      "name": "Modern Vintage",
+      "swatches": [
+        "#7C778A",
+        "#504A4B",
+        "#BDB2BF",
+        "#E6DDC4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral text color",
+      "Sophisticated icons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Relaxation websites",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Elegant evening wear",
+      "Accessories",
+      "Understated casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Topaz Jewelry",
+      "description": "Topaz gemstones are often cut and polished to create beautiful and understated jewelry pieces.",
+      "image_url": "https://example.com/topaz_jewelry.jpg"
+    },
+    {
+      "title": "Interior Design Accent",
+      "description": "Topaz colored paint can be used as a subtle accent wall color in interior design to create a calming atmosphere.",
+      "image_url": "https://example.com/topaz_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a sophisticated look.",
+    "Combine with gold or silver accents for added elegance.",
+    "Use with muted greens for a nature-inspired palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Topaz Color Meaning: Understanding the Psychology of #7C778A",
+    "description": "Discover the meaning and associations of Topaz (#7C778A), including its psychological effects, complementary colors, and ideal uses."
+  },
+  "created_at": "2025-06-01T15:43:36.605357+00:00",
+  "updated_at": "2025-06-01T15:43:36.605357+00:00",
+  "slug": "topaz"
+}

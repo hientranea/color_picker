@@ -1,0 +1,75 @@
+{
+  "id": "5ef2fcae-11a8-4db2-b34c-043f924d1838",
+  "color_name": "Mulberry",
+  "hex_code": "#C54B8C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mulberry is a sophisticated and rich color that evokes feelings of creativity, imagination, and luxury. It blends the passion of red with the stability of purple, creating a harmonious balance that suggests wisdom, dignity, and independence. It can also be associated with unconventional thinking and artistic expression.",
+  "emotional_associations": [
+    "creativity",
+    "luxury",
+    "wisdom",
+    "dignity",
+    "imagination"
+  ],
+  "complementary_colors": [
+    "#4BC582"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance",
+      "swatches": [
+        "#C54B8C",
+        "#702963",
+        "#F2D7EE",
+        "#A9A9A9"
+      ]
+    },
+    {
+      "name": "Vibrant Sunset",
+      "swatches": [
+        "#C54B8C",
+        "#FFB347",
+        "#E07A5F",
+        "#3D405B"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mulberry Silk Scarf",
+      "description": "A luxurious silk scarf showcasing the deep, rich color of mulberry.",
+      "image_url": "https://example.com/mulberry_scarf.jpg"
+    },
+    {
+      "title": "Mulberry Lipstick",
+      "description": "A bold and sophisticated lipstick in a beautiful mulberry shade.",
+      "image_url": "https://example.com/mulberry_lipstick.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a balanced look.",
+    "Combine with gold accents for a touch of opulence.",
+    "Use with neutral grays for a modern aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more captivating colors and create your own palettes with our color picker!",
+  "seo_meta": {
+    "title": "Mulberry Color Meaning: Symbolism, Palettes & Uses | ColorMeaning.com",
+    "description": "Explore the meaning of Mulberry color. Learn about its psychological associations, how to pair it, and see examples in fashion, design, and more. Find the perfect color palette for your project!"
+  },
+  "created_at": "2025-06-01T16:27:43.618482+00:00",
+  "updated_at": "2025-06-01T16:27:43.618482+00:00",
+  "slug": "mulberry"
+}

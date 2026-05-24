@@ -1,0 +1,83 @@
+{
+  "id": "db2f726f-643e-4fcc-8cd3-3bf2591e0010",
+  "color_name": "Slate Gray",
+  "hex_code": "#708090",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Slate Gray is often associated with sophistication, neutrality, and composure. It evokes feelings of calmness and stability, providing a sense of groundedness and reliability. This color is also linked to maturity and practicality, making it a popular choice for designs aiming to convey professionalism and trustworthiness.",
+  "emotional_associations": [
+    "calmness",
+    "sophistication",
+    "neutrality",
+    "stability",
+    "professionalism"
+  ],
+  "complementary_colors": [
+    "#908070",
+    "#809070",
+    "#807090"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#F0F8FF",
+        "#D8BFD8",
+        "#A9A9A9",
+        "#708090",
+        "#2F4F4F"
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#708090",
+        "#A0522D",
+        "#BDB76B",
+        "#8FBC8F",
+        "#DEB887"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Buttons",
+      "Text"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Slate Roof",
+      "description": "A classic slate roof showcasing the color's durability and timeless appeal.",
+      "image_url": "https://example.com/slate_roof.jpg"
+    },
+    {
+      "title": "Modern Office Interior",
+      "description": "Slate gray walls in a modern office, creating a professional and calming environment.",
+      "image_url": "https://example.com/office_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft pinks for a balanced look.",
+    "Combine with crisp whites for a clean and modern feel.",
+    "Use with natural wood tones for warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of gray with our color picker tool today!",
+  "seo_meta": {
+    "title": "Slate Gray Color Meaning, Code & Palettes",
+    "description": "Explore the meaning, psychology, and best uses of Slate Gray (#708090). Discover palettes and pairing ideas for your next design project."
+  },
+  "created_at": "2025-06-01T15:35:31.474301+00:00",
+  "updated_at": "2025-06-01T15:35:31.474301+00:00",
+  "slug": "slate-gray"
+}

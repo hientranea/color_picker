@@ -1,0 +1,80 @@
+{
+  "id": "1bf35790-326e-406a-bf7d-4d008d2e1ab4",
+  "color_name": "Mexican Red",
+  "hex_code": "#A72525",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mexican Red evokes feelings of passion, strength, and cultural richness. It combines the energy of red with a touch of earthiness, suggesting warmth, stability, and a connection to heritage. This color can inspire confidence and excitement, while also providing a sense of comfort and tradition. It's often associated with festivities and celebration.",
+  "emotional_associations": [
+    "passion",
+    "strength",
+    "heritage",
+    "warmth",
+    "celebration"
+  ],
+  "complementary_colors": [
+    "#25A7A7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Fiesta",
+      "swatches": [
+        "#A72525",
+        "#FFC300",
+        "#00A36C",
+        "#2E86AB",
+        "#F7DC6F"
+      ]
+    },
+    {
+      "name": "Earthy Warmth",
+      "swatches": [
+        "#A72525",
+        "#7A3E3E",
+        "#D3B4A2",
+        "#E2DCC8",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Restaurant branding",
+      "Hot sauce packaging",
+      "Salsa labels"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening gowns",
+      "Traditional garments",
+      "Accessory accents"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Mexican Pottery",
+      "description": "Hand-painted pottery showcasing vibrant Mexican Red patterns.",
+      "image_url": "https://example.com/mexican_pottery.jpg"
+    },
+    {
+      "title": "Chiles de Arbol",
+      "description": "Dried chiles de arbol, a common ingredient in Mexican cuisine, displaying a deep red hue.",
+      "image_url": "https://example.com/chiles_de_arbol.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with teal for a vibrant contrast.",
+    "Use with earthy tones for a warm, inviting feel.",
+    "Combine with gold accents for a touch of luxury.",
+    "Try with soft white to soften the intensity."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades and create your own harmonious palettes!",
+  "seo_meta": {
+    "title": "Mexican Red Color Meaning: Discover the Psychology and Uses of #A72525",
+    "description": "Explore the meaning, associations, and uses of Mexican Red (#A72525). Learn how to use this vibrant color in design and branding."
+  },
+  "created_at": "2025-06-01T16:06:44.287736+00:00",
+  "updated_at": "2025-06-01T16:06:44.287736+00:00",
+  "slug": "mexican-red"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "55289073-af50-4c03-a1c4-37c66b0e4d62",
+  "color_name": "Copperfield",
+  "hex_code": "#DA8A67",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Copperfield, a warm and earthy hue, evokes feelings of stability, comfort, and subtle luxury. It suggests a connection to nature and tradition, offering a sense of groundedness and reliability. It can also inspire feelings of warmth, intimacy, and rustic charm, making it a versatile color for creating welcoming and inviting environments.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "stability",
+    "rustic charm",
+    "subtle luxury"
+  ],
+  "complementary_colors": [
+    "#6789DA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#DA8A67",
+        "#A85A3C",
+        "#E9DAC1",
+        "#73626B"
+      ]
+    },
+    {
+      "name": "Autumn Harmony",
+      "swatches": [
+        "#DA8A67",
+        "#E6B89C",
+        "#8C6A50",
+        "#F2E1D0"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Restaurant branding",
+      "Packaging for organic foods",
+      "Coffee shop design"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in Copperfield adds warmth to a living space.",
+      "image_url": "https://example.com/leather-sofa.jpg"
+    },
+    {
+      "title": "Rustic Coffee Shop",
+      "description": "The interior design of a coffee shop featuring Copperfield walls and accents creates a cozy atmosphere.",
+      "image_url": "https://example.com/coffee-shop.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a classic look.",
+    "Use with deep greens for a natural, earthy feel.",
+    "Combine with blues and teals for a complementary contrast.",
+    "Incorporate metallic accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our interactive color picker tool!",
+  "seo_meta": {
+    "title": "Copperfield Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Copperfield (#DA8A67), its psychological associations, complementary colors, and inspiring palette ideas for your next design project."
+  },
+  "created_at": "2025-06-01T16:34:00.586989+00:00",
+  "updated_at": "2025-06-01T16:34:00.586989+00:00",
+  "slug": "copperfield"
+}

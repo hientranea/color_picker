@@ -1,0 +1,82 @@
+{
+  "id": "17458315-a49a-4932-a6a4-ad3113a54997",
+  "color_name": "Kingfisher Daisy",
+  "hex_code": "#3E0480",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Kingfisher Daisy, with its deep purple hue, evokes feelings of mystery, creativity, and luxury. It is often associated with wisdom, dignity, and independence. This color can inspire introspection and a sense of calm contemplation, encouraging deep thought and spiritual exploration.",
+  "emotional_associations": [
+    "mystery",
+    "creativity",
+    "luxury",
+    "wisdom",
+    "dignity"
+  ],
+  "complementary_colors": [
+    "#807C04"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Dusk",
+      "swatches": [
+        "#3E0480",
+        "#7B1FA2",
+        "#BBDEFB",
+        "#E1BEE7"
+      ]
+    },
+    {
+      "name": "Mystic Forest",
+      "swatches": [
+        "#3E0480",
+        "#2E7D32",
+        "#A5D6A7",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Navigation bars",
+      "Loading screens"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Luxury chocolate packaging"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual guidance websites"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "A stunning amethyst geode showcasing the natural beauty of deep purple crystals.",
+      "image_url": "https://example.com/amethyst_geode.jpg"
+    },
+    {
+      "title": "Royal Iris Flower",
+      "description": "A close-up shot of a royal iris flower, highlighting its intricate petals and vibrant purple color.",
+      "image_url": "https://example.com/royal_iris.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold for a luxurious feel.",
+    "Combine with muted greens for a natural contrast.",
+    "Use with white to create a clean and modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Kingfisher Daisy Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning behind Kingfisher Daisy (#3E0480), its psychological associations, complementary colors, and suggested palettes for your design projects."
+  },
+  "created_at": "2025-06-01T15:08:59.836532+00:00",
+  "updated_at": "2025-06-01T15:08:59.836532+00:00",
+  "slug": "kingfisher-daisy"
+}

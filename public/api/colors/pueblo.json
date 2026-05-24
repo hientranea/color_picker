@@ -1,0 +1,77 @@
+{
+  "id": "ab093b3c-5c36-41bf-acf2-11846b1c5d56",
+  "color_name": "Pueblo",
+  "hex_code": "#7D2C14",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pueblo evokes feelings of earthiness, stability, and connection to nature. It suggests a sense of history, tradition, and comfort. This color is often associated with reliability, strength, and groundedness, bringing a sense of warmth and security.",
+  "emotional_associations": [
+    "earthiness",
+    "stability",
+    "tradition",
+    "warmth",
+    "security"
+  ],
+  "complementary_colors": [
+    "#147D65"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#7D2C14",
+        "#A64B2A",
+        "#D46A4E",
+        "#F28B82",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#7D2C14",
+        "#5C4033",
+        "#A87863",
+        "#DBCFB7",
+        "#F8F8F8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "food_beverage": [
+      "Coffee branding",
+      "Chocolate packaging",
+      "Rustic restaurant decor"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation retreats",
+      "Natural health products"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Adobe Buildings",
+      "description": "The color of traditional adobe buildings in the American Southwest.",
+      "image_url": "https://example.com/adobe_buildings.jpg"
+    },
+    {
+      "title": "Autumn Leaves",
+      "description": "The color of fallen leaves in autumn.",
+      "image_url": "https://example.com/autumn_leaves.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with creams and beiges for a classic look.",
+    "Add a pop of gold for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades and design your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Pueblo Color Meaning: Understanding #7D2C14 | Color Psychology",
+    "description": "Explore the meaning and associations of Pueblo (#7D2C14). Discover palettes, industry use cases, and how to pair this earthy hue for your design projects."
+  },
+  "created_at": "2025-06-07T08:17:55.316613+00:00",
+  "updated_at": "2025-06-07T08:17:55.316613+00:00",
+  "slug": "pueblo"
+}

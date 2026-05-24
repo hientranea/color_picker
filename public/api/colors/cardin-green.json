@@ -1,0 +1,82 @@
+{
+  "id": "98f82d03-fe3a-44fc-92f4-9dc01b8afdae",
+  "color_name": "Cardin Green",
+  "hex_code": "#01361C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cardin Green is a deep, sophisticated green that evokes feelings of tranquility, nature, and stability. It represents growth, renewal, and balance, often associated with financial prosperity and a sense of groundedness. This color can inspire feelings of calm confidence and security, making it a popular choice for brands aiming to project trustworthiness and environmental consciousness.",
+  "emotional_associations": [
+    "tranquility",
+    "nature",
+    "stability",
+    "growth",
+    "renewal",
+    "balance",
+    "prosperity",
+    "security"
+  ],
+  "complementary_colors": [
+    "#DA0119"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#01361C",
+        "#A89078",
+        "#E3DAC9",
+        "#4A5D4B"
+      ]
+    },
+    {
+      "name": "Forest Retreat",
+      "swatches": [
+        "#01361C",
+        "#556B2F",
+        "#8FBC8F",
+        "#DEB887"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Health supplement branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The dense, verdant canopy of an ancient forest, providing shade and a sense of wonder.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Luxury Car Interior",
+      "description": "The sophisticated, dark green leather interior of a high-end automobile.",
+      "image_url": "https://example.com/car_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with gold or brass accents for a touch of luxury.",
+    "Use alongside natural wood tones to enhance the connection to nature.",
+    "Contrast with a complementary color like burgundy for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of green and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Cardin Green Color Meaning: Symbolism, Psychology, and Design",
+    "description": "Discover the meaning and psychology of Cardin Green (#01361C), explore color palettes, and find design inspiration for your next project."
+  },
+  "created_at": "2025-06-01T14:40:02.341113+00:00",
+  "updated_at": "2025-06-01T14:40:02.341113+00:00",
+  "slug": "cardin-green"
+}

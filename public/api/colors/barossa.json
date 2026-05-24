@@ -1,0 +1,79 @@
+{
+  "id": "4533293d-9300-4400-9bed-4174d3ba8c5c",
+  "color_name": "Barossa",
+  "hex_code": "#44012D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Barossa, with its deep, wine-like hue, evokes feelings of sophistication and luxury. It is associated with ambition and power, often conveying a sense of mystery and intrigue. This color suggests a mature and refined taste, hinting at hidden depths and a strong personality.",
+  "emotional_associations": [
+    "sophistication",
+    "luxury",
+    "ambition",
+    "mystery",
+    "power"
+  ],
+  "complementary_colors": [
+    "#014416"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance Defined",
+      "swatches": [
+        "#44012D",
+        "#A98D9E",
+        "#E5D4D9",
+        "#262324"
+      ]
+    },
+    {
+      "name": "Royal Dusk",
+      "swatches": [
+        "#44012D",
+        "#773D5D",
+        "#B984A3",
+        "#33222D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Luxury chocolate branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Lingerie"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Barossa Wine Bottle",
+      "description": "A bottle of Barossa Shiraz, its label reflecting the rich, dark color of the wine itself.",
+      "image_url": "https://example.com/barossa_wine.jpg"
+    },
+    {
+      "title": "Velvet Evening Gown",
+      "description": "A luxurious velvet evening gown in a deep Barossa shade, exuding elegance and sophistication.",
+      "image_url": "https://example.com/barossa_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with muted greens for a sophisticated contrast.",
+    "Use with cream or ivory for a soft, elegant look.",
+    "Accent with silver for a modern touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore similar shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Barossa Color Meaning: Symbolism, Palettes & Design Tips",
+    "description": "Discover the meaning of Barossa (#44012D), its psychological effects, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:13:29.521898+00:00",
+  "updated_at": "2025-06-01T15:13:29.521898+00:00",
+  "slug": "barossa"
+}

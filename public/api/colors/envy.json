@@ -1,0 +1,83 @@
+{
+  "id": "b947e7ef-41f2-4a52-974c-46143a99bcd1",
+  "color_name": "Envy",
+  "hex_code": "#8BA690",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Envy, a muted green, evokes feelings of tranquility and harmony. It suggests a connection to nature, promoting balance and growth. However, its subtle undertones can also trigger feelings of jealousy or longing. Overall, it represents a complex blend of positive and negative emotions, deeply rooted in our perceptions of what we lack.",
+  "emotional_associations": [
+    "tranquility",
+    "harmony",
+    "nature",
+    "balance",
+    "growth",
+    "jealousy",
+    "longing"
+  ],
+  "complementary_colors": [
+    "#A68B8B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#8BA690",
+        "#D4CABD",
+        "#A6937C",
+        "#6C7A89"
+      ]
+    },
+    {
+      "name": "Subtle Contrast",
+      "swatches": [
+        "#8BA690",
+        "#C8D6B9",
+        "#E8E4D5",
+        "#5D6D7E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Sustainable technology websites",
+      "Relaxation apps"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The lush green canopy of a dense forest, showcasing the color's association with nature and tranquility.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Vintage Kitchenware",
+      "description": "A collection of vintage kitchenware in shades of muted green, evoking a sense of nostalgia and homeyness.",
+      "image_url": "https://example.com/vintage_kitchenware.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beige for a natural look.",
+    "Use with muted browns to evoke earthiness.",
+    "Combine with dusty rose for a subtle contrast.",
+    "Introduce gold accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Envy and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Envy Color Meaning: Understanding the Psychology of #8BA690",
+    "description": "Explore the meaning, psychology, and uses of the color Envy (#8BA690). Discover complementary colors, palettes, and industry use cases."
+  },
+  "created_at": "2025-06-01T15:53:08.421522+00:00",
+  "updated_at": "2025-06-01T15:53:08.421522+00:00",
+  "slug": "envy"
+}

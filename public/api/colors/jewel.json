@@ -1,0 +1,88 @@
+{
+  "id": "d6f6b140-aabc-41e9-989d-f4fe228b5e2b",
+  "color_name": "Jewel",
+  "hex_code": "#126B40",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jewel tones, particularly those leaning towards deep greens and blues like #126B40, evoke feelings of sophistication, luxury, and stability. They are often associated with nature, growth, and prosperity, creating a sense of calm and reassurance. This color can also represent knowledge, health, and generosity, making it a versatile choice for conveying trust and elegance.",
+  "emotional_associations": [
+    "sophistication",
+    "luxury",
+    "stability",
+    "growth",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#B34A7B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#126B40",
+        "#A38A5A",
+        "#E8DAB2",
+        "#6B8E23",
+        "#333333"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "swatches": [
+        "#126B40",
+        "#224329",
+        "#4F7942",
+        "#74B72E",
+        "#C0FF3E"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Financial apps with a focus on security",
+      "Healthcare applications"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Branding for high-end restaurants",
+      "Labels for craft beverages"
+    ],
+    "wellness": [
+      "Spa and wellness center branding",
+      "Yoga studio design",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Jewelry design",
+      "Evening wear",
+      "Accessories like scarves and handbags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Emerald Jewelry",
+      "description": "A stunning emerald necklace showcasing the rich green hue of the gemstone.",
+      "image_url": "https://example.com/emerald_necklace.jpg"
+    },
+    {
+      "title": "Forest Landscape",
+      "description": "A photograph of a lush forest with deep green foliage.",
+      "image_url": "https://example.com/forest_landscape.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold or silver for a luxurious feel.",
+    "Combine with neutral tones like beige or gray for a sophisticated look.",
+    "Use with lighter greens for a natural and calming palette.",
+    "Contrast with warm oranges or reds for a vibrant and energetic design."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Jewel Color Meaning: Understanding the Psychology of #126B40",
+    "description": "Discover the meaning, associations, and best uses for Jewel (#126B40). Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T14:48:39.31848+00:00",
+  "updated_at": "2025-06-01T14:48:39.31848+00:00",
+  "slug": "jewel"
+}

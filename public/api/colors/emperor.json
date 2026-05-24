@@ -1,0 +1,84 @@
+{
+  "id": "1367b906-b754-4e05-8702-3bc9622b791e",
+  "color_name": "Emperor",
+  "hex_code": "#514649",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Emperor is a sophisticated and grounded color, often associated with stability, maturity, and understated elegance. It suggests a sense of quiet confidence and reliability, evoking feelings of tradition and permanence. It can also represent neutrality and balance, providing a calming and reassuring presence.",
+  "emotional_associations": [
+    "stability",
+    "elegance",
+    "neutrality",
+    "maturity",
+    "understated"
+  ],
+  "complementary_colors": [
+    "#495146",
+    "#D4CACA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#514649",
+        "#A08A84",
+        "#D4CACA",
+        "#827365",
+        "#E8DDCB"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#514649",
+        "#FFFFFF",
+        "#E5E5E5",
+        "#333333",
+        "#A6A6A6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Text color for readability",
+      "Neutral accents"
+    ],
+    "fashion": [
+      "Classic outerwear",
+      "Elegant evening wear",
+      "Professional attire"
+    ],
+    "wellness": [
+      "Meditation spaces",
+      "Relaxation apps",
+      "Spas"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in Emperor adds a touch of sophistication to any living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Stone Buildings",
+      "description": "The natural stone facade of a building, colored Emperor, creates a sense of timelessness and strength.",
+      "image_url": "https://example.com/stone_building.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, elegant look.",
+    "Combine with metallic accents for a touch of glamour.",
+    "Use with natural textures like wood and stone for a grounded feel.",
+    "Contrast with brighter accent colors for visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Emperor Color Meaning: The Psychology of #514649",
+    "description": "Discover the meaning and associations of Emperor (#514649), including its psychological effects, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:20:31.446207+00:00",
+  "updated_at": "2025-06-01T15:20:31.446207+00:00",
+  "slug": "emperor"
+}

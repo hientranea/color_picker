@@ -1,0 +1,75 @@
+{
+  "id": "ee0a7ce1-a2df-49df-8fa5-d6315be72813",
+  "color_name": "Gun Powder",
+  "hex_code": "#414257",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Gun Powder evokes feelings of sophistication, mystery, and subdued strength. Its muted, dark grey tones suggest stability and understated elegance, while also hinting at a hidden intensity and potential. It can represent neutrality, formality, and a sense of quiet power.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "stability",
+    "neutrality",
+    "formality"
+  ],
+  "complementary_colors": [
+    "#575641",
+    "#F7F8E2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Elegance",
+      "swatches": [
+        "#414257",
+        "#5A5B70",
+        "#74758A"
+      ]
+    },
+    {
+      "name": "Industrial Chic",
+      "swatches": [
+        "#414257",
+        "#A9A9A9",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Navigation menus",
+      "Data visualization"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Accessories",
+      "Formal wear"
+    ],
+    "wellness": null
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Gun Powder is used as the primary wall color in a minimalist apartment, creating a sophisticated and calming atmosphere.",
+      "image_url": "https://example.com/gunpowder_apartment.jpg"
+    },
+    {
+      "title": "Corporate Branding",
+      "description": "A tech company uses Gun Powder in its logo and website design to convey stability and innovation.",
+      "image_url": "https://example.com/gunpowder_logo.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic look.",
+    "Combine with metallic accents for added sophistication.",
+    "Use with brighter colors as a neutral backdrop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Gun Powder using our color picker tool to find the perfect match for your project!",
+  "seo_meta": {
+    "title": "Gun Powder Color Meaning: Psychology, Combinations & Uses",
+    "description": "Discover the meaning of Gun Powder (#414257), its psychological associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:12:03.355856+00:00",
+  "updated_at": "2025-06-01T15:12:03.355856+00:00",
+  "slug": "gun-powder"
+}

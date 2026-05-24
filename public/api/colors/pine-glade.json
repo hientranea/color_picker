@@ -1,0 +1,84 @@
+{
+  "id": "a01cc419-d560-41a8-84bd-87573195e461",
+  "color_name": "Pine Glade",
+  "hex_code": "#C7CD90",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pine Glade evokes feelings of tranquility, nature, and understated elegance. It suggests growth, renewal, and harmony, promoting a sense of calm and well-being. This color is often associated with stability, endurance, and a connection to the earth, making it a soothing and grounding choice.",
+  "emotional_associations": [
+    "tranquility",
+    "nature",
+    "growth",
+    "harmony",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#908ACD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#C7CD90",
+        "#A3B18A",
+        "#798A78",
+        "#4F6367",
+        "#2B3A42"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#C7CD90",
+        "#E3E0B9",
+        "#F2F4D3",
+        "#D3E29B",
+        "#B2C987"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral accents"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Health drink branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The color of sunlight filtering through a dense pine forest canopy.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Rustic Cottage",
+      "description": "A charming cottage painted in a muted Pine Glade hue, blending seamlessly with its natural surroundings.",
+      "image_url": "https://example.com/rustic_cottage.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a calming effect.",
+    "Combine with deep greens for a natural palette.",
+    "Use with soft yellows to brighten the space.",
+    "Contrast with purples for a sophisticated look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Pine Glade Color Meaning: Understanding #C7CD90",
+    "description": "Discover the meaning, psychology, and best uses of Pine Glade (#C7CD90). Explore color palettes and industry applications for this tranquil green hue."
+  },
+  "created_at": "2025-06-01T16:30:34.805316+00:00",
+  "updated_at": "2025-06-01T16:30:34.805316+00:00",
+  "slug": "pine-glade"
+}

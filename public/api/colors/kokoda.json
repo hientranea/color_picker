@@ -1,0 +1,82 @@
+{
+  "id": "9244e0e0-56c2-47b1-bb72-27a5e5ae9160",
+  "color_name": "Kokoda",
+  "hex_code": "#6E6D57",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Kokoda represents stability, practicality, and groundedness. This muted, earthy tone evokes feelings of calm and reliability. It suggests maturity and a connection to nature, often associated with comfort and endurance. While not particularly vibrant, Kokoda can offer a sense of reassurance and understated elegance.",
+  "emotional_associations": [
+    "Stability",
+    "Reliability",
+    "Calm",
+    "Nature",
+    "Comfort"
+  ],
+  "complementary_colors": [
+    "#57586E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#6E6D57",
+        "#A3A28C",
+        "#D8D7C1",
+        "#464538"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#6E6D57",
+        "#8C7853",
+        "#BFA078",
+        "#534026"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background elements",
+      "Neutral text highlighting"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors with a natural theme"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Accessories with an earthy feel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Kokoda Leather Sofa",
+      "description": "A comfortable and stylish sofa upholstered in Kokoda-colored leather, perfect for a cozy living room.",
+      "image_url": "https://example.com/kokoda_sofa.jpg"
+    },
+    {
+      "title": "Kokoda Painted Wall",
+      "description": "A bedroom wall painted in Kokoda creates a relaxing and inviting atmosphere.",
+      "image_url": "https://example.com/kokoda_wall.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a neutral palette.",
+    "Combine with muted blues or greens for a calming effect.",
+    "Add pops of gold or copper for a touch of elegance.",
+    "Use alongside natural materials like wood and stone."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Kokoda Color Meaning: Understanding #6E6D57",
+    "description": "Explore the meaning, psychology, and uses of Kokoda (#6E6D57), a calm and reliable earthy tone. Discover complementary colors and palette suggestions."
+  },
+  "created_at": "2025-06-01T15:34:07.060751+00:00",
+  "updated_at": "2025-06-01T15:34:07.060751+00:00",
+  "slug": "kokoda"
+}

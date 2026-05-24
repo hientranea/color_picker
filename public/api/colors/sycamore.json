@@ -1,0 +1,79 @@
+{
+  "id": "068e3388-933f-42de-9f3c-f5944ca2d1a8",
+  "color_name": "Sycamore",
+  "hex_code": "#908D39",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sycamore, with its muted green-yellow tones, evokes a sense of tranquility and natural harmony. It often represents growth, endurance, and a connection to the earth. This color promotes feelings of stability, comfort, and quiet energy, making it a soothing and grounding choice.",
+  "emotional_associations": [
+    "stability",
+    "comfort",
+    "nature",
+    "tranquility",
+    "endurance"
+  ],
+  "complementary_colors": [
+    "#393C90"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#908D39",
+        "#A69F6B",
+        "#736E4C",
+        "#D4D0B2"
+      ]
+    },
+    {
+      "name": "Muted Autumn",
+      "swatches": [
+        "#908D39",
+        "#C4A484",
+        "#8B4513",
+        "#F0E68C"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Branding for sustainable food products"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sycamore Bark",
+      "description": "The distinctive bark of the Sycamore tree, characterized by its mottled pattern and creamy, greenish-brown hues.",
+      "image_url": "https://example.com/sycamore_bark.jpg"
+    },
+    {
+      "title": "Vintage Wallpaper",
+      "description": "A retro-style wallpaper featuring Sycamore-colored botanical prints, adding a touch of vintage charm to a room.",
+      "image_url": "https://example.com/vintage_wallpaper.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted browns for a natural, earthy feel.",
+    "Combine with creamy whites for a soft and calming ambiance.",
+    "Use with deep greens for a lush and vibrant contrast.",
+    "Accent with metallic golds for a touch of understated elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to discover the perfect Sycamore-inspired shades for your next project.",
+  "seo_meta": {
+    "title": "Sycamore Color Meaning: Understanding the Psychology of #908D39",
+    "description": "Discover the meaning, associations, and best uses of Sycamore (#908D39), a soothing and grounding color. Explore palettes, complementary colors, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:56:30.789337+00:00",
+  "updated_at": "2025-06-01T15:56:30.789337+00:00",
+  "slug": "sycamore"
+}

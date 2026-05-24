@@ -1,0 +1,85 @@
+{
+  "id": "6875c69b-4e91-4268-8b40-86effdafbb43",
+  "color_name": "Green Spring",
+  "hex_code": "#B8C1B1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Green Spring evokes feelings of renewal, growth, and tranquility. It combines the refreshing qualities of green with a subtle hint of rejuvenation, suggesting harmony and balance. This color promotes a sense of calm and connection to nature, making it ideal for spaces or designs intended to foster peace and well-being.",
+  "emotional_associations": [
+    "Tranquility",
+    "Growth",
+    "Renewal",
+    "Balance",
+    "Harmony"
+  ],
+  "complementary_colors": [
+    "#C1B8BE"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#B8C1B1",
+        "#E9DAC1",
+        "#A68DAD",
+        "#7B6670"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#B8C1B1",
+        "#D4E2D4",
+        "#A2B5A2",
+        "#6F8A6F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Eco-friendly applications",
+      "Relaxation apps"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding",
+      "Wellness drink labels"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Sustainable clothing lines",
+      "Accessories for outdoor activities"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interior",
+      "description": "A spa utilizes Green Spring to create a calming and relaxing atmosphere, enhancing the sense of tranquility and well-being for its clients.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    },
+    {
+      "title": "Sustainable Clothing Brand",
+      "description": "A clothing brand focused on sustainability uses Green Spring in its branding to convey its commitment to environmental consciousness and natural materials.",
+      "image_url": "https://example.com/clothing_brand.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals for a calming palette.",
+    "Combine with pastel shades for a gentle and refreshing look.",
+    "Contrast with deeper greens for a natural, layered effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our color palette generator.",
+  "seo_meta": {
+    "title": "Green Spring Color Meaning: Symbolism and Design Ideas",
+    "description": "Discover the meaning, symbolism, and design applications of Green Spring (#B8C1B1). Explore color palettes, emotional associations, and industry use cases."
+  },
+  "created_at": "2025-06-01T16:19:29.877296+00:00",
+  "updated_at": "2025-06-01T16:19:29.877296+00:00",
+  "slug": "green-spring"
+}

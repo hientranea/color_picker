@@ -1,0 +1,80 @@
+{
+  "id": "25de9b4b-268b-48b1-a776-3872c4bce0c0",
+  "color_name": "Sambuca",
+  "hex_code": "#3A2010",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sambuca, a deep and rich brown, evokes feelings of warmth, stability, and earthiness. It's often associated with comfort, reliability, and a sense of groundedness, promoting a feeling of security and connection to the natural world. This color can also suggest sophistication and understated elegance.",
+  "emotional_associations": [
+    "warmth",
+    "stability",
+    "comfort",
+    "sophistication",
+    "earthiness"
+  ],
+  "complementary_colors": [
+    "#103A2A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Earth",
+      "swatches": [
+        "#3A2010",
+        "#8B4513",
+        "#D2691E",
+        "#F4A460",
+        "#DEB887"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#3A2010",
+        "#A0522D",
+        "#C04000",
+        "#E9967A",
+        "#FFF0F5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee and chocolate products",
+      "Branding for artisanal foods"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Natural health product packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in a living room setting evokes feelings of comfort and luxury.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Dark wooden flooring in a dining room adds warmth and elegance.",
+      "image_url": "https://example.com/wooden_floor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Use with greens and yellows for an earthy palette.",
+    "Contrast with teals for a sophisticated vibe."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Sambuca!",
+  "seo_meta": {
+    "title": "Sambuca Color Meaning: Discover the Psychology of #3A2010",
+    "description": "Uncover the meaning and associations of Sambuca (#3A2010). Explore its psychological effects, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:06:20.661552+00:00",
+  "updated_at": "2025-06-01T15:06:20.661552+00:00",
+  "slug": "sambuca"
+}

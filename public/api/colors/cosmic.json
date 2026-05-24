@@ -1,0 +1,78 @@
+{
+  "id": "22fc6938-00dc-48e7-83ef-609fbe1f1e2e",
+  "color_name": "Cosmic",
+  "hex_code": "#76395D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cosmic evokes a sense of mystery, introspection, and otherworldly beauty. It blends the grounding aspects of earth tones with the enigmatic allure of the universe, suggesting a connection to the unknown and a contemplation of deeper meanings. This color can inspire creativity, spirituality, and a search for understanding beyond the tangible.",
+  "emotional_associations": [
+    "mystery",
+    "introspection",
+    "spirituality",
+    "creativity",
+    "contemplation"
+  ],
+  "complementary_colors": [
+    "#397650"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dawn",
+      "swatches": [
+        "#76395D",
+        "#A36A8F",
+        "#D19BB1",
+        "#F0CED3"
+      ]
+    },
+    {
+      "name": "Cosmic Night",
+      "swatches": [
+        "#76395D",
+        "#2E1A26",
+        "#52444C",
+        "#7A6E74"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "meditation apps",
+      "astronomy websites"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "yoga studios",
+      "spiritual retreats"
+    ],
+    "fashion": [
+      "evening wear",
+      "statement jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "The deep purple hues of an amethyst geode reflect the calming and spiritual qualities of Cosmic.",
+      "image_url": "url_to_amethyst_image.jpg"
+    },
+    {
+      "title": "Nebula Photography",
+      "description": "Images of distant nebulae often feature colors similar to Cosmic, evoking wonder and mystery.",
+      "image_url": "url_to_nebula_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with silver or gold accents for an elegant touch.",
+    "Combine with lighter shades of pink or purple for a softer look.",
+    "Use as an accent color in a neutral palette to add depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your own palettes using our color picker tool!",
+  "seo_meta": {
+    "title": "Cosmic Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Cosmic color, its psychological impact, and how to use it in design. Explore color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:38:58.750821+00:00",
+  "updated_at": "2025-06-01T15:38:58.750821+00:00",
+  "slug": "cosmic"
+}

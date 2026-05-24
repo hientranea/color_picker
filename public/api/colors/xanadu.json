@@ -1,0 +1,87 @@
+{
+  "id": "3127b8be-fb4e-417c-90df-a95b1ea58af1",
+  "color_name": "Xanadu",
+  "hex_code": "#738678",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Xanadu, a muted grayish-green, evokes a sense of tranquility and connection with nature. It suggests stability, endurance, and a calming presence. It often represents a balance between growth and groundedness, creating a feeling of understated elegance and harmony with the environment.",
+  "emotional_associations": [
+    "calm",
+    "nature",
+    "stability",
+    "balance",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#86737B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#738678",
+        "#A9B2A3",
+        "#D0D6C9",
+        "#556B2F",
+        "#3D4E3C"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#738678",
+        "#A2B5A4",
+        "#E0E8E5",
+        "#607B8B",
+        "#809EAB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background color",
+      "Neutral accents for data visualization",
+      "Calming theme for productivity apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors with a natural theme"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories inspired by nature",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Xanadu Colored Sofa",
+      "description": "A stylish sofa upholstered in a Xanadu colored fabric brings a touch of nature indoors, creating a calming and inviting atmosphere.",
+      "image_url": "https://example.com/xanadu_sofa.jpg"
+    },
+    {
+      "title": "Xanadu Walls in an Office",
+      "description": "Xanadu colored walls in an office space promote a sense of focus and tranquility, enhancing productivity and well-being.",
+      "image_url": "https://example.com/xanadu_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a soft, natural look.",
+    "Combine with darker greens for a layered, earthy feel.",
+    "Use with metallic accents like gold or bronze for a touch of elegance.",
+    "Contrast with warm oranges or reds for a vibrant pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our color palette generator now!",
+  "seo_meta": {
+    "title": "Xanadu Color Meaning: Discover the Psychology of #738678",
+    "description": "Uncover the meaning and emotional associations of Xanadu (#738678). Explore complementary colors, palette suggestions, and real-world examples for this calming green shade."
+  },
+  "created_at": "2025-06-01T15:37:54.832827+00:00",
+  "updated_at": "2025-06-01T15:37:54.832827+00:00",
+  "slug": "xanadu"
+}

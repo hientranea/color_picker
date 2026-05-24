@@ -1,0 +1,78 @@
+{
+  "id": "e6a51aa1-96ca-4fd1-8846-9ff414f4dca5",
+  "color_name": "Hillary",
+  "hex_code": "#ACA586",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Hillary is a sophisticated and understated color, evoking feelings of calmness and reliability. Its muted tone suggests stability and practicality, making it a comforting and trustworthy choice. It can represent neutrality and balance, blending harmoniously into various environments while retaining a subtle elegance.",
+  "emotional_associations": [
+    "calmness",
+    "reliability",
+    "stability",
+    "neutrality",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#868DAC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#ACA586",
+        "#D4CABD",
+        "#706754",
+        "#E9E5D8"
+      ]
+    },
+    {
+      "name": "Subtle Harmony",
+      "swatches": [
+        "#ACA586",
+        "#8E856A",
+        "#C2B79A",
+        "#F7F2E7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for dashboards",
+      "Subtle accents in data visualizations"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Neutral wardrobe staples",
+      "Sophisticated outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Pathways",
+      "description": "The color of weathered stone pathways in serene gardens.",
+      "image_url": "https://example.com/stone_pathway.jpg"
+    },
+    {
+      "title": "Linen Fabric",
+      "description": "The muted hue of natural linen used in minimalist clothing designs.",
+      "image_url": "https://example.com/linen_fabric.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with creams and beiges for a classic look.",
+    "Pair with darker browns and greens for an earthy feel.",
+    "Use with metallics like gold or silver for added sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades with our color palette generator!",
+  "seo_meta": {
+    "title": "Hillary Color Meaning: Understanding #ACA586",
+    "description": "Discover the meaning and associations of the color Hillary (#ACA586), including its psychology, complementary colors, and usage examples."
+  },
+  "created_at": "2025-06-01T16:11:06.710502+00:00",
+  "updated_at": "2025-06-01T16:11:06.710502+00:00",
+  "slug": "hillary"
+}

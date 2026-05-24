@@ -1,0 +1,81 @@
+{
+  "id": "230f5681-91a4-4dc8-996b-02a9c6fc607b",
+  "color_name": "Sanguine Brown",
+  "hex_code": "#8D3D38",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sanguine Brown evokes feelings of warmth, comfort, and stability. It is associated with the earth, nature, and reliability. This color can also represent determination and endurance. It is a grounding color that promotes a sense of security and connection to one's roots.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "stability",
+    "earthiness",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#388D8E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#8D3D38",
+        "#D4A373",
+        "#A97142",
+        "#5C4033"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#8D3D38",
+        "#E3DAC9",
+        "#B38B6D",
+        "#4A3B32"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee",
+      "Branding for chocolate",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studios",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Autumn/Winter clothing",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a Sanguine Brown hue adds warmth and sophistication to a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Hardwood flooring stained in a Sanguine Brown color creates a cozy and inviting atmosphere.",
+      "image_url": "https://example.com/wooden_floor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with greens for a natural palette.",
+    "Use with golds for a luxurious feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Find more color inspiration with our color palette generator!",
+  "seo_meta": {
+    "title": "Sanguine Brown Color Meaning: Symbolism, Psychology & Design",
+    "description": "Explore the meaning, psychology, and design applications of Sanguine Brown. Discover complementary colors, palettes, and real-world examples for this warm, earthy hue."
+  },
+  "created_at": "2025-06-01T15:54:03.850765+00:00",
+  "updated_at": "2025-06-01T15:54:03.850765+00:00",
+  "slug": "sanguine-brown"
+}

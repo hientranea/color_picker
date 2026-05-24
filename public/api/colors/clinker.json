@@ -1,0 +1,80 @@
+{
+  "id": "dea7244f-bd61-45f6-9f8c-ad07cd730fe9",
+  "color_name": "Clinker",
+  "hex_code": "#371D09",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Clinker, a deep and earthy brown, evokes feelings of stability, groundedness, and reliability. It is associated with nature, warmth, and a sense of comfort, providing a sense of security and permanence. This color often represents resilience and a connection to the past.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "comfort",
+    "groundedness",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#092537"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#371D09",
+        "#A68B74",
+        "#E8DDCB",
+        "#6B8E23"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#371D09",
+        "#8B4513",
+        "#D2B48C",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Whiskey labels"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Winter coats",
+      "Boots"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rustic Cabin",
+      "description": "The wooden exterior of a rustic cabin, providing a warm and inviting atmosphere.",
+      "image_url": "https://example.com/cabin.jpg"
+    },
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa, symbolizing comfort and durability.",
+      "image_url": "https://example.com/sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, inviting look.",
+    "Combine with greens for a natural, earthy feel.",
+    "Use with metallics for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades for your next project!",
+  "seo_meta": {
+    "title": "Clinker Color Meaning: Understanding the Psychology of #371D09",
+    "description": "Discover the meaning and associations of the color Clinker (#371D09). Learn how to use this earthy brown in design and branding."
+  },
+  "created_at": "2025-06-01T15:04:54.99754+00:00",
+  "updated_at": "2025-06-01T15:04:54.99754+00:00",
+  "slug": "clinker"
+}

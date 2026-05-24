@@ -1,0 +1,81 @@
+{
+  "id": "a1f7940b-fae4-43a9-84a2-c08fb8a06059",
+  "color_name": "Sand Dune",
+  "hex_code": "#826F65",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Sand Dune evokes feelings of calmness, stability, and grounding. It is associated with nature, particularly the desert and beaches, suggesting simplicity and tranquility. This color promotes a sense of reliability and comfort, making it a solid choice for designs aiming to convey trust and dependability.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "grounding",
+    "comfort",
+    "neutrality"
+  ],
+  "complementary_colors": [
+    "#65826F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#826F65",
+        "#D4A373",
+        "#A9927D",
+        "#F2E8CF"
+      ]
+    },
+    {
+      "name": "Desert Sunset",
+      "swatches": [
+        "#826F65",
+        "#E29578",
+        "#BDB2BF",
+        "#FAE1DF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist dashboards",
+      "Neutral color schemes for productivity apps"
+    ],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Branding for coffee shops"
+    ],
+    "wellness": [
+      "Color schemes for meditation apps",
+      "Branding for yoga studios"
+    ],
+    "fashion": [
+      "Neutral tones in sustainable fashion brands",
+      "Backgrounds for clothing e-commerce sites"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Desert Landscape",
+      "description": "The vast expanse of a sandy desert, stretching towards the horizon under a clear sky.",
+      "image_url": "https://example.com/desert.jpg"
+    },
+    {
+      "title": "Beach Dune",
+      "description": "A grassy sand dune overlooking a calm ocean.",
+      "image_url": "https://example.com/beach_dune.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter creams for a soft, inviting look.",
+    "Combine with muted greens for an earthy feel.",
+    "Use with terracotta shades to create a warm and rustic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades to complement Sand Dune!",
+  "seo_meta": {
+    "title": "Sand Dune Color Meaning: #826F65 - Psychology, Pairings, and Palettes",
+    "description": "Discover the meaning of Sand Dune (#826F65), its psychological effects, complementary colors, and how to use it in your design projects."
+  },
+  "created_at": "2025-06-01T15:47:45.698003+00:00",
+  "updated_at": "2025-06-01T15:47:45.698003+00:00",
+  "slug": "sand-dune"
+}

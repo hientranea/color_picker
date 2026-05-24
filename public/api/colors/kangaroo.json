@@ -1,0 +1,80 @@
+{
+  "id": "ca684403-cb1c-44c3-9a2f-a19d11e6e34e",
+  "color_name": "Kangaroo",
+  "hex_code": "#C6C8BD",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Kangaroo, a muted grayish-brown, evokes feelings of stability, neutrality, and practicality. It suggests a sense of calm and groundedness, often associated with nature and simplicity. This color can also represent reliability and a lack of strong emotional expression, making it a safe and dependable choice.",
+  "emotional_associations": [
+    "Neutrality",
+    "Stability",
+    "Reliability",
+    "Calm",
+    "Practicality"
+  ],
+  "complementary_colors": [
+    "#BDC6C8",
+    "#C8BDC6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#C6C8BD",
+        "#A9A18F",
+        "#8C8561",
+        "#6F6933"
+      ]
+    },
+    {
+      "name": "Monochromatic Gray",
+      "swatches": [
+        "#C6C8BD",
+        "#B3B5AF",
+        "#A0A2A1",
+        "#8D8F93"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Buttons",
+      "Text"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa environments",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Pathway",
+      "description": "A winding stone pathway in a garden setting, showcasing the natural and grounding qualities of the color.",
+      "image_url": "https://example.com/stone_pathway.jpg"
+    },
+    {
+      "title": "Neutral Sofa",
+      "description": "A comfortable sofa upholstered in a Kangaroo-colored fabric, illustrating its use in interior design.",
+      "image_url": "https://example.com/neutral_sofa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural palette.",
+    "Combine with off-white for a clean and modern look.",
+    "Use with deep browns for a rustic feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Kangaroo Color Meaning: Understanding #C6C8BD",
+    "description": "Explore the meaning, psychology, and best uses of Kangaroo color (#C6C8BD). Discover palettes and pairing tips."
+  },
+  "created_at": "2025-06-01T16:29:37.897519+00:00",
+  "updated_at": "2025-06-01T16:29:37.897519+00:00",
+  "slug": "kangaroo"
+}

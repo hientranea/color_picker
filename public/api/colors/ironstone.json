@@ -1,0 +1,82 @@
+{
+  "id": "7ab298dd-76bf-4125-89e5-f1def77573f3",
+  "color_name": "Ironstone",
+  "hex_code": "#86483C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Ironstone, a subdued and earthy brown, evokes feelings of stability, resilience, and groundedness. Its connection to natural elements like stone and earth promotes a sense of reliability and dependability. It can also suggest a sense of history, heritage, and enduring strength, providing a comforting and secure feeling.",
+  "emotional_associations": [
+    "stability",
+    "resilience",
+    "groundedness",
+    "reliability",
+    "heritage"
+  ],
+  "complementary_colors": [
+    "#3C868F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#86483C",
+        "#D3B4A1",
+        "#726A95",
+        "#F0EAD6"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#86483C",
+        "#A98D80",
+        "#E5D9C6",
+        "#50514F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Chocolate branding",
+      "Rustic restaurant design"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in Ironstone provides a warm and inviting atmosphere.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Stone Fireplace",
+      "description": "An Ironstone fireplace creates a focal point that is both rustic and elegant.",
+      "image_url": "https://example.com/stone_fireplace.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a soft, neutral palette.",
+    "Combine with greens and blues for an earthy, natural feel.",
+    "Use with metallic accents like gold or copper for a touch of luxury.",
+    "Contrast with brighter accent colors like teal or mustard yellow."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore various shades and tints of Ironstone using our color picker tool to discover your perfect match!",
+  "seo_meta": {
+    "title": "Ironstone Color Meaning: Discover the Psychology and Uses of #86483C",
+    "description": "Uncover the meaning behind the Ironstone color (#86483C). Learn about its psychological effects, associations, and how to use it in design, branding, and more."
+  },
+  "created_at": "2025-06-01T15:49:21.196304+00:00",
+  "updated_at": "2025-06-01T15:49:21.196304+00:00",
+  "slug": "ironstone"
+}

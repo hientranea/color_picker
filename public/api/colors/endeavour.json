@@ -1,0 +1,79 @@
+{
+  "id": "6b870a40-5e81-44d3-bf40-0f140a598b53",
+  "color_name": "Endeavour",
+  "hex_code": "#0056A7",
+  "wheel_position": "primary",
+  "psychological_meaning": "Endeavour, a deep and calming blue, is often associated with trust, stability, and intelligence. It evokes feelings of serenity and order, promoting a sense of security and confidence. This color is known to encourage focus and concentration, making it a favorite for environments where clear thinking is paramount.",
+  "emotional_associations": [
+    "trust",
+    "stability",
+    "intelligence",
+    "serenity",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#A75100"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#0056A7",
+        "#77B5FE",
+        "#002D62",
+        "#ADD8E6"
+      ]
+    },
+    {
+      "name": "Corporate Calm",
+      "swatches": [
+        "#0056A7",
+        "#FFFFFF",
+        "#A9A9A9",
+        "#2F4F4F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard interfaces",
+      "data visualization",
+      "security applications"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "meditation apps",
+      "sleep aids"
+    ],
+    "fashion": [
+      "formal wear",
+      "business attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Corporate Branding",
+      "description": "Many corporations use deep blues like Endeavour in their branding to convey reliability and professionalism.",
+      "image_url": "https://example.com/corporate_blue.jpg"
+    },
+    {
+      "title": "Naval Uniforms",
+      "description": "Naval uniforms often feature deep blues, symbolizing authority and respect.",
+      "image_url": "https://example.com/naval_uniform.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a professional look.",
+    "Use with lighter blues for a calming effect.",
+    "Combine with orange or yellow for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Endeavour Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Endeavour (#0056A7), its psychological effects, and how to use it in design. Explore color palettes and pairings."
+  },
+  "created_at": "2025-06-01T14:37:24.384164+00:00",
+  "updated_at": "2025-06-01T14:37:24.384164+00:00",
+  "slug": "endeavour"
+}

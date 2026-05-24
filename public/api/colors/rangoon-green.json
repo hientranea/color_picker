@@ -1,0 +1,78 @@
+{
+  "id": "4fbb58be-2f46-4486-a295-ae1b90474971",
+  "color_name": "Rangoon Green",
+  "hex_code": "#1C1E13",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Rangoon Green, a muted and earthy green, evokes feelings of stability, nature, and understated elegance. It suggests a connection to the environment, promoting a sense of calm and groundedness. It is associated with maturity and refinement, making it a sophisticated and comforting choice.",
+  "emotional_associations": [
+    "stability",
+    "nature",
+    "calm",
+    "sophistication",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#E3E1EC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#1C1E13",
+        "#A3A18A",
+        "#E8E4D5",
+        "#6E6855"
+      ]
+    },
+    {
+      "name": "Muted Elegance",
+      "swatches": [
+        "#1C1E13",
+        "#4A483B",
+        "#787564",
+        "#A6A28D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interior design"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Floor",
+      "description": "The color of the forest floor, rich in decaying leaves and earth.",
+      "image_url": "https://example.com/forest_floor.jpg"
+    },
+    {
+      "title": "Olive Grove",
+      "description": "A sprawling olive grove in the Tuscan countryside.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals for a sophisticated look.",
+    "Combine with warm browns for an earthy feel.",
+    "Use with lighter greens for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious color combinations with our interactive color picker!",
+  "seo_meta": {
+    "title": "Rangoon Green Color Meaning, Code & Combinations",
+    "description": "Explore the meaning, psychology, and best uses of Rangoon Green (#1C1E13). Find complementary colors and palette ideas for design projects."
+  },
+  "created_at": "2025-06-01T14:52:33.338053+00:00",
+  "updated_at": "2025-06-01T14:52:33.338053+00:00",
+  "slug": "rangoon-green"
+}

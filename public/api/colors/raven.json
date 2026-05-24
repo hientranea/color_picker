@@ -1,0 +1,79 @@
+{
+  "id": "bc80870a-46f0-4e16-a483-f39b68292ee0",
+  "color_name": "Raven",
+  "hex_code": "#727B89",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Raven, a muted, cool-toned gray, evokes feelings of sophistication, neutrality, and a sense of calm introspection. It suggests reliability and practicality, yet can also hint at mystery and the unknown due to its association with the night. This color encourages a thoughtful and balanced perspective.",
+  "emotional_associations": [
+    "Sophistication",
+    "Neutrality",
+    "Calm",
+    "Reliability",
+    "Mystery"
+  ],
+  "complementary_colors": [
+    "#89727A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#727B89",
+        "#A0AEC0",
+        "#D1DCE5",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Urban Concrete",
+      "swatches": [
+        "#727B89",
+        "#525966",
+        "#939BA6",
+        "#C4CBD2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Text color for readability",
+      "Neutral UI elements"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa environments",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Professional attire"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Raven-colored Stone Building",
+      "description": "A historic building showcasing the color Raven in its stone facade, conveying timeless elegance.",
+      "image_url": "https://example.com/raven_building.jpg"
+    },
+    {
+      "title": "Raven Winter Coat",
+      "description": "A stylish winter coat in a Raven hue, representing practical warmth and urban style.",
+      "image_url": "https://example.com/raven_coat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter grays for a monochromatic scheme.",
+    "Combine with teal or muted blues for a calming effect.",
+    "Use with warm metallics like gold or copper for a sophisticated contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Raven Color Meaning: Discover Shades, Psychology, and Palettes",
+    "description": "Explore the meaning of Raven (#727B89), its psychological associations, complementary colors, and how to use it in design, fashion, and branding."
+  },
+  "created_at": "2025-06-01T15:37:11.595537+00:00",
+  "updated_at": "2025-06-01T15:37:11.595537+00:00",
+  "slug": "raven"
+}

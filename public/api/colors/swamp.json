@@ -1,0 +1,78 @@
+{
+  "id": "700c3a88-9334-481e-abbb-ed35c15832b9",
+  "color_name": "Swamp",
+  "hex_code": "#001B1C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Swamp green evokes a sense of mystery, nature, and introspection. It often represents resilience, adaptability, and hidden potential. This color can also suggest a connection to the earth and a grounding influence, while its darker undertones can hint at the unknown and the subconscious.",
+  "emotional_associations": [
+    "mystery",
+    "nature",
+    "resilience",
+    "introspection",
+    "grounding"
+  ],
+  "complementary_colors": [
+    "#1C001B",
+    "#BDBDBD",
+    "#FFD700"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#001B1C",
+        "#4F7942",
+        "#8FBC8F",
+        "#DEB887"
+      ]
+    },
+    {
+      "name": "Mystic Forest",
+      "swatches": [
+        "#001B1C",
+        "#2F4F4F",
+        "#696969",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps focusing on grounding",
+      "Packaging for natural sleep aids"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Accessories with an earthy aesthetic"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Swamp Landscape",
+      "description": "A photograph showcasing the tranquil beauty of a swamp at dusk.",
+      "image_url": "https://example.com/swamp_landscape.jpg"
+    },
+    {
+      "title": "Vintage Military Tent",
+      "description": "A restored canvas tent showcasing swamp green as a durable and classic choice.",
+      "image_url": "https://example.com/military_tent.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted browns for a natural look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with lighter greens for a gradient effect.",
+    "Contrast with warm oranges for a vibrant and balanced palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades like Swamp using our color picker to find the perfect hue for your project!",
+  "seo_meta": {
+    "title": "Swamp Color Meaning: The Psychology of #001B1C",
+    "description": "Discover the meaning, associations, and best uses of the color Swamp (#001B1C), a unique and earthy shade."
+  },
+  "created_at": "2025-05-18T14:02:05.177846+00:00",
+  "updated_at": "2025-05-18T14:02:05.177846+00:00",
+  "slug": "swamp"
+}

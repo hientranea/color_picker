@@ -1,0 +1,80 @@
+{
+  "id": "039cf172-4130-4fee-b1b7-59a05ed5f2f5",
+  "color_name": "Fun Blue",
+  "hex_code": "#1959A8",
+  "wheel_position": "primary",
+  "psychological_meaning": "Fun Blue evokes feelings of trust, stability, and calmness, while also injecting a playful and energetic vibe. It is often associated with intelligence, efficiency, and confidence, making it a versatile choice for conveying both professionalism and approachability. The 'fun' aspect softens the more serious undertones of traditional blue, creating a sense of youthful optimism.",
+  "emotional_associations": [
+    "trust",
+    "calmness",
+    "playfulness",
+    "intelligence",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#A87019"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#1959A8",
+        "#ADD8E6",
+        "#FFFFFF",
+        "#77B5FE"
+      ]
+    },
+    {
+      "name": "Corporate Fun",
+      "swatches": [
+        "#1959A8",
+        "#E0E0E0",
+        "#333333",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation menus",
+      "Button backgrounds",
+      "Data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa websites",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Children's clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Children's Hospital Logo",
+      "description": "A logo using Fun Blue to project trust and care while remaining friendly for children.",
+      "image_url": "https://example.com/childrens_hospital_logo.jpg"
+    },
+    {
+      "title": "Tech Startup Website",
+      "description": "The primary color of a tech startup's website, conveying innovation and reliability.",
+      "image_url": "https://example.com/tech_startup_website.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral grays for a professional look.",
+    "Combine with bright yellows or oranges for a playful contrast.",
+    "Use with white for a clean and modern aesthetic.",
+    "Consider analogous colors like teal or purple for harmony."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Discover more harmonious shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Fun Blue Color Meaning: Psychology, Combinations & Examples",
+    "description": "Explore the meaning of Fun Blue (#1959A8), its psychological impact, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T14:51:16.288787+00:00",
+  "updated_at": "2025-06-01T14:51:16.288787+00:00",
+  "slug": "fun-blue"
+}

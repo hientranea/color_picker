@@ -1,0 +1,81 @@
+{
+  "id": "51c9227d-0aa9-43f5-905b-7b95e71e0257",
+  "color_name": "Donkey Brown",
+  "hex_code": "#A69279",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Donkey Brown is a muted, earthy color that evokes feelings of stability, reliability, and groundedness. It often represents a sense of comfort and simplicity, reminiscent of nature and organic materials. While it can be perceived as understated, it also communicates a sense of dependability and practicality.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "comfort",
+    "simplicity",
+    "earthiness"
+  ],
+  "complementary_colors": [
+    "#798DA6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Tones",
+      "swatches": [
+        "#A69279",
+        "#D3CBB6",
+        "#736257",
+        "#E9E5D7"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#A69279",
+        "#8C7853",
+        "#F2EBD3",
+        "#59463D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Neutral color for data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Branding for coffee shops"
+    ],
+    "wellness": [
+      "Color therapy for grounding",
+      "Spa decor"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Neutral basics"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in donkey brown provides a sense of comfort and timeless style to any living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Earthenware Pottery",
+      "description": "Handcrafted pottery in various shades of brown offers a natural and rustic aesthetic to home decor.",
+      "image_url": "https://example.com/pottery.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a soft, neutral look.",
+    "Combine with greens and blues for an earthy, natural feel.",
+    "Use with metallic accents for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades for your next project.",
+  "seo_meta": {
+    "title": "Donkey Brown Color Meaning: Understanding #A69279",
+    "description": "Discover the meaning and psychology behind Donkey Brown (#A69279). Learn about its associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:06:30.50007+00:00",
+  "updated_at": "2025-06-01T16:06:30.50007+00:00",
+  "slug": "donkey-brown"
+}

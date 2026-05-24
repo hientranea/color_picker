@@ -1,0 +1,85 @@
+{
+  "id": "f5da6786-debd-4420-9799-9a947672a344",
+  "color_name": "Yellow Metal",
+  "hex_code": "#716338",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Yellow Metal evokes feelings of grounded luxury and stability. It combines the optimism of yellow with the strength and reliability often associated with metals. This color suggests a sense of timelessness, understated elegance, and enduring value, making it suitable for brands aiming to project sophistication and trust.",
+  "emotional_associations": [
+    "luxury",
+    "stability",
+    "elegance",
+    "sophistication",
+    "trust",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#637138",
+    "#386B71",
+    "#38716B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#716338",
+        "#A69369",
+        "#D9C49A",
+        "#594D33",
+        "#332D24"
+      ]
+    },
+    {
+      "name": "Gilded Age",
+      "swatches": [
+        "#716338",
+        "#C2B280",
+        "#E4D7B3",
+        "#504629",
+        "#2E291A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "subtle accents in dashboards",
+      "progress indicators",
+      "status indicators"
+    ],
+    "food_beverage": [
+      "premium packaging for spirits",
+      "labels for gourmet foods"
+    ],
+    "wellness": [],
+    "fashion": [
+      "accessories",
+      "trim",
+      "buttons"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Watch",
+      "description": "The band on a vintage watch with a tarnished gold finish.",
+      "image_url": "https://example.com/vintage_watch.jpg"
+    },
+    {
+      "title": "Metal Hardware",
+      "description": "Antique metal hardware on a dresser drawer.",
+      "image_url": "https://example.com/metal_hardware.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft and classic look.",
+    "Combine with deep blues or greens for contrast and richness.",
+    "Use with other metallic tones for a luxurious feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and find the perfect color match with our color picker tool!",
+  "seo_meta": {
+    "title": "Yellow Metal Color Meaning: Understanding #716338",
+    "description": "Discover the meaning, associations, and best uses of Yellow Metal (#716338). Explore color palettes, complementary colors, and industry applications."
+  },
+  "created_at": "2025-06-01T15:36:14.346028+00:00",
+  "updated_at": "2025-06-01T15:36:14.346028+00:00",
+  "slug": "yellow-metal"
+}

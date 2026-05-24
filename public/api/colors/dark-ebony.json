@@ -1,0 +1,79 @@
+{
+  "id": "42f9a46b-0baf-4c63-8ae4-9fc7fe1690c5",
+  "color_name": "Dark Ebony",
+  "hex_code": "#3C2005",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Dark Ebony evokes a sense of groundedness, sophistication, and mystery. Its deep, rich tone suggests stability and reliability, while also hinting at hidden depths and inner strength. It can also symbolize elegance and timelessness.",
+  "emotional_associations": [
+    "sophistication",
+    "stability",
+    "mystery",
+    "elegance",
+    "groundedness"
+  ],
+  "complementary_colors": [
+    "#05273C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#3C2005",
+        "#A67B5B",
+        "#D2B48C",
+        "#E6D8C2"
+      ]
+    },
+    {
+      "name": "Mystic Night",
+      "swatches": [
+        "#3C2005",
+        "#1A1A1A",
+        "#4F4F4F",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist interfaces",
+      "Subtle accents in data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for premium coffee or chocolate",
+      "Restaurant interiors to create a cozy atmosphere"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Formal wear and accessories",
+      "Winter outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ebony Wood Furniture",
+      "description": "A handcrafted ebony wood table exudes luxury and timeless design.",
+      "image_url": "https://example.com/ebony_table.jpg"
+    },
+    {
+      "title": "Dark Ebony Leather Boots",
+      "description": "Stylish and durable leather boots in a dark ebony color, perfect for any occasion.",
+      "image_url": "https://example.com/ebony_boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or ivory for a classic look.",
+    "Combine with gold or bronze accents for added elegance.",
+    "Use with deep greens or blues for a natural and earthy feel.",
+    "Contrast with bright colors like orange or yellow for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Dark Ebony Color Meaning, Combinations, and Design Ideas",
+    "description": "Discover the meaning and symbolism of Dark Ebony, explore color combinations, and find inspiration for your next design project."
+  },
+  "created_at": "2025-06-01T15:08:00.389684+00:00",
+  "updated_at": "2025-06-01T15:08:00.389684+00:00",
+  "slug": "dark-ebony"
+}

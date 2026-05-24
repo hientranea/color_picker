@@ -1,0 +1,80 @@
+{
+  "id": "d5a3681a-ffa5-400b-9516-75ddbd23a759",
+  "color_name": "Muddy Waters",
+  "hex_code": "#B78E5C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Muddy Waters, a blend of brown and gray, evokes feelings of groundedness, stability, and a connection to the earth. It often symbolizes resilience, humility, and the ability to weather difficult times. This color can also represent a sense of history, tradition, and a quiet strength derived from experience.",
+  "emotional_associations": [
+    "groundedness",
+    "stability",
+    "resilience",
+    "humility",
+    "history"
+  ],
+  "complementary_colors": [
+    "#5CB7AE",
+    "#B75C5D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#B78E5C",
+        "#E0CBA8",
+        "#8F7753",
+        "#4A3F35"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#B78E5C",
+        "#D3B673",
+        "#A68B45",
+        "#665127"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee packaging",
+      "Rustic restaurant branding"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Boots",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Earthy Pottery",
+      "description": "Handmade pottery with a natural, unglazed finish.",
+      "image_url": "https://example.com/pottery.jpg"
+    },
+    {
+      "title": "Worn Leather Boots",
+      "description": "Classic leather boots with a weathered, earthy appearance.",
+      "image_url": "https://example.com/boots.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and off-whites for a natural look.",
+    "Combine with greens and browns for an earthy palette.",
+    "Use with metallic accents for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more earthy tones and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Muddy Waters Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Muddy Waters (#B78E5C), its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:18:30.453637+00:00",
+  "updated_at": "2025-06-01T16:18:30.453637+00:00",
+  "slug": "muddy-waters"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "0d550a85-5869-4b21-b9c6-21be85bec128",
+  "color_name": "Jacaranda",
+  "hex_code": "#2E0329",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jacaranda, a deep and mysterious purple, evokes feelings of sophistication, royalty, and creativity. It is often associated with wisdom, dignity, and independence. This color encourages introspection and can inspire imaginative thinking, while also providing a sense of calm and introspection.",
+  "emotional_associations": [
+    "mystery",
+    "sophistication",
+    "creativity",
+    "wisdom",
+    "calm"
+  ],
+  "complementary_colors": [
+    "#292E03"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#2E0329",
+        "#5C2A57",
+        "#8A5185",
+        "#B878B3",
+        "#E69FDF"
+      ]
+    },
+    {
+      "name": "Royal Garden",
+      "swatches": [
+        "#2E0329",
+        "#3A5310",
+        "#827397",
+        "#6D6875",
+        "#E5E5E5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Luxury app designs"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual retreats branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Jacaranda Tree",
+      "description": "The Jacaranda tree, known for its vibrant purple blossoms, symbolizes beauty and wisdom.",
+      "image_url": "https://example.com/jacaranda_tree.jpg"
+    },
+    {
+      "title": "Amethyst Gemstone",
+      "description": "Amethyst, a purple gemstone, is associated with calmness and clarity of mind.",
+      "image_url": "https://example.com/amethyst_gemstone.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with muted greens for a natural balance.",
+    "Use with silver for a modern and sleek look.",
+    "Contrast with bright yellows for a bold statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color picker tool to find your perfect Jacaranda palette!",
+  "seo_meta": {
+    "title": "Jacaranda Color Meaning: The Psychology of #2E0329",
+    "description": "Discover the meaning of Jacaranda (#2E0329), its psychological associations, complementary colors, and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T15:00:05.817726+00:00",
+  "updated_at": "2025-06-01T15:00:05.817726+00:00",
+  "slug": "jacaranda"
+}

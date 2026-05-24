@@ -1,0 +1,85 @@
+{
+  "id": "65d01d6d-d319-435d-81b2-0b21c9c72241",
+  "color_name": "Grape",
+  "hex_code": "#381A51",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Grape, a captivating shade of purple, evokes feelings of sophistication, mystery, and luxury. It blends the stability of blue with the energy of red, creating a balanced yet intriguing visual experience. This color is often associated with creativity, wisdom, and independence, making it a powerful choice for those seeking to project an aura of elegance and innovation.",
+  "emotional_associations": [
+    "luxury",
+    "sophistication",
+    "mystery",
+    "creativity",
+    "wisdom",
+    "independence"
+  ],
+  "complementary_colors": [
+    "#B39126"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Twilight Dreams",
+      "swatches": [
+        "#381A51",
+        "#6A4A86",
+        "#9D7AB8",
+        "#CFC2E9",
+        "#F2EBFF"
+      ]
+    },
+    {
+      "name": "Royal Garden",
+      "swatches": [
+        "#381A51",
+        "#5A823D",
+        "#A3BE8C",
+        "#F2E7DC",
+        "#D4A373"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode themes",
+      "Creative software interfaces"
+    ],
+    "food_beverage": [
+      "Wine labels",
+      "Packaging for gourmet foods"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual retreats"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Accessories for a sophisticated look"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Grape Jelly",
+      "description": "A classic breakfast spread, grape jelly adds a sweet and fruity touch to toast and sandwiches.",
+      "image_url": "https://example.com/grape_jelly.jpg"
+    },
+    {
+      "title": "Amethyst Gemstone",
+      "description": "A popular gemstone known for its beautiful purple hue and spiritual properties.",
+      "image_url": "https://example.com/amethyst.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with muted greens for a natural and calming palette.",
+    "Use with silver or grey for a modern and sleek look.",
+    "Contrast with a vibrant yellow for a bold and energetic statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect Grape-inspired palette for your next project!",
+  "seo_meta": {
+    "title": "Grape Color Meaning: Symbolism, Psychology, and Design Ideas",
+    "description": "Discover the meaning of the color Grape, its psychological effects, and how to use it in design, branding, and more. Explore palettes and examples for inspiration."
+  },
+  "created_at": "2025-06-01T15:05:30.083264+00:00",
+  "updated_at": "2025-06-01T15:05:30.083264+00:00",
+  "slug": "grape"
+}

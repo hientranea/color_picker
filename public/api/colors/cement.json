@@ -1,0 +1,84 @@
+{
+  "id": "c9cf82a9-3490-4370-8b34-6374c7d539a4",
+  "color_name": "Cement",
+  "hex_code": "#8D7662",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Cement, a muted gray-brown, evokes feelings of stability, neutrality, and grounding. It suggests reliability and a sense of calm reserve, often associated with industrial landscapes and sturdy structures. The color promotes a feeling of practicality and understated elegance, rather than drawing immediate attention.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "grounding",
+    "calm",
+    "practicality"
+  ],
+  "complementary_colors": [
+    "#62798D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#8D7662",
+        "#A69385",
+        "#C0ADA1",
+        "#D9C7BC",
+        "#F2E3D7"
+      ]
+    },
+    {
+      "name": "Industrial Chic",
+      "swatches": [
+        "#8D7662",
+        "#595959",
+        "#A6A6A6",
+        "#D3D3D3",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization",
+      "Neutral theme options",
+      "Subtle separators"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Neutral basics",
+      "Footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Loft",
+      "description": "A contemporary loft featuring cement walls and minimalist decor.",
+      "image_url": "https://example.com/loft.jpg"
+    },
+    {
+      "title": "Urban Park",
+      "description": "A city park with cement pathways and modern benches.",
+      "image_url": "https://example.com/park.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with lighter neutrals for a calming effect.",
+    "Combine with metallic accents for an industrial look.",
+    "Use with pops of color for visual interest.",
+    "Add natural textures like wood and stone."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more nuanced shades and build your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Cement Color Meaning: Understanding the Nuances of #8D7662",
+    "description": "Explore the meaning, psychology, and practical uses of the Cement color (#8D7662). Discover complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:54:17.089747+00:00",
+  "updated_at": "2025-06-01T15:54:17.089747+00:00",
+  "slug": "cement"
+}

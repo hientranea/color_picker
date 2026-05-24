@@ -1,0 +1,82 @@
+{
+  "id": "31ee6b54-64b3-46da-b84d-76660739ac89",
+  "color_name": "Pale Sky",
+  "hex_code": "#6E7783",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pale Sky evokes a sense of tranquility, neutrality, and calmness. It is often associated with clarity and spaciousness, offering a serene and unobtrusive backdrop. This color can promote relaxation and create a feeling of understated elegance.",
+  "emotional_associations": [
+    "calmness",
+    "neutrality",
+    "serenity",
+    "clarity",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#83766E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Neutral Harmony",
+      "swatches": [
+        "#6E7783",
+        "#A9B7C2",
+        "#D4DADF",
+        "#F0F2F5"
+      ]
+    },
+    {
+      "name": "Skyline Serenity",
+      "swatches": [
+        "#6E7783",
+        "#89A3B8",
+        "#4D5B69",
+        "#B2C2CF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for dashboards",
+      "Text fields and input areas",
+      "Neutral navigation elements"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa and relaxation websites",
+      "Meditation apps",
+      "Products promoting tranquility"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Understated elegant clothing",
+      "Accessories for a muted palette"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Scandinavian Interior",
+      "description": "A living room featuring Pale Sky walls, creating a serene and minimalist space.",
+      "image_url": "url_to_scandinavian_interior_image.jpg"
+    },
+    {
+      "title": "Modern Website Design",
+      "description": "A website using Pale Sky as a background color, providing a clean and professional look.",
+      "image_url": "url_to_modern_website_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with warmer neutrals for balance.",
+    "Use with whites for a clean, minimalist look.",
+    "Pair with blues for a calming atmosphere.",
+    "Accent with metallics for an elegant touch."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color possibilities and generate your perfect palette with our color picker tool.",
+  "seo_meta": {
+    "title": "Pale Sky Color Meaning: Tranquility and Neutrality | ColorBlog",
+    "description": "Discover the meaning and associations of Pale Sky (#6E7783), including its psychological effects, complementary colors, and ideal uses."
+  },
+  "created_at": "2025-06-01T15:34:14.153367+00:00",
+  "updated_at": "2025-06-01T15:34:14.153367+00:00",
+  "slug": "pale-sky"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "8bb34ce6-d0a5-493d-82a8-91af17cf60bf",
+  "color_name": "Tapa",
+  "hex_code": "#7B7874",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Tapa, a muted gray-brown, evokes feelings of groundedness, stability, and nature. It suggests a sense of calm reliability and understated elegance. This color often resonates with maturity, simplicity, and a connection to the earth.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "calm",
+    "sophistication",
+    "earthiness"
+  ],
+  "complementary_colors": [
+    "#747B7F",
+    "#B2B5B8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#7B7874",
+        "#A69E93",
+        "#D3C6B7",
+        "#595551"
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "swatches": [
+        "#7B7874",
+        "#FFFFFF",
+        "#E8E8E8",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds",
+      "Subtle UI elements"
+    ],
+    "food_beverage": [
+      "Packaging for natural products",
+      "Restaurant interiors"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Neutral basics"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tapa Colored Sofa",
+      "description": "A comfortable tapa colored sofa blending seamlessly into a living room.",
+      "image_url": "https://example.com/tapa_sofa.jpg"
+    },
+    {
+      "title": "Tapa Packaging",
+      "description": "Minimalist tapa colored packaging for organic tea.",
+      "image_url": "https://example.com/tapa_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft look.",
+    "Combine with greens for a natural feel.",
+    "Accent with metallics for sophistication.",
+    "Use with black and white for a modern style."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities with our intuitive color picker!",
+  "seo_meta": {
+    "title": "Tapa Color Meaning: Psychology, Palettes & Design Tips",
+    "description": "Discover the meaning of Tapa (#7B7874), its psychological associations, complementary colors, and design inspiration for your next project."
+  },
+  "created_at": "2025-06-01T15:42:46.253495+00:00",
+  "updated_at": "2025-06-01T15:42:46.253495+00:00",
+  "slug": "tapa"
+}

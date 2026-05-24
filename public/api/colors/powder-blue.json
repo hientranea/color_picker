@@ -1,0 +1,84 @@
+{
+  "id": "556cae04-d31d-4fda-af57-3a9ed7dfc2aa",
+  "color_name": "Powder Blue",
+  "hex_code": "#B0E0E6",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Powder Blue evokes feelings of tranquility, peace, and cleanliness. It's often associated with open spaces, such as the sky and water, promoting a sense of calm and serenity. It can also suggest cleanliness and freshness, making it a popular choice for brands aiming to project a sense of hygiene and clarity.",
+  "emotional_associations": [
+    "Calm",
+    "Serenity",
+    "Cleanliness",
+    "Peace",
+    "Tranquility"
+  ],
+  "complementary_colors": [
+    "#E6B0B0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Serene Sky",
+      "swatches": [
+        "#B0E0E6",
+        "#ADD8E6",
+        "#87CEEB",
+        "#E0FFFF"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#B0E0E6",
+        "#F0F8FF",
+        "#778899",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Weather apps",
+      "Meditation apps",
+      "Task management apps"
+    ],
+    "food_beverage": [
+      "Bottled water",
+      "Herbal teas"
+    ],
+    "wellness": [
+      "Spas",
+      "Yoga studios",
+      "Meditation centers"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Linen shirts"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Baby nurseries",
+      "description": "Powder blue is often used in baby nurseries to create a calming and peaceful environment for infants.",
+      "image_url": "https://example.com/powder-blue-nursery.jpg"
+    },
+    {
+      "title": "Bathroom decor",
+      "description": "Powder blue is a popular choice for bathroom decor, as it evokes a sense of cleanliness and freshness.",
+      "image_url": "https://example.com/powder-blue-bathroom.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a clean and classic look.",
+    "Combine with gray for a sophisticated and calming effect.",
+    "Use with beige or cream for a warm and inviting feel.",
+    "Accent with coral or peach for a pop of color."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our intuitive color palette generator.",
+  "seo_meta": {
+    "title": "Powder Blue Color Meaning: Shades, Palettes & Design Tips",
+    "description": "Discover the meaning of Powder Blue, its psychological effects, and how to use it in your designs. Explore color palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T16:14:32.942272+00:00",
+  "updated_at": "2025-06-01T16:14:32.942272+00:00",
+  "slug": "powder-blue"
+}

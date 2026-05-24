@@ -1,0 +1,82 @@
+{
+  "id": "13e8af60-b4cd-4d64-b27e-d3299d9c70dd",
+  "color_name": "Aqua Island",
+  "hex_code": "#A1DAD7",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Aqua Island evokes feelings of tranquility, peace, and clarity. It is reminiscent of serene ocean waters and promotes a sense of calm and relaxation. This color is often associated with healing, emotional balance, and a refreshing outlook on life, making it a popular choice for creating soothing and inviting environments.",
+  "emotional_associations": [
+    "tranquility",
+    "peace",
+    "clarity",
+    "healing",
+    "relaxation",
+    "emotional balance"
+  ],
+  "complementary_colors": [
+    "#D7A1A4"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#A1DAD7",
+        "#E0FFFF",
+        "#B0E57C",
+        "#7DF9FF"
+      ]
+    },
+    {
+      "name": "Serene Escape",
+      "swatches": [
+        "#A1DAD7",
+        "#F0F8FF",
+        "#ADD8E6",
+        "#87CEEB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Weather applications",
+      "Productivity tools"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation centers"
+    ],
+    "fashion": [
+      "Summer dresses",
+      "Swimwear",
+      "Resort wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Spa Interior",
+      "description": "A spa utilizing Aqua Island to create a relaxing and rejuvenating atmosphere.",
+      "image_url": "https://example.com/spa.jpg"
+    },
+    {
+      "title": "Yoga Studio Design",
+      "description": "A yoga studio incorporating Aqua Island in its branding and interior design to promote calmness and serenity.",
+      "image_url": "https://example.com/yoga.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a clean and airy feel.",
+    "Combine with deeper blues for a calming oceanic palette.",
+    "Use with warm yellows for a balanced contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Aqua Island Color Meaning: Discover Shades, Palettes, and Uses",
+    "description": "Uncover the meaning and psychology behind Aqua Island (#A1DAD7). Explore complementary colors, suggested palettes, and industry use cases for this serene hue."
+  },
+  "created_at": "2025-06-01T16:04:19.466315+00:00",
+  "updated_at": "2025-06-01T16:04:19.466315+00:00",
+  "slug": "aqua-island"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "1b85ca1c-8ae2-43a3-b3da-a5d3f17efda9",
+  "color_name": "Gigas",
+  "hex_code": "#523C94",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gigas embodies sophistication and creativity, often associated with introspection and wisdom. It can evoke feelings of calmness and mystery, while also inspiring imagination and spiritual awareness. This color bridges the gap between the grounded stability of blue and the energetic passion of red, creating a balanced yet intriguing presence.",
+  "emotional_associations": [
+    "wisdom",
+    "introspection",
+    "creativity",
+    "calmness",
+    "mystery"
+  ],
+  "complementary_colors": [
+    "#94523C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Dusk",
+      "swatches": [
+        "#523C94",
+        "#A394D8",
+        "#E0D8F2",
+        "#302659"
+      ]
+    },
+    {
+      "name": "Royal Garden",
+      "swatches": [
+        "#523C94",
+        "#70A870",
+        "#E6DAB3",
+        "#333333"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Data visualization",
+      "Elegant app designs"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Geode",
+      "description": "A natural formation of amethyst crystals showcasing the beauty of Gigas in nature.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Twilight Sky",
+      "description": "The deep purple hues of the sky during twilight, reflecting a sense of peace and wonder.",
+      "image_url": "https://example.com/twilight.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted golds for a luxurious feel.",
+    "Combine with light greys for a modern, minimalist look.",
+    "Use with complementary oranges to create a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Gigas Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Gigas (#523C94), its psychological effects, ideal combinations, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:21:13.323444+00:00",
+  "updated_at": "2025-06-01T15:21:13.323444+00:00",
+  "slug": "gigas"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "0a0d946c-a475-4c6f-9602-658f582880f6",
+  "color_name": "Jacarta",
+  "hex_code": "#3A2A6A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Jacarta, a deep and mysterious purple, evokes feelings of sophistication, creativity, and introspection. It blends the stability of blue with the energy of red, encouraging imagination and thoughtfulness. This color is often associated with luxury, ambition, and power, while also promoting a sense of calm and serenity.",
+  "emotional_associations": [
+    "mystery",
+    "luxury",
+    "introspection",
+    "creativity",
+    "sophistication"
+  ],
+  "complementary_colors": [
+    "#A6963A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Mystic Dusk",
+      "swatches": [
+        "#3A2A6A",
+        "#624E8A",
+        "#A084B7",
+        "#D1C0D9"
+      ]
+    },
+    {
+      "name": "Regal Charm",
+      "swatches": [
+        "#3A2A6A",
+        "#C0B283",
+        "#A68DAD",
+        "#6D4C41"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Dark mode interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Meditation apps",
+      "Sleep aids"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Gemstone",
+      "description": "Amethyst, a purple variety of quartz, often displays a color similar to Jacarta and is associated with calmness and clarity.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Plum Velvet Couch",
+      "description": "A luxurious plum velvet couch adds a touch of sophistication and comfort to any living space.",
+      "image_url": "https://example.com/velvet_couch.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with golds for a luxurious feel.",
+    "Combine with grays for a modern, sophisticated look.",
+    "Use with creams for a soft, elegant palette.",
+    "Accent with greens for a natural contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your own palettes with our color picker tool!",
+  "seo_meta": {
+    "title": "Jacarta Color Meaning: Understanding the Psychology of #3A2A6A",
+    "description": "Discover the meaning of Jacarta (#3A2A6A), its emotional associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T15:06:28.325078+00:00",
+  "updated_at": "2025-06-01T15:06:28.325078+00:00",
+  "slug": "jacarta"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "2ea264ad-d1a3-48c2-9014-12a7a11b6a88",
+  "color_name": "Summer Green",
+  "hex_code": "#96BBAB",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Summer Green evokes feelings of freshness, growth, and tranquility. It is associated with nature, renewal, and balance, promoting a sense of calm and well-being. This color suggests harmony and connection to the earth, fostering a peaceful and rejuvenating atmosphere.",
+  "emotional_associations": [
+    "freshness",
+    "growth",
+    "tranquility",
+    "balance",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#BB96A6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#96BBAB",
+        "#668B82",
+        "#C0D8C0",
+        "#F0E68C"
+      ]
+    },
+    {
+      "name": "Fresh Start",
+      "swatches": [
+        "#96BBAB",
+        "#FFFFFF",
+        "#A0D6B4",
+        "#E0F2E9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health apps",
+      "Eco-friendly product interfaces"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa branding"
+    ],
+    "fashion": [
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sustainable Living Blog",
+      "description": "A blog focused on eco-friendly living uses Summer Green in its branding to convey a sense of nature and sustainability.",
+      "image_url": "https://example.com/sustainable-living-blog.jpg"
+    },
+    {
+      "title": "Organic Skincare Packaging",
+      "description": "A skincare brand uses Summer Green on its packaging to highlight the natural and organic ingredients of its products.",
+      "image_url": "https://example.com/organic-skincare.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a calming effect.",
+    "Combine with browns and beiges for an earthy palette.",
+    "Use with white for a fresh and clean look.",
+    "Contrast with muted reds for visual interest."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Summer Green!",
+  "seo_meta": {
+    "title": "Summer Green Color Meaning: Psychology, Palettes & Uses | ColorMeaning.com",
+    "description": "Discover the meaning of Summer Green, its psychological effects, complementary colors, and inspiring palette ideas for your next design project."
+  },
+  "created_at": "2025-06-01T15:58:50.513044+00:00",
+  "updated_at": "2025-06-01T15:58:50.513044+00:00",
+  "slug": "summer-green"
+}

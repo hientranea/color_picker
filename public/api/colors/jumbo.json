@@ -1,0 +1,79 @@
+{
+  "id": "6012a28c-7a9e-4559-be34-02868e597d1e",
+  "color_name": "Jumbo",
+  "hex_code": "#7C7B82",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Jumbo is a sophisticated neutral, leaning towards gray with subtle purple undertones. It evokes feelings of calmness, stability, and understated elegance. This color suggests maturity, reliability, and a sense of composed strength, making it ideal for conveying trust and dependability.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "elegance",
+    "maturity",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#827C7B",
+    "#7B827C",
+    "#7C827B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Sophistication",
+      "swatches": [
+        "#7C7B82",
+        "#A19FAA",
+        "#C6C4C8"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#7C7B82",
+        "#A69D8A",
+        "#D1C4B2"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "backgrounds",
+      "text",
+      "icons"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa interiors",
+      "yoga studios"
+    ],
+    "fashion": [
+      "outerwear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Stone Buildings",
+      "description": "The color of Jumbo is often seen in natural stone buildings, conveying a sense of enduring strength and stability.",
+      "image_url": "https://example.com/stone_building.jpg"
+    },
+    {
+      "title": "Modern Interiors",
+      "description": "Jumbo is a popular choice for modern interior design, providing a sophisticated and calming backdrop.",
+      "image_url": "https://example.com/modern_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Use with creams and whites for a classic look.",
+    "Combine with metallic accents for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color possibilities and generate your perfect palette with our color palette generator tool!",
+  "seo_meta": {
+    "title": "Jumbo Color Meaning: Understanding #7C7B82",
+    "description": "Discover the meaning, psychology, and best uses of Jumbo (#7C7B82), a sophisticated neutral color. Find complementary colors, palettes, and industry applications."
+  },
+  "created_at": "2025-06-01T15:43:50.738986+00:00",
+  "updated_at": "2025-06-01T15:43:50.738986+00:00",
+  "slug": "jumbo"
+}

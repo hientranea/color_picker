@@ -1,0 +1,89 @@
+{
+  "id": "bc540b6c-d55e-4e14-a39a-77468ddbbcfd",
+  "color_name": "Glade Green",
+  "hex_code": "#61845F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Glade Green evokes feelings of tranquility, growth, and harmony. It is associated with nature, renewal, and balance, promoting a sense of calm and well-being. This color can also represent stability, endurance, and a connection to the earth, making it a soothing and reassuring choice.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "harmony",
+    "nature",
+    "renewal",
+    "balance",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#845F61"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#61845F",
+        "#A3C4A2",
+        "#D5E8D4",
+        "#4A6548",
+        "#223720"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#61845F",
+        "#BDB2A1",
+        "#E0D9C8",
+        "#7A6C5D",
+        "#574C40"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Sustainability platforms",
+      "Health and wellness dashboards"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Natural beverage labels",
+      "Restaurant decor promoting healthy options"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Outdoor clothing",
+      "Sustainable fashion lines",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The lush green canopy of a dense forest, symbolizing life and abundance.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Jade Stone",
+      "description": "A smooth, polished jade stone, representing tranquility and wisdom.",
+      "image_url": "https://example.com/jade_stone.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted browns for a natural look.",
+    "Combine with soft yellows for a calming effect.",
+    "Use with creams and whites for a clean and modern feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Glade Green!",
+  "seo_meta": {
+    "title": "Glade Green Color Meaning: Symbolism and Design Ideas",
+    "description": "Discover the meaning of Glade Green, its emotional associations, and inspiring ways to use it in your designs for a harmonious and balanced aesthetic."
+  },
+  "created_at": "2025-06-01T15:26:59.273882+00:00",
+  "updated_at": "2025-06-01T15:26:59.273882+00:00",
+  "slug": "glade-green"
+}

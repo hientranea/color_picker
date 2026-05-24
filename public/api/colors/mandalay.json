@@ -1,0 +1,80 @@
+{
+  "id": "02e56ad9-3905-48e0-8472-daf845f1bb7d",
+  "color_name": "Mandalay",
+  "hex_code": "#AD781B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mandalay evokes feelings of warmth, earthiness, and tradition. It is associated with a sense of history, richness, and understated elegance. This color can create a feeling of stability and reliability while also suggesting adventure and exploration. It's a color that brings to mind ancient artifacts and exotic travels.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "tradition",
+    "elegance",
+    "adventure"
+  ],
+  "complementary_colors": [
+    "#1B74AD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Spice",
+      "swatches": [
+        "#AD781B",
+        "#D4A373",
+        "#A68A64",
+        "#6B4F4F",
+        "#F2EBD3"
+      ]
+    },
+    {
+      "name": "Desert Sunset",
+      "swatches": [
+        "#AD781B",
+        "#E29578",
+        "#BDB2FF",
+        "#748DA6",
+        "#5C6B73"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for spices and teas",
+      "Restaurant decor for a rustic or ethnic theme"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio accents"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Ancient Pottery",
+      "description": "The color of aged clay pots found in archeological digs.",
+      "image_url": "https://example.com/pottery.jpg"
+    },
+    {
+      "title": "Leather Journal",
+      "description": "A classic leather-bound journal, aged to perfection.",
+      "image_url": "https://example.com/journal.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with creams and beiges for a classic look.",
+    "Use with teals and blues for a calming contrast.",
+    "Pair with oranges and reds for a warm, inviting palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious shades with our color palette generator!",
+  "seo_meta": {
+    "title": "Mandalay Color Meaning: Understanding #AD781B",
+    "description": "Discover the meaning, psychology, and best uses of Mandalay (#AD781B), a warm and earthy color. Explore palettes, pairings, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:11:56.591802+00:00",
+  "updated_at": "2025-06-01T16:11:56.591802+00:00",
+  "slug": "mandalay"
+}

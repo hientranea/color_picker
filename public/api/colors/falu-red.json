@@ -1,0 +1,78 @@
+{
+  "id": "74905a2c-795d-4473-83e1-c0224e967549",
+  "color_name": "Falu Red",
+  "hex_code": "#801818",
+  "wheel_position": "Primary",
+  "psychological_meaning": "Falu Red is a deep, earthy red that evokes feelings of warmth, tradition, and stability. It is often associated with rustic charm, historical significance, and a sense of grounding. This color can also represent passion and strength, but in a more subdued and comforting way than brighter reds.",
+  "emotional_associations": [
+    "warmth",
+    "tradition",
+    "stability",
+    "rustic",
+    "passion"
+  ],
+  "complementary_colors": [
+    "#188080"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#801818",
+        "#D4A373",
+        "#A98467",
+        "#6B705C",
+        "#3A3D32"
+      ]
+    },
+    {
+      "name": "Swedish Countryside",
+      "swatches": [
+        "#801818",
+        "#F2F0DF",
+        "#9CB4CC",
+        "#5F6F52",
+        "#283618"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Rustic packaging for artisanal goods",
+      "Restaurant decor emphasizing traditional cuisine"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Outerwear for fall and winter",
+      "Accents in traditional and heritage-inspired clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Traditional Swedish Cottage",
+      "description": "The classic Falu Red painted wooden cottage is a symbol of Swedish heritage and country living.",
+      "image_url": "https://example.com/falu-red-cottage.jpg"
+    },
+    {
+      "title": "Barns in Rural Landscapes",
+      "description": "Many barns and agricultural buildings are painted in Falu Red, lending a sense of history and connection to the land.",
+      "image_url": "https://example.com/falu-red-barn.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with creams and whites for a classic look.",
+    "Use with dark blues or grays for a sophisticated contrast.",
+    "Accent with copper or brass for added warmth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator!",
+  "seo_meta": {
+    "title": "Falu Red Color Meaning: History, Psychology, and Design",
+    "description": "Discover the meaning, psychology, and best uses of Falu Red, a classic earthy red color with deep cultural roots. Explore palettes and design inspiration."
+  },
+  "created_at": "2025-06-01T15:46:03.542175+00:00",
+  "updated_at": "2025-06-01T15:46:03.542175+00:00",
+  "slug": "falu-red"
+}

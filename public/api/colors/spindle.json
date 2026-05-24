@@ -1,0 +1,77 @@
+{
+  "id": "05810114-7206-4142-a9f2-3ed0efb97a57",
+  "color_name": "Spindle",
+  "hex_code": "#B6D1EA",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Spindle is a soft, airy blue that evokes feelings of calmness, serenity, and peace. It is often associated with clarity, openness, and tranquility, suggesting a sense of gentle optimism and emotional balance. This color can inspire a sense of trust and stability, making it a comforting and reassuring choice.",
+  "emotional_associations": [
+    "calmness",
+    "serenity",
+    "peace",
+    "trust",
+    "stability"
+  ],
+  "complementary_colors": [
+    "#EAB1B6"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Gentle Pastels",
+      "swatches": [
+        "#B6D1EA",
+        "#E8E2DA",
+        "#D6C6B9",
+        "#A9B7C1"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#B6D1EA",
+        "#F2F2F2",
+        "#87AFC7",
+        "#5C8EA6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for calming apps",
+      "Subtle interface elements"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spa websites"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Children's clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Spa Interiors",
+      "description": "The soft blue of Spindle is often used in spa interiors to create a relaxing and peaceful atmosphere.",
+      "image_url": "https://example.com/spa_spindle.jpg"
+    },
+    {
+      "title": "Bedroom Decor",
+      "description": "Spindle walls in a bedroom can promote restful sleep and a sense of tranquility.",
+      "image_url": "https://example.com/bedroom_spindle.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, classic look.",
+    "Combine with darker blues for depth and contrast.",
+    "Use with natural wood tones for a grounded feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more soothing hues and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Spindle Color Meaning: Understanding the Color #B6D1EA",
+    "description": "Discover the meaning and psychology of the color Spindle (#B6D1EA). Explore its associations, complementary colors, and suggested palettes for your design projects."
+  },
+  "created_at": "2025-06-01T16:18:08.892264+00:00",
+  "updated_at": "2025-06-01T16:18:08.892264+00:00",
+  "slug": "spindle"
+}

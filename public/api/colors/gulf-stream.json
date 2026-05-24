@@ -1,0 +1,81 @@
+{
+  "id": "bcc870b4-4b69-446f-8272-06b8b0fde1d1",
+  "color_name": "Gulf Stream",
+  "hex_code": "#80B3AE",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gulf Stream is a calming and refreshing color, reminiscent of serene waters and peaceful skies. It evokes feelings of tranquility, balance, and harmony, promoting a sense of stability and well-being. This color can also inspire creativity and clarity of thought, making it a versatile choice for various applications.",
+  "emotional_associations": [
+    "calm",
+    "serenity",
+    "balance",
+    "clarity",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#B38085"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#80B3AE",
+        "#D9D0C1",
+        "#A68DAD",
+        "#59788E"
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "swatches": [
+        "#80B3AE",
+        "#FFFFFF",
+        "#333333",
+        "#B8D5B8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard interfaces",
+      "data visualization",
+      "settings menus"
+    ],
+    "wellness": [
+      "spa branding",
+      "meditation apps",
+      "relaxation products"
+    ],
+    "fashion": [
+      "casual wear",
+      "swimwear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Living Room",
+      "description": "A living room painted in Gulf Stream with white trim and natural wood accents, creating a relaxing coastal vibe.",
+      "image_url": "https://example.com/gulfstream_livingroom.jpg"
+    },
+    {
+      "title": "Wellness App Interface",
+      "description": "A meditation app using Gulf Stream as its primary color to promote feelings of calm and tranquility.",
+      "image_url": "https://example.com/gulfstream_app.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like white, gray, or beige for a sophisticated look.",
+    "Combine with warm metallics like gold or copper for added elegance.",
+    "Use with complementary colors like dusty rose for a balanced palette.",
+    "Introduce natural textures like wood or linen for a calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Gulf Stream with our color picker tool!",
+  "seo_meta": {
+    "title": "Gulf Stream Color Meaning: Understanding #80B3AE",
+    "description": "Discover the meaning, psychology, and best uses of Gulf Stream (#80B3AE) color. Explore palettes, pairings, and real-world examples to inspire your next project."
+  },
+  "created_at": "2025-06-01T15:46:54.195136+00:00",
+  "updated_at": "2025-06-01T15:46:54.195136+00:00",
+  "slug": "gulf-stream"
+}

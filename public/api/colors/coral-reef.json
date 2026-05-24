@@ -1,0 +1,80 @@
+{
+  "id": "5c285508-ecdd-4454-8d02-825ed37a6ed3",
+  "color_name": "Coral Reef",
+  "hex_code": "#C7BCA2",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Coral Reef evokes a sense of tranquility and understated elegance. It combines the grounding qualities of beige with subtle hints of coral, resulting in a calming and sophisticated aesthetic. It is often associated with nature, serenity, and a refined sense of style.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "nature",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#A2B5C7"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#C7BCA2",
+        "#E8E2D4",
+        "#A09882",
+        "#736D5D"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#C7BCA2",
+        "#D4C7B1",
+        "#8C7A63",
+        "#594C3A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for calming apps",
+      "Subtle button highlights"
+    ],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Restaurant interior design"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Neutral clothing items",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Home Interior",
+      "description": "A living room featuring walls painted in Coral Reef with natural wood accents.",
+      "image_url": "https://example.com/coral_reef_interior.jpg"
+    },
+    {
+      "title": "Organic Skincare Packaging",
+      "description": "A line of organic skincare products with packaging in various shades of Coral Reef.",
+      "image_url": "https://example.com/coral_reef_skincare.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a classic look.",
+    "Combine with darker browns for an earthy feel.",
+    "Use with muted blues to create a coastal vibe."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our advanced color palette generator!",
+  "seo_meta": {
+    "title": "Coral Reef Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Coral Reef color, its psychological impact, and how to use it in design palettes for various industries."
+  },
+  "created_at": "2025-06-01T16:30:06.434756+00:00",
+  "updated_at": "2025-06-01T16:30:06.434756+00:00",
+  "slug": "coral-reef"
+}

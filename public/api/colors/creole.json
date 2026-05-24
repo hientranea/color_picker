@@ -1,0 +1,77 @@
+{
+  "id": "d434351a-8024-4abb-849f-d83b5cd7a73f",
+  "color_name": "Creole",
+  "hex_code": "#1E0F04",
+  "wheel_position": "Not Applicable",
+  "psychological_meaning": "Creole evokes feelings of groundedness and sophistication. It's often associated with stability, tradition, and a sense of understated elegance. The color can also suggest a connection to nature and the earth, providing a sense of comfort and security.",
+  "emotional_associations": [
+    "sophistication",
+    "stability",
+    "groundedness",
+    "tradition"
+  ],
+  "complementary_colors": [
+    "#04151E"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#1E0F04",
+        "#A68B64",
+        "#D4A373",
+        "#FAF0E6"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#1E0F04",
+        "#5C4033",
+        "#8B4513",
+        "#F5DEB3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Coffee brands",
+      "Chocolate packaging"
+    ],
+    "wellness": [
+      "Spas",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Leather goods",
+      "Classic apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Furniture",
+      "description": "Often used in antique furniture to give a sense of history and value.",
+      "image_url": "https://example.com/antique_furniture.jpg"
+    },
+    {
+      "title": "Dark Chocolate Packaging",
+      "description": "Creole is often used in the packaging of dark chocolate to convey richness and indulgence.",
+      "image_url": "https://example.com/dark_chocolate.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, classic look.",
+    "Combine with golds for a luxurious feel.",
+    "Use with natural textures like wood and leather."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color options and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Creole Color Meaning: Discover the Psychology & Uses of #1E0F04",
+    "description": "Explore the meaning, associations, and uses of Creole (#1E0F04). Discover complementary colors, palettes, and real-world examples to inspire your next design project."
+  },
+  "created_at": "2025-06-01T14:53:08.828066+00:00",
+  "updated_at": "2025-06-01T14:53:08.828066+00:00",
+  "slug": "creole"
+}

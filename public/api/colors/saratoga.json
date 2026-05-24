@@ -1,0 +1,80 @@
+{
+  "id": "09d683c4-7739-4e2c-bab8-f2c39a072337",
+  "color_name": "Saratoga",
+  "hex_code": "#555B10",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Saratoga is a muted, olive-toned green that evokes feelings of nature, tranquility, and sophistication. It suggests stability, growth, and a connection to the earth. This color promotes a sense of calm and balance while also conveying a subtle elegance and understated style.",
+  "emotional_associations": [
+    "nature",
+    "tranquility",
+    "sophistication",
+    "stability",
+    "growth",
+    "balance"
+  ],
+  "complementary_colors": [
+    "#B0A455"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#555B10",
+        "#A7A990",
+        "#E5E3D3",
+        "#8A817C"
+      ]
+    },
+    {
+      "name": "Serene Forest",
+      "swatches": [
+        "#555B10",
+        "#73823A",
+        "#BDB27B",
+        "#3D403D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Olive oil packaging",
+      "Organic food branding"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Autumnal clothing",
+      "Military-inspired designs"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive Grove",
+      "description": "A sun-drenched olive grove with trees displaying varying shades of muted green.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    },
+    {
+      "title": "Vintage Military Uniform",
+      "description": "A classic military uniform in a subdued, olive green fabric.",
+      "image_url": "https://example.com/military_uniform.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with creams and beiges for a natural palette.",
+    "Pair with gold accents for a touch of luxury.",
+    "Use with darker greens for a monochromatic scheme.",
+    "Contrast with muted reds or oranges for a warm, balanced look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Saratoga Color Meaning: #555B10 Hex Code",
+    "description": "Discover the meaning of Saratoga (#555B10), its psychological effects, and how to use it in your designs. Explore color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:22:15.908698+00:00",
+  "updated_at": "2025-06-01T15:22:15.908698+00:00",
+  "slug": "saratoga"
+}

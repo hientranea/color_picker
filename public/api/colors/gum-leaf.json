@@ -1,0 +1,82 @@
+{
+  "id": "d801ecd1-0b26-4ecf-9d73-5cee604cf96c",
+  "color_name": "Gum Leaf",
+  "hex_code": "#B6D3BF",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Gum Leaf, with its muted green hue, evokes feelings of tranquility, growth, and connection to nature. It suggests a sense of calm and balance, promoting relaxation and a feeling of being grounded. It is often associated with renewal, health, and environmental awareness, making it a versatile color for designs that aim to convey serenity and natural beauty.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "nature",
+    "calm",
+    "balance",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#D3B6BA"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#B6D3BF",
+        "#E9DAC1",
+        "#A68DAD",
+        "#7E6A62"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#B6D3BF",
+        "#D0E8F2",
+        "#8ECAE6",
+        "#219EBC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Mindfulness apps",
+      "Eco-friendly product websites"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Eco-Resort Lobby",
+      "description": "A resort lobby featuring walls painted in Gum Leaf to create a calming and inviting atmosphere.",
+      "image_url": "https://example.com/eco-resort.jpg"
+    },
+    {
+      "title": "Sustainable Fashion Campaign",
+      "description": "A fashion brand using Gum Leaf as a key color in their marketing campaign for sustainable clothing.",
+      "image_url": "https://example.com/sustainable-fashion.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones for a natural feel.",
+    "Combine with muted blues for a coastal vibe.",
+    "Use with creams and whites for a clean look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more calming colors with our color palette generator and find the perfect shade for your next project!",
+  "seo_meta": {
+    "title": "Gum Leaf Color Meaning: Psychology, Combinations, and Design Ideas",
+    "description": "Discover the meaning and associations of Gum Leaf (#B6D3BF), explore complementary colors, and find inspiration for using this serene green in your design projects."
+  },
+  "created_at": "2025-06-01T16:18:16.504823+00:00",
+  "updated_at": "2025-06-01T16:18:16.504823+00:00",
+  "slug": "gum-leaf"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "04b3e935-a9b6-4f2f-b17a-e443be1cd1a6",
+  "color_name": "Brick Red",
+  "hex_code": "#C62D42",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Brick Red evokes feelings of strength, stability, and earthiness. It's associated with resilience, warmth, and a sense of groundedness. Unlike brighter reds that convey excitement and passion, Brick Red offers a more subdued, mature energy, suggesting reliability and comfort.",
+  "emotional_associations": [
+    "stability",
+    "warmth",
+    "earthiness",
+    "resilience",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#2DC6B1"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#C62D42",
+        "#804000",
+        "#A67D3D",
+        "#D2B48C"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#C62D42",
+        "#556B2F",
+        "#DEB887",
+        "#F5F5DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant decor promoting a cozy atmosphere"
+    ],
+    "wellness": [
+      "Branding for natural skincare products"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Accessories like scarves and bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Brick Building",
+      "description": "A classic brick building showcasing the color's enduring appeal and sense of history.",
+      "image_url": "https://example.com/brick_building.jpg"
+    },
+    {
+      "title": "Clay Pottery",
+      "description": "Handmade clay pottery demonstrating the earthy tones and tactile quality of Brick Red.",
+      "image_url": "https://example.com/clay_pottery.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for an earthy feel.",
+    "Combine with creams and beiges for a classic look.",
+    "Use with dark blues for a sophisticated contrast.",
+    "Accent with gold or copper for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shade of red for your next project!",
+  "seo_meta": {
+    "title": "Brick Red Color Meaning: Symbolism, Psychology & Design Tips",
+    "description": "Discover the meaning and symbolism of Brick Red. Learn about its psychological effects, emotional associations, and how to use it in design, branding, and more."
+  },
+  "created_at": "2025-06-01T16:28:19.645344+00:00",
+  "updated_at": "2025-06-01T16:28:19.645344+00:00",
+  "slug": "brick-red"
+}

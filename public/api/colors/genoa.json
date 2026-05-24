@@ -1,0 +1,82 @@
+{
+  "id": "8a423881-8f19-4037-9a7b-93d4276f32d4",
+  "color_name": "Genoa",
+  "hex_code": "#15736B",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Genoa, a deep teal, embodies tranquility and sophistication. It evokes feelings of calmness and serenity, reminiscent of deep ocean waters. This color often represents stability, reliability, and a sense of peace. It's associated with nature and can promote feelings of balance and harmony, making it a favored choice for conveying trustworthiness and composure.",
+  "emotional_associations": [
+    "serenity",
+    "tranquility",
+    "stability",
+    "reliability",
+    "balance",
+    "trustworthiness"
+  ],
+  "complementary_colors": [
+    "#731C24"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depth",
+      "swatches": [
+        "#15736B",
+        "#29ADB2",
+        "#307D7E",
+        "#3A5A40",
+        "#1E3F2E"
+      ]
+    },
+    {
+      "name": "Earthy Harmony",
+      "swatches": [
+        "#15736B",
+        "#A39788",
+        "#6D5D4B",
+        "#D5BDAF",
+        "#E5E3E4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Navigation bars for productivity apps",
+      "Data visualization elements"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Evening gowns",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Sea Diving Suit",
+      "description": "A specialized suit designed for exploring the ocean depths, providing both protection and a connection to the serene underwater environment.",
+      "image_url": "https://example.com/deep_sea_suit.jpg"
+    },
+    {
+      "title": "Tranquil Forest Painting",
+      "description": "An art piece depicting a peaceful forest scene, utilizing Genoa to capture the calm and balanced atmosphere of the natural world.",
+      "image_url": "https://example.com/forest_painting.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige for a balanced look.",
+    "Use with gold accents for a touch of luxury.",
+    "Combine with lighter blues and greens for a natural palette.",
+    "Contrast with a complementary red hue for a vibrant statement."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with Genoa and other colors using our color palette generator to find your perfect combination!",
+  "seo_meta": {
+    "title": "Genoa Color Meaning: Understanding the Psychology of #15736B",
+    "description": "Explore the meaning, psychology, and best uses of Genoa (#15736B), a sophisticated teal color. Discover complementary colors, palettes, and real-world examples for design inspiration."
+  },
+  "created_at": "2025-06-01T14:49:42.802457+00:00",
+  "updated_at": "2025-06-01T14:49:42.802457+00:00",
+  "slug": "genoa"
+}

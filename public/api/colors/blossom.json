@@ -1,0 +1,77 @@
+{
+  "id": "6c3462c2-66b9-495b-ac62-18b87d43cbdf",
+  "color_name": "Blossom",
+  "hex_code": "#DCB4BC",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blossom, with its soft, muted pink hue, evokes feelings of tenderness, tranquility, and gentleness. It is associated with spring, new beginnings, and the delicate beauty of flowers. This color can promote feelings of nurturing, compassion, and hope, creating a calming and comforting atmosphere.",
+  "emotional_associations": [
+    "Tenderness",
+    "Calm",
+    "Hope",
+    "Nurturing"
+  ],
+  "complementary_colors": [
+    "#B4DCDC"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#DCB4BC",
+        "#F2E6DD",
+        "#A7D1AB",
+        "#73A785"
+      ]
+    },
+    {
+      "name": "Dusty Rose Garden",
+      "swatches": [
+        "#DCB4BC",
+        "#C8A2C8",
+        "#A98D8D",
+        "#E6CACA"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for teas",
+      "Pastry shops"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Bridal wear",
+      "Lingerie"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cherry Blossom Festival",
+      "description": "The annual Cherry Blossom Festival celebrates the beauty of cherry blossoms in full bloom.",
+      "image_url": "https://example.com/cherry_blossom.jpg"
+    },
+    {
+      "title": "Blossom-themed Wedding",
+      "description": "A wedding decorated with blossom hues creates a romantic and elegant atmosphere.",
+      "image_url": "https://example.com/blossom_wedding.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals for a delicate look.",
+    "Combine with deeper pinks and purples for added depth.",
+    "Use with greens to create a natural, floral feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color tool!",
+  "seo_meta": {
+    "title": "Blossom Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Blossom color, its psychological effects, complementary colors, and beautiful palette ideas for your next design project."
+  },
+  "created_at": "2025-06-01T16:34:37.541131+00:00",
+  "updated_at": "2025-06-01T16:34:37.541131+00:00",
+  "slug": "blossom"
+}

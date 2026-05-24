@@ -1,0 +1,81 @@
+{
+  "id": "79dd0a45-f367-4678-8a9d-8c7bec039771",
+  "color_name": "Sandrift",
+  "hex_code": "#AB917A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Sandrift evokes feelings of warmth, stability, and connection to the earth. It represents comfort and reliability, suggesting a grounded and dependable nature. This color promotes a sense of calm and understated elegance, making it ideal for creating environments that inspire relaxation and trust.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "warmth",
+    "earthiness",
+    "comfort"
+  ],
+  "complementary_colors": [
+    "#7A92AB"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Neutrals",
+      "swatches": [
+        "#AB917A",
+        "#D3C1A7",
+        "#736357",
+        "#E9E3D4"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#AB917A",
+        "#B0C4DE",
+        "#FFFFFF",
+        "#8FBC8F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for user profiles",
+      "Subtle highlights in data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic foods",
+      "Restaurant decor for a natural ambiance"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Autumn outerwear",
+      "Casual knitwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Sandstone Facade",
+      "description": "A building with a Sandrift colored sandstone facade, blending seamlessly into its natural surroundings.",
+      "image_url": "https://example.com/sandstone_facade.jpg"
+    },
+    {
+      "title": "Desert Landscape Painting",
+      "description": "An abstract painting featuring various shades of Sandrift, capturing the essence of a desert landscape.",
+      "image_url": "https://example.com/desert_painting.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted greens for a natural feel.",
+    "Combine with creams and whites for a sophisticated look.",
+    "Use with darker browns for added depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations using our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Sandrift Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Sandrift (#AB917A), its emotional associations, and how to effectively use this versatile color in design and branding."
+  },
+  "created_at": "2025-06-01T16:10:16.386676+00:00",
+  "updated_at": "2025-06-01T16:10:16.386676+00:00",
+  "slug": "sandrift"
+}

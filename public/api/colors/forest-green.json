@@ -1,0 +1,87 @@
+{
+  "id": "a90542ac-1fa8-4db8-8871-aad1c5393485",
+  "color_name": "Forest Green",
+  "hex_code": "#228B22",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Forest Green evokes feelings of nature, growth, and tranquility. It is associated with health, renewal, and balance, often representing stability and endurance. This color can also symbolize ambition and abundance, fostering a sense of well-being and connection to the earth.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "tranquility",
+    "health",
+    "renewal",
+    "balance",
+    "stability",
+    "endurance",
+    "ambition",
+    "abundance"
+  ],
+  "complementary_colors": [
+    "#8B228B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#228B22",
+        "#A0522D",
+        "#F5DEB3",
+        "#6B8E23"
+      ]
+    },
+    {
+      "name": "Deep Woods",
+      "swatches": [
+        "#228B22",
+        "#006400",
+        "#8FBC8F",
+        "#2F4F4F"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Health food branding",
+      "Sustainable restaurant decor"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design",
+      "Natural skincare packaging"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion brands",
+      "Accessories inspired by nature"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amazon Rainforest",
+      "description": "The lush greenery of the Amazon symbolizes life and biodiversity.",
+      "image_url": "https://example.com/amazon_rainforest.jpg"
+    },
+    {
+      "title": "National Park Sign",
+      "description": "The dark green color used in National Park signs represents preservation and natural beauty.",
+      "image_url": "https://example.com/national_park_sign.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with creams and whites for a clean and calming palette.",
+    "Contrast with complementary reds or purples to make it pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of green and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Forest Green Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Forest Green, its emotional associations, complementary colors, and how to use it in your design projects."
+  },
+  "created_at": "2025-06-01T14:54:37.428826+00:00",
+  "updated_at": "2025-06-01T14:54:37.428826+00:00",
+  "slug": "forest-green"
+}

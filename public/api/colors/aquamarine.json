@@ -1,0 +1,87 @@
+{
+  "id": "51e4d47a-8996-4bde-b4b3-34333ef42c36",
+  "color_name": "Aquamarine",
+  "hex_code": "#7FFFD4",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Aquamarine evokes feelings of calmness, tranquility, and clarity, reminiscent of the sea. It is often associated with peace, serenity, and sophistication. This color promotes relaxation, creativity, and inspiration, fostering a sense of emotional balance and well-being. Its gentle and soothing nature makes it an ideal choice for creating a harmonious and inviting atmosphere.",
+  "emotional_associations": [
+    "calmness",
+    "tranquility",
+    "clarity",
+    "peace",
+    "serenity",
+    "sophistication",
+    "relaxation",
+    "creativity",
+    "inspiration",
+    "emotional balance",
+    "well-being"
+  ],
+  "complementary_colors": [
+    "#FF7F8A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Breeze",
+      "swatches": [
+        "#7FFFD4",
+        "#B0E57C",
+        "#ADD8E6",
+        "#F0FFFF"
+      ]
+    },
+    {
+      "name": "Tranquil Shores",
+      "swatches": [
+        "#7FFFD4",
+        "#D2B4DE",
+        "#8FBC8F",
+        "#FFFACD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Sleep trackers",
+      "Water quality monitoring devices"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Acupuncture clinics"
+    ],
+    "fashion": [
+      "Resort wear",
+      "Swimwear",
+      "Summer dresses"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Aquamarine Gemstone",
+      "description": "A precious gemstone known for its serene blue-green hue, often used in jewelry.",
+      "image_url": "https://example.com/aquamarine_gemstone.jpg"
+    },
+    {
+      "title": "Tropical Lagoon",
+      "description": "The clear, blue-green water of a tropical lagoon, showcasing the color's natural beauty.",
+      "image_url": "https://example.com/tropical_lagoon.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with sandy beige for a beachy vibe.",
+    "Combine with lavender for a calming effect.",
+    "Use with coral for a vibrant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints using our color picker to find your perfect Aquamarine hue!",
+  "seo_meta": {
+    "title": "Aquamarine Color Meaning: Psychology, Palettes & Uses",
+    "description": "Discover the meaning of Aquamarine, its psychological effects, complementary colors, and practical applications in design and branding."
+  },
+  "created_at": "2025-06-01T15:45:41.93784+00:00",
+  "updated_at": "2025-06-01T15:45:41.93784+00:00",
+  "slug": "aquamarine"
+}

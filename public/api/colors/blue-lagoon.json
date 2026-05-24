@@ -1,0 +1,82 @@
+{
+  "id": "3d5e0593-4575-4423-99f6-691763884c3c",
+  "color_name": "Blue Lagoon",
+  "hex_code": "#017987",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Blue Lagoon evokes feelings of tranquility, clarity, and a refreshing escape. It combines the stability of blue with the invigorating qualities of green, suggesting a sense of calm energy and natural harmony. This color often inspires creativity, peace, and a connection to nature, promoting a balanced and soothing atmosphere.",
+  "emotional_associations": [
+    "tranquility",
+    "clarity",
+    "refreshment",
+    "peace",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#870901"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Mist",
+      "swatches": [
+        "#017987",
+        "#A7D1AB",
+        "#E0F2F1",
+        "#74B4BC"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#017987",
+        "#D8E2DC",
+        "#FFE5D9",
+        "#FFCAD4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Dashboard interfaces",
+      "Mobile app design"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Resort wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tropical Resort Pool",
+      "description": "The clear blue water of a resort pool reflecting the sky above.",
+      "image_url": "url_to_pool_image.jpg"
+    },
+    {
+      "title": "Lagoon Landscape",
+      "description": "A vibrant photo of a natural blue lagoon surrounded by lush greenery.",
+      "image_url": "url_to_lagoon_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with sandy beiges for a beachy vibe.",
+    "Combine with crisp whites for a clean, modern look.",
+    "Use with warm corals for a vibrant contrast.",
+    "Accent with metallic silvers for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Blue Lagoon Color Meaning: Understanding #017987",
+    "description": "Discover the meaning and associations of Blue Lagoon (#017987), including its psychological impact, complementary colors, and ideal uses in design and branding."
+  },
+  "created_at": "2025-06-01T14:41:06.895633+00:00",
+  "updated_at": "2025-06-01T14:41:06.895633+00:00",
+  "slug": "blue-lagoon"
+}

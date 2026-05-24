@@ -1,0 +1,83 @@
+{
+  "id": "650fff5b-dfd2-403a-8c2d-89d54df87c89",
+  "color_name": "Ocean Green",
+  "hex_code": "#41AA78",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Ocean Green evokes feelings of tranquility, balance, and renewal. It combines the calming properties of blue with the revitalizing aspects of green, suggesting harmony and growth. It's often associated with nature, health, and stability, creating a sense of peace and well-being.",
+  "emotional_associations": [
+    "calm",
+    "peace",
+    "harmony",
+    "nature",
+    "growth",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#AA4153"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Serenity",
+      "swatches": [
+        "#41AA78",
+        "#A7D9B8",
+        "#E8F5E9",
+        "#74AFAD"
+      ]
+    },
+    {
+      "name": "Earthy Balance",
+      "swatches": [
+        "#41AA78",
+        "#7E57C2",
+        "#E0F2F1",
+        "#A5D6A7"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Health tracking apps"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Sustainable clothing lines",
+      "Activewear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Home Decor",
+      "description": "Ocean Green walls in a living room create a relaxing and inviting atmosphere.",
+      "image_url": "https://example.com/ocean_green_decor.jpg"
+    },
+    {
+      "title": "Sustainable Product Packaging",
+      "description": "Ocean Green packaging conveys eco-friendliness and natural ingredients.",
+      "image_url": "https://example.com/ocean_green_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light grays for a modern, clean look.",
+    "Combine with earthy browns and beiges for a natural, grounded feel.",
+    "Use with teal or turquoise for a harmonious and vibrant palette.",
+    "Contrast with coral or blush for a pop of unexpected color."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Experiment with Ocean Green and create your own unique color schemes using our color palette generator.",
+  "seo_meta": {
+    "title": "Ocean Green Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Explore the meaning of Ocean Green, its psychological associations, and how to use it in design and branding. Discover harmonious color palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T15:12:24.831496+00:00",
+  "updated_at": "2025-06-01T15:12:24.831496+00:00",
+  "slug": "ocean-green"
+}

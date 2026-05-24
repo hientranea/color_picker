@@ -1,0 +1,81 @@
+{
+  "id": "9c5e6475-4622-4000-9f94-84aac2dd3b75",
+  "color_name": "Driftwood",
+  "hex_code": "#AF8751",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Driftwood evokes feelings of calmness, stability, and connection to nature. Its muted brown tones create a sense of grounding and security, while its subtle warmth suggests comfort and familiarity. It is often associated with weathered textures, natural landscapes, and a timeless, rustic aesthetic.",
+  "emotional_associations": [
+    "calmness",
+    "stability",
+    "grounding",
+    "comfort",
+    "rustic"
+  ],
+  "complementary_colors": [
+    "#5177AF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Serenity",
+      "swatches": [
+        "#AF8751",
+        "#E0D8C0",
+        "#7A9EA5",
+        "#3A506B"
+      ]
+    },
+    {
+      "name": "Rustic Warmth",
+      "swatches": [
+        "#AF8751",
+        "#D4A373",
+        "#A68A64",
+        "#594A42"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Neutral tones for data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for coffee and tea products",
+      "Branding for artisan bakeries"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Autumn/Winter clothing lines",
+      "Leather accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Driftwood Coffee Table",
+      "description": "A rustic coffee table made from reclaimed driftwood, adding a touch of natural beauty to any living room.",
+      "image_url": "https://example.com/driftwood_table.jpg"
+    },
+    {
+      "title": "Driftwood Beige Wall Paint",
+      "description": "A popular interior paint color, Driftwood beige brings warmth and sophistication to home decor.",
+      "image_url": "https://example.com/driftwood_paint.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues and greens for a coastal vibe.",
+    "Combine with creams and whites for a clean, minimalist look.",
+    "Accent with metallic golds for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Driftwood Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning of Driftwood (#AF8751), its psychological associations, complementary colors, and suggested palettes for your next design project."
+  },
+  "created_at": "2025-06-01T16:13:13.642578+00:00",
+  "updated_at": "2025-06-01T16:13:13.642578+00:00",
+  "slug": "driftwood"
+}

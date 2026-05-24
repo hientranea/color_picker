@@ -1,0 +1,85 @@
+{
+  "id": "2ec283f0-a36d-4633-81c4-bd5b35824064",
+  "color_name": "Harlequin",
+  "hex_code": "#3FFF00",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Harlequin is a vibrant and energetic green that evokes feelings of excitement, playfulness, and creativity. It's a color that suggests novelty, adventure, and a non-traditional approach to life. This shade of green can also symbolize growth and rejuvenation, with a touch of unpredictability and the unexpected.",
+  "emotional_associations": [
+    "energy",
+    "excitement",
+    "creativity",
+    "playfulness",
+    "novelty"
+  ],
+  "complementary_colors": [
+    "#FF3FBF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Electric Jungle",
+      "swatches": [
+        "#3FFF00",
+        "#007FFF",
+        "#FFA500",
+        "#800080"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#3FFF00",
+        "#FFFF00",
+        "#FFFFFF",
+        "#A0D6B4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Interactive gaming",
+      "AR/VR interfaces",
+      "Unique call-to-action buttons"
+    ],
+    "food_beverage": [
+      "Energy drinks",
+      "Novelty candies",
+      "Exotic fruit packaging"
+    ],
+    "wellness": [
+      "Fitness apps",
+      "Holistic health branding"
+    ],
+    "fashion": [
+      "Athletic wear",
+      "Statement accessories",
+      "Festival outfits"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Harlequin Tights",
+      "description": "A pair of vibrant Harlequin-colored tights, perfect for adding a pop of color to any outfit.",
+      "image_url": "https://example.com/harlequin_tights.jpg"
+    },
+    {
+      "title": "Harlequin Frog",
+      "description": "A strikingly colored Harlequin frog, showcasing the vibrant hues found in nature.",
+      "image_url": "https://example.com/harlequin_frog.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with black for a bold contrast.",
+    "Use with white for a fresh and modern look.",
+    "Combine with complementary purple shades for a dynamic effect.",
+    "Soften with neutral grays and browns."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of green and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Harlequin Color Meaning: Discover Its Vibrant Energy",
+    "description": "Uncover the meaning of Harlequin (#3FFF00), its psychological impact, and how to use it effectively in design and branding."
+  },
+  "created_at": "2025-06-01T15:10:38.255108+00:00",
+  "updated_at": "2025-06-01T15:10:38.255108+00:00",
+  "slug": "harlequin"
+}

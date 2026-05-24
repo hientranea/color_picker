@@ -1,0 +1,79 @@
+{
+  "id": "d678a6e9-be75-49b5-afcb-dc628deeaef7",
+  "color_name": "Cork",
+  "hex_code": "#40291D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cork evokes feelings of stability, reliability, and earthiness. It is associated with nature, groundedness, and a sense of calm. This color often represents resilience and natural beauty, offering a comforting and secure ambiance, reminiscent of organic textures and rustic environments.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "earthiness",
+    "calm",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#1D3440"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#40291D",
+        "#A68A64",
+        "#D4A373",
+        "#F2E2D2"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#40291D",
+        "#73503B",
+        "#BFA180",
+        "#E8D3B9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for organic food products",
+      "Restaurant interiors with a natural aesthetic"
+    ],
+    "wellness": [
+      "Spa decor",
+      "Yoga studio design"
+    ],
+    "fashion": [
+      "Autumn/Winter apparel",
+      "Accessories like belts and bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cork Flooring",
+      "description": "Cork flooring offers a sustainable and warm alternative to traditional flooring options.",
+      "image_url": "https://example.com/cork_flooring.jpg"
+    },
+    {
+      "title": "Wine Corks",
+      "description": "Wine corks are a classic example of the color and texture associated with cork.",
+      "image_url": "https://example.com/wine_corks.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, inviting look.",
+    "Combine with greens for a natural, earthy feel.",
+    "Contrast with blues for a sophisticated palette.",
+    "Accent with metallics like gold or bronze for added elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color palette generator to find the perfect shades to complement Cork!",
+  "seo_meta": {
+    "title": "Cork Color Meaning: Discover the Psychology of #40291D",
+    "description": "Uncover the meaning and associations of Cork (#40291D), including its psychological impact, complementary colors, and ideal uses in design."
+  },
+  "created_at": "2025-06-01T15:10:51.83866+00:00",
+  "updated_at": "2025-06-01T15:10:51.83866+00:00",
+  "slug": "cork"
+}

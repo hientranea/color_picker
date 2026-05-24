@@ -1,0 +1,78 @@
+{
+  "id": "6ce52473-5727-4e09-9a70-998728458390",
+  "color_name": "Screamin' Green",
+  "hex_code": "#66FF66",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Screamin' Green is a vibrant and energetic color that evokes feelings of excitement, renewal, and growth. It's associated with nature, particularly lush landscapes and springtime. This color can inspire creativity, promote a sense of adventure, and stimulate the mind.",
+  "emotional_associations": [
+    "energy",
+    "growth",
+    "excitement",
+    "renewal",
+    "nature"
+  ],
+  "complementary_colors": [
+    "#FF66FF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Tropical Vibe",
+      "swatches": [
+        "#66FF66",
+        "#FFFF66",
+        "#66FFFF"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#66FF66",
+        "#FFFFFF",
+        "#CCFF99"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Gamification",
+      "Interactive tutorials"
+    ],
+    "food_beverage": [
+      "Energy drinks",
+      "Organic food packaging"
+    ],
+    "wellness": [
+      "Mental health apps"
+    ],
+    "fashion": [
+      "Athleisure wear",
+      "Summer accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lime Green Sports Car",
+      "description": "A high-performance sports car painted in a Screamin' Green shade, symbolizing speed and excitement.",
+      "image_url": "https://example.com/screamin_green_car.jpg"
+    },
+    {
+      "title": "Lush Tropical Forest",
+      "description": "A vibrant photograph of a tropical forest teeming with life, showcasing the natural beauty of Screamin' Green.",
+      "image_url": "https://example.com/tropical_forest.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with white for a fresh, clean look.",
+    "Combine with yellows and blues for a vibrant palette.",
+    "Use as an accent color to add a pop of energy."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Find the perfect shade of green with our color picker tool!",
+  "seo_meta": {
+    "title": "Screamin' Green Color Meaning: Psychology, Combinations & Uses",
+    "description": "Explore the meaning of Screamin' Green, its psychological effects, and how to use it in design. Discover complementary colors and inspiring palettes."
+  },
+  "created_at": "2025-06-01T15:30:08.636883+00:00",
+  "updated_at": "2025-06-01T15:30:08.636883+00:00",
+  "slug": "screamin-green"
+}

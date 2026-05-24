@@ -1,0 +1,81 @@
+{
+  "id": "91717af4-3c50-48b2-a980-5fc0691efeed",
+  "color_name": "Turmeric",
+  "hex_code": "#CABB48",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Turmeric, with its warm and earthy yellow-orange hue, evokes feelings of warmth, vitality, and optimism. It is often associated with energy, creativity, and a sense of adventure. This color can inspire confidence and encourage a positive outlook, while also promoting a sense of comfort and well-being.",
+  "emotional_associations": [
+    "warmth",
+    "energy",
+    "optimism",
+    "creativity",
+    "vitality"
+  ],
+  "complementary_colors": [
+    "#4859BB"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Spice",
+      "swatches": [
+        "#CABB48",
+        "#A0522D",
+        "#F5DEB3",
+        "#6B8E23"
+      ]
+    },
+    {
+      "name": "Golden Hour",
+      "swatches": [
+        "#CABB48",
+        "#FFD700",
+        "#FFA500",
+        "#FFFACD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "spice packaging",
+      "restaurant branding",
+      "health food products"
+    ],
+    "wellness": [
+      "vitamin supplements",
+      "herbal remedies",
+      "natural skincare"
+    ],
+    "fashion": [
+      "autumnal clothing lines",
+      "ethnic-inspired designs",
+      "accent colors in accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Turmeric Latte",
+      "description": "A vibrant and healthy beverage gaining popularity for its health benefits and distinctive color.",
+      "image_url": "https://example.com/turmeric_latte.jpg"
+    },
+    {
+      "title": "Indian Sari",
+      "description": "Traditional Indian garment often featuring turmeric-colored fabrics, symbolizing prosperity and celebration.",
+      "image_url": "https://example.com/indian_sari.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with deep blues for a striking contrast.",
+    "Combine with earthy browns and greens for a natural feel.",
+    "Use with creams and whites for a soft and elegant look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and harmonies with our color palette generator!",
+  "seo_meta": {
+    "title": "Turmeric Color Meaning: Understanding the Psychology of #CABB48",
+    "description": "Discover the meaning and associations of the color Turmeric (#CABB48), including its psychological effects, complementary colors, and usage in design."
+  },
+  "created_at": "2025-06-01T16:32:55.98695+00:00",
+  "updated_at": "2025-06-01T16:32:55.98695+00:00",
+  "slug": "turmeric"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1bdac876-5cea-465c-b3e1-a724c48c3359",
+  "color_name": "Shiraz",
+  "hex_code": "#B20931",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Shiraz, a deep, rich red, evokes feelings of sophistication, passion, and luxury. It combines the energy of red with a hint of restraint, creating a color that is both powerful and elegant. Shiraz suggests confidence, maturity, and a taste for the finer things in life. It is often associated with celebration, indulgence, and a sense of timeless beauty.",
+  "emotional_associations": [
+    "sophistication",
+    "passion",
+    "luxury",
+    "confidence",
+    "celebration"
+  ],
+  "complementary_colors": [
+    "#09AAB2"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Elegance",
+      "swatches": [
+        "#B20931",
+        "#D4A373",
+        "#343A40"
+      ]
+    },
+    {
+      "name": "Festive",
+      "swatches": [
+        "#B20931",
+        "#F2EBD3",
+        "#6A4C93"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Gourmet food packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Lipstick"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Shiraz Wine Bottle",
+      "description": "A bottle of Shiraz wine showcasing the deep red hue of the beverage.",
+      "image_url": "https://example.com/shiraz_wine.jpg"
+    },
+    {
+      "title": "Shiraz Velvet Dress",
+      "description": "A luxurious velvet dress in a rich Shiraz color.",
+      "image_url": "https://example.com/shiraz_dress.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like gray or beige for a sophisticated look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with deep greens for an earthy and grounding palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades of red and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Shiraz Color Meaning: The Psychology of #B20931",
+    "description": "Explore the meaning and associations of Shiraz, a rich red color. Discover complementary colors, palettes, and design inspiration."
+  },
+  "created_at": "2025-06-01T16:15:37.086081+00:00",
+  "updated_at": "2025-06-01T16:15:37.086081+00:00",
+  "slug": "shiraz"
+}

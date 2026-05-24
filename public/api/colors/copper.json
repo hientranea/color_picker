@@ -1,0 +1,87 @@
+{
+  "id": "2e5d4a28-9791-433e-8f93-cbc016db40ba",
+  "color_name": "Copper",
+  "hex_code": "#B87333",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Copper is often associated with warmth, earthiness, and a sense of groundedness. It blends the qualities of brown and orange, evoking feelings of stability, comfort, and subtle luxury. The color can also represent prosperity and a connection to nature, reminiscent of minerals and natural resources.",
+  "emotional_associations": [
+    "warmth",
+    "earthiness",
+    "stability",
+    "comfort",
+    "luxury",
+    "prosperity"
+  ],
+  "complementary_colors": [
+    "#3390B8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#B87333",
+        "#F5F5DC",
+        "#6F4E37",
+        "#A0522D"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#B87333",
+        "#D2B48C",
+        "#8B4513",
+        "#C04000"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Accent color for dashboards",
+      "Progress bars",
+      "Buttons"
+    ],
+    "food_beverage": [
+      "Packaging for gourmet coffee",
+      "Branding for craft breweries",
+      "Restaurant interiors to evoke warmth"
+    ],
+    "wellness": [
+      "Spa decor to create a relaxing environment",
+      "Packaging for natural skincare products",
+      "Yoga studio accents"
+    ],
+    "fashion": [
+      "Autumn and winter collections",
+      "Accessories like belts and jewelry",
+      "Footwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Copper Utensils",
+      "description": "Copper utensils in a kitchen setting. Reflecting warmth and elegance.",
+      "image_url": "https://example.com/copper_utensils.jpg"
+    },
+    {
+      "title": "Copper Wiring",
+      "description": "Close-up of copper wiring, showcasing its essential role in technology.",
+      "image_url": "https://example.com/copper_wiring.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with teal for a striking contrast.",
+    "Use with creams and beiges for a neutral palette.",
+    "Combine with dark browns for a rich, earthy feel.",
+    "Accent with gold for added luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our intuitive color palette generator!",
+  "seo_meta": {
+    "title": "Copper Color Meaning: Understanding #B87333 | Color Psychology",
+    "description": "Discover the meaning of the color Copper (#B87333), its psychological effects, and how to use it in design, marketing, and more."
+  },
+  "created_at": "2025-06-01T16:19:14.513581+00:00",
+  "updated_at": "2025-06-01T16:19:14.513581+00:00",
+  "slug": "copper"
+}

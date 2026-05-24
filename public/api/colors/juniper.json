@@ -1,0 +1,84 @@
+{
+  "id": "7d188879-0255-4e5c-a7a9-f836a5c8bb42",
+  "color_name": "Juniper",
+  "hex_code": "#6D9292",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Juniper is a muted, gray-green that evokes feelings of tranquility, stability, and connection to nature. It suggests balance and harmony, offering a sense of calm and grounding. This color is often associated with growth, renewal, and a quiet, understated elegance, promoting a sense of peace and well-being.",
+  "emotional_associations": [
+    "calm",
+    "peace",
+    "nature",
+    "stability",
+    "growth"
+  ],
+  "complementary_colors": [
+    "#926D6D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#6D9292",
+        "#A2B5A4",
+        "#D4E2D4",
+        "#8C7853",
+        "#4A3B30"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#6D9292",
+        "#B0C4DE",
+        "#E6E6FA",
+        "#FFFFFF",
+        "#4682B4"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces for data visualization",
+      "Applications focused on mindfulness and productivity",
+      "Settings menus for customizable color themes"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio interiors",
+      "Meditation app design"
+    ],
+    "fashion": [
+      "Casual wear",
+      "Outdoor clothing",
+      "Accessories like scarves and bags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Juniper Forest",
+      "description": "A dense juniper forest evokes a sense of natural peace and tranquility.",
+      "image_url": "https://example.com/juniper_forest.jpg"
+    },
+    {
+      "title": "Juniper-Colored Walls",
+      "description": "A room painted in Juniper offers a calming and grounding atmosphere.",
+      "image_url": "https://example.com/juniper_walls.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a soft, elegant look.",
+    "Combine with browns and tans for an earthy, natural feel.",
+    "Use with blues and grays for a calming, coastal vibe.",
+    "Accent with metallic gold or copper for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of Juniper and create your perfect palette using our color tool!",
+  "seo_meta": {
+    "title": "Juniper Color Meaning: Understanding #6D9292",
+    "description": "Explore the meaning, psychology, and uses of the Juniper color (#6D9292). Discover complementary colors, suggested palettes, and industry use cases."
+  },
+  "created_at": "2025-06-01T15:33:24.295636+00:00",
+  "updated_at": "2025-06-01T15:33:24.295636+00:00",
+  "slug": "juniper"
+}

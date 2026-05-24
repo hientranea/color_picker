@@ -1,0 +1,83 @@
+{
+  "id": "b8d2f70b-08ac-47a7-a363-7b96da2d85fe",
+  "color_name": "Turquoise",
+  "hex_code": "#30D5C8",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Turquoise represents sophistication, tranquility, and wisdom. It balances the serenity of blue with the growth of green, fostering emotional balance and a sense of calm. This color is often associated with open communication and clarity of thought, promoting self-expression and creative energy. It is a color of healing and understanding, inspiring empathy and compassion.",
+  "emotional_associations": [
+    "calm",
+    "tranquility",
+    "clarity",
+    "sophistication",
+    "healing",
+    "communication"
+  ],
+  "complementary_colors": [
+    "#D5303D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Serenity",
+      "swatches": [
+        "#30D5C8",
+        "#A7D9ED",
+        "#E0F2F1",
+        "#74A579"
+      ]
+    },
+    {
+      "name": "Tropical Oasis",
+      "swatches": [
+        "#30D5C8",
+        "#F2E7DC",
+        "#9CB4CC",
+        "#F7D08A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Meditation and wellness apps",
+      "Customer support interfaces"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design",
+      "Meditation aids"
+    ],
+    "fashion": [
+      "Swimwear",
+      "Summer dresses",
+      "Statement jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Turquoise Waters of the Caribbean",
+      "description": "The crystal-clear turquoise waters of the Caribbean Sea are a stunning example of this color in nature, inspiring feelings of peace and relaxation.",
+      "image_url": "https://example.com/caribbean_sea.jpg"
+    },
+    {
+      "title": "Tiffany & Co.'s Iconic Blue Boxes",
+      "description": "Tiffany & Co.'s signature blue boxes, often referred to as 'Tiffany Blue' (a shade similar to turquoise), are synonymous with luxury and elegance.",
+      "image_url": "https://example.com/tiffany_box.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with coral for a vibrant, contrasting look.",
+    "Combine with neutrals like white or gray for a clean, modern aesthetic.",
+    "Use with shades of blue and green for a harmonious, aquatic feel.",
+    "Add gold accents for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades and create stunning color combinations!",
+  "seo_meta": {
+    "title": "Turquoise Color Meaning: Symbolism, Psychology & Design Tips",
+    "description": "Discover the meaning, symbolism, and psychological effects of the color turquoise. Learn how to use turquoise in design, branding, and marketing."
+  },
+  "created_at": "2025-06-01T15:01:53.459341+00:00",
+  "updated_at": "2025-06-01T15:01:53.459341+00:00",
+  "slug": "turquoise"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "221a8083-3f8f-4338-986f-6ab6f230d253",
+  "color_name": "Cognac",
+  "hex_code": "#9F381D",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Cognac, a shade reminiscent of aged brandy, evokes feelings of warmth, sophistication, and groundedness. It blends the energy of red with the stability of brown, suggesting reliability and comfort. This color often represents maturity, resilience, and a connection to traditional values. It can also inspire a sense of indulgence and refined taste.",
+  "emotional_associations": [
+    "Warmth",
+    "Sophistication",
+    "Reliability",
+    "Comfort",
+    "Elegance"
+  ],
+  "complementary_colors": [
+    "#1D869F"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#9F381D",
+        "#D4A373",
+        "#F2E8CF",
+        "#586A6A"
+      ]
+    },
+    {
+      "name": "Autumn Harvest",
+      "swatches": [
+        "#9F381D",
+        "#E27D60",
+        "#85DCB",
+        "#41B3A3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Branding for whiskey or bourbon",
+      "Packaging for gourmet coffee",
+      "Restaurant interiors emphasizing a cozy atmosphere"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather goods",
+      "Autumn and winter clothing",
+      "Elegant accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Cognac Leather Sofa",
+      "description": "A classic cognac leather sofa provides a warm and inviting focal point in a living room.",
+      "image_url": "https://example.com/cognac-sofa.jpg"
+    },
+    {
+      "title": "Cognac Brandy Bottle",
+      "description": "The rich hue of cognac brandy within a glass bottle, representing luxury and tradition.",
+      "image_url": "https://example.com/cognac-brandy.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or beige for a classic look.",
+    "Combine with teal or turquoise for a vibrant contrast.",
+    "Use with gold or brass accents to enhance its luxurious feel.",
+    "Consider pairing with forest green for an earthy and sophisticated palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades that complement Cognac!",
+  "seo_meta": {
+    "title": "Cognac Color Meaning: Understanding #9F381D",
+    "description": "Discover the meaning, psychology, and best uses of the color Cognac (#9F381D) in design, branding, and more."
+  },
+  "created_at": "2025-06-01T16:03:09.009013+00:00",
+  "updated_at": "2025-06-01T16:03:09.009013+00:00",
+  "slug": "cognac"
+}

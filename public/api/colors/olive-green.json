@@ -1,0 +1,79 @@
+{
+  "id": "e1c2109a-fc42-4d64-bb56-e2dc64066e6c",
+  "color_name": "Olive Green",
+  "hex_code": "#B5B35C",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Olive green is often associated with peace and tranquility, blending the energy of yellow with the grounding stability of green. It can represent a connection to nature and a desire for harmony. However, depending on the shade and context, it can also be perceived as signifying stagnation or a need for change.",
+  "emotional_associations": [
+    "peace",
+    "tranquility",
+    "nature",
+    "stability",
+    "harmony"
+  ],
+  "complementary_colors": [
+    "#5CB7B5"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#B5B35C",
+        "#D4A373",
+        "#8A817C",
+        "#E0CBA8"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#B5B35C",
+        "#A38264",
+        "#736047",
+        "#F2E3D5"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Olive oil packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Military-inspired clothing",
+      "Outdoor apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Olive groves in Tuscany",
+      "description": "Rolling hills covered in olive trees, a symbol of peace and abundance.",
+      "image_url": "https://example.com/olive_grove.jpg"
+    },
+    {
+      "title": "Vintage military jacket",
+      "description": "A classic olive green jacket evokes a sense of history and durability.",
+      "image_url": "https://example.com/military_jacket.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural look.",
+    "Combine with gold accents for a touch of elegance.",
+    "Use with creams and beiges for a calming palette.",
+    "Contrast with muted reds for a balanced feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Olive Green Color Meaning: Understanding #B5B35C",
+    "description": "Discover the meaning and symbolism of olive green, its emotional associations, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:17:18.64388+00:00",
+  "updated_at": "2025-06-01T16:17:18.64388+00:00",
+  "slug": "olive-green"
+}

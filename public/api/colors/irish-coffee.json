@@ -1,0 +1,81 @@
+{
+  "id": "eb470c7b-592a-4291-b427-20bd06078bb4",
+  "color_name": "Irish Coffee",
+  "hex_code": "#5F3D26",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Irish Coffee evokes feelings of warmth, comfort, and sophistication. It suggests stability and reliability, reminiscent of cozy cafes and familiar traditions. This color is often associated with grounding energy and a sense of timeless elegance.",
+  "emotional_associations": [
+    "warmth",
+    "comfort",
+    "stability",
+    "sophistication",
+    "grounding"
+  ],
+  "complementary_colors": [
+    "#265F3D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#5F3D26",
+        "#A68A64",
+        "#D4A373",
+        "#E9D9C1"
+      ]
+    },
+    {
+      "name": "Coffee Shop Vibes",
+      "swatches": [
+        "#5F3D26",
+        "#8C6B4B",
+        "#C6AB8F",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Accent color for dashboards",
+      "Text color for readability"
+    ],
+    "food_beverage": [
+      "Coffee packaging",
+      "Restaurant interior design",
+      "Chocolate branding"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Winter coats",
+      "Leather accessories",
+      "Knitwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Sofa",
+      "description": "A classic leather sofa in a rich Irish Coffee color adds a touch of luxury to any living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Coffee Packaging",
+      "description": "Premium coffee beans packaged in an Irish Coffee colored bag to convey quality and warmth.",
+      "image_url": "https://example.com/coffee_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with greens for an earthy feel.",
+    "Use with metallic accents for a touch of glamour."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Irish Coffee Color Meaning: Understanding #5F3D26",
+    "description": "Discover the meaning, associations, and best uses for the Irish Coffee color (#5F3D26). Explore palettes and industry examples."
+  },
+  "created_at": "2025-06-01T15:25:34.091671+00:00",
+  "updated_at": "2025-06-01T15:25:34.091671+00:00",
+  "slug": "irish-coffee"
+}

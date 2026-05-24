@@ -1,0 +1,84 @@
+{
+  "id": "e2906a26-52ae-463d-833a-3f9e5d953230",
+  "color_name": "Celadon",
+  "hex_code": "#ACE1AF",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Celadon evokes feelings of tranquility, growth, and balance. It is associated with nature, promoting a sense of peace and harmony. This soothing color can inspire creativity and renewal, fostering a calm and optimistic outlook.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "balance",
+    "peace",
+    "harmony",
+    "renewal"
+  ],
+  "complementary_colors": [
+    "#E1ACAF"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#ACE1AF",
+        "#D8E2DC",
+        "#A59B91",
+        "#79836B"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#ACE1AF",
+        "#B0E57C",
+        "#94D6FF",
+        "#E0F2F1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Calming backgrounds for meditation apps",
+      "Soothing color schemes for productivity tools"
+    ],
+    "food_beverage": [
+      "Packaging for organic teas",
+      "Branding for health food restaurants"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studios",
+      "Meditation spaces"
+    ],
+    "fashion": [
+      "Spring and summer collections",
+      "Eco-friendly clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Celadon Glazed Pottery",
+      "description": "Traditional celadon pottery showcases the color's delicate and refined qualities.",
+      "image_url": "https://example.com/celadon_pottery.jpg"
+    },
+    {
+      "title": "Celadon Walls in Interior Design",
+      "description": "Celadon walls can create a serene and inviting atmosphere in living spaces.",
+      "image_url": "https://example.com/celadon_walls.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft neutrals like beige or cream for a calming effect.",
+    "Combine with warm wood tones for an earthy and inviting feel.",
+    "Use with pops of coral or blush for a touch of vibrancy.",
+    "Contrast with darker greens for depth and dimension."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious hues and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Celadon Color Meaning: Understanding the Psychology of #ACE1AF",
+    "description": "Discover the meaning and symbolism of Celadon, a soothing and tranquil green color. Explore its emotional associations, complementary colors, and how to use it in design."
+  },
+  "created_at": "2025-06-01T16:11:49.187422+00:00",
+  "updated_at": "2025-06-01T16:11:49.187422+00:00",
+  "slug": "celadon"
+}

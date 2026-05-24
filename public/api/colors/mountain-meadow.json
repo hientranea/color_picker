@@ -1,0 +1,81 @@
+{
+  "id": "568a1608-57dc-41f9-8160-95ea576a88e0",
+  "color_name": "Mountain Meadow",
+  "hex_code": "#1AB385",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Mountain Meadow evokes feelings of growth, harmony, and tranquility. It is associated with nature, freshness, and balance, promoting a sense of peace and well-being. This color often represents renewal, health, and stability, and can inspire feelings of optimism and vitality.",
+  "emotional_associations": [
+    "harmony",
+    "growth",
+    "nature",
+    "tranquility",
+    "freshness"
+  ],
+  "complementary_colors": [
+    "#B31A48"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Nature's Embrace",
+      "swatches": [
+        "#1AB385",
+        "#66BB6A",
+        "#A5D6A7",
+        "#E8F5E9"
+      ]
+    },
+    {
+      "name": "Serene Oasis",
+      "swatches": [
+        "#1AB385",
+        "#546E7A",
+        "#90A4AE",
+        "#CFD8DC"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Health dashboards",
+      "Eco-friendly app interfaces"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio decor"
+    ],
+    "fashion": [
+      "Activewear",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lush Green Forest",
+      "description": "A dense forest canopy showcasing the vibrant green of Mountain Meadow.",
+      "image_url": "https://example.com/forest.jpg"
+    },
+    {
+      "title": "Herbal Tea Packaging",
+      "description": "A minimalist tea box with Mountain Meadow accents to convey natural ingredients.",
+      "image_url": "https://example.com/tea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a grounded feel.",
+    "Combine with light blues for a calming effect.",
+    "Use with whites and creams for a clean and modern look."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Mountain Meadow Color Meaning: #1AB385 - Psychology & Palettes",
+    "description": "Discover the meaning, psychology, and best color palettes for Mountain Meadow (#1AB385). Learn how to use this harmonious green in your designs."
+  },
+  "created_at": "2025-06-01T14:51:29.885788+00:00",
+  "updated_at": "2025-06-01T14:51:29.885788+00:00",
+  "slug": "mountain-meadow"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "765b7f91-e066-46fc-be9d-128862d16448",
+  "color_name": "Oslo Gray",
+  "hex_code": "#878D91",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Oslo Gray is a sophisticated and calming neutral color, often associated with stability, maturity, and practicality. It evokes a sense of quiet confidence and understated elegance, suggesting reliability and dependability. This color is perceived as balanced and harmonious, providing a sense of peace and order.",
+  "emotional_associations": [
+    "calm",
+    "sophistication",
+    "stability",
+    "neutrality",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#91878D",
+    "#8D9187"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Serenity",
+      "swatches": [
+        "#878D91",
+        "#A3A8AC",
+        "#6B7074"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#878D91",
+        "#D4A373",
+        "#635147"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "dashboard backgrounds",
+      "form elements",
+      "data visualization"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "spa interiors",
+      "meditation apps",
+      "yoga studios"
+    ],
+    "fashion": [
+      "outerwear",
+      "formal wear",
+      "accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "Oslo Gray walls create a sophisticated and calming atmosphere in a modern living space.",
+      "image_url": "https://example.com/oslo_gray_apartment.jpg"
+    },
+    {
+      "title": "Classic Wool Coat",
+      "description": "A beautifully tailored Oslo Gray wool coat exudes timeless elegance and versatility.",
+      "image_url": "https://example.com/oslo_gray_coat.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted blues for a serene palette.",
+    "Combine with soft pinks for a touch of femininity.",
+    "Contrast with deep greens for an earthy feel.",
+    "Use with white and black for a minimalist aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Oslo Gray Color Meaning: Psychology, Combinations & Palettes",
+    "description": "Discover the meaning of Oslo Gray, its psychological effects, and find inspiring color palettes and combinations for your next design project."
+  },
+  "created_at": "2025-06-01T15:50:18.278678+00:00",
+  "updated_at": "2025-06-01T15:50:18.278678+00:00",
+  "slug": "oslo-gray"
+}

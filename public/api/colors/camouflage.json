@@ -1,0 +1,76 @@
+{
+  "id": "25da0962-ef8c-46e8-9967-87dc9ec5fccd",
+  "color_name": "Camouflage",
+  "hex_code": "#3C3910",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Camouflage evokes feelings of concealment, security, and a connection to nature. It suggests adaptability and blending in, often associated with military contexts and the outdoors. It can also represent resilience and resourcefulness, as it speaks to the ability to thrive in various environments. The muted tones offer a sense of calm and stability.",
+  "emotional_associations": [
+    "security",
+    "nature",
+    "subtlety",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#10133C"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#3C3910",
+        "#706A41",
+        "#A39B73",
+        "#D6D1A4"
+      ]
+    },
+    {
+      "name": "Urban Explorer",
+      "swatches": [
+        "#3C3910",
+        "#505050",
+        "#808080",
+        "#A9A9A9"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [],
+    "wellness": [
+      "Spas",
+      "Yoga studios",
+      "Nature retreats"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Military-inspired clothing"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Military Uniform",
+      "description": "Camouflage patterns are used in military uniforms to help soldiers blend into their surroundings.",
+      "image_url": "url_to_military_uniform_image.jpg"
+    },
+    {
+      "title": "Hunting Gear",
+      "description": "Hunters often wear camouflage clothing to avoid detection by prey.",
+      "image_url": "url_to_hunting_gear_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones for a balanced look.",
+    "Combine with earthy colors for a natural feel.",
+    "Use with dark shades to create a sense of mystery.",
+    "Accent with brighter colors for contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and create your own Camouflage-inspired palette with our color picker!",
+  "seo_meta": {
+    "title": "Camouflage Color Meaning: The Psychology of #3C3910",
+    "description": "Discover the meaning of Camouflage (#3C3910), its psychological impact, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T15:08:09.0582+00:00",
+  "updated_at": "2025-06-01T15:08:09.0582+00:00",
+  "slug": "camouflage"
+}

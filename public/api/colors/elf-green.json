@@ -1,0 +1,83 @@
+{
+  "id": "80caa7cf-cd39-4c78-a12b-3f8e6496a177",
+  "color_name": "Elf Green",
+  "hex_code": "#088370",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Elf Green evokes feelings of nature, tranquility, and balance. It suggests stability and endurance, symbolizing growth and renewal. It can also represent abundance and prosperity, creating a sense of peace and harmony, connecting us to the natural world and promoting a sense of well-being.",
+  "emotional_associations": [
+    "nature",
+    "growth",
+    "peace",
+    "harmony",
+    "balance",
+    "tranquility"
+  ],
+  "complementary_colors": [
+    "#83081B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Forest Retreat",
+      "swatches": [
+        "#088370",
+        "#558B2F",
+        "#A5D6A7",
+        "#3E2723"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#088370",
+        "#8D6E63",
+        "#BCAAA4",
+        "#424242"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Eco-friendly apps",
+      "Sustainability platforms"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The lush green canopy of a dense forest, filtering sunlight and creating a serene atmosphere.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Herbal Tea Packaging",
+      "description": "A beautifully designed tea box featuring an illustration of green herbs and leaves.",
+      "image_url": "https://example.com/herbal_tea.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural feel.",
+    "Use with creams and beiges for a calming palette.",
+    "Combine with golds for an elegant touch.",
+    "Accent with terracotta tones for an earthy aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more nature-inspired hues with our color palette generator!",
+  "seo_meta": {
+    "title": "Elf Green Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Elf Green, its emotional associations, complementary colors, and inspiring design palettes for your next project."
+  },
+  "created_at": "2025-06-01T14:44:35.502502+00:00",
+  "updated_at": "2025-06-01T14:44:35.502502+00:00",
+  "slug": "elf-green"
+}

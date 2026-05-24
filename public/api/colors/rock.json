@@ -1,0 +1,82 @@
+{
+  "id": "5dea4078-d629-4618-bac7-f332aa7d60fc",
+  "color_name": "Rock",
+  "hex_code": "#4D3833",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Rock, with its earthy brown tones, evokes feelings of stability, reliability, and grounding. It is often associated with nature, simplicity, and a sense of comfort. This color can also represent resilience, strength, and a connection to the earth, promoting a feeling of security and dependability.",
+  "emotional_associations": [
+    "stability",
+    "reliability",
+    "grounding",
+    "comfort",
+    "resilience",
+    "strength"
+  ],
+  "complementary_colors": [
+    "#33484D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Calm",
+      "swatches": [
+        "#4D3833",
+        "#A68A64",
+        "#D4C29D",
+        "#73625A"
+      ]
+    },
+    {
+      "name": "Rustic Warmth",
+      "swatches": [
+        "#4D3833",
+        "#8C6E63",
+        "#C6AC8F",
+        "#F2EBD3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for productivity apps",
+      "Neutral color scheme for data visualization"
+    ],
+    "food_beverage": [
+      "Packaging for organic or natural foods",
+      "Branding for coffee shops and bakeries"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Outerwear",
+      "Casual wear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Rocky Mountains",
+      "description": "The majestic Rocky Mountains showcase the natural beauty and strength associated with the color rock.",
+      "image_url": "https://example.com/rocky_mountains.jpg"
+    },
+    {
+      "title": "Stone House",
+      "description": "A sturdy stone house represents the reliability and grounding aspects of the color rock.",
+      "image_url": "https://example.com/stone_house.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and whites for a soft, natural look.",
+    "Combine with greens and blues for an earthy palette.",
+    "Use with metallics like gold or copper for a touch of sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades of brown and create the perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Rock Color Meaning: The Psychology of #4D3833",
+    "description": "Discover the meaning, associations, and best uses of the color Rock (#4D3833) in design and branding."
+  },
+  "created_at": "2025-06-01T15:17:53.212563+00:00",
+  "updated_at": "2025-06-01T15:17:53.212563+00:00",
+  "slug": "rock"
+}

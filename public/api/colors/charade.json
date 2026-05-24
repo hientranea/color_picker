@@ -1,0 +1,72 @@
+{
+  "id": "8ca08bfd-ebe5-44e8-8a5c-289be54acac5",
+  "color_name": "Charade",
+  "hex_code": "#292937",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Charade evokes a sense of mystery, sophistication, and subtle strength. It suggests introspection and a quiet confidence, often associated with elegance and timeless appeal. It can also represent neutrality and a calming presence, making it a versatile choice for various applications.",
+  "emotional_associations": [
+    "sophistication",
+    "mystery",
+    "neutrality",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#D6D6C8"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Monochromatic Mystery",
+      "swatches": [
+        "#292937",
+        "#434359",
+        "#5D5D7B"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#292937",
+        "#A68B60",
+        "#E5D9C6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard backgrounds",
+      "Data visualization",
+      "Menu bars"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories",
+      "Outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Luxury Car Interior",
+      "description": "The interior of a high-end vehicle uses Charade to create a sense of understated luxury and sophistication.",
+      "image_url": "https://example.com/charade_car.jpg"
+    },
+    {
+      "title": "Modern Office Space",
+      "description": "An office uses Charade as a primary color to foster a calm and focused work environment.",
+      "image_url": "https://example.com/charade_office.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with light neutrals for a balanced look.",
+    "Use metallic accents for added glamour.",
+    "Combine with jewel tones for a bold contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations using our color palette generator!",
+  "seo_meta": {
+    "title": "Charade Color Meaning: Understand the Psychology of #292937",
+    "description": "Discover the meaning and symbolism behind the color Charade (#292937). Learn about its psychological effects, ideal pairings, and industry applications."
+  },
+  "created_at": "2025-06-01T14:58:00.097527+00:00",
+  "updated_at": "2025-06-01T14:58:00.097527+00:00",
+  "slug": "charade"
+}

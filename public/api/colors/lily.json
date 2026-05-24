@@ -1,0 +1,85 @@
+{
+  "id": "c00a45a1-803c-4eac-ae71-a437da00ceb7",
+  "color_name": "Lily",
+  "hex_code": "#C8AABF",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Lily represents purity, innocence, and tranquility. It evokes a sense of calm and sophistication, often associated with grace and elegance. Lily can also symbolize new beginnings and hope, making it a versatile choice for designs aiming to create a peaceful and refined atmosphere.",
+  "emotional_associations": [
+    "purity",
+    "innocence",
+    "tranquility",
+    "sophistication",
+    "grace",
+    "elegance",
+    "new beginnings",
+    "hope"
+  ],
+  "complementary_colors": [
+    "#A0C8B3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ethereal Morning",
+      "swatches": [
+        "#C8AABF",
+        "#EAE2B7",
+        "#A7A991",
+        "#6A4C93"
+      ]
+    },
+    {
+      "name": "Soft Harmony",
+      "swatches": [
+        "#C8AABF",
+        "#D8BFD8",
+        "#F0F8FF",
+        "#B0E0E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Minimalist dashboards",
+      "Calming notification shades",
+      "Elegant settings menus"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa websites",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Bridal wear",
+      "Evening gowns",
+      "Delicate accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Lily Bouquet",
+      "description": "A beautiful bouquet of lilies symbolizes purity and love, often used in weddings and celebrations.",
+      "image_url": "https://example.com/lily_bouquet.jpg"
+    },
+    {
+      "title": "Lily Pond",
+      "description": "A serene lily pond reflects tranquility and peace, often found in gardens and parks.",
+      "image_url": "https://example.com/lily_pond.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with soft whites for a classic look.",
+    "Combine with greens for a natural feel.",
+    "Use with metallics for a touch of luxury.",
+    "Contrast with darker purples for depth."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Lily Color Meaning: Understanding #C8AABF",
+    "description": "Explore the meaning, associations, and best uses of the Lily color (#C8AABF) in design and branding. Discover complementary colors and palette ideas."
+  },
+  "created_at": "2025-06-01T16:31:14.49065+00:00",
+  "updated_at": "2025-06-01T16:31:14.49065+00:00",
+  "slug": "lily"
+}

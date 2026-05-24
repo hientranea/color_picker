@@ -1,0 +1,81 @@
+{
+  "id": "2454b12b-8572-48e7-ad54-a6dd5d09a2b8",
+  "color_name": "Schooner",
+  "hex_code": "#8B847E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Schooner is a muted, sophisticated color that evokes a sense of calm and stability. It's often associated with reliability, tradition, and understated elegance. This color can create a feeling of groundedness and trustworthiness, making it suitable for brands aiming to project a sense of maturity and dependability.",
+  "emotional_associations": [
+    "calm",
+    "stability",
+    "reliability",
+    "elegance",
+    "understated"
+  ],
+  "complementary_colors": [
+    "#7E858B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#8B847E",
+        "#D3CBB6",
+        "#5C544D",
+        "#A69A8B"
+      ]
+    },
+    {
+      "name": "Modern Neutrals",
+      "swatches": [
+        "#8B847E",
+        "#F2F0EB",
+        "#434A54",
+        "#BDBDBD"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for data visualization",
+      "Neutral color for application interfaces"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors with a rustic theme"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation app designs"
+    ],
+    "fashion": [
+      "Fall/Winter collections",
+      "Classic and timeless apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Vintage Leather Sofa",
+      "description": "A classic leather sofa in Schooner color adds a touch of sophistication to any living space.",
+      "image_url": "https://example.com/schooner_sofa.jpg"
+    },
+    {
+      "title": "Schooner Colored Walls",
+      "description": "Walls painted in Schooner provide a neutral and calming backdrop for artwork and furniture.",
+      "image_url": "https://example.com/schooner_walls.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with off-whites for a soft and elegant look.",
+    "Combine with deep blues for a sophisticated contrast.",
+    "Use with natural wood tones for a warm and inviting feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different color combinations with our color palette generator!",
+  "seo_meta": {
+    "title": "Schooner Color Meaning: The Psychology of #8B847E",
+    "description": "Discover the meaning, associations, and best uses for Schooner color (#8B847E) in design and branding."
+  },
+  "created_at": "2025-06-01T15:52:40.860157+00:00",
+  "updated_at": "2025-06-01T15:52:40.860157+00:00",
+  "slug": "schooner"
+}

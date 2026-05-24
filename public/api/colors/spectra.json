@@ -1,0 +1,81 @@
+{
+  "id": "69d4abce-5f99-4379-9c79-11b82f1b789d",
+  "color_name": "Spectra",
+  "hex_code": "#2F5A57",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Spectra evokes feelings of tranquility, stability, and growth. It blends the calming aspects of blue with the revitalizing qualities of green, creating a balanced and harmonious effect. This color is often associated with nature, health, and renewal, promoting a sense of peace and well-being.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "growth",
+    "nature",
+    "peace"
+  ],
+  "complementary_colors": [
+    "#A5282B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#2F5A57",
+        "#A38D78",
+        "#D4C4A8",
+        "#739072"
+      ]
+    },
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#2F5A57",
+        "#B0E2FF",
+        "#FFFFFF",
+        "#87CEEB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization",
+      "Progress indicators",
+      "Dashboard elements"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Activewear",
+      "Casual wear",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Deep Forest",
+      "description": "The lush greenery of a deep forest, representing tranquility and the power of nature.",
+      "image_url": "https://example.com/forest.jpg"
+    },
+    {
+      "title": "Calming Spa",
+      "description": "The serene and relaxing atmosphere of a spa, designed to promote well-being and mental clarity.",
+      "image_url": "https://example.com/spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutrals like beige or gray for a sophisticated look.",
+    "Combine with warm metallics such as gold or bronze for added elegance.",
+    "Use with lighter shades of green and blue to enhance its calming effect."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades to complement Spectra.",
+  "seo_meta": {
+    "title": "Spectra Color Meaning: Discover the Psychology of #2F5A57",
+    "description": "Explore the meaning, associations, and best uses of Spectra (#2F5A57). Learn how to incorporate this calming color into your designs and branding."
+  },
+  "created_at": "2025-06-01T15:01:10.074638+00:00",
+  "updated_at": "2025-06-01T15:01:10.074638+00:00",
+  "slug": "spectra"
+}

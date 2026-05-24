@@ -1,0 +1,80 @@
+{
+  "id": "6694e8ac-b03b-4727-ba9e-0ddd4caa446d",
+  "color_name": "Fern Green",
+  "hex_code": "#4F7942",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Fern Green evokes feelings of nature, growth, and renewal. It represents balance, harmony, and stability. Often associated with the environment, it can promote a sense of calm and well-being, reflecting growth and health.",
+  "emotional_associations": [
+    "Nature",
+    "Growth",
+    "Tranquility",
+    "Health",
+    "Balance"
+  ],
+  "complementary_colors": [
+    "#794F70"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#4F7942",
+        "#A2AD91",
+        "#D3D0CB",
+        "#8B4513"
+      ]
+    },
+    {
+      "name": "Natural Harmony",
+      "swatches": [
+        "#4F7942",
+        "#F0E68C",
+        "#BDB76B",
+        "#6B8E23"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal teas",
+      "Vegan products"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Outdoor clothing",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Trail Signage",
+      "description": "Fern green is commonly used for signage in natural parks and forests, blending seamlessly with the environment.",
+      "image_url": "url_to_forest_signage_image.jpg"
+    },
+    {
+      "title": "Organic Food Packaging",
+      "description": "Many organic food companies use fern green in their packaging to convey a sense of natural and healthy ingredients.",
+      "image_url": "url_to_organic_food_image.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with muted browns for an earthy feel.",
+    "Combine with creams and whites for a clean, natural look.",
+    "Use with golds for a touch of luxury and sophistication."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and pairings with our color palette generator!",
+  "seo_meta": {
+    "title": "Fern Green Color Meaning: Discover Shades, Palettes & Uses",
+    "description": "Uncover the psychology and symbolism behind Fern Green. Explore its meaning, emotional associations, complementary colors, and usage in design and branding."
+  },
+  "created_at": "2025-06-01T15:19:40.877866+00:00",
+  "updated_at": "2025-06-01T15:19:40.877866+00:00",
+  "slug": "fern-green"
+}

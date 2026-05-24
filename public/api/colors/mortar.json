@@ -1,0 +1,83 @@
+{
+  "id": "52ab1299-d602-4110-aa30-a7fca743095c",
+  "color_name": "Mortar",
+  "hex_code": "#504351",
+  "wheel_position": "Neutral",
+  "psychological_meaning": "Mortar, a subdued grayish-purple, evokes a sense of stability, groundedness, and quiet strength. It suggests neutrality, reliability, and a subtle sophistication. This color is often associated with timelessness, practicality, and a touch of mystery, promoting feelings of calm and understated elegance.",
+  "emotional_associations": [
+    "stability",
+    "neutrality",
+    "understated elegance",
+    "calm",
+    "reliability"
+  ],
+  "complementary_colors": [
+    "#515E50",
+    "#A195A3"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Calm",
+      "swatches": [
+        "#504351",
+        "#A69D94",
+        "#E8E2D4",
+        "#736A62"
+      ]
+    },
+    {
+      "name": "Subtle Contrast",
+      "swatches": [
+        "#504351",
+        "#D4CEC6",
+        "#8C837B",
+        "#262225"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Backgrounds for minimalist apps",
+      "Subtle navigation elements"
+    ],
+    "food_beverage": [
+      "Packaging for artisanal products",
+      "Restaurant interiors aiming for a refined atmosphere"
+    ],
+    "wellness": [
+      "Spa interiors promoting relaxation",
+      "Branding for natural health products"
+    ],
+    "fashion": [
+      "Sophisticated outerwear",
+      "Elegant accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Loft Apartment",
+      "description": "A loft apartment featuring mortar-colored walls and concrete accents, creating a serene and minimalist living space.",
+      "image_url": "https://example.com/loft_apartment.jpg"
+    },
+    {
+      "title": "Boutique Hotel Lobby",
+      "description": "The lobby of a boutique hotel with mortar-colored seating and soft lighting, exuding a sense of quiet luxury.",
+      "image_url": "https://example.com/hotel_lobby.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Combine with lighter neutrals for a soft, calming palette.",
+    "Pair with metallic accents for a touch of sophistication.",
+    "Use with muted greens or blues for an earthy feel.",
+    "Contrast with brighter, unexpected hues for a modern twist."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Mortar Color Meaning: Understanding #504351 | Color Psychology",
+    "description": "Discover the meaning of Mortar (#504351), its psychological effects, and how to use it in design, branding, and art. Explore complementary colors and suggested palettes."
+  },
+  "created_at": "2025-06-01T15:20:02.582692+00:00",
+  "updated_at": "2025-06-01T15:20:02.582692+00:00",
+  "slug": "mortar"
+}

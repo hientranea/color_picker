@@ -1,0 +1,85 @@
+{
+  "id": "3795484f-e261-49ce-8065-69388462143a",
+  "color_name": "Wild Willow",
+  "hex_code": "#B9C46A",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Wild Willow evokes feelings of tranquility, growth, and natural harmony. It's a color that bridges the gap between vibrant greens and muted yellows, suggesting adaptability and a connection to the earth. This shade promotes a sense of calm and renewal, reminding us of the resilience and quiet strength found in nature.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "natural harmony",
+    "adaptability",
+    "renewal",
+    "calmness",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#C4B96A",
+    "#6AB9C4",
+    "#A86AC4"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#B9C46A",
+        "#73823B",
+        "#D3D1C4",
+        "#594F4F"
+      ]
+    },
+    {
+      "name": "Spring Awakening",
+      "swatches": [
+        "#B9C46A",
+        "#90EE90",
+        "#FAFAD2",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle background accents in nature-themed apps",
+      "Color for inactive states or secondary buttons"
+    ],
+    "food_beverage": [
+      "Packaging for organic and natural food products",
+      "Color for restaurant interiors with a focus on health and wellness"
+    ],
+    "wellness": [
+      "Spa and wellness center branding",
+      "Yoga and meditation app interfaces"
+    ],
+    "fashion": [
+      "Casual wear, especially for spring and summer collections",
+      "Accessories like scarves and handbags"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Wild Willow Tea Packaging",
+      "description": "A tea brand using Wild Willow to convey a sense of natural, calming ingredients.",
+      "image_url": "https://example.com/tea_packaging.jpg"
+    },
+    {
+      "title": "Spa Interior Design",
+      "description": "A spa using Wild Willow paint to create a soothing and relaxing atmosphere.",
+      "image_url": "https://example.com/spa_interior.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral tones like beige or gray for a sophisticated look.",
+    "Combine with brighter greens for a vibrant, nature-inspired palette.",
+    "Use with wood textures to enhance the earthy feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious hues and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Wild Willow Color Meaning: Understanding #B9C46A",
+    "description": "Discover the meaning, associations, and best uses for the Wild Willow color (#B9C46A). Explore palettes, industry applications, and design tips."
+  },
+  "created_at": "2025-06-01T16:20:12.244161+00:00",
+  "updated_at": "2025-06-01T16:20:12.244161+00:00",
+  "slug": "wild-willow"
+}

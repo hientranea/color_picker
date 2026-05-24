@@ -1,0 +1,83 @@
+{
+  "id": "7ce7c7d4-9a43-428c-9a2d-5ef64b95dff3",
+  "color_name": "Deep Sea Green",
+  "hex_code": "#095859",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Deep Sea Green evokes feelings of tranquility, depth, and sophistication. It is associated with stability and security, but also with mystery and the unknown. This color can promote introspection and a sense of calm, connecting to nature and the depths of the ocean.",
+  "emotional_associations": [
+    "Tranquility",
+    "Mystery",
+    "Stability",
+    "Sophistication"
+  ],
+  "complementary_colors": [
+    "#590909"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Ocean Depths",
+      "swatches": [
+        "#095859",
+        "#1E3F3F",
+        "#4A7777",
+        "#76B0B0",
+        "#A2D8D8"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#095859",
+        "#594509",
+        "#A6944F",
+        "#D3C79F",
+        "#E0D9C1"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Data visualization dashboards",
+      "Security applications",
+      "Navigation menus for a calming effect"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Products promoting relaxation"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories (scarves, jewelry)",
+      "Athleisure wear for calming activities like yoga"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Underwater Restaurant",
+      "description": "A restaurant designed with deep sea green accents to create an immersive underwater dining experience.",
+      "image_url": "https://example.com/underwater_restaurant.jpg"
+    },
+    {
+      "title": "Luxury Spa",
+      "description": "A high-end spa utilizing deep sea green to promote relaxation and tranquility in its treatment rooms.",
+      "image_url": "https://example.com/luxury_spa.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold accents for a luxurious feel.",
+    "Combine with neutral grays for a sophisticated look.",
+    "Use with sandy beige to evoke a beachy atmosphere.",
+    "Contrast with coral for a vibrant and energetic palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more colors and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Deep Sea Green Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Deep Sea Green, its psychological associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T14:45:17.995205+00:00",
+  "updated_at": "2025-06-01T14:45:17.995205+00:00",
+  "slug": "deep-sea-green"
+}

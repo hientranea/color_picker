@@ -1,0 +1,76 @@
+{
+  "id": "d8acb4e6-934a-4fd4-b80f-24b573d9be8e",
+  "color_name": "Maroon Oak",
+  "hex_code": "#520C17",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Maroon Oak evokes feelings of sophistication, stability, and understated elegance. It combines the energy and passion of red with the groundedness and reliability of brown, resulting in a color that suggests mature confidence and refined taste. It can also represent a sense of heritage and connection to the past, providing a feeling of comfort and security.",
+  "emotional_associations": [
+    "sophistication",
+    "stability",
+    "elegance",
+    "heritage",
+    "confidence"
+  ],
+  "complementary_colors": [
+    "#17524A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Autumnal Harmony",
+      "swatches": [
+        "#520C17",
+        "#A65F45",
+        "#D4A373",
+        "#E2C29D"
+      ]
+    },
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#520C17",
+        "#734A31",
+        "#A67954",
+        "#D4B39D"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Gourmet chocolate packaging"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Luxury accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A classic leather sofa in a Maroon Oak shade exudes sophistication and comfort.",
+      "image_url": "https://example.com/maroon_oak_leather_sofa.jpg"
+    },
+    {
+      "title": "Vintage Books",
+      "description": "The aged covers of vintage books often feature rich, dark shades similar to Maroon Oak.",
+      "image_url": "https://example.com/maroon_oak_vintage_books.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with golds and brass for added warmth.",
+    "Use with teal or forest green for a complementary contrast.",
+    "Accent with charcoal gray for a modern feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore endless color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Maroon Oak Color Meaning: Psychology, Palettes, and Uses",
+    "description": "Discover the meaning and psychology behind Maroon Oak (#520C17), explore complementary colors, and find inspiring palettes for your next project."
+  },
+  "created_at": "2025-06-01T15:21:06.943136+00:00",
+  "updated_at": "2025-06-01T15:21:06.943136+00:00",
+  "slug": "maroon-oak"
+}

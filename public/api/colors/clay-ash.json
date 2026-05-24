@@ -1,0 +1,83 @@
+{
+  "id": "5cbaa0b8-3242-441f-907a-b9817e929e72",
+  "color_name": "Clay Ash",
+  "hex_code": "#BDC8B3",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Clay Ash evokes feelings of tranquility and stability. It represents a grounded nature, blending the neutrality of gray with the warmth of beige. This color often suggests a sense of calm and understated elegance, promoting relaxation and a feeling of being connected to the earth.",
+  "emotional_associations": [
+    "tranquility",
+    "stability",
+    "calm",
+    "understated elegance",
+    "relaxation"
+  ],
+  "complementary_colors": [
+    "#C8BDBD"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#BDC8B3",
+        "#7A7A7A",
+        "#E0D8B0",
+        "#A68A64"
+      ]
+    },
+    {
+      "name": "Modern Neutral",
+      "swatches": [
+        "#BDC8B3",
+        "#FFFFFF",
+        "#333333",
+        "#D3D3D3"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle backgrounds",
+      "Neutral buttons",
+      "Calming interface elements"
+    ],
+    "food_beverage": [
+      "Packaging for organic products",
+      "Restaurant interiors for a relaxed ambiance"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Meditation apps",
+      "Yoga studio branding"
+    ],
+    "fashion": [
+      "Relaxed fit clothing",
+      "Accessories like scarves and hats"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Modern Apartment Interior",
+      "description": "A living room featuring Clay Ash walls, creating a serene and inviting atmosphere.",
+      "image_url": "https://example.com/clay_ash_apartment.jpg"
+    },
+    {
+      "title": "Yoga Studio Design",
+      "description": "A yoga studio painted in Clay Ash, promoting a sense of calm and balance.",
+      "image_url": "https://example.com/clay_ash_yoga.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals for a cozy feel.",
+    "Combine with cool grays for a modern look.",
+    "Use with natural wood tones for an organic aesthetic."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more harmonious colors and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Clay Ash Color Meaning: Psychology, Palettes, and Design Ideas",
+    "description": "Discover the meaning of Clay Ash (#BDC8B3), its psychological effects, and how to use it in your designs. Explore complementary colors, suggested palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T16:22:42.39524+00:00",
+  "updated_at": "2025-06-01T16:22:42.39524+00:00",
+  "slug": "clay-ash"
+}

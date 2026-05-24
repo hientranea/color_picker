@@ -1,0 +1,86 @@
+{
+  "id": "390cae67-f2c6-4d85-a5fc-86a5c4586891",
+  "color_name": "Nandor",
+  "hex_code": "#4B5D52",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Nandor is a muted, earthy green that evokes feelings of tranquility, stability, and a connection to nature. It suggests a sense of calm and balance, often associated with growth, renewal, and harmony. This color can promote a feeling of security and understated elegance.",
+  "emotional_associations": [
+    "calm",
+    "nature",
+    "stability",
+    "growth",
+    "understated elegance"
+  ],
+  "complementary_colors": [
+    "#D4C24B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#4B5D52",
+        "#7B8B83",
+        "#AAB9A8",
+        "#D5E2D4"
+      ]
+    },
+    {
+      "name": "Natural Harmony",
+      "swatches": [
+        "#4B5D52",
+        "#F0EAD6",
+        "#A29988",
+        "#6D597A"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dashboard interfaces",
+      "Data visualization",
+      "Settings menus"
+    ],
+    "food_beverage": [
+      "Organic food packaging",
+      "Health food branding",
+      "Restaurant interiors (calming atmosphere)"
+    ],
+    "wellness": [
+      "Spa design",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outdoor clothing",
+      "Sustainable fashion brands",
+      "Accessories with a natural feel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Forest Canopy",
+      "description": "The lush green canopy of a dense forest, providing shade and a sense of immersion in nature.",
+      "image_url": "https://example.com/forest_canopy.jpg"
+    },
+    {
+      "title": "Moss Covered Stone",
+      "description": "An ancient stone covered in soft green moss, suggesting resilience and the passage of time.",
+      "image_url": "https://example.com/moss_stone.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with neutral creams for a sophisticated look.",
+    "Combine with warm browns for an earthy feel.",
+    "Use with copper accents for a touch of elegance.",
+    "Contrast with vibrant yellows for a lively atmosphere."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades to complement Nandor!",
+  "seo_meta": {
+    "title": "Nandor Color Meaning: Understanding #4B5D52",
+    "description": "Discover the meaning, psychology, and uses of Nandor (#4B5D52), a calming earthy green. Explore complementary colors, palettes, and real-world examples."
+  },
+  "created_at": "2025-06-01T15:16:57.303871+00:00",
+  "updated_at": "2025-06-01T15:16:57.303871+00:00",
+  "slug": "nandor"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "6c6986ab-f5b0-44e8-9d32-008ebdc6086c",
+  "color_name": "Surf",
+  "hex_code": "#BBD7C1",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Surf, a calming blend of blue and green with a hint of gray, evokes feelings of tranquility, peace, and serenity. It suggests stability, reliability, and a connection to nature, promoting a sense of harmony and well-being. This color is often associated with clarity and renewal, fostering a refreshing and balanced atmosphere.",
+  "emotional_associations": [
+    "Tranquility",
+    "Peace",
+    "Serenity",
+    "Calm",
+    "Nature",
+    "Balance",
+    "Renewal"
+  ],
+  "complementary_colors": [
+    "#D7BBA0"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Coastal Calm",
+      "swatches": [
+        "#BBD7C1",
+        "#E9F5F2",
+        "#77ACA2",
+        "#3A5A40"
+      ]
+    },
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#BBD7C1",
+        "#D3DEDC",
+        "#A4B494",
+        "#617A55"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Meditation apps",
+      "Wellness platforms",
+      "Environmental monitoring dashboards"
+    ],
+    "food_beverage": [],
+    "wellness": [
+      "Spa branding",
+      "Yoga studios",
+      "Natural health products"
+    ],
+    "fashion": [
+      "Resort wear",
+      "Activewear",
+      "Lounge apparel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Coastal Interiors",
+      "description": "Living room featuring 'Surf' colored walls, creating a serene and inviting space.",
+      "image_url": "https://example.com/surf_living_room.jpg"
+    },
+    {
+      "title": "Wellness Brand Packaging",
+      "description": "'Surf' color used for packaging of natural skincare products, conveying purity and tranquility.",
+      "image_url": "https://example.com/surf_skincare.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with warm neutrals like beige or cream for a balanced look.",
+    "Combine with deeper greens for a nature-inspired palette.",
+    "Use with muted blues for a calming and harmonious effect.",
+    "Accent with copper or gold for a touch of elegance."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker!",
+  "seo_meta": {
+    "title": "Surf Color Meaning: The Psychology of #BBD7C1",
+    "description": "Discover the meaning, associations, and best uses of the color Surf (#BBD7C1). Explore palettes and design inspiration for this calming shade."
+  },
+  "created_at": "2025-06-01T16:21:38.784264+00:00",
+  "updated_at": "2025-06-01T16:21:38.784264+00:00",
+  "slug": "surf"
+}

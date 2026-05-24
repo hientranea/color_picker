@@ -1,0 +1,82 @@
+{
+  "id": "684407af-800e-4ab4-83be-76b3f89083f4",
+  "color_name": "Tosca",
+  "hex_code": "#8D3F3F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tosca is a sophisticated and grounded color, evoking feelings of stability, maturity, and understated elegance. It suggests a connection to the earth, a sense of calm, and a quiet confidence. This color is often associated with tradition, reliability, and a timeless quality.",
+  "emotional_associations": [
+    "sophistication",
+    "stability",
+    "calm",
+    "tradition",
+    "elegance"
+  ],
+  "complementary_colors": [
+    "#3F8D8D"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Elegance",
+      "swatches": [
+        "#8D3F3F",
+        "#D4A373",
+        "#F2E8CF",
+        "#588157"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#8D3F3F",
+        "#A67B5B",
+        "#E6DDC4",
+        "#774936"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Wine labels",
+      "Coffee branding",
+      "Chocolate packaging"
+    ],
+    "wellness": [
+      "Spas",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Autumn/Winter collections",
+      "Leather goods",
+      "Classic outerwear"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Tuscan Villa",
+      "description": "The color of the exterior walls evokes warmth and history.",
+      "image_url": "https://example.com/tuscan_villa.jpg"
+    },
+    {
+      "title": "Leather Handbag",
+      "description": "A classic leather handbag in a rich Tosca color exudes sophistication.",
+      "image_url": "https://example.com/leather_handbag.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams for a soft, classic look.",
+    "Combine with gold accents for added elegance.",
+    "Use with forest green for a natural, earthy palette.",
+    "Contrast with teal for a modern, sophisticated feel."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more color combinations with our interactive color palette generator!",
+  "seo_meta": {
+    "title": "Tosca Color Meaning: Understanding #8D3F3F",
+    "description": "Discover the meaning, psychology, and best uses of the Tosca color. Explore palettes, pairings, and industry applications for this sophisticated shade."
+  },
+  "created_at": "2025-06-01T15:54:10.378587+00:00",
+  "updated_at": "2025-06-01T15:54:10.378587+00:00",
+  "slug": "tosca"
+}

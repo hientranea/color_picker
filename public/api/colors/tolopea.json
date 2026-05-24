@@ -1,0 +1,82 @@
+{
+  "id": "8ea59258-c796-49b9-8e9a-06c205e32b15",
+  "color_name": "Tolopea",
+  "hex_code": "#1B0245",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Tolopea, a deep, complex purple, evokes feelings of mystery, luxury, and introspection. It combines the stability of blue with the energy of red, suggesting creativity and wisdom. This color often symbolizes royalty, spirituality, and ambition, fostering a sense of contemplation and imaginative thinking.",
+  "emotional_associations": [
+    "mystery",
+    "luxury",
+    "introspection",
+    "creativity",
+    "wisdom",
+    "spirituality",
+    "ambition"
+  ],
+  "complementary_colors": [
+    "#452202"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Regal Dusk",
+      "swatches": [
+        "#1B0245",
+        "#3F2B63",
+        "#725E89",
+        "#A696B3",
+        "#DBD2D9"
+      ]
+    },
+    {
+      "name": "Mystic Forest",
+      "swatches": [
+        "#1B0245",
+        "#2E4A62",
+        "#51768E",
+        "#7DA3BA",
+        "#A9D0E6"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Dark mode interfaces",
+      "Premium app designs",
+      "Security software branding"
+    ],
+    "wellness": [
+      "Meditation apps",
+      "Spiritual guidance websites"
+    ],
+    "fashion": [
+      "Evening wear",
+      "Accessories for adding a touch of elegance"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Amethyst Gemstone",
+      "description": "The deep purple of amethyst symbolizes healing and tranquility.",
+      "image_url": "https://example.com/amethyst.jpg"
+    },
+    {
+      "title": "Luxury Car Interior",
+      "description": "Tolopea leather seats add an air of sophistication to this vehicle.",
+      "image_url": "https://example.com/luxury_car.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with gold for a luxurious feel.",
+    "Combine with gray for a modern, sophisticated look.",
+    "Use with white for a clean and elegant contrast."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore different shades and tints of Tolopea using our color picker tool!",
+  "seo_meta": {
+    "title": "Tolopea Color Meaning: Symbolism, Psychology, and Design",
+    "description": "Discover the meaning and uses of Tolopea (#1B0245), a rich purple color. Learn about its psychological associations and how to use it in your designs."
+  },
+  "created_at": "2025-06-01T14:51:37.681308+00:00",
+  "updated_at": "2025-06-01T14:51:37.681308+00:00",
+  "slug": "tolopea"
+}

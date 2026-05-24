@@ -1,0 +1,81 @@
+{
+  "id": "7594827b-770e-4592-82bd-376480f1dccd",
+  "color_name": "Pine Green",
+  "hex_code": "#01796F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Pine Green evokes feelings of nature, growth, and tranquility. It is often associated with stability, endurance, and harmony. This color can promote a sense of calm and connection to the natural world, making it a popular choice for designs aiming to convey a sense of trustworthiness and well-being.",
+  "emotional_associations": [
+    "tranquility",
+    "growth",
+    "nature",
+    "stability",
+    "endurance"
+  ],
+  "complementary_colors": [
+    "#79010B"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Forest Floor",
+      "swatches": [
+        "#01796F",
+        "#4A3F35",
+        "#77B15B",
+        "#E6D890"
+      ]
+    },
+    {
+      "name": "Serene Escape",
+      "swatches": [
+        "#01796F",
+        "#A9D18E",
+        "#E0F2BE",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Tea branding",
+      "Healthy snack marketing"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Meditation apps",
+      "Yoga studios"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable fashion brands"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Evergreen Forest",
+      "description": "The deep green of a pine forest evokes feelings of peace and renewal.",
+      "image_url": "https://example.com/evergreen_forest.jpg"
+    },
+    {
+      "title": "National Park Signage",
+      "description": "Many national park signs use Pine Green to blend into the natural environment.",
+      "image_url": "https://example.com/national_park_sign.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy tones like browns and beiges for a natural look.",
+    "Combine with gold accents for a touch of luxury.",
+    "Use with lighter greens for a harmonious and refreshing palette.",
+    "Contrast with deep reds for a bold and striking combination."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades and create your own stunning palettes!",
+  "seo_meta": {
+    "title": "Pine Green Color Meaning: Symbolism, Palettes & Uses",
+    "description": "Discover the meaning of Pine Green, its psychological effects, and how to use it in your designs. Explore palettes and real-world examples."
+  },
+  "created_at": "2025-06-01T14:41:00.147416+00:00",
+  "updated_at": "2025-06-01T14:41:00.147416+00:00",
+  "slug": "pine-green"
+}

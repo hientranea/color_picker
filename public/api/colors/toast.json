@@ -1,0 +1,81 @@
+{
+  "id": "2d0d3d63-379d-48c9-be42-a1ffd282f576",
+  "color_name": "Toast",
+  "hex_code": "#9A6E61",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Toast, with its warm and muted brown tones, evokes feelings of comfort, security, and reliability. It's reminiscent of natural elements like wood and earth, creating a sense of groundedness and stability. This color often suggests simplicity, honesty, and a connection to tradition, making it a comforting and approachable choice.",
+  "emotional_associations": [
+    "comfort",
+    "warmth",
+    "reliability",
+    "simplicity",
+    "tradition"
+  ],
+  "complementary_colors": [
+    "#618D9A"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Comfort",
+      "swatches": [
+        "#9A6E61",
+        "#D4A373",
+        "#F2E8CF",
+        "#74574A"
+      ]
+    },
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#9A6E61",
+        "#A68A64",
+        "#807560",
+        "#E0CBA8"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Packaging for coffee and tea",
+      "Restaurant branding",
+      "Food photography backdrops"
+    ],
+    "wellness": [
+      "Spa interiors",
+      "Yoga studio design",
+      "Meditation apps"
+    ],
+    "fashion": [
+      "Autumn and winter clothing",
+      "Leather goods",
+      "Accessories"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Leather Furniture",
+      "description": "A comfortable toast-colored leather sofa provides a warm and inviting focal point in a living room.",
+      "image_url": "https://example.com/leather_sofa.jpg"
+    },
+    {
+      "title": "Wooden Flooring",
+      "description": "Toast-toned hardwood floors create a sense of timeless elegance and natural beauty.",
+      "image_url": "https://example.com/wooden_floor.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with cream or off-white for a classic look.",
+    "Combine with teal or turquoise for a balanced contrast.",
+    "Use with other earthy tones like browns and greens for a natural palette."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore more shades and create your perfect palette with our color picker tool!",
+  "seo_meta": {
+    "title": "Toast Color Meaning: Understanding the Psychology of #9A6E61",
+    "description": "Discover the meaning, associations, and best uses of the color Toast (#9A6E61) in design, branding, and more. Learn how to pair it with other colors for stunning results."
+  },
+  "created_at": "2025-06-01T16:00:59.968298+00:00",
+  "updated_at": "2025-06-01T16:00:59.968298+00:00",
+  "slug": "toast"
+}

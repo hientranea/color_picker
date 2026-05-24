@@ -1,0 +1,79 @@
+{
+  "id": "374cf03a-cdb2-4c6a-865d-e29a5b6bce2c",
+  "color_name": "Old Copper",
+  "hex_code": "#724A2F",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Old Copper evokes a sense of history, stability, and understated elegance. It suggests maturity, resilience, and a connection to the past. This color often represents a comfortable and familiar feeling, bringing a sense of grounding and reliability. It's a color that hints at stories and experiences, creating an atmosphere of quiet sophistication.",
+  "emotional_associations": [
+    "history",
+    "stability",
+    "elegance",
+    "maturity",
+    "resilience"
+  ],
+  "complementary_colors": [
+    "#2F5672"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Rustic Charm",
+      "swatches": [
+        "#724A2F",
+        "#A67B5B",
+        "#D9B382",
+        "#F2E3D5"
+      ]
+    },
+    {
+      "name": "Vintage Luxe",
+      "swatches": [
+        "#724A2F",
+        "#4A342A",
+        "#C0B283",
+        "#E8DDCB"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [
+      "Subtle accents in dashboards",
+      "Background for historical data visualizations"
+    ],
+    "food_beverage": [
+      "Packaging for premium coffee or tea",
+      "Branding for artisanal breweries"
+    ],
+    "wellness": [],
+    "fashion": [
+      "Leather goods",
+      "Autumnal clothing collections",
+      "Vintage-inspired jewelry"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Antique Teapot",
+      "description": "A beautifully aged copper teapot, showcasing the color's warmth and historical appeal.",
+      "image_url": "https://example.com/teapot.jpg"
+    },
+    {
+      "title": "Leather Bound Journal",
+      "description": "A classic leather journal with an old copper-colored cover, representing wisdom and experience.",
+      "image_url": "https://example.com/journal.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with creams and beiges for a classic look.",
+    "Combine with deep greens and blues for a natural, earthy feel.",
+    "Accent with gold or brass for a touch of luxury."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker tool to find the perfect shades that complement Old Copper!",
+  "seo_meta": {
+    "title": "Old Copper Color Meaning: Shades, Palettes, and Design Ideas",
+    "description": "Discover the meaning, psychology, and best uses of the Old Copper color. Explore complementary colors, palettes, and design inspiration for your next project."
+  },
+  "created_at": "2025-06-07T08:17:47.90204+00:00",
+  "updated_at": "2025-06-07T08:17:47.90204+00:00",
+  "slug": "old-copper"
+}

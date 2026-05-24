@@ -1,0 +1,85 @@
+{
+  "id": "6edc9e7d-a71b-4eb4-954e-3232a024578d",
+  "color_name": "Swamp Green",
+  "hex_code": "#ACB78E",
+  "wheel_position": "Tertiary",
+  "psychological_meaning": "Swamp Green evokes a sense of nature, tranquility, and a connection to the earth. It suggests growth, stability, and a feeling of being grounded. This color can also represent resilience and adaptability, much like the environment it's named after. It often brings a calming and refreshing energy, reminiscent of lush landscapes and the peacefulness of natural settings.",
+  "emotional_associations": [
+    "nature",
+    "tranquility",
+    "growth",
+    "stability",
+    "resilience",
+    "calmness"
+  ],
+  "complementary_colors": [
+    "#EA8FAB"
+  ],
+  "suggested_palettes": [
+    {
+      "name": "Earthy Serenity",
+      "swatches": [
+        "#ACB78E",
+        "#77935D",
+        "#D3BCA2",
+        "#586A4D",
+        "#E9E581"
+      ]
+    },
+    {
+      "name": "Misty Forest",
+      "swatches": [
+        "#ACB78E",
+        "#93A897",
+        "#C4CBB3",
+        "#7A8B7D",
+        "#B0C4DE"
+      ]
+    }
+  ],
+  "industry_use_cases": {
+    "tech_UI": [],
+    "food_beverage": [
+      "Organic food packaging",
+      "Herbal tea branding",
+      "Natural ingredient labels"
+    ],
+    "wellness": [
+      "Spa branding",
+      "Yoga studio design",
+      "Meditation app interfaces"
+    ],
+    "fashion": [
+      "Outdoor apparel",
+      "Sustainable clothing lines",
+      "Accessories with a natural feel"
+    ]
+  },
+  "real_world_examples": [
+    {
+      "title": "Swamp Landscape Painting",
+      "description": "A painting capturing the serene beauty of a swamp, showcasing the various shades of green and brown.",
+      "image_url": "https://example.com/swamp_painting.jpg"
+    },
+    {
+      "title": "Eco-Friendly Product Packaging",
+      "description": "Packaging for an environmentally conscious product, using Swamp Green to convey a natural and sustainable message.",
+      "image_url": "https://example.com/eco_packaging.jpg"
+    }
+  ],
+  "how_to_pair": [
+    "Pair with earthy browns for a natural feel.",
+    "Combine with muted yellows for a calming palette.",
+    "Use with creams for a sophisticated touch.",
+    "Contrast with dusty rose for a subtle pop."
+  ],
+  "downloadable_assets": [],
+  "call_to_action": "Explore our color picker to find the perfect shades and create stunning palettes!",
+  "seo_meta": {
+    "title": "Swamp Green Color Meaning: Psychology, Combinations, and Uses",
+    "description": "Discover the meaning of Swamp Green, its emotional associations, complementary colors, and how to use it in design and branding."
+  },
+  "created_at": "2025-06-01T16:11:28.23376+00:00",
+  "updated_at": "2025-06-01T16:11:28.23376+00:00",
+  "slug": "swamp-green"
+}
