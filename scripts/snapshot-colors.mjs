@@ -134,14 +134,7 @@ async function main() {
   }
 
   await mkdir(path.dirname(snapshotPath), { recursive: true });
-  await writeFile(
-    snapshotPath,
-    JSON.stringify(
-      { colors, generatedAt: new Date().toISOString() },
-      null,
-      2
-    ) + "\n"
-  );
+  await writeFile(snapshotPath, JSON.stringify({ colors }, null, 2) + "\n");
   console.log(`[snapshot-colors] Wrote ${snapshotPath} (${colors.length} colors)`);
 
   await mkdir(path.dirname(listPath), { recursive: true });

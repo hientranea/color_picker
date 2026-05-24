@@ -15,7 +15,6 @@ export interface ColorInfo {
 
 type SnapshotShape = {
   colors: ColorPsychologyData[];
-  generatedAt: string;
 };
 
 const SNAPSHOT = snapshot as unknown as SnapshotShape;
