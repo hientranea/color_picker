@@ -75,16 +75,16 @@ export default async function ColorsIndexPage() {
                 <div className="bg-white dark:bg-gray-800 rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 h-full transform hover:-translate-y-2 hover:scale-[1.02]">
                   <div
                     className="h-48 w-full relative group"
-                    style={{ backgroundColor: color.data.hex_code }}
+                    style={{ backgroundColor: color.hex_code }}
                   >
                     <div className="absolute inset-0 bg-black opacity-0 group-hover:opacity-10 transition-opacity duration-300"></div>
                     <div className="absolute top-3 right-3 bg-white dark:bg-gray-800 rounded-full px-3 py-1 text-sm font-mono shadow-md">
-                      {color.data.hex_code}
+                      {color.hex_code}
                     </div>
                   </div>
                   <div className="p-6">
                     <h2 className="text-2xl font-bold mb-3 text-gray-800 dark:text-white">
-                      {color.data.color_name}
+                      {color.color_name}
                     </h2>
 
                     <div className="mb-4">
@@ -92,7 +92,7 @@ export default async function ColorsIndexPage() {
                         Emotional Associations
                       </h3>
                       <div className="flex flex-wrap gap-2">
-                        {color.data.emotional_associations.map(
+                        {color.emotional_associations.map(
                           (emotion, idx) => (
                             <span
                               key={idx}
@@ -100,17 +100,17 @@ export default async function ColorsIndexPage() {
                                 idx < 3 ? "inline-flex" : "hidden"
                               }`}
                               style={{
-                                backgroundColor: `${color.data.hex_code}22`,
-                                color: color.data.hex_code,
+                                backgroundColor: `${color.hex_code}22`,
+                                color: color.hex_code,
                               }}
                             >
                               {emotion}
                             </span>
                           )
                         )}
-                        {color.data.emotional_associations.length > 3 && (
+                        {color.emotional_associations.length > 3 && (
                           <span className="text-sm text-gray-500 dark:text-gray-400 self-center">
-                            +{color.data.emotional_associations.length - 3} more
+                            +{color.emotional_associations.length - 3} more
                           </span>
                         )}
                       </div>

@@ -1,6 +1,13 @@
 import { createSupabaseServerClient } from "@/utils/supabase";
 import { ColorPsychologyData } from "@/types/supabase";
 
+export interface ColorListItem {
+  slug: string;
+  color_name: string;
+  hex_code: string;
+  emotional_associations: string[];
+}
+
 export interface ColorInfo {
   slug: string;
   data: ColorPsychologyData;
@@ -61,13 +68,13 @@ function ensureArray(value: any): any[] {
   return Array.isArray(value) ? value : [];
 }
 
-// Get all colors from Supabase
-export async function getAllColors(): Promise<ColorInfo[]> {
+// Get all colors (list-page projection) from Supabase
+export async function getAllColors(): Promise<ColorListItem[]> {
   const supabase = createSupabaseServerClient();
 
   const { data, error } = await supabase
     .from("color_psychology_data")
-    .select("*");
+    .select("color_name, hex_code, emotional_associations");
 
   if (error) {
     console.error("Error fetching colors:", error);
@@ -76,16 +83,9 @@ export async function getAllColors(): Promise<ColorInfo[]> {
 
   return data.map((color) => ({
     slug: colorNameToSlug(color.color_name),
-    data: {
-      ...color,
-      emotional_associations: ensureArray(color.emotional_associations),
-      complementary_colors: ensureArray(color.complementary_colors),
-      suggested_palettes: ensureArray(color.suggested_palettes),
-      industry_use_cases: ensureObject(color.industry_use_cases),
-      real_world_examples: ensureArray(color.real_world_examples),
-      how_to_pair: ensureArray(color.how_to_pair),
-      seo_meta: ensureObject(color.seo_meta),
-    },
+    color_name: color.color_name,
+    hex_code: color.hex_code,
+    emotional_associations: ensureArray(color.emotional_associations),
   }));
 }
 
