@@ -38,6 +38,9 @@ interface HSL {
 
 export function hexToHSL(hex: string): HSL {
   const cleaned = hex.replace(/^#/, "");
+  if (!/^[0-9a-fA-F]{6}$/.test(cleaned)) {
+    throw new Error(`hexToHSL: invalid hex string "${hex}"`);
+  }
   const r = parseInt(cleaned.substring(0, 2), 16) / 255;
   const g = parseInt(cleaned.substring(2, 4), 16) / 255;
   const b = parseInt(cleaned.substring(4, 6), 16) / 255;

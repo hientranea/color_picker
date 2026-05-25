@@ -42,6 +42,12 @@ describe("hexToHue", () => {
   it("treats low-saturation colors as gray regardless of hue", () => {
     expect(hexToHue("#888899")).toBe("gray");
   });
+
+  it("throws on malformed hex input", () => {
+    expect(() => hexToHue("not-a-hex")).toThrow(/invalid hex/);
+    expect(() => hexToHue("#FF")).toThrow(/invalid hex/);
+    expect(() => hexToHue("")).toThrow(/invalid hex/);
+  });
 });
 
 describe("hexToTemperature", () => {
