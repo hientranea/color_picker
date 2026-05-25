@@ -1,12 +1,12 @@
-#!/usr/bin/env node
-// scripts/snapshot-colors.mjs
+// @ts-nocheck
+// scripts/snapshot-colors.ts
 //
 // Fetches color_psychology_data rows from Supabase and writes:
 //   - app/colors/data/colors.snapshot.json (full snapshot consumed at build)
 //   - public/api/colors.json (list projection, static replacement for /api/colors)
 //   - public/api/colors/<slug>.json (per-color, replacement for /api/colors/<slug>)
 //
-// Run as: node scripts/snapshot-colors.mjs
+// Run as: tsx scripts/snapshot-colors.ts
 // Env: NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY
 // Falls back to existing snapshot if env vars are missing and the snapshot file
 // already exists (offline-friendly local builds).
@@ -25,65 +25,7 @@ const snapshotPath = path.join(rootDir, "app/colors/data/colors.snapshot.json");
 const listPath = path.join(rootDir, "public/api/colors.json");
 const perColorDir = path.join(rootDir, "public/api/colors");
 
-// Load .env.local for local runs (CI passes env directly via secrets).
-const envPath = path.join(rootDir, ".env.local");
-if (existsSync(envPath)) {
-  const content = readFileSync(envPath, "utf-8");
-  for (const line of content.split("\n")) {
-    const m = line.match(/^([A-Z_][A-Z0-9_]*)=(.*)$/);
-    if (m && !process.env[m[1]]) {
-      process.env[m[1]] = m[2].trim().replace(/^(['"])(.*)\1$/, "$2");
-    }
-  }
-}
-
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
-const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
-
-if (!supabaseUrl || !supabaseAnonKey) {
-  if (existsSync(snapshotPath)) {
-    console.warn(
-      "[snapshot-colors] Missing Supabase env vars; reusing existing snapshot at",
-      snapshotPath
-    );
-    process.exit(0);
-  }
-  console.error(
-    "[snapshot-colors] Missing NEXT_PUBLIC_SUPABASE_URL or NEXT_PUBLIC_SUPABASE_ANON_KEY, and no existing snapshot. Cannot proceed."
-  );
-  process.exit(1);
-}
-
-const supabase = createClient(supabaseUrl, supabaseAnonKey, {
-  auth: { persistSession: false },
-});
-
-function ensureObject(value) {
-  if (value === null || value === undefined) return {};
-  if (typeof value === "string") {
-    try {
-      return JSON.parse(value);
-    } catch {
-      return {};
-    }
-  }
-  return value;
-}
-
-function ensureArray(value) {
-  if (value === null || value === undefined) return [];
-  if (typeof value === "string") {
-    try {
-      const parsed = JSON.parse(value);
-      return Array.isArray(parsed) ? parsed : [];
-    } catch {
-      return [];
-    }
-  }
-  return Array.isArray(value) ? value : [];
-}
-
-function colorNameToSlug(colorName) {
+export function colorNameToSlug(colorName: string): string {
   return colorName
     .toLowerCase()
     .replace(/[^\w\s-]/g, "")
@@ -92,7 +34,71 @@ function colorNameToSlug(colorName) {
     .replace(/^-|-$/g, "");
 }
 
+export function ensureObject(value: unknown): Record<string, unknown> {
+  if (value === null || value === undefined) return {};
+  if (typeof value === "string") {
+    try {
+      const parsed = JSON.parse(value);
+      return parsed && typeof parsed === "object" && !Array.isArray(parsed)
+        ? (parsed as Record<string, unknown>)
+        : {};
+    } catch {
+      return {};
+    }
+  }
+  if (typeof value === "object" && !Array.isArray(value)) {
+    return value as Record<string, unknown>;
+  }
+  return {};
+}
+
+export function ensureArray<T = unknown>(value: unknown): T[] {
+  if (value === null || value === undefined) return [];
+  if (typeof value === "string") {
+    try {
+      const parsed = JSON.parse(value);
+      return Array.isArray(parsed) ? (parsed as T[]) : [];
+    } catch {
+      return [];
+    }
+  }
+  return Array.isArray(value) ? (value as T[]) : [];
+}
+
 async function main() {
+  // Load .env.local for local runs (CI passes env directly via secrets).
+  const envPath = path.join(rootDir, ".env.local");
+  if (existsSync(envPath)) {
+    const content = readFileSync(envPath, "utf-8");
+    for (const line of content.split("\n")) {
+      const m = line.match(/^([A-Z_][A-Z0-9_]*)=(.*)$/);
+      if (m && !process.env[m[1]]) {
+        process.env[m[1]] = m[2].trim().replace(/^(['"])(.*)\1$/, "$2");
+      }
+    }
+  }
+
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+
+  if (!supabaseUrl || !supabaseAnonKey) {
+    if (existsSync(snapshotPath)) {
+      console.warn(
+        "[snapshot-colors] Missing Supabase env vars; reusing existing snapshot at",
+        snapshotPath
+      );
+      process.exit(0);
+    }
+    console.error(
+      "[snapshot-colors] Missing NEXT_PUBLIC_SUPABASE_URL or NEXT_PUBLIC_SUPABASE_ANON_KEY, and no existing snapshot. Cannot proceed."
+    );
+    process.exit(1);
+  }
+
+  const supabase = createClient(supabaseUrl, supabaseAnonKey, {
+    auth: { persistSession: false },
+  });
+
   console.log("[snapshot-colors] Fetching color_psychology_data from Supabase...");
   const { data, error } = await supabase
     .from("color_psychology_data")
@@ -157,7 +163,11 @@ async function main() {
   );
 }
 
-main().catch((err) => {
-  console.error("[snapshot-colors] Unhandled error:", err);
-  process.exit(1);
-});
+const isMain =
+  process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1]);
+if (isMain) {
+  main().catch((err) => {
+    console.error("[snapshot-colors] Unhandled error:", err);
+    process.exit(1);
+  });
+}
