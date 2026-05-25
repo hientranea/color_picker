@@ -1,4 +1,3 @@
-// @ts-nocheck
 // scripts/snapshot-colors.ts
 //
 // Fetches color_psychology_data rows from Supabase and writes:
@@ -29,6 +28,9 @@ const rootDir = path.resolve(__dirname, "..");
 const snapshotPath = path.join(rootDir, "app/colors/data/colors.snapshot.json");
 const listPath = path.join(rootDir, "public/api/colors.json");
 const perColorDir = path.join(rootDir, "public/api/colors");
+const hubIndexPath = path.join(rootDir, "app/colors/data/hub-index.json");
+const categoriesPath = path.join(rootDir, "app/colors/data/categories.json");
+const sitemapPath = path.join(rootDir, "public/sitemap.xml");
 
 export function colorNameToSlug(colorName: string): string {
   return colorName
@@ -79,6 +81,13 @@ interface RawColor {
   color_name: string;
   hex_code: string;
   complementary_colors: string[];
+  emotional_associations?: string[];
+  slug?: string;
+  suggested_palettes?: { name: string; swatches: string[] }[];
+  industry_use_cases?: { [key: string]: string[] };
+  real_world_examples?: { title: string; description: string; image_url: string }[];
+  how_to_pair?: string[];
+  seo_meta?: { title: string; description: string };
   [k: string]: unknown;
 }
 
@@ -259,7 +268,6 @@ async function processColors(rawColors: RawColor[]): Promise<void> {
   );
 
   // hub-index.json
-  const hubIndexPath = path.join(rootDir, "app/colors/data/hub-index.json");
   const hubIndex = {
     rows: colors.map((c) => ({
       slug: c.slug,
@@ -281,7 +289,6 @@ async function processColors(rawColors: RawColor[]): Promise<void> {
     const comboKey = `${c.hue}-${c.temperature}`;
     comboCounts.set(comboKey, (comboCounts.get(comboKey) ?? 0) + 1);
   }
-  const categoriesPath = path.join(rootDir, "app/colors/data/categories.json");
   const categories = {
     temps: Array.from(tempCounts.entries()).map(([value, count]) => ({ value, count })),
     combos: Array.from(comboCounts.entries()).map(([key, count]) => {
@@ -323,7 +330,6 @@ async function processColors(rawColors: RawColor[]): Promise<void> {
     `  <url><loc>${siteUrl}/privacy-policy</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>`
   );
   const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapEntries.join("\n")}\n</urlset>\n`;
-  const sitemapPath = path.join(rootDir, "public/sitemap.xml");
   await writeFile(sitemapPath, sitemapXml);
   console.log(`[snapshot-colors] Wrote ${sitemapPath} (${sitemapEntries.length} URLs)`);
 }
