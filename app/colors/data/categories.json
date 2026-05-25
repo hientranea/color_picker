@@ -1,0 +1,93 @@
+{
+  "temps": [
+    {
+      "value": "warm",
+      "count": 404
+    },
+    {
+      "value": "neutral",
+      "count": 318
+    },
+    {
+      "value": "cool",
+      "count": 278
+    }
+  ],
+  "combos": [
+    {
+      "hue": "red",
+      "temp": "warm",
+      "count": 46
+    },
+    {
+      "hue": "gray",
+      "temp": "neutral",
+      "count": 135
+    },
+    {
+      "hue": "blue",
+      "temp": "cool",
+      "count": 144
+    },
+    {
+      "hue": "gray",
+      "temp": "cool",
+      "count": 8
+    },
+    {
+      "hue": "green",
+      "temp": "neutral",
+      "count": 132
+    },
+    {
+      "hue": "teal",
+      "temp": "cool",
+      "count": 82
+    },
+    {
+      "hue": "teal",
+      "temp": "neutral",
+      "count": 16
+    },
+    {
+      "hue": "purple",
+      "temp": "cool",
+      "count": 44
+    },
+    {
+      "hue": "gray",
+      "temp": "warm",
+      "count": 11
+    },
+    {
+      "hue": "green",
+      "temp": "warm",
+      "count": 35
+    },
+    {
+      "hue": "brown",
+      "temp": "warm",
+      "count": 101
+    },
+    {
+      "hue": "orange",
+      "temp": "warm",
+      "count": 102
+    },
+    {
+      "hue": "purple",
+      "temp": "neutral",
+      "count": 35
+    },
+    {
+      "hue": "yellow",
+      "temp": "warm",
+      "count": 53
+    },
+    {
+      "hue": "pink",
+      "temp": "warm",
+      "count": 56
+    }
+  ]
+}

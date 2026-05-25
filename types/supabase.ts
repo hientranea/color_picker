@@ -1,3 +1,5 @@
+import type { Hue, Temperature } from "@/app/colors/utils/colorClassify";
+
 export type Json =
   | string
   | number
@@ -36,4 +38,10 @@ export interface ColorPsychologyData {
   };
   created_at: string;
   updated_at: string;
+  hue: Hue;
+  temperature: Temperature;
+  related: string[];
+  complementary_slugs: string[];
+  prev_slug: string | null;
+  next_slug: string | null;
 }
