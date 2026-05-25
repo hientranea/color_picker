@@ -7,6 +7,9 @@ const nextConfig = {
   // present. Gating on NODE_ENV gives a working dev server and an
   // unchanged production export (next build sets NODE_ENV=production).
   output: process.env.NODE_ENV === "production" ? "export" : undefined,
+  // Emit slug/index.html instead of slug.html so that static hosts
+  // can serve /colors/warm, /colors/red-warm, etc. without extensions.
+  trailingSlash: true,
   images: {
     unoptimized: true,
   },
