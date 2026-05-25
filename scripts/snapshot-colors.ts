@@ -13,7 +13,7 @@
 
 import { createClient } from "@supabase/supabase-js";
 import { writeFile, mkdir } from "node:fs/promises";
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readFileSync, realpathSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
@@ -164,7 +164,8 @@ async function main() {
 }
 
 const isMain =
-  process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1]);
+  Boolean(process.argv[1]) &&
+  fileURLToPath(import.meta.url) === realpathSync(path.resolve(process.argv[1]));
 if (isMain) {
   main().catch((err) => {
     console.error("[snapshot-colors] Unhandled error:", err);
