@@ -144,9 +144,8 @@ export default async function ColorPage({ params }: ColorPageProps) {
       {/* Related colors section */}
       <section className="scroll-animation">
         <RelatedColors
-          currentColor={colorData}
-          currentSlug={colorSlug}
-          allColorSlugs={safeAllColors}
+          relatedSlugs={colorData.related}
+          complementarySlugs={colorData.complementary_slugs}
         />
       </section>
 

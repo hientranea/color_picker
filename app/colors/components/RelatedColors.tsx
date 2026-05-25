@@ -1,42 +1,33 @@
 "use client";
 
-import React, { useState } from "react";
+import React from "react";
 import Link from "next/link";
-import { ColorData } from "../utils/colorData";
+import { getColorSummariesBySlugs, ColorSummary } from "../utils/colorDataService";
 
 interface RelatedColorsProps {
-  currentColor: ColorData;
-  currentSlug: string;
-  allColorSlugs: string[];
+  relatedSlugs: string[];
+  complementarySlugs: string[];
 }
 
-const RelatedColors: React.FC<RelatedColorsProps> = ({
-  currentColor,
-  currentSlug,
-  allColorSlugs,
-}) => {
-  const [hoveredColor, setHoveredColor] = useState<string | null>(null);
+function Swatch({ summary }: { summary: ColorSummary }) {
+  return (
+    <Link href={`/colors/${summary.slug}`} className="group">
+      <div className="flex flex-col items-center transition-all duration-300 transform hover:scale-105">
+        <div
+          className="w-16 h-16 md:w-20 md:h-20 rounded-full mb-3 shadow-md transition-all duration-300 group-hover:shadow-lg"
+          style={{ backgroundColor: summary.hex_code }}
+        />
+        <span className="text-sm font-medium text-center transition-colors duration-300 group-hover:text-indigo-600">
+          {summary.color_name}
+        </span>
+      </div>
+    </Link>
+  );
+}
 
-  // Format slug for display
-  const formatSlug = (slug: string) => {
-    return slug
-      .split("-")
-      .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-      .join(" ");
-  };
-
-  // Get a subset of colors to display as related
-  // In a real app, this would be based on color similarity or categories
-  const getRelatedColors = () => {
-    if (!Array.isArray(allColorSlugs)) return [];
-    const otherColors = allColorSlugs.filter((slug) => slug !== currentSlug);
-    // Shuffle and take up to 6 colors
-    return otherColors
-      .sort(() => 0.5 - Math.random())
-      .slice(0, Math.min(6, otherColors.length));
-  };
-
-  const relatedColors = getRelatedColors();
+const RelatedColors: React.FC<RelatedColorsProps> = ({ relatedSlugs, complementarySlugs }) => {
+  const related = getColorSummariesBySlugs(relatedSlugs);
+  const complementary = getColorSummariesBySlugs(complementarySlugs);
 
   return (
     <section className="py-16 bg-gray-50">
@@ -46,46 +37,27 @@ const RelatedColors: React.FC<RelatedColorsProps> = ({
           Discover other colors that might inspire your next design
         </p>
 
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
-          {relatedColors.map((slug) => (
-            <Link
-              href={`/colors/${slug}`}
-              key={slug}
-              className="group"
-              onMouseEnter={() => setHoveredColor(slug)}
-              onMouseLeave={() => setHoveredColor(null)}
-            >
-              <div className="flex flex-col items-center transition-all duration-300 transform hover:scale-105">
-                <div
-                  className="w-16 h-16 md:w-20 md:h-20 rounded-full mb-3 shadow-md transition-all duration-300 group-hover:shadow-lg"
-                  style={{
-                    backgroundColor: `var(--color-${slug})`,
-                    boxShadow:
-                      hoveredColor === slug
-                        ? `0 0 0 3px white, 0 0 0 6px var(--color-${slug})`
-                        : "",
-                  }}
-                ></div>
-                <span className="text-sm font-medium text-center transition-colors duration-300 group-hover:text-indigo-600">
-                  {formatSlug(slug)}
-                </span>
-              </div>
-            </Link>
-          ))}
-        </div>
+        {related.length > 0 && (
+          <div className="mb-12">
+            <h3 className="text-sm uppercase tracking-wider text-gray-500 mb-6">Similar</h3>
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+              {related.map((s) => (
+                <Swatch key={s.slug} summary={s} />
+              ))}
+            </div>
+          </div>
+        )}
 
-        {/* CSS variables for color swatches */}
-        <style jsx global>{`
-          ${Array.isArray(allColorSlugs) ? allColorSlugs
-            .map(
-              (slug) => `
-            --color-emerald-green: #50C878;
-            --color-royal-blue: #4169E1;
-            --color-web-orange: #FFA500;
-          `
-            )
-            .join("\n") : ''}
-        `}</style>
+        {complementary.length > 0 && (
+          <div>
+            <h3 className="text-sm uppercase tracking-wider text-gray-500 mb-6">Complementary</h3>
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+              {complementary.map((s) => (
+                <Swatch key={s.slug} summary={s} />
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     </section>
   );

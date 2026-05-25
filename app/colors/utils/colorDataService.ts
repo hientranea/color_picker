@@ -58,3 +58,24 @@ export function getAllColorSlugs(): string[] {
 export function getAllColorNames(): string[] {
   return SNAPSHOT.colors.map((c) => c.color_name);
 }
+
+export interface ColorSummary {
+  slug: string;
+  color_name: string;
+  hex_code: string;
+}
+
+export function getColorSummariesBySlugs(slugs: string[]): ColorSummary[] {
+  const out: ColorSummary[] = [];
+  for (const slug of slugs) {
+    const match = SNAPSHOT.colors.find((c) => c.slug === slug);
+    if (match) {
+      out.push({
+        slug: match.slug,
+        color_name: match.color_name,
+        hex_code: match.hex_code,
+      });
+    }
+  }
+  return out;
+}
