@@ -89,15 +89,11 @@ interface ColorPageProps {
 export default async function ColorPage({ params }: ColorPageProps) {
   const colorSlug = params.color_name;
   const colorInfo = await getColorBySlug(colorSlug);
-  const allColors = await getAllColorSlugs();
 
   // If color not found, return 404
   if (!colorInfo) {
     notFound();
   }
-
-  // Ensure allColors is always an array
-  const safeAllColors = Array.isArray(allColors) ? allColors : [];
 
   const { data: colorData } = colorInfo;
   const pageUrl = `${
@@ -113,7 +109,8 @@ export default async function ColorPage({ params }: ColorPageProps) {
       <ColorNavigation
         currentColor={colorData}
         currentSlug={colorSlug}
-        allColorSlugs={safeAllColors}
+        prevSlug={colorData.prev_slug}
+        nextSlug={colorData.next_slug}
       />
 
       {/* Color header section with enhanced animations */}

@@ -8,68 +8,50 @@ import { ChevronLeft, ChevronRight, Copy, Check } from "lucide-react";
 interface ColorNavigationProps {
   currentColor: ColorData;
   currentSlug: string;
-  allColorSlugs: string[];
+  prevSlug: string | null;
+  nextSlug: string | null;
 }
 
 const ColorNavigation: React.FC<ColorNavigationProps> = ({
   currentColor,
   currentSlug,
-  allColorSlugs,
+  prevSlug,
+  nextSlug,
 }) => {
   const [isSticky, setIsSticky] = useState(false);
   const [copied, setCopied] = useState(false);
 
-  // Find previous and next colors
-  const currentIndex = Array.isArray(allColorSlugs) ? allColorSlugs.indexOf(currentSlug) : -1;
-  const prevSlug = currentIndex > 0 ? allColorSlugs[currentIndex - 1] : null;
-  const nextSlug =
-    Array.isArray(allColorSlugs) && currentIndex < allColorSlugs.length - 1
-      ? allColorSlugs[currentIndex + 1]
-      : null;
-
-  // Format slug for display
-  const formatSlug = (slug: string) => {
-    return slug
+  const formatSlug = (slug: string) =>
+    slug
       .split("-")
       .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
       .join(" ");
-  };
 
-  // Copy hex code to clipboard
   const copyHexCode = () => {
     navigator.clipboard.writeText(currentColor.hex_code);
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };
 
-  // Handle scroll events to make the navigation sticky
   useEffect(() => {
-    const handleScroll = () => {
-      setIsSticky(window.scrollY > 200);
-    };
-
+    const handleScroll = () => setIsSticky(window.scrollY > 200);
     window.addEventListener("scroll", handleScroll);
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
+    return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
   return (
     <div
       className={`w-full z-10 transition-all duration-300 ${
-        isSticky
-          ? "fixed top-0 bg-white shadow-md py-3"
-          : "relative bg-transparent py-4"
+        isSticky ? "fixed top-0 bg-white shadow-md py-3" : "relative bg-transparent py-4"
       }`}
     >
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between">
-          {/* Color name and hex */}
           <div className="flex items-center gap-3">
             <div
               className="w-8 h-8 rounded-full transition-transform duration-300 hover:scale-110"
               style={{ backgroundColor: currentColor.hex_code }}
-            ></div>
+            />
             <h2
               className={`font-semibold transition-all duration-300 ${
                 isSticky ? "text-lg" : "text-xl"
@@ -99,7 +81,6 @@ const ColorNavigation: React.FC<ColorNavigationProps> = ({
             </button>
           </div>
 
-          {/* Navigation buttons */}
           <div className="flex items-center gap-2">
             {prevSlug ? (
               <Link
