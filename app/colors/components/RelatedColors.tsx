@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 import Link from "next/link";
 import { getColorSummariesBySlugs, ColorSummary } from "../utils/colorDataService";
@@ -26,8 +24,8 @@ function Swatch({ summary }: { summary: ColorSummary }) {
 }
 
 const RelatedColors: React.FC<RelatedColorsProps> = ({ relatedSlugs, complementarySlugs }) => {
-  const related = getColorSummariesBySlugs(relatedSlugs);
-  const complementary = getColorSummariesBySlugs(complementarySlugs);
+  const related = getColorSummariesBySlugs(relatedSlugs).slice(0, 3);
+  const complementary = getColorSummariesBySlugs(complementarySlugs).slice(0, 3);
 
   return (
     <section className="py-16 bg-gray-50">
