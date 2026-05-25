@@ -25,13 +25,21 @@ One Next.js application, fully static-exported. The same `<ColorsHub>` client co
 
 ```
 /colors                          → ColorsHub (no initial filter)
-/colors/red                      → ColorsHub (hue=red)
-/colors/warm                     → ColorsHub (temp=warm)
-/colors/red-warm                 → ColorsHub (hue=red, temp=warm)
-/colors/<slug>                   → detail page (unchanged structure)
+/colors/warm                     → ColorsHub (temp=warm)               via [segment]
+/colors/red-warm                 → ColorsHub (hue=red, temp=warm)      via [segment]
+/colors/<slug>                   → detail page (unchanged structure)   via [segment]
 ```
 
-Empty combinations are skipped at build time. `dynamicParams = false` ensures unknown combos 404 at build, not runtime.
+All three non-root URL shapes are handled by a single dynamic route `app/colors/[segment]/page.tsx` (which replaces the existing `[color_name]/page.tsx`). Next.js App Router disallows two dynamic segments at the same level, so the segment is resolved by a precedence rule in `paramToSegment`:
+
+1. If `segment ∈ {warm, cool, neutral}` → temp-only hub page.
+2. Else if `segment` parses as `<hue>-<temp>` with both tokens in the known vocab → combo hub page.
+3. Else if `segment` matches a color slug in the snapshot → detail page.
+4. Else → `notFound()`.
+
+Single-axis hue URLs (e.g., `/colors/red`) are intentionally **not** generated, because slugs like `blue`, `teal`, `green`, `purple`, `gray`, and `brown` exist in the snapshot as real color detail pages and would otherwise be shadowed by hue chips. Hue-only filtering is still available in the hub UI; selecting only a hue chip stays on the current URL (or returns to `/colors`) and updates filter state in-component without pushing a new URL. Selecting both a hue and a temperature pushes to the combo URL.
+
+Empty combinations are skipped at build time. `dynamicParams = false` ensures unknown segments 404 at build, not runtime.
 
 Three new build-time outputs (produced by an extended `scripts/snapshot-colors.mjs`):
 
@@ -47,9 +55,8 @@ Detail pages keep their existing layout. `RelatedColors` and `ColorNavigation` s
 
 ### Create
 
-- `app/colors/utils/colorClassify.ts` — pure functions: `hexToHue(hex) → Hue`, `hexToTemperature(hex) → Temperature`, `comboToParam({hue?, temp?}) → string`, `paramToCombo(segment) → {hue?, temp?} | null`. No I/O, no React. Shared between the snapshot script and the runtime by reading the same logic — the `.mjs` snapshot script imports a peer `.mjs` mirror at `scripts/lib/colorClassify.mjs` that is hand-kept in sync, OR (preferred) the `.ts` file is consumed by both sides via `tsx` execution. Choice of mechanism is left to the implementation plan; the requirement is "one canonical implementation."
+- `app/colors/utils/colorClassify.ts` — pure functions: `hexToHue(hex) → Hue`, `hexToTemperature(hex) → Temperature`, `comboToParam({hue?, temp?}) → string`, `paramToSegment(segment, knownSlugs) → {kind: "temp", value} | {kind: "combo", hue, temp} | {kind: "slug", slug} | null`. No I/O, no React. Shared between the snapshot script and the runtime by reading the same logic — the `.mjs` snapshot script imports a peer `.mjs` mirror at `scripts/lib/colorClassify.mjs` that is hand-kept in sync, OR (preferred) the `.ts` file is consumed by both sides via `tsx` execution. Choice of mechanism is left to the implementation plan; the requirement is "one canonical implementation."
 - `app/colors/components/ColorsHub.tsx` — client component. Props: `initialHue?`, `initialTemp?`, `serverRenderedSlugs: string[]`. Owns: search input, hue chips, temperature chips, grid render, URL sync, dynamic import of `hub-index.json`.
-- `app/colors/[combo]/page.tsx` — handles `/colors/<hue>`, `/colors/<temp>`, `/colors/<hue>-<temp>`. `generateStaticParams` reads `categories.json`. Server-renders the matching slice. Mounts `<ColorsHub>` with the route's initial filter state.
 - `app/colors/data/hub-index.json` — generated; committed for reproducible builds (consistent with how `colors.snapshot.json` is handled today).
 - `app/colors/data/categories.json` — generated; committed.
 - `app/colors/utils/colorClassify.test.ts` — Vitest tests for the four classification functions. Table-driven, ~30 hex inputs with expected hue/temp.
@@ -63,10 +70,17 @@ Detail pages keep their existing layout. `RelatedColors` and `ColorNavigation` s
   - `related[]` — 3 nearest by hue distance, excluding self and any slugs that will appear in `complementary_slugs[]`.
   - `complementary_slugs[]` — for each hex in the source `complementary_colors` array, find the named color with smallest RGB Euclidean distance, threshold ≤ 60 in 0–255 space, cap at 3 results.
   - `prev_slug` / `next_slug` — alphabetical neighbors of `color_name.toLowerCase()` using `Intl.Collator('en', { sensitivity: 'base' })`. First color has `prev_slug: null`; last has `next_slug: null`.
-  - Build-time assertions: every enriched row has `hue`, `temperature`, `related.length >= 3`, and `(prev_slug === null) XOR (slug !== firstSlug)` (i.e., only the first/last get null). Throw loudly on violation — matches the existing "throw on missing env vars" pattern.
+  - Build-time assertions: every enriched row has `hue`, `temperature`, and `related.length >= 3`. Exactly one row has `prev_slug === null` (the alphabetically-first color); exactly one row has `next_slug === null` (the alphabetically-last color); all other rows have both set. Throw loudly on violation — matches the existing "throw on missing env vars" pattern.
   - Write `hub-index.json` and `categories.json` alongside the snapshot.
 - `app/colors/page.tsx` — replace the placeholder search/filter/pagination UI with `<ColorsHub serverRenderedSlugs={allSlugs} />`. Keep the page title and intro copy.
-- `app/colors/[color_name]/page.tsx` — drop the `allColorSlugs` prop threading. `<RelatedColors>` and `<ColorNavigation>` now read directly from the color's own snapshot row.
+- `app/colors/[color_name]/page.tsx` → **rename folder to `app/colors/[segment]/page.tsx`** and absorb hub-route responsibilities:
+  - `generateStaticParams` returns the union of `{kind: "temp"}`, `{kind: "combo"}` entries from `categories.json` plus one entry per color slug. `dynamicParams = false`.
+  - The page component calls `paramToSegment(params.segment, knownSlugs)`. Based on the result:
+    - `{kind: "temp"}` or `{kind: "combo"}` → render `<ColorsHub initialHue=... initialTemp=... serverRenderedSlugs={slice} />` and the same wrapper layout as the hub.
+    - `{kind: "slug"}` → render the existing detail-page tree (`ColorHeader`, `ColorPalettes`, …, `RelatedColors`, `ColorNavigation`).
+    - `null` → `notFound()`.
+  - `<RelatedColors>` and `<ColorNavigation>` (when rendered in detail mode) now read directly from the color's own snapshot row; no more `allColorSlugs` prop threading.
+  - `generateMetadata` branches on the same resolver: hub-mode pages get titles like "Warm Red Colors — Meaning & Use"; detail-mode pages keep the existing per-color metadata.
 - `app/colors/components/RelatedColors.tsx` — read `related[]` + `complementary_slugs[]` from props (or via a small lookup util that takes a slug and returns the snapshot row). Render the 3 + up-to-3 mix. Delete the broken `<style jsx global>` hardcoded-CSS-vars block. Each swatch's background uses the looked-up hex directly.
 - `app/colors/components/ColorNavigation.tsx` — read `prev_slug` / `next_slug` from props (passed in from the page). Remove the `currentIndex` / `Array.indexOf` walking logic. Disabled state when either is `null`.
 - `app/colors/utils/colorDataService.ts` — add `getColorSummaries(slugs: string[])` for components that need name+hex lookups by slug (used by `RelatedColors` to render swatches). Keep existing signatures intact.
@@ -83,7 +97,7 @@ Detail pages keep their existing layout. `RelatedColors` and `ColorNavigation` s
 ### Unchanged
 
 - `ColorHeader`, `ColorPalettes`, `IndustryUseCases`, `HowToPair`, `RealWorldExamples`, `ColorCTA`, `ColorStructuredData` components.
-- `app/colors/[color_name]/page.tsx` metadata / structured-data logic.
+- Detail-page metadata / structured-data logic (preserved inside the renamed `[segment]/page.tsx` for the slug branch).
 - `next.config.mjs`, GitHub Pages workflow, snapshot env-var handling.
 
 ## Algorithms
@@ -149,26 +163,30 @@ for i, color of sorted:
   color.next_slug = i < sorted.length - 1 ? sorted[i+1].slug : null
 ```
 
-No wraparound. First/last entries see disabled prev/next buttons.
+No wraparound. The **alphabetically-first** color has `prev_slug === null`; the **alphabetically-last** color has `next_slug === null`. Both see disabled prev/next buttons. Every other color has both fields populated.
 
 ### Combo enumeration (`categories.json`)
 
 After classifying every color:
-- Group by `hue` → emit `{kind: "hue", value, count}` for each non-empty hue.
 - Group by `temperature` → emit `{kind: "temp", value, count}` for each non-empty temperature.
 - Group by `(hue, temperature)` → emit `{kind: "combo", hue, temp, count}` for each non-empty pair.
 
-`generateStaticParams` in `app/colors/[combo]/page.tsx` reads this file and returns one entry per record, mapped to URL segments:
+`generateStaticParams` in `app/colors/[segment]/page.tsx` reads `categories.json` and the snapshot's slug list, returning one entry per record. Segments are encoded as:
 
-- `{kind: "hue", value: "red"}` → segment `red`
 - `{kind: "temp", value: "warm"}` → segment `warm`
 - `{kind: "combo", hue: "red", temp: "warm"}` → segment `red-warm`
+- color slug → segment `<slug>` (e.g., `coral-red`)
 
-The route parser (`paramToCombo`) splits the incoming segment on `-`:
-- Two parts: treat as `<hue>-<temp>`.
-- One part matching a known hue: hue-only.
-- One part matching a known temp: temp-only.
-- Anything else: `null` → 404 via `notFound()`.
+The route parser (`paramToSegment`) applies precedence:
+1. Segment is exactly one of `warm` / `cool` / `neutral` → `{kind: "temp", value}`.
+2. Segment splits on `-` into two tokens, both in known vocab (token1 ∈ hues, token2 ∈ temps) → `{kind: "combo", hue: token1, temp: token2}`.
+3. Segment matches a color slug → `{kind: "slug", slug}`.
+4. Else → `null` (404).
+
+Notes on the parser:
+- Hue-first ordering in combos is canonical (`red-warm`, not `warm-red`). The parser is strict — `warm-red` does not parse as a combo.
+- A combo URL is generated only if `categories.json` reports `count >= 1` for that pair. The build assertion guarantees no zero-count combos in `generateStaticParams`.
+- Hypothetical collision: if a future color is ever named e.g. "Red Warm" (slug `red-warm`), the combo URL wins per precedence and the detail page becomes unreachable. Acceptable for v1 — no such names exist today, and the build script can be extended later to detect and reject collisions.
 
 ### Search
 
@@ -188,23 +206,23 @@ When filters are active AND the result count is < 5, render a "Search across all
 1. User hits `/colors/red-warm`. Static HTML includes red+warm color cards above the fold, the active chips highlighted, and the search box empty.
 2. Hydration mounts `<ColorsHub>` with `initialHue="red"`, `initialTemp="warm"`, and the server-rendered slug list.
 3. User types in the search box. On the first keystroke, `import('@/app/colors/data/hub-index.json')` runs (cached for subsequent interactions). Filter logic switches from "use server-rendered slugs" to "filter `hub-index.json` by current chip state, then by query".
-4. User toggles the `warm` chip off. `router.push('/colors/red')`. Next serves the pre-rendered `/colors/red` HTML. The component re-mounts (or syncs state from URL params, depending on the router behavior); search query is preserved by reading from a sessionStorage key.
-5. User clicks a color card. Navigate to `/colors/<slug>`. Detail page renders `RelatedColors` using `data.related` + `data.complementary_slugs`, and `ColorNavigation` using `data.prev_slug` / `data.next_slug`.
+4. User toggles the `warm` chip off. There is no canonical URL for hue-only `/colors/red`, so the URL becomes `/colors` (no filter) but the component keeps `hue=red` in local state. Filter chips remain showing `red` active. Search query persists across this transition. (This is the trade we accepted for avoiding slug collisions with hue names.)
+5. User clicks a color card. Navigate to `/colors/<slug>`. The `[segment]` route resolves to `{kind: "slug"}` and renders the detail page using `data.related` + `data.complementary_slugs` for `RelatedColors`, and `data.prev_slug` / `data.next_slug` for `ColorNavigation`.
 
 ## Error handling
 
 - **Build-time:** Snapshot script asserts each row has `hue`, `temperature`, `related.length >= 3`, and well-formed prev/next pointers. Failure throws and exits non-zero. CI catches it.
 - **Build-time:** `categories.json` cannot contain a record with `count: 0`. Build assertion.
-- **Runtime: unknown route segment** — `paramToCombo` returns `null` → `notFound()` → Next's 404 page.
+- **Runtime: unknown route segment** — `paramToSegment` returns `null` → `notFound()` → Next's 404 page.
 - **Runtime: empty filtered set after search** — render a "No colors match" card with a "Clear search" button and reminders of the active chips.
 - **Runtime: dynamic import failure for `hub-index.json`** — extremely unlikely with static export, but caught and rendered as a static error card with a "Reload" link.
 - **Runtime: complementary hex with no resolvable slug** — already handled at build time (those hexes are dropped from `complementary_slugs[]`). `RelatedColors` falls through to showing only the 3 nearest-hue picks.
 
 ## SEO considerations
 
-- Every pre-rendered hub combo (`/colors`, `/colors/red`, `/colors/warm`, `/colors/red-warm`) is a real static HTML file containing real color cards above the fold — crawlable without JS.
-- Per-combo `<title>` and `<meta name="description">` reflect the filter (e.g., "Warm Red Colors — Meaning & Use"). Generated in `generateMetadata` from the combo parsed by `paramToCombo`.
-- Canonical URLs point to the combo's own URL; `/colors/red-warm` does not declare itself canonical to `/colors/red`.
+- Every pre-rendered hub combo (`/colors`, `/colors/warm`, `/colors/red-warm`, …) is a real static HTML file containing real color cards above the fold — crawlable without JS.
+- Per-combo `<title>` and `<meta name="description">` reflect the filter (e.g., "Warm Red Colors — Meaning & Use"). Generated in `generateMetadata` from the parsed segment.
+- Canonical URLs point to the combo's own URL.
 - `ColorStructuredData` on detail pages is unchanged.
 - `public/sitemap.xml` should be regenerated by the snapshot script to include all hub combo URLs in addition to detail-page URLs. (Same hook as the existing build flow; one extra write.)
 
@@ -220,12 +238,14 @@ When filters are active AND the result count is < 5, render a "Search across all
 - `pnpm test` exits 0.
 - `pnpm build` exits 0; no warnings about dynamic features.
 - `out/colors/index.html` exists and contains hub UI.
-- `out/colors/red/index.html`, `out/colors/warm/index.html`, `out/colors/red-warm/index.html` exist.
+- `out/colors/warm/index.html`, `out/colors/red-warm/index.html`, and `out/colors/coral-red/index.html` (a representative detail page) all exist.
+- `out/colors/red/index.html` does **not** exist (single-axis hue URLs are not generated by design).
 - Empty combos do **not** have output (spot-check by listing `out/colors/` for any combo that classification predicts empty).
 - `pnpm dev` and walk:
   - Navigate `/colors`. Type "ff5". Coral Red appears in results.
-  - Click `red` chip. URL becomes `/colors/red`. Grid shows only red colors.
+  - Click `red` chip. URL stays at `/colors`; grid narrows to red colors; the chip shows active.
   - Click `warm` chip. URL becomes `/colors/red-warm`. Grid narrows further.
+  - Click `red` chip again (off). URL becomes `/colors/warm`.
   - Click a coral red card. Detail page loads.
   - `RelatedColors` shows 3 + up-to-3 colors; all swatches render with their actual hex (not the broken hardcoded vars).
   - Sticky prev/next walks alphabetically (e.g., from "Coral Red", next is the color whose name comes next alphabetically).
@@ -235,7 +255,7 @@ When filters are active AND the result count is < 5, render a "Search across all
 
 - **Heuristic thresholds (8%, 12%, 60%, 40%, distance ≤ 60) misclassify some colors.** Mitigation: spot-check pass during implementation with permission to tune. Tests pin the chosen thresholds so regressions are caught.
 - **`hub-index.json` payload growth.** At 1000 rows × ~150 bytes per row ≈ 150 KB raw, ~50 KB gzipped. Acceptable. If it grows by 5–10×, revisit (route-scoped lazy loading or per-hue shards).
-- **Combo explosion in URL surface.** With 10 hues × 3 temps = up to 30 combo URLs, plus 13 single-axis URLs. ~43 hub-style URLs total — comfortable for a sitemap and crawl budget.
+- **Combo explosion in URL surface.** With 10 hues × 3 temps = up to 30 combo URLs, plus 3 temperature-only URLs, plus `/colors`. ~34 hub-style URLs total (fewer once empty combos are skipped) — comfortable for a sitemap and crawl budget.
 - **Search "across all colors" link can confuse users about why their filters disappeared.** Mitigation: explicit copy ("Clear filters and search across all colors") rather than a single-word link.
 - **Single source of `colorClassify` between Node script (.mjs) and TS runtime.** Two options exist (mirror file vs `tsx` execution); the implementation plan picks one. Risk is drift between the two if the mirror path is chosen and a future edit lands in only one file. Mitigation if mirror is chosen: a Vitest snapshot test that imports both and asserts equality on a fixed sample.
 
@@ -247,7 +267,7 @@ All work on `colors-hub-discovery`. Detailed step ordering lives in the implemen
 2. Extend `scripts/snapshot-colors.mjs` to compute `hue`, `temperature`, `related[]`, `complementary_slugs[]`, `prev_slug`, `next_slug` and write `hub-index.json` + `categories.json`.
 3. Run the snapshot locally. Sanity-check `categories.json` chip distribution (no near-empty chips, no surprising combos).
 4. Build `<ColorsHub>` with chips + search + grid. Test in isolation against the new JSON outputs.
-5. Add `app/colors/[combo]/page.tsx` with `generateStaticParams` reading `categories.json`.
+5. Rename `app/colors/[color_name]/page.tsx` → `app/colors/[segment]/page.tsx`. Update `generateStaticParams` to return the union of `categories.json` entries and color slugs. Wire the precedence resolver inside the page.
 6. Replace placeholder UI in `app/colors/page.tsx` with `<ColorsHub>`.
 7. Update `RelatedColors.tsx` and `ColorNavigation.tsx` to consume precomputed fields. Delete the broken CSS-vars block.
 8. `pnpm build`. Verify combo URLs and empty-combo skipping.
