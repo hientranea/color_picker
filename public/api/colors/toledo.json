@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T15:06:13.74417+00:00",
   "updated_at": "2025-06-01T15:06:13.74417+00:00",
-  "slug": "toledo"
+  "slug": "toledo",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "county-green"
+  ],
+  "related": [
+    "mulberry-wood",
+    "jazzberry-jam",
+    "lipstick"
+  ],
+  "prev_slug": "tobacco-brown",
+  "next_slug": "tolopea"
 }

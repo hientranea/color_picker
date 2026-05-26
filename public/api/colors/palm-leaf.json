@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T14:51:02.254351+00:00",
   "updated_at": "2025-06-01T14:51:02.254351+00:00",
-  "slug": "palm-leaf"
+  "slug": "palm-leaf",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "cocoa-brown"
+  ],
+  "related": [
+    "norway",
+    "heavy-metal",
+    "pixie-green"
+  ],
+  "prev_slug": "palm-green",
+  "next_slug": "paprika"
 }

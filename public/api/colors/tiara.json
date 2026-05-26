@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:26:47.47164+00:00",
   "updated_at": "2025-06-01T16:26:47.47164+00:00",
-  "slug": "tiara"
+  "slug": "tiara",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "cloud"
+  ],
+  "related": [
+    "cyan-aqua",
+    "granny-smith",
+    "juniper"
+  ],
+  "prev_slug": "tia-maria",
+  "next_slug": "tiber"
 }

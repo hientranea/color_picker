@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:18:22.825685+00:00",
   "updated_at": "2025-06-01T15:18:22.825685+00:00",
-  "slug": "mahogany"
+  "slug": "mahogany",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "sherpa-blue"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "magic-mint",
+  "next_slug": "mai-tai"
 }

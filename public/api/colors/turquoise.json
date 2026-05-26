@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:01:53.459341+00:00",
   "updated_at": "2025-06-01T15:01:53.459341+00:00",
-  "slug": "turquoise"
+  "slug": "turquoise",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "flush-mahogany"
+  ],
+  "related": [
+    "jagged-ice",
+    "eden",
+    "pine-green"
+  ],
+  "prev_slug": "turmeric",
+  "next_slug": "turquoise-blue"
 }

@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:00:49.596444+00:00",
   "updated_at": "2025-06-01T15:00:49.596444+00:00",
-  "slug": "onion"
+  "slug": "onion",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "mirage"
+  ],
+  "related": [
+    "roti",
+    "alpine",
+    "yellow-metal"
+  ],
+  "prev_slug": "olivine",
+  "next_slug": "opium"
 }

@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:54:50.987999+00:00",
   "updated_at": "2025-06-01T15:54:50.987999+00:00",
-  "slug": "rope"
+  "slug": "rope",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "jungle-green"
+  ],
+  "related": [
+    "creole",
+    "brown-bramble",
+    "russet"
+  ],
+  "prev_slug": "roof-terracotta",
+  "next_slug": "rose-bud-cherry"
 }

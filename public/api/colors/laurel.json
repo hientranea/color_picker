@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T15:38:30.581803+00:00",
   "updated_at": "2025-06-01T15:38:30.581803+00:00",
-  "slug": "laurel"
+  "slug": "laurel",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "mountbatten-pink"
+  ],
+  "related": [
+    "madang",
+    "amulet",
+    "fern"
+  ],
+  "prev_slug": "laser",
+  "next_slug": "lavender"
 }

@@ -84,5 +84,17 @@
   },
   "created_at": "2025-06-01T16:01:21.824671+00:00",
   "updated_at": "2025-06-01T16:01:21.824671+00:00",
-  "slug": "shadow-green"
+  "slug": "shadow-green",
+  "hue": "teal",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "thatch"
+  ],
+  "related": [
+    "caribbean-green",
+    "gunsmoke",
+    "stromboli"
+  ],
+  "prev_slug": "shadow",
+  "next_slug": "shady-lady"
 }

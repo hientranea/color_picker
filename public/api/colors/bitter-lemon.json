@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:33:10.593921+00:00",
   "updated_at": "2025-06-01T16:33:10.593921+00:00",
-  "slug": "bitter-lemon"
+  "slug": "bitter-lemon",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "malachite"
+  ],
+  "related": [
+    "pacifika",
+    "rio-grande",
+    "trendy-green"
+  ],
+  "prev_slug": "bitter",
+  "next_slug": "black"
 }

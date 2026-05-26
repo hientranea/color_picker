@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:23:28.645816+00:00",
   "updated_at": "2025-06-01T16:23:28.645816+00:00",
-  "slug": "blue-haze"
+  "slug": "blue-haze",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "chetwode-blue",
+    "logan",
+    "arapawa"
+  ],
+  "prev_slug": "blue-gem",
+  "next_slug": "blue-lagoon"
 }

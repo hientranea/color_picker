@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T16:29:37.897519+00:00",
   "updated_at": "2025-06-01T16:29:37.897519+00:00",
-  "slug": "kangaroo"
+  "slug": "kangaroo",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "submarine",
+    "pale-slate"
+  ],
+  "related": [
+    "eagle",
+    "rangoon-green",
+    "wasabi"
+  ],
+  "prev_slug": "kaitoke-green",
+  "next_slug": "karaka"
 }

@@ -71,5 +71,17 @@
   },
   "created_at": "2025-05-18T14:02:12.076675+00:00",
   "updated_at": "2025-05-18T14:02:12.076675+00:00",
-  "slug": "resolution-blue"
+  "slug": "resolution-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "corn-harvest"
+  ],
+  "related": [
+    "royal-blue",
+    "trout",
+    "cloud-burst"
+  ],
+  "prev_slug": "reno-sand",
+  "next_slug": "revolver"
 }

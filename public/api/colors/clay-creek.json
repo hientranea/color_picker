@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T15:51:42.985587+00:00",
   "updated_at": "2025-06-01T15:51:42.985587+00:00",
-  "slug": "clay-creek"
+  "slug": "clay-creek",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "smalt-blue"
+  ],
+  "related": [
+    "himalaya",
+    "granite-green",
+    "buddha-gold"
+  ],
+  "prev_slug": "clay-ash",
+  "next_slug": "clinker"
 }

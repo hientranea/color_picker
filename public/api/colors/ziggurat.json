@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:23:50.777331+00:00",
   "updated_at": "2025-06-01T16:23:50.777331+00:00",
-  "slug": "ziggurat"
+  "slug": "ziggurat",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "ghost"
+  ],
+  "related": [
+    "blue-dianne",
+    "pacific-blue",
+    "daintree"
+  ],
+  "prev_slug": "zeus",
+  "next_slug": "zorba"
 }

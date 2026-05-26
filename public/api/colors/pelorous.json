@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:09:35.07548+00:00",
   "updated_at": "2025-06-01T15:09:35.07548+00:00",
-  "slug": "pelorous"
+  "slug": "pelorous",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "mojo"
+  ],
+  "related": [
+    "outer-space",
+    "eastern-blue",
+    "sky-blue"
+  ],
+  "prev_slug": "peat",
+  "next_slug": "perano"
 }

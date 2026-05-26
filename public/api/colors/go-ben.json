@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:37:04.713776+00:00",
   "updated_at": "2025-06-01T15:37:04.713776+00:00",
-  "slug": "go-ben"
+  "slug": "go-ben",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "cutty-sark"
+  ],
+  "related": [
+    "fuscous-gray",
+    "gurkha",
+    "taupe-gray"
+  ],
+  "prev_slug": "glade-green",
+  "next_slug": "goblin"
 }

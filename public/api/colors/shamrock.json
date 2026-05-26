@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T15:03:22.50295+00:00",
   "updated_at": "2025-06-01T15:03:22.50295+00:00",
-  "slug": "shamrock"
+  "slug": "shamrock",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "hibiscus"
+  ],
+  "related": [
+    "mineral-green",
+    "aquamarine",
+    "sherwood-green"
+  ],
+  "prev_slug": "shakespeare",
+  "next_slug": "shark"
 }

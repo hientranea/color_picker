@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T16:15:51.530249+00:00",
   "updated_at": "2025-06-01T16:15:51.530249+00:00",
-  "slug": "tall-poppy"
+  "slug": "tall-poppy",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "eastern-blue"
+  ],
+  "related": [
+    "tamarillo",
+    "fuzzy-wuzzy-brown",
+    "well-read"
+  ],
+  "prev_slug": "tabasco",
+  "next_slug": "tallow"
 }

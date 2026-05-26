@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T15:47:38.213025+00:00",
   "updated_at": "2025-06-01T15:47:38.213025+00:00",
-  "slug": "spanish-green"
+  "slug": "spanish-green",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "venus"
+  ],
+  "related": [
+    "fruit-salad",
+    "envy",
+    "spring-rain"
+  ],
+  "prev_slug": "soya-bean",
+  "next_slug": "spectra"
 }

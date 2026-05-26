@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T14:59:16.90732+00:00",
   "updated_at": "2025-06-01T14:59:16.90732+00:00",
-  "slug": "blue-gem"
+  "slug": "blue-gem",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "golden-grass"
+  ],
+  "related": [
+    "biloba-flower",
+    "true-v",
+    "deep-blue"
+  ],
+  "prev_slug": "blue-dianne",
+  "next_slug": "blue-haze"
 }

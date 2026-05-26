@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:51:35.570972+00:00",
   "updated_at": "2025-06-01T15:51:35.570972+00:00",
-  "slug": "true-v"
+  "slug": "true-v",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "copperfield"
+  ],
+  "related": [
+    "deep-blue",
+    "biloba-flower",
+    "scarpa-flow"
+  ],
+  "prev_slug": "trout",
+  "next_slug": "tuatara"
 }

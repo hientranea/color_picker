@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T16:27:43.618482+00:00",
   "updated_at": "2025-06-01T16:27:43.618482+00:00",
-  "slug": "mulberry"
+  "slug": "mulberry",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "emerald"
+  ],
+  "related": [
+    "jazzberry-jam",
+    "royal-heath",
+    "disco"
+  ],
+  "prev_slug": "muesli",
+  "next_slug": "mulberry-wood"
 }

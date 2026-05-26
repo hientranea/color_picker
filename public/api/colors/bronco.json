@@ -76,5 +76,19 @@
   },
   "created_at": "2025-06-01T16:10:31.171508+00:00",
   "updated_at": "2025-06-01T16:10:31.171508+00:00",
-  "slug": "bronco"
+  "slug": "bronco",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "santas-gray",
+    "amethyst-smoke",
+    "shady-lady"
+  ],
+  "related": [
+    "tobacco-brown",
+    "domino",
+    "bourbon"
+  ],
+  "prev_slug": "bright-turquoise",
+  "next_slug": "bronze"
 }

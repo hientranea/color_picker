@@ -75,5 +75,18 @@
   },
   "created_at": "2025-06-01T15:15:45.379626+00:00",
   "updated_at": "2025-06-01T15:15:45.379626+00:00",
-  "slug": "verdun-green"
+  "slug": "verdun-green",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "bronze-olive",
+    "sherpa-blue"
+  ],
+  "related": [
+    "waiouru",
+    "avocado",
+    "finch"
+  ],
+  "prev_slug": "verdigris",
+  "next_slug": "vesuvius"
 }

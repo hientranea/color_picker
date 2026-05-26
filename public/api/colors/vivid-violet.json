@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:46:17.952817+00:00",
   "updated_at": "2025-06-01T15:46:17.952817+00:00",
-  "slug": "vivid-violet"
+  "slug": "vivid-violet",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "mantis"
+  ],
+  "related": [
+    "trendy-pink",
+    "clairvoyant",
+    "london-hue"
+  ],
+  "prev_slug": "vista-blue",
+  "next_slug": "voodoo"
 }

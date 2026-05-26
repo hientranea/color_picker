@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:54:09.304699+00:00",
   "updated_at": "2025-06-01T14:54:09.304699+00:00",
-  "slug": "cloud-burst"
+  "slug": "cloud-burst",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "marzipan"
+  ],
+  "related": [
+    "cerulean-blue",
+    "resolution-blue",
+    "international-klein-blue"
+  ],
+  "prev_slug": "cloud",
+  "next_slug": "cloudy"
 }

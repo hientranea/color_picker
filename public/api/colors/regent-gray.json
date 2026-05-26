@@ -74,5 +74,18 @@
   },
   "created_at": "2025-06-01T15:49:50.207553+00:00",
   "updated_at": "2025-06-01T15:49:50.207553+00:00",
-  "slug": "regent-gray"
+  "slug": "regent-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "donkey-brown",
+    "cherub"
+  ],
+  "related": [
+    "nepal",
+    "hoki",
+    "matisse"
+  ],
+  "prev_slug": "regal-blue",
+  "next_slug": "regent-st-blue"
 }

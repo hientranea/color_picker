@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:50:39.929672+00:00",
   "updated_at": "2025-06-01T15:50:39.929672+00:00",
-  "slug": "kumera"
+  "slug": "kumera",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "havelock-blue"
+  ],
+  "related": [
+    "eternity",
+    "deep-bronze",
+    "arrowtown"
+  ],
+  "prev_slug": "korma",
+  "next_slug": "la-palma"
 }

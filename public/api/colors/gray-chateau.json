@@ -74,5 +74,18 @@
   },
   "created_at": "2025-06-01T16:04:54.774097+00:00",
   "updated_at": "2025-06-01T16:04:54.774097+00:00",
-  "slug": "gray-chateau"
+  "slug": "gray-chateau",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "shady-lady",
+    "bud"
+  ],
+  "related": [
+    "casper",
+    "pickled-bluewood",
+    "san-juan"
+  ],
+  "prev_slug": "gray-asparagus",
+  "next_slug": "gray-nickel"
 }

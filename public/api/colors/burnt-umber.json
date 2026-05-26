@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:51:28.92818+00:00",
   "updated_at": "2025-06-01T15:51:28.92818+00:00",
-  "slug": "burnt-umber"
+  "slug": "burnt-umber",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "lochinvar"
+  ],
+  "related": [
+    "tabasco",
+    "metallic-copper",
+    "hemp"
+  ],
+  "prev_slug": "burnt-maroon",
+  "next_slug": "bush"
 }

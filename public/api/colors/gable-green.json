@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T14:50:26.805382+00:00",
   "updated_at": "2025-06-01T14:50:26.805382+00:00",
-  "slug": "gable-green"
+  "slug": "gable-green",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "tamarind"
+  ],
+  "related": [
+    "cape-cod",
+    "cascade",
+    "plantation"
+  ],
+  "prev_slug": "fuzzy-wuzzy-brown",
+  "next_slug": "galliano"
 }

@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T14:42:23.932268+00:00",
   "updated_at": "2025-06-01T14:42:23.932268+00:00",
-  "slug": "green-vogue"
+  "slug": "green-vogue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "brown-bramble"
+  ],
+  "related": [
+    "dodger-blue",
+    "black-pearl",
+    "midnight-blue"
+  ],
+  "prev_slug": "green-spring",
+  "next_slug": "green-waterloo"
 }

@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:19:36.598748+00:00",
   "updated_at": "2025-06-01T16:19:36.598748+00:00",
-  "slug": "celery"
+  "slug": "celery",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "fuchsia-pink"
+  ],
+  "related": [
+    "pine-glade",
+    "pacifika",
+    "bitter-lemon"
+  ],
+  "prev_slug": "celadon",
+  "next_slug": "cello"
 }

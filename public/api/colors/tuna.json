@@ -74,5 +74,18 @@
   },
   "created_at": "2025-06-01T15:03:58.536204+00:00",
   "updated_at": "2025-06-01T15:03:58.536204+00:00",
-  "slug": "tuna"
+  "slug": "tuna",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "armadillo",
+    "silver"
+  ],
+  "related": [
+    "blue",
+    "blue-bell",
+    "charade"
+  ],
+  "prev_slug": "tuatara",
+  "next_slug": "tundora"
 }

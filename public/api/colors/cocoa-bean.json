@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T15:15:01.463257+00:00",
   "updated_at": "2025-06-01T15:15:01.463257+00:00",
-  "slug": "cocoa-bean"
+  "slug": "cocoa-bean",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "blue-dianne",
+    "cherub"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "cobalt",
+  "next_slug": "cocoa-brown"
 }

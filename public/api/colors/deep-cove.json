@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T14:43:11.193268+00:00",
   "updated_at": "2025-06-01T14:43:11.193268+00:00",
-  "slug": "deep-cove"
+  "slug": "deep-cove",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "madras"
+  ],
+  "related": [
+    "east-bay",
+    "persian-blue",
+    "bunting"
+  ],
+  "prev_slug": "deep-cerulean",
+  "next_slug": "deep-fir"
 }

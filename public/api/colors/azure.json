@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:02:14.720323+00:00",
   "updated_at": "2025-06-01T15:02:14.720323+00:00",
-  "slug": "azure"
+  "slug": "azure",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "luxor-gold"
+  ],
+  "related": [
+    "st-tropaz",
+    "san-marino",
+    "shuttle-gray"
+  ],
+  "prev_slug": "aztec",
+  "next_slug": "azure-radiance"
 }

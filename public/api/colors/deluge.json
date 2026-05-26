@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:38:52.090558+00:00",
   "updated_at": "2025-06-01T15:38:52.090558+00:00",
-  "slug": "deluge"
+  "slug": "deluge",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "dingley"
+  ],
+  "related": [
+    "butterfly-bush",
+    "topaz",
+    "gigas"
+  ],
+  "prev_slug": "delta",
+  "next_slug": "denim"
 }

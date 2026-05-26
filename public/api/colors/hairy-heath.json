@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:32:04.530649+00:00",
   "updated_at": "2025-06-01T15:32:04.530649+00:00",
-  "slug": "hairy-heath"
+  "slug": "hairy-heath",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "regal-blue"
+  ],
+  "related": [
+    "peanut",
+    "mule-fawn",
+    "nutmeg"
+  ],
+  "prev_slug": "hacienda",
+  "next_slug": "haiti"
 }

@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T16:01:49.699505+00:00",
   "updated_at": "2025-06-01T16:01:49.699505+00:00",
-  "slug": "hawaiian-tan"
+  "slug": "hawaiian-tan",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "matisse"
+  ],
+  "related": [
+    "oil",
+    "korma",
+    "pickled-bean"
+  ],
+  "prev_slug": "havelock-blue",
+  "next_slug": "heath"
 }

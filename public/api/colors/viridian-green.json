@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T15:30:36.11886+00:00",
   "updated_at": "2025-06-01T15:30:36.11886+00:00",
-  "slug": "viridian-green"
+  "slug": "viridian-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "cement"
+  ],
+  "related": [
+    "padua",
+    "celtic",
+    "nandor"
+  ],
+  "prev_slug": "viridian",
+  "next_slug": "vista-blue"
 }

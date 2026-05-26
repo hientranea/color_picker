@@ -80,5 +80,18 @@
   },
   "created_at": "2025-06-01T15:05:59.275446+00:00",
   "updated_at": "2025-06-01T15:05:59.275446+00:00",
-  "slug": "limed-spruce"
+  "slug": "limed-spruce",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "judge-gray",
+    "martini"
+  ],
+  "related": [
+    "astronaut-blue",
+    "bali-hai",
+    "chathams-blue"
+  ],
+  "prev_slug": "limed-oak",
+  "next_slug": "lipstick"
 }

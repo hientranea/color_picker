@@ -79,5 +79,19 @@
   },
   "created_at": "2025-06-01T15:35:31.474301+00:00",
   "updated_at": "2025-06-01T15:35:31.474301+00:00",
-  "slug": "slate-gray"
+  "slug": "slate-gray",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "almond-frost",
+    "battleship-gray",
+    "mobster"
+  ],
+  "related": [
+    "black-pearl",
+    "midnight-blue",
+    "science-blue"
+  ],
+  "prev_slug": "sky-blue",
+  "next_slug": "smalt"
 }

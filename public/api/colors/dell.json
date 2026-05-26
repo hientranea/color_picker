@@ -75,5 +75,18 @@
   },
   "created_at": "2025-06-01T15:06:05.990877+00:00",
   "updated_at": "2025-06-01T15:06:05.990877+00:00",
-  "slug": "dell"
+  "slug": "dell",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "jambalaya",
+    "laser"
+  ],
+  "related": [
+    "black-forest",
+    "rainee",
+    "asparagus"
+  ],
+  "prev_slug": "del-rio",
+  "next_slug": "delta"
 }

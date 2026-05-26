@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:09:55.873605+00:00",
   "updated_at": "2025-06-01T15:09:55.873605+00:00",
-  "slug": "madras"
+  "slug": "madras",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "deep-cove"
+  ],
+  "related": [
+    "yellow-metal",
+    "alpine",
+    "roti"
+  ],
+  "prev_slug": "madison",
+  "next_slug": "magic-mint"
 }

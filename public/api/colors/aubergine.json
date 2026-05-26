@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:07:04.264003+00:00",
   "updated_at": "2025-06-01T15:07:04.264003+00:00",
-  "slug": "aubergine"
+  "slug": "aubergine",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "tiber"
+  ],
+  "related": [
+    "scarlett",
+    "monza",
+    "brick-red"
+  ],
+  "prev_slug": "au-chico",
+  "next_slug": "avocado"
 }

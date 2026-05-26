@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T15:43:08.531286+00:00",
   "updated_at": "2025-06-01T15:43:08.531286+00:00",
-  "slug": "amulet"
+  "slug": "amulet",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "mountbatten-pink"
+  ],
+  "related": [
+    "laurel",
+    "madang",
+    "spring-rain"
+  ],
+  "prev_slug": "amethyst-smoke",
+  "next_slug": "anakiwa"
 }

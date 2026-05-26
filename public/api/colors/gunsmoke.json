@@ -79,5 +79,19 @@
   },
   "created_at": "2025-06-01T15:47:53.145902+00:00",
   "updated_at": "2025-06-01T15:47:53.145902+00:00",
-  "slug": "gunsmoke"
+  "slug": "gunsmoke",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "suva-gray",
+    "delta",
+    "cloud"
+  ],
+  "related": [
+    "caribbean-green",
+    "shadow-green",
+    "stromboli"
+  ],
+  "prev_slug": "gun-powder",
+  "next_slug": "gurkha"
 }

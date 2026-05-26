@@ -69,5 +69,17 @@
   },
   "created_at": "2025-06-01T15:24:58.518852+00:00",
   "updated_at": "2025-06-01T15:24:58.518852+00:00",
-  "slug": "verdigris"
+  "slug": "verdigris",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "zanah"
+  ],
+  "related": [
+    "delta",
+    "gray-nickel",
+    "mist-gray"
+  ],
+  "prev_slug": "venus",
+  "next_slug": "verdun-green"
 }

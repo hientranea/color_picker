@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T14:46:36.935182+00:00",
   "updated_at": "2025-06-01T14:46:36.935182+00:00",
-  "slug": "woodsmoke"
+  "slug": "woodsmoke",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "iceberg"
+  ],
+  "related": [
+    "madison",
+    "pigeon-post",
+    "smalt"
+  ],
+  "prev_slug": "woodrush",
+  "next_slug": "woody-brown"
 }

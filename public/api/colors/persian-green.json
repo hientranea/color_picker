@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T14:38:48.384296+00:00",
   "updated_at": "2025-06-01T14:38:48.384296+00:00",
-  "slug": "persian-green"
+  "slug": "persian-green",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "carmine"
+  ],
+  "related": [
+    "downy",
+    "aqua-deep",
+    "plantation"
+  ],
+  "prev_slug": "persian-blue",
+  "next_slug": "persian-indigo"
 }

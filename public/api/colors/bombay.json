@@ -81,5 +81,18 @@
   },
   "created_at": "2025-06-01T16:13:42.551584+00:00",
   "updated_at": "2025-06-01T16:13:42.551584+00:00",
-  "slug": "bombay"
+  "slug": "bombay",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "pink-swan",
+    "scarpa-flow"
+  ],
+  "related": [
+    "indigo",
+    "astronaut",
+    "aluminium"
+  ],
+  "prev_slug": "blush",
+  "next_slug": "bondi-blue"
 }

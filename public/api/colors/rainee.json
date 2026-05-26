@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:20:19.71711+00:00",
   "updated_at": "2025-06-01T16:20:19.71711+00:00",
-  "slug": "rainee"
+  "slug": "rainee",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "gray-suit"
+  ],
+  "related": [
+    "asparagus",
+    "black-forest",
+    "hunter-green"
+  ],
+  "prev_slug": "racing-green",
+  "next_slug": "rangitoto"
 }

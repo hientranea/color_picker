@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:25:54.733837+00:00",
   "updated_at": "2025-06-01T15:25:54.733837+00:00",
-  "slug": "aqua-forest"
+  "slug": "aqua-forest",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "tapestry"
+  ],
+  "related": [
+    "emerald",
+    "malachite",
+    "goblin"
+  ],
+  "prev_slug": "aqua-deep",
+  "next_slug": "aqua-island"
 }

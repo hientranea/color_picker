@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T15:05:30.083264+00:00",
   "updated_at": "2025-06-01T15:05:30.083264+00:00",
-  "slug": "grape"
+  "slug": "grape",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "alpine"
+  ],
+  "related": [
+    "electric-violet",
+    "jagger",
+    "bastille"
+  ],
+  "prev_slug": "granny-smith-apple",
+  "next_slug": "graphite"
 }

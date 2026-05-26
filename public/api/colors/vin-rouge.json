@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:59:18.566596+00:00",
   "updated_at": "2025-06-01T15:59:18.566596+00:00",
-  "slug": "vin-rouge"
+  "slug": "vin-rouge",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "apple"
+  ],
+  "related": [
+    "camelot",
+    "wine-berry",
+    "falcon"
+  ],
+  "prev_slug": "viking",
+  "next_slug": "violent-violet"
 }

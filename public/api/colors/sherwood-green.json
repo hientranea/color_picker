@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:41:34.9534+00:00",
   "updated_at": "2025-06-01T14:41:34.9534+00:00",
-  "slug": "sherwood-green"
+  "slug": "sherwood-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "coral-red"
+  ],
+  "related": [
+    "viridian",
+    "mineral-green",
+    "shamrock"
+  ],
+  "prev_slug": "sherpa-blue",
+  "next_slug": "shingle-fawn"
 }

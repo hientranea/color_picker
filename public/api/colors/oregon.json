@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:01:28.71439+00:00",
   "updated_at": "2025-06-01T16:01:28.71439+00:00",
-  "slug": "oregon"
+  "slug": "oregon",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "endeavour"
+  ],
+  "related": [
+    "millbrook",
+    "peru-tan",
+    "rose-of-sharon"
+  ],
+  "prev_slug": "orchid",
+  "next_slug": "orient"
 }

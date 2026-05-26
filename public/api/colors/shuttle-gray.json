@@ -79,5 +79,18 @@
   },
   "created_at": "2025-06-01T15:25:47.670258+00:00",
   "updated_at": "2025-06-01T15:25:47.670258+00:00",
-  "slug": "shuttle-gray"
+  "slug": "shuttle-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "flint",
+    "bison-hide"
+  ],
+  "related": [
+    "st-tropaz",
+    "azure",
+    "san-marino"
+  ],
+  "prev_slug": "shiraz",
+  "next_slug": "siam"
 }

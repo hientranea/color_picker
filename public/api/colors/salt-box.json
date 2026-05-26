@@ -85,5 +85,19 @@
   },
   "created_at": "2025-06-01T15:31:05.93959+00:00",
   "updated_at": "2025-06-01T15:31:05.93959+00:00",
-  "slug": "salt-box"
+  "slug": "salt-box",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "siam",
+    "scorpion",
+    "cactus"
+  ],
+  "related": [
+    "scarlet-gum",
+    "bleached-cedar",
+    "honey-flower"
+  ],
+  "prev_slug": "salem",
+  "next_slug": "sambuca"
 }

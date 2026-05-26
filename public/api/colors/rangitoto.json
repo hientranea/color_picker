@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:00:21.025508+00:00",
   "updated_at": "2025-06-01T15:00:21.025508+00:00",
-  "slug": "rangitoto"
+  "slug": "rangitoto",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "iceberg"
+  ],
+  "related": [
+    "lime",
+    "inch-worm",
+    "flax-smoke"
+  ],
+  "prev_slug": "rainee",
+  "next_slug": "rangoon-green"
 }

@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T15:27:49.379036+00:00",
   "updated_at": "2025-06-01T15:27:49.379036+00:00",
-  "slug": "fern"
+  "slug": "fern",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "coral-tree"
+  ],
+  "related": [
+    "parsley",
+    "madang",
+    "laurel"
+  ],
+  "prev_slug": "feijoa",
+  "next_slug": "fern-frond"
 }

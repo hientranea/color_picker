@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T14:52:19.547386+00:00",
   "updated_at": "2025-06-01T14:52:19.547386+00:00",
-  "slug": "matisse"
+  "slug": "matisse",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "hawaiian-tan"
+  ],
+  "related": [
+    "hoki",
+    "nepal",
+    "gull-gray"
+  ],
+  "prev_slug": "masala",
+  "next_slug": "matrix"
 }

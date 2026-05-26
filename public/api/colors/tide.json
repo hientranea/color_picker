@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T16:23:21.677891+00:00",
   "updated_at": "2025-06-01T16:23:21.677891+00:00",
-  "slug": "tide"
+  "slug": "tide",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "green-spring",
+    "silk"
+  ],
+  "related": [
+    "bronco",
+    "tobacco-brown",
+    "bracken"
+  ],
+  "prev_slug": "tiber",
+  "next_slug": "timber-green"
 }

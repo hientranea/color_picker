@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T14:45:47.717006+00:00",
   "updated_at": "2025-06-01T14:45:47.717006+00:00",
-  "slug": "japanese-laurel"
+  "slug": "japanese-laurel",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "pompadour"
+  ],
+  "related": [
+    "san-felix",
+    "gray-asparagus",
+    "glade-green"
+  ],
+  "prev_slug": "jambalaya",
+  "next_slug": "japanese-maple"
 }

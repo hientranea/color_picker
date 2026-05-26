@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:15:23.151194+00:00",
   "updated_at": "2025-06-01T15:15:23.151194+00:00",
-  "slug": "van-cleef"
+  "slug": "van-cleef",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "tarawera"
+  ],
+  "related": [
+    "coral-red",
+    "del-rio",
+    "night-rider"
+  ],
+  "prev_slug": "valhalla",
+  "next_slug": "venetian-red"
 }

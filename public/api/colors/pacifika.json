@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T15:39:54.735741+00:00",
   "updated_at": "2025-06-01T15:39:54.735741+00:00",
-  "slug": "pacifika"
+  "slug": "pacifika",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "pacifika",
+    "elm"
+  ],
+  "related": [
+    "bitter-lemon",
+    "rio-grande",
+    "celery"
+  ],
+  "prev_slug": "pacific-blue",
+  "next_slug": "paco"
 }

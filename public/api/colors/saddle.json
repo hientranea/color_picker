@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T15:17:04.054047+00:00",
   "updated_at": "2025-06-01T15:17:04.054047+00:00",
-  "slug": "saddle"
+  "slug": "saddle",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "blue-dianne"
+  ],
+  "related": [
+    "nero",
+    "cumin",
+    "tia-maria"
+  ],
+  "prev_slug": "rusty-nail",
+  "next_slug": "saddle-brown"
 }

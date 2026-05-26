@@ -81,5 +81,18 @@
   },
   "created_at": "2025-06-01T15:09:07.330574+00:00",
   "updated_at": "2025-06-01T15:09:07.330574+00:00",
-  "slug": "cedar"
+  "slug": "cedar",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "elephant",
+    "donkey-brown"
+  ],
+  "related": [
+    "quicksand",
+    "rock",
+    "eclipse"
+  ],
+  "prev_slug": "catalina-blue",
+  "next_slug": "cedar-wood-finish"
 }

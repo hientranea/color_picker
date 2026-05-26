@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:06:35.506022+00:00",
   "updated_at": "2025-06-01T15:06:35.506022+00:00",
-  "slug": "william"
+  "slug": "william",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "spice"
+  ],
+  "related": [
+    "aquamarine-blue",
+    "sherpa-blue",
+    "tower-gray"
+  ],
+  "prev_slug": "wild-willow",
+  "next_slug": "willow-grove"
 }

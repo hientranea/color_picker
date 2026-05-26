@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T15:37:54.832827+00:00",
   "updated_at": "2025-06-01T15:37:54.832827+00:00",
-  "slug": "xanadu"
+  "slug": "xanadu",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "empress"
+  ],
+  "related": [
+    "killarney",
+    "spring-leaves",
+    "pumice"
+  ],
+  "prev_slug": "woody-brown",
+  "next_slug": "yellow-green"
 }

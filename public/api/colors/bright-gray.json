@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T15:08:16.529515+00:00",
   "updated_at": "2025-06-01T15:08:16.529515+00:00",
-  "slug": "bright-gray"
+  "slug": "bright-gray",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "judge-gray",
+    "zorba"
+  ],
+  "related": [
+    "wild-blue-yonder",
+    "aluminium",
+    "astronaut"
+  ],
+  "prev_slug": "brick-red",
+  "next_slug": "bright-green"
 }

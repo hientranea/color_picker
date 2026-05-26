@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T14:41:55.861249+00:00",
   "updated_at": "2025-06-01T14:41:55.861249+00:00",
-  "slug": "bahama-blue"
+  "slug": "bahama-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "tabasco"
+  ],
+  "related": [
+    "picton-blue",
+    "curious-blue",
+    "cornflower"
+  ],
+  "prev_slug": "azure-radiance",
+  "next_slug": "bahia"
 }

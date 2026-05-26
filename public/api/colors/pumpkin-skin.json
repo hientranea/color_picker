@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:15:01.536268+00:00",
   "updated_at": "2025-06-01T16:15:01.536268+00:00",
-  "slug": "pumpkin-skin"
+  "slug": "pumpkin-skin",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "persian-green"
+  ],
+  "related": [
+    "chelsea-gem",
+    "bourbon",
+    "nutmeg-wood-finish"
+  ],
+  "prev_slug": "pumice",
+  "next_slug": "punga"
 }

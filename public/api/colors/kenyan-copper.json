@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T15:43:22.731151+00:00",
   "updated_at": "2025-06-01T15:43:22.731151+00:00",
-  "slug": "kenyan-copper"
+  "slug": "kenyan-copper",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "pine-green"
+  ],
+  "related": [
+    "redwood",
+    "eclipse",
+    "rock"
+  ],
+  "prev_slug": "kelp",
+  "next_slug": "keppel"
 }

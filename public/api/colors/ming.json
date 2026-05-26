@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:04:33.641411+00:00",
   "updated_at": "2025-06-01T15:04:33.641411+00:00",
-  "slug": "ming"
+  "slug": "ming",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "lotus"
+  ],
+  "related": [
+    "scooter",
+    "viking",
+    "jungle-mist"
+  ],
+  "prev_slug": "mineral-green",
+  "next_slug": "minsk"
 }

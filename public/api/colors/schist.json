@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:08:29.367735+00:00",
   "updated_at": "2025-06-01T16:08:29.367735+00:00",
-  "slug": "schist"
+  "slug": "schist",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "london-hue"
+  ],
+  "related": [
+    "coriander",
+    "green-yellow",
+    "sulu"
+  ],
+  "prev_slug": "scarpa-flow",
+  "next_slug": "schooner"
 }

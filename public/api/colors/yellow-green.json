@@ -84,5 +84,17 @@
   },
   "created_at": "2025-06-01T16:28:12.88592+00:00",
   "updated_at": "2025-06-01T16:28:12.88592+00:00",
-  "slug": "yellow-green"
+  "slug": "yellow-green",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "orchid"
+  ],
+  "related": [
+    "siam",
+    "swamp-green",
+    "green-waterloo"
+  ],
+  "prev_slug": "xanadu",
+  "next_slug": "yellow-metal"
 }

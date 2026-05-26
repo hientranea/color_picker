@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T15:55:26.94516+00:00",
   "updated_at": "2025-06-01T15:55:26.94516+00:00",
-  "slug": "pohutukawa"
+  "slug": "pohutukawa",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "tropical-rain-forest"
+  ],
+  "related": [
+    "temptress",
+    "dusty-gray",
+    "blossom"
+  ],
+  "prev_slug": "plum",
+  "next_slug": "polo-blue"
 }

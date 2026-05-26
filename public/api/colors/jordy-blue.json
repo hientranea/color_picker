@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:52:05.118994+00:00",
   "updated_at": "2025-06-01T15:52:05.118994+00:00",
-  "slug": "jordy-blue"
+  "slug": "jordy-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "rodeo-dust"
+  ],
+  "related": [
+    "kashmir-blue",
+    "danube",
+    "oxford-blue"
+  ],
+  "prev_slug": "jon",
+  "next_slug": "judge-gray"
 }

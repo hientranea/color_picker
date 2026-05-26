@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:33:31.45657+00:00",
   "updated_at": "2025-06-01T15:33:31.45657+00:00",
-  "slug": "gothic"
+  "slug": "gothic",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "coral-tree"
+  ],
+  "related": [
+    "boston-blue",
+    "shakespeare",
+    "calypso"
+  ],
+  "prev_slug": "gossamer",
+  "next_slug": "governor-bay"
 }

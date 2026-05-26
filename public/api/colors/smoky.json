@@ -77,5 +77,19 @@
   },
   "created_at": "2025-06-01T15:26:16.034268+00:00",
   "updated_at": "2025-06-01T15:26:16.034268+00:00",
-  "slug": "smoky"
+  "slug": "smoky",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "tobacco-brown",
+    "mongoose",
+    "coriander"
+  ],
+  "related": [
+    "black-rock",
+    "gray-suit",
+    "dull-lavender"
+  ],
+  "prev_slug": "smalt-blue",
+  "next_slug": "solid-pink"
 }

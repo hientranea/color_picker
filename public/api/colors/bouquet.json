@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:12:44.372745+00:00",
   "updated_at": "2025-06-01T16:12:44.372745+00:00",
-  "slug": "bouquet"
+  "slug": "bouquet",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "acapulco"
+  ],
+  "related": [
+    "finn",
+    "barossa",
+    "cardinal-pink"
+  ],
+  "prev_slug": "boulder",
+  "next_slug": "bourbon"
 }

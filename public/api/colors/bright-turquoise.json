@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T14:44:42.771186+00:00",
   "updated_at": "2025-06-01T14:44:42.771186+00:00",
-  "slug": "bright-turquoise"
+  "slug": "bright-turquoise",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "monza"
+  ],
+  "related": [
+    "aqua-island",
+    "faded-jade",
+    "deep-teal"
+  ],
+  "prev_slug": "bright-red",
+  "next_slug": "bronco"
 }

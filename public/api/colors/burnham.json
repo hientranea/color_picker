@@ -76,5 +76,17 @@
   },
   "created_at": "2025-05-18T14:02:26.472076+00:00",
   "updated_at": "2025-05-18T14:02:26.472076+00:00",
-  "slug": "burnham"
+  "slug": "burnham",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "monza"
+  ],
+  "related": [
+    "mountain-meadow",
+    "viridian",
+    "acapulco"
+  ],
+  "prev_slug": "burgundy",
+  "next_slug": "burnt-maroon"
 }

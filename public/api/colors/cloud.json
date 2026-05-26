@@ -80,5 +80,18 @@
   },
   "created_at": "2025-06-01T16:30:20.282688+00:00",
   "updated_at": "2025-06-01T16:30:20.282688+00:00",
-  "slug": "cloud"
+  "slug": "cloud",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "silver-sand",
+    "friar-gray"
+  ],
+  "related": [
+    "nomad",
+    "zeus",
+    "shadow"
+  ],
+  "prev_slug": "clinker",
+  "next_slug": "cloud-burst"
 }

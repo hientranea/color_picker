@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T16:01:14.450348+00:00",
   "updated_at": "2025-06-01T16:01:14.450348+00:00",
-  "slug": "olivine"
+  "slug": "olivine",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "bouquet"
+  ],
+  "related": [
+    "battleship-gray",
+    "christi",
+    "lima"
+  ],
+  "prev_slug": "olivetone",
+  "next_slug": "onion"
 }

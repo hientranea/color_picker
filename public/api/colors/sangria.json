@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T15:56:37.22284+00:00",
   "updated_at": "2025-06-01T15:56:37.22284+00:00",
-  "slug": "sangria"
+  "slug": "sangria",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "elf-green"
+  ],
+  "related": [
+    "japanese-maple",
+    "merlot",
+    "opium"
+  ],
+  "prev_slug": "sandstone",
+  "next_slug": "sanguine-brown"
 }

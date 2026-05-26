@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T15:49:35.800344+00:00",
   "updated_at": "2025-06-01T15:49:35.800344+00:00",
-  "slug": "rusty-nail"
+  "slug": "rusty-nail",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "congress-blue"
+  ],
+  "related": [
+    "metallic-bronze",
+    "muesli",
+    "malta"
+  ],
+  "prev_slug": "rustic-red",
+  "next_slug": "saddle"
 }

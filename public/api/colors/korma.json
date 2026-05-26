@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:55:42.060677+00:00",
   "updated_at": "2025-06-01T15:55:42.060677+00:00",
-  "slug": "korma"
+  "slug": "korma",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "bahama-blue"
+  ],
+  "related": [
+    "pickled-bean",
+    "oil",
+    "rich-gold"
+  ],
+  "prev_slug": "kokoda",
+  "next_slug": "kumera"
 }

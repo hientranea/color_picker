@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:01:24.26029+00:00",
   "updated_at": "2025-06-01T15:01:24.26029+00:00",
-  "slug": "melanzane"
+  "slug": "melanzane",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "bitter-lemon"
+  ],
+  "related": [
+    "venus",
+    "monsoon",
+    "plum"
+  ],
+  "prev_slug": "medium-red-violet",
+  "next_slug": "melrose"
 }

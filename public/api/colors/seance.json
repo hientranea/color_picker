@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:37:18.977246+00:00",
   "updated_at": "2025-06-01T15:37:18.977246+00:00",
-  "slug": "seance"
+  "slug": "seance",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "elf-green"
+  ],
+  "related": [
+    "bossanova",
+    "valentino",
+    "ripe-plum"
+  ],
+  "prev_slug": "seagull",
+  "next_slug": "seaweed"
 }

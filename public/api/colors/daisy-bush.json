@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:19:26.417175+00:00",
   "updated_at": "2025-06-01T15:19:26.417175+00:00",
-  "slug": "daisy-bush"
+  "slug": "daisy-bush",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "hacienda"
+  ],
+  "related": [
+    "studio",
+    "purple-heart",
+    "lilac-bush"
+  ],
+  "prev_slug": "daintree",
+  "next_slug": "dallas"
 }

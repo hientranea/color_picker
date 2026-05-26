@@ -86,5 +86,18 @@
   },
   "created_at": "2025-06-01T16:16:15.424267+00:00",
   "updated_at": "2025-06-01T16:16:15.424267+00:00",
-  "slug": "taupe-gray"
+  "slug": "taupe-gray",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "santas-gray",
+    "marzipan"
+  ],
+  "related": [
+    "sahara",
+    "go-ben",
+    "fuscous-gray"
+  ],
+  "prev_slug": "taupe",
+  "next_slug": "tawny-port"
 }

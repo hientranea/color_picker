@@ -81,5 +81,18 @@
   },
   "created_at": "2025-06-01T15:16:35.668346+00:00",
   "updated_at": "2025-06-01T15:16:35.668346+00:00",
-  "slug": "gravel"
+  "slug": "gravel",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "bombay",
+    "delta"
+  ],
+  "related": [
+    "mamba",
+    "london-hue",
+    "clairvoyant"
+  ],
+  "prev_slug": "graphite",
+  "next_slug": "gray"
 }

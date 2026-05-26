@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T16:34:37.541131+00:00",
   "updated_at": "2025-06-01T16:34:37.541131+00:00",
-  "slug": "blossom"
+  "slug": "blossom",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "powder-blue"
+  ],
+  "related": [
+    "cab-sav",
+    "monarch",
+    "dusty-gray"
+  ],
+  "prev_slug": "blizzard-blue",
+  "next_slug": "blue"
 }

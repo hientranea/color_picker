@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:34:21.264206+00:00",
   "updated_at": "2025-06-01T15:34:21.264206+00:00",
-  "slug": "cafe-royale"
+  "slug": "cafe-royale",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "regal-blue"
+  ],
+  "related": [
+    "tapa",
+    "makara",
+    "mai-tai"
+  ],
+  "prev_slug": "cadillac",
+  "next_slug": "calypso"
 }

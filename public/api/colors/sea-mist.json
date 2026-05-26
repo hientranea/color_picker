@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T16:28:05.782431+00:00",
   "updated_at": "2025-06-01T16:28:05.782431+00:00",
-  "slug": "sea-mist"
+  "slug": "sea-mist",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "ghost"
+  ],
+  "related": [
+    "palm-green",
+    "surf",
+    "pumice"
+  ],
+  "prev_slug": "sea-green",
+  "next_slug": "sea-nymph"
 }

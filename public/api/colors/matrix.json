@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T16:14:04.668487+00:00",
   "updated_at": "2025-06-01T16:14:04.668487+00:00",
-  "slug": "matrix"
+  "slug": "matrix",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "hippie-blue"
+  ],
+  "related": [
+    "moccaccino",
+    "russett",
+    "apple-blossom"
+  ],
+  "prev_slug": "matisse",
+  "next_slug": "matterhorn"
 }

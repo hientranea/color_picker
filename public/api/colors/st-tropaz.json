@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:59:58.702522+00:00",
   "updated_at": "2025-06-01T14:59:58.702522+00:00",
-  "slug": "st-tropaz"
+  "slug": "st-tropaz",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "hacienda"
+  ],
+  "related": [
+    "azure",
+    "shuttle-gray",
+    "san-marino"
+  ],
+  "prev_slug": "squirrel",
+  "next_slug": "stack"
 }

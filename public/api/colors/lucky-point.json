@@ -68,5 +68,17 @@
   },
   "created_at": "2025-06-01T14:51:22.561107+00:00",
   "updated_at": "2025-06-01T14:51:22.561107+00:00",
-  "slug": "lucky-point"
+  "slug": "lucky-point",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "himalaya"
+  ],
+  "related": [
+    "blue",
+    "blue-bell",
+    "charade"
+  ],
+  "prev_slug": "lucky",
+  "next_slug": "lunar-green"
 }

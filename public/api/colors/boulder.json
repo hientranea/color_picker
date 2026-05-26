@@ -79,5 +79,19 @@
   },
   "created_at": "2025-06-01T15:42:01.421811+00:00",
   "updated_at": "2025-06-01T15:42:01.421811+00:00",
-  "slug": "boulder"
+  "slug": "boulder",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "amulet",
+    "bouquet",
+    "sage"
+  ],
+  "related": [
+    "black",
+    "bright-red",
+    "burnt-maroon"
+  ],
+  "prev_slug": "bottle-green",
+  "next_slug": "bouquet"
 }

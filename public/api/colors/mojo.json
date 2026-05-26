@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T16:24:11.924686+00:00",
   "updated_at": "2025-06-01T16:24:11.924686+00:00",
-  "slug": "mojo"
+  "slug": "mojo",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "pelorous"
+  ],
+  "related": [
+    "martini",
+    "el-salva",
+    "thunderbird"
+  ],
+  "prev_slug": "mocha",
+  "next_slug": "monarch"
 }

@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T16:13:34.946186+00:00",
   "updated_at": "2025-06-01T16:13:34.946186+00:00",
-  "slug": "martini"
+  "slug": "martini",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "hit-gray"
+  ],
+  "related": [
+    "mojo",
+    "el-salva",
+    "thunderbird"
+  ],
+  "prev_slug": "marshland",
+  "next_slug": "martinique"
 }

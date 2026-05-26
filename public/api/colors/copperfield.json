@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T16:34:00.586989+00:00",
   "updated_at": "2025-06-01T16:34:00.586989+00:00",
-  "slug": "copperfield"
+  "slug": "copperfield",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "danube"
+  ],
+  "related": [
+    "paco",
+    "rust",
+    "tia-maria"
+  ],
+  "prev_slug": "copper-rust",
+  "next_slug": "coral-red"
 }

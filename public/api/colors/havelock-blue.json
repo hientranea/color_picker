@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:22:30.174825+00:00",
   "updated_at": "2025-06-01T15:22:30.174825+00:00",
-  "slug": "havelock-blue"
+  "slug": "havelock-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "copperfield"
+  ],
+  "related": [
+    "denim",
+    "fun-blue",
+    "oxford-blue"
+  ],
+  "prev_slug": "harlequin",
+  "next_slug": "hawaiian-tan"
 }

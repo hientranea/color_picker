@@ -71,5 +71,18 @@
   },
   "created_at": "2025-06-01T15:12:03.355856+00:00",
   "updated_at": "2025-06-01T15:12:03.355856+00:00",
-  "slug": "gun-powder"
+  "slug": "gun-powder",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "hemlock",
+    "cherub"
+  ],
+  "related": [
+    "wistful",
+    "comet",
+    "waterloo"
+  ],
+  "prev_slug": "gumbo",
+  "next_slug": "gunsmoke"
 }

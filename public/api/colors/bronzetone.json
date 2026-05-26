@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T15:18:08.325843+00:00",
   "updated_at": "2025-06-01T15:18:08.325843+00:00",
-  "slug": "bronzetone"
+  "slug": "bronzetone",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "bunting"
+  ],
+  "related": [
+    "gray-olive",
+    "galliano",
+    "hokey-pokey"
+  ],
+  "prev_slug": "bronze-olive",
+  "next_slug": "brown"
 }

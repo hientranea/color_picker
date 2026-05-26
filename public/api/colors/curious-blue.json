@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T14:56:01.224939+00:00",
   "updated_at": "2025-06-01T14:56:01.224939+00:00",
-  "slug": "curious-blue"
+  "slug": "curious-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "piper"
+  ],
+  "related": [
+    "cornflower",
+    "bahama-blue",
+    "blumine"
+  ],
+  "prev_slug": "cumin",
+  "next_slug": "cutty-sark"
 }

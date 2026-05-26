@@ -78,5 +78,18 @@
   },
   "created_at": "2025-06-01T16:30:28.076463+00:00",
   "updated_at": "2025-06-01T16:30:28.076463+00:00",
-  "slug": "ghost"
+  "slug": "ghost",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "cloud",
+    "sea-mist"
+  ],
+  "related": [
+    "storm-gray",
+    "manatee",
+    "vulcan"
+  ],
+  "prev_slug": "genoa",
+  "next_slug": "gigas"
 }

@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T15:48:53.045189+00:00",
   "updated_at": "2025-06-01T15:48:53.045189+00:00",
-  "slug": "bali-hai"
+  "slug": "bali-hai",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "marzipan"
+  ],
+  "related": [
+    "sail",
+    "malibu",
+    "limed-spruce"
+  ],
+  "prev_slug": "bahia",
+  "next_slug": "baltic-sea"
 }

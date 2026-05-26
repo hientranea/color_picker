@@ -69,5 +69,17 @@
   },
   "created_at": "2025-06-01T15:56:02.076506+00:00",
   "updated_at": "2025-06-01T15:56:02.076506+00:00",
-  "slug": "burgundy"
+  "slug": "burgundy",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "eucalyptus"
+  ],
+  "related": [
+    "pink-swan",
+    "turkish-rose",
+    "monarch"
+  ],
+  "prev_slug": "bunting",
+  "next_slug": "burnham"
 }

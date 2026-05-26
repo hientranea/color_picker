@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:14:40.294586+00:00",
   "updated_at": "2025-06-01T16:14:40.294586+00:00",
-  "slug": "inch-worm"
+  "slug": "inch-worm",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "red-violet"
+  ],
+  "related": [
+    "flax-smoke",
+    "rangitoto",
+    "lime"
+  ],
+  "prev_slug": "iceberg",
+  "next_slug": "indian-khaki"
 }

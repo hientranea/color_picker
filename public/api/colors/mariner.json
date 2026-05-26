@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T14:57:31.637839+00:00",
   "updated_at": "2025-06-01T14:57:31.637839+00:00",
-  "slug": "mariner"
+  "slug": "mariner",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "nugget"
+  ],
+  "related": [
+    "blue-ribbon",
+    "bunker",
+    "tory-blue"
+  ],
+  "prev_slug": "marigold",
+  "next_slug": "maroon"
 }

@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:32:34.164478+00:00",
   "updated_at": "2025-06-01T15:32:34.164478+00:00",
-  "slug": "bermuda-gray"
+  "slug": "bermuda-gray",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "sandal"
+  ],
+  "related": [
+    "blue-whale",
+    "gull-gray",
+    "nevada"
+  ],
+  "prev_slug": "bermuda",
+  "next_slug": "big-stone"
 }

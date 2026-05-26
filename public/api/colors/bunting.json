@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T14:49:28.896136+00:00",
   "updated_at": "2025-06-01T14:49:28.896136+00:00",
-  "slug": "bunting"
+  "slug": "bunting",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "bitter-lemon"
+  ],
+  "related": [
+    "persian-blue",
+    "east-bay",
+    "deep-cove"
+  ],
+  "prev_slug": "bunker",
+  "next_slug": "burgundy"
 }

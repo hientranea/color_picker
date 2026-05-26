@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T16:03:44.278907+00:00",
   "updated_at": "2025-06-01T16:03:44.278907+00:00",
-  "slug": "feijoa"
+  "slug": "feijoa",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "oriental-pink"
+  ],
+  "related": [
+    "fern-green",
+    "harlequin",
+    "pale-leaf"
+  ],
+  "prev_slug": "fedora",
+  "next_slug": "fern"
 }

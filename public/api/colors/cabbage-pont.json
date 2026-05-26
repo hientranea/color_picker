@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:10:10.923223+00:00",
   "updated_at": "2025-06-01T15:10:10.923223+00:00",
-  "slug": "cabbage-pont"
+  "slug": "cabbage-pont",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "chatelle"
+  ],
+  "related": [
+    "highland",
+    "la-palma",
+    "pale-leaf"
+  ],
+  "prev_slug": "cab-sav",
+  "next_slug": "cactus"
 }

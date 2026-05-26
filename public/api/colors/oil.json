@@ -77,5 +77,18 @@
   },
   "created_at": "2025-06-01T14:57:17.539763+00:00",
   "updated_at": "2025-06-01T14:57:17.539763+00:00",
-  "slug": "oil"
+  "slug": "oil",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "mirage",
+    "cloud"
+  ],
+  "related": [
+    "hawaiian-tan",
+    "korma",
+    "pickled-bean"
+  ],
+  "prev_slug": "ocean-green",
+  "next_slug": "old-brick"
 }

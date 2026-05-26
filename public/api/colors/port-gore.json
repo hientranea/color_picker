@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T14:55:41.329581+00:00",
   "updated_at": "2025-06-01T14:55:41.329581+00:00",
-  "slug": "port-gore"
+  "slug": "port-gore",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "bitter-lemon"
+  ],
+  "related": [
+    "kimberly",
+    "scampi",
+    "jumbo"
+  ],
+  "prev_slug": "pompadour",
+  "next_slug": "portage"
 }

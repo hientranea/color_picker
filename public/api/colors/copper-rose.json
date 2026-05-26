@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:00:24.034846+00:00",
   "updated_at": "2025-06-01T16:00:24.034846+00:00",
-  "slug": "copper-rose"
+  "slug": "copper-rose",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "patina"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "copper-canyon",
+  "next_slug": "copper-rust"
 }

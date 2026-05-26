@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T15:22:44.056679+00:00",
   "updated_at": "2025-06-01T15:22:44.056679+00:00",
-  "slug": "spring-leaves"
+  "slug": "spring-leaves",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "falcon"
+  ],
+  "related": [
+    "killarney",
+    "xanadu",
+    "mantle"
+  ],
+  "prev_slug": "spring-green",
+  "next_slug": "spring-rain"
 }

@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T14:53:08.828066+00:00",
   "updated_at": "2025-06-01T14:53:08.828066+00:00",
-  "slug": "creole"
+  "slug": "creole",
+  "hue": "gray",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "black-pearl"
+  ],
+  "related": [
+    "brown-bramble",
+    "russet",
+    "morocco-brown"
+  ],
+  "prev_slug": "crater-brown",
+  "next_slug": "crete"
 }

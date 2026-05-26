@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T15:27:06.331356+00:00",
   "updated_at": "2025-06-01T15:27:06.331356+00:00",
-  "slug": "buccaneer"
+  "slug": "buccaneer",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "casal"
+  ],
+  "related": [
+    "old-rose",
+    "bulgarian-rose",
+    "stiletto"
+  ],
+  "prev_slug": "brown-tumbleweed",
+  "next_slug": "bud"
 }

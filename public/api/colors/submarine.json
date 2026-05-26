@@ -77,5 +77,19 @@
   },
   "created_at": "2025-06-01T16:21:02.483946+00:00",
   "updated_at": "2025-06-01T16:21:02.483946+00:00",
-  "slug": "submarine"
+  "slug": "submarine",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "silver-rust",
+    "delta",
+    "tea"
+  ],
+  "related": [
+    "blizzard-blue",
+    "jungle-mist",
+    "ming"
+  ],
+  "prev_slug": "studio",
+  "next_slug": "sulu"
 }

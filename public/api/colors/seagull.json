@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T15:47:08.694685+00:00",
   "updated_at": "2025-06-01T15:47:08.694685+00:00",
-  "slug": "seagull"
+  "slug": "seagull",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "copperfield"
+  ],
+  "related": [
+    "gothic",
+    "boston-blue",
+    "allports"
+  ],
+  "prev_slug": "sea-nymph",
+  "next_slug": "seance"
 }

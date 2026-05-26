@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T14:48:11.281458+00:00",
   "updated_at": "2025-06-01T14:48:11.281458+00:00",
-  "slug": "eden"
+  "slug": "eden",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "heath"
+  ],
+  "related": [
+    "pine-green",
+    "tradewind",
+    "lochinvar"
+  ],
+  "prev_slug": "eclipse",
+  "next_slug": "edgewater"
 }

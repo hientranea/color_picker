@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T16:08:35.713743+00:00",
   "updated_at": "2025-06-01T16:08:35.713743+00:00",
-  "slug": "tower-gray"
+  "slug": "tower-gray",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "silk"
+  ],
+  "related": [
+    "sherpa-blue",
+    "fountain-blue",
+    "william"
+  ],
+  "prev_slug": "tosca",
+  "next_slug": "tradewind"
 }

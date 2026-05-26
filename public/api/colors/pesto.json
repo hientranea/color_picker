@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:43:29.573592+00:00",
   "updated_at": "2025-06-01T15:43:29.573592+00:00",
-  "slug": "pesto"
+  "slug": "pesto",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "astronaut"
+  ],
+  "related": [
+    "costa-del-sol",
+    "thatch-green",
+    "camouflage"
+  ],
+  "prev_slug": "peru-tan",
+  "next_slug": "pewter"
 }

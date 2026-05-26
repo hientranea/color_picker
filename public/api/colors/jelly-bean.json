@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T14:58:07.008406+00:00",
   "updated_at": "2025-06-01T14:58:07.008406+00:00",
-  "slug": "jelly-bean"
+  "slug": "jelly-bean",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "stiletto"
+  ],
+  "related": [
+    "allports",
+    "teal-blue",
+    "botticelli"
+  ],
+  "prev_slug": "jazzberry-jam",
+  "next_slug": "jet-stream"
 }

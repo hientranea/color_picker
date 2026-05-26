@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T16:18:59.983987+00:00",
   "updated_at": "2025-06-01T16:18:59.983987+00:00",
-  "slug": "madang"
+  "slug": "madang",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "laurel",
+    "fern",
+    "amulet"
+  ],
+  "prev_slug": "lynch",
+  "next_slug": "madison"
 }

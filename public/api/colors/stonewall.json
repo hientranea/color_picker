@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T15:56:59.203491+00:00",
   "updated_at": "2025-06-01T15:56:59.203491+00:00",
-  "slug": "stonewall"
+  "slug": "stonewall",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "slate-gray"
+  ],
+  "related": [
+    "armadillo",
+    "raw-umber",
+    "saddle-brown"
+  ],
+  "prev_slug": "stiletto",
+  "next_slug": "storm-dust"
 }

@@ -85,5 +85,17 @@
   },
   "created_at": "2025-06-01T16:10:59.846351+00:00",
   "updated_at": "2025-06-01T16:10:59.846351+00:00",
-  "slug": "napa"
+  "slug": "napa",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "santas-gray"
+  ],
+  "related": [
+    "pale-oyster",
+    "dawn",
+    "brown-tumbleweed"
+  ],
+  "prev_slug": "nandor",
+  "next_slug": "natural-gray"
 }

@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:40:30.441877+00:00",
   "updated_at": "2025-06-01T15:40:30.441877+00:00",
-  "slug": "peanut"
+  "slug": "peanut",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "atoll"
+  ],
+  "related": [
+    "hairy-heath",
+    "mule-fawn",
+    "nutmeg"
+  ],
+  "prev_slug": "paua",
+  "next_slug": "peat"
 }

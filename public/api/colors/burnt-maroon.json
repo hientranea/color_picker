@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:12:31.980095+00:00",
   "updated_at": "2025-06-01T15:12:31.980095+00:00",
-  "slug": "burnt-maroon"
+  "slug": "burnt-maroon",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "cyprus"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "burnham",
+  "next_slug": "burnt-umber"
 }

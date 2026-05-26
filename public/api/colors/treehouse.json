@@ -75,5 +75,18 @@
   },
   "created_at": "2025-06-01T15:07:18.098198+00:00",
   "updated_at": "2025-06-01T15:07:18.098198+00:00",
-  "slug": "treehouse"
+  "slug": "treehouse",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "everglade",
+    "silver-rust"
+  ],
+  "related": [
+    "english-walnut",
+    "kilamanjaro",
+    "nero"
+  ],
+  "prev_slug": "tradewind",
+  "next_slug": "trendy-green"
 }

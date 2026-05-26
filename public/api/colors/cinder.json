@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:47:34.525077+00:00",
   "updated_at": "2025-06-01T14:47:34.525077+00:00",
-  "slug": "cinder"
+  "slug": "cinder",
+  "hue": "gray",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "iceberg"
+  ],
+  "related": [
+    "blue",
+    "blue-bell",
+    "charade"
+  ],
+  "prev_slug": "christi",
+  "next_slug": "cinnamon"
 }

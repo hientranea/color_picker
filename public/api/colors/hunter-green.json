@@ -79,5 +79,18 @@
   },
   "created_at": "2025-06-01T14:49:57.914411+00:00",
   "updated_at": "2025-06-01T14:49:57.914411+00:00",
-  "slug": "hunter-green"
+  "slug": "hunter-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "monza",
+    "key-lime-pie"
+  ],
+  "related": [
+    "asparagus",
+    "rainee",
+    "dingley"
+  ],
+  "prev_slug": "hot-toddy",
+  "next_slug": "hurricane"
 }

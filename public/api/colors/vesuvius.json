@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:14:54.398843+00:00",
   "updated_at": "2025-06-01T16:14:54.398843+00:00",
-  "slug": "vesuvius"
+  "slug": "vesuvius",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "caribbean-green"
+  ],
+  "related": [
+    "sambuca",
+    "roman-coffee",
+    "indian-tan"
+  ],
+  "prev_slug": "verdun-green",
+  "next_slug": "victoria"
 }

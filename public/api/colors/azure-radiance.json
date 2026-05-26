@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T14:38:19.831139+00:00",
   "updated_at": "2025-06-01T14:38:19.831139+00:00",
-  "slug": "azure-radiance"
+  "slug": "azure-radiance",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "pizza"
+  ],
+  "related": [
+    "black-pearl",
+    "midnight-blue",
+    "science-blue"
+  ],
+  "prev_slug": "azure",
+  "next_slug": "bahama-blue"
 }

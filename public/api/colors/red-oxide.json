@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T15:33:38.014095+00:00",
   "updated_at": "2025-06-01T15:33:38.014095+00:00",
-  "slug": "red-oxide"
+  "slug": "red-oxide",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "mosque"
+  ],
+  "related": [
+    "sanguine-brown",
+    "milano-red",
+    "cherrywood"
+  ],
+  "prev_slug": "red-devil",
+  "next_slug": "red-robin"
 }

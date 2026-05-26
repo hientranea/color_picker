@@ -77,5 +77,19 @@
   },
   "created_at": "2025-06-01T16:21:45.785726+00:00",
   "updated_at": "2025-06-01T16:21:45.785726+00:00",
-  "slug": "powder-ash"
+  "slug": "powder-ash",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "pink-swan",
+    "pale-slate",
+    "french-gray"
+  ],
+  "related": [
+    "county-green",
+    "kaitoke-green",
+    "bush"
+  ],
+  "prev_slug": "potters-clay",
+  "next_slug": "powder-blue"
 }

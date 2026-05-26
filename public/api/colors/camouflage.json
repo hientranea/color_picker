@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T15:08:09.0582+00:00",
   "updated_at": "2025-06-01T15:08:09.0582+00:00",
-  "slug": "camouflage"
+  "slug": "camouflage",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "deep-cove"
+  ],
+  "related": [
+    "thatch-green",
+    "pesto",
+    "costa-del-sol"
+  ],
+  "prev_slug": "camelot",
+  "next_slug": "camouflage-green"
 }

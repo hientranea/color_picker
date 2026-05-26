@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:20:09.512572+00:00",
   "updated_at": "2025-06-01T15:20:09.512572+00:00",
-  "slug": "kashmir-blue"
+  "slug": "kashmir-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "leather"
+  ],
+  "related": [
+    "jordy-blue",
+    "danube",
+    "san-juan"
+  ],
+  "prev_slug": "karaka",
+  "next_slug": "kelp"
 }

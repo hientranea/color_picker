@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:38:09.220028+00:00",
   "updated_at": "2025-06-01T15:38:09.220028+00:00",
-  "slug": "limed-ash"
+  "slug": "limed-ash",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "kangaroo"
+  ],
+  "related": [
+    "conifer",
+    "atlantis",
+    "bud"
+  ],
+  "prev_slug": "limeade",
+  "next_slug": "limed-oak"
 }

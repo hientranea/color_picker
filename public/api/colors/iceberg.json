@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T16:34:22.308999+00:00",
   "updated_at": "2025-06-01T16:34:22.308999+00:00",
-  "slug": "iceberg"
+  "slug": "iceberg",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "cherub"
+  ],
+  "related": [
+    "riptide",
+    "elf-green",
+    "niagara"
+  ],
+  "prev_slug": "ice-cold",
+  "next_slug": "inch-worm"
 }

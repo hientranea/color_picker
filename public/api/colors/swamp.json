@@ -74,5 +74,19 @@
   },
   "created_at": "2025-05-18T14:02:05.177846+00:00",
   "updated_at": "2025-05-18T14:02:05.177846+00:00",
-  "slug": "swamp"
+  "slug": "swamp",
+  "hue": "gray",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "black-russian",
+    "silver",
+    "galliano"
+  ],
+  "related": [
+    "mosque",
+    "cyprus",
+    "tiber"
+  ],
+  "prev_slug": "suva-gray",
+  "next_slug": "swamp-green"
 }

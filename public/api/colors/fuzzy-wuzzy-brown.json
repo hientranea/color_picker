@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T16:27:08.714764+00:00",
   "updated_at": "2025-06-01T16:27:08.714764+00:00",
-  "slug": "fuzzy-wuzzy-brown"
+  "slug": "fuzzy-wuzzy-brown",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "fountain-blue"
+  ],
+  "related": [
+    "well-read",
+    "black",
+    "boulder"
+  ],
+  "prev_slug": "fuscous-gray",
+  "next_slug": "gable-green"
 }

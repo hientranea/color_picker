@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T15:49:57.570127+00:00",
   "updated_at": "2025-06-01T15:49:57.570127+00:00",
-  "slug": "disco"
+  "slug": "disco",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "elf-green"
+  ],
+  "related": [
+    "cherub",
+    "eggplant",
+    "cannon-pink"
+  ],
+  "prev_slug": "dingley",
+  "next_slug": "dodger-blue"
 }

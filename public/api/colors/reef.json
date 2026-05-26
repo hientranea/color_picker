@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:32:34.823206+00:00",
   "updated_at": "2025-06-01T16:32:34.823206+00:00",
-  "slug": "reef"
+  "slug": "reef",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "orchid"
+  ],
+  "related": [
+    "deep-forest-green",
+    "green-kelp",
+    "marshland"
+  ],
+  "prev_slug": "redwood",
+  "next_slug": "reef-gold"
 }

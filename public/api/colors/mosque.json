@@ -68,5 +68,17 @@
   },
   "created_at": "2025-06-01T14:42:30.443276+00:00",
   "updated_at": "2025-06-01T14:42:30.443276+00:00",
-  "slug": "mosque"
+  "slug": "mosque",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "red-oxide"
+  ],
+  "related": [
+    "swamp",
+    "tiber",
+    "cyprus"
+  ],
+  "prev_slug": "mortar",
+  "next_slug": "moss-green"
 }

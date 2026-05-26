@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T16:18:30.453637+00:00",
   "updated_at": "2025-06-01T16:18:30.453637+00:00",
-  "slug": "muddy-waters"
+  "slug": "muddy-waters",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "tradewind",
+    "matrix"
+  ],
+  "related": [
+    "cannon-black",
+    "natural-gray",
+    "indochine"
+  ],
+  "prev_slug": "mountbatten-pink",
+  "next_slug": "muesli"
 }

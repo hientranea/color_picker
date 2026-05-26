@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:07:53.895966+00:00",
   "updated_at": "2025-06-01T15:07:53.895966+00:00",
-  "slug": "meteorite"
+  "slug": "meteorite",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "walnut"
+  ],
+  "related": [
+    "valhalla",
+    "medium-purple",
+    "paris-m"
+  ],
+  "prev_slug": "metallic-copper",
+  "next_slug": "mexican-red"
 }

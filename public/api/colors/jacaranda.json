@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:00:05.817726+00:00",
   "updated_at": "2025-06-01T15:00:05.817726+00:00",
-  "slug": "jacaranda"
+  "slug": "jacaranda",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "turtle-green"
+  ],
+  "related": [
+    "plum",
+    "monsoon",
+    "loulou"
+  ],
+  "prev_slug": "ironstone",
+  "next_slug": "jacarta"
 }

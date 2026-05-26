@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T16:13:27.476414+00:00",
   "updated_at": "2025-06-01T16:13:27.476414+00:00",
-  "slug": "lucky"
+  "slug": "lucky",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "persian-blue"
+  ],
+  "related": [
+    "earls-green",
+    "turmeric",
+    "lemon-ginger"
+  ],
+  "prev_slug": "loulou",
+  "next_slug": "lucky-point"
 }

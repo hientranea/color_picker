@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:06:42.599466+00:00",
   "updated_at": "2025-06-01T15:06:42.599466+00:00",
-  "slug": "killarney"
+  "slug": "killarney",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "cadillac"
+  ],
+  "related": [
+    "spring-leaves",
+    "xanadu",
+    "pumice"
+  ],
+  "prev_slug": "kilamanjaro",
+  "next_slug": "kimberly"
 }

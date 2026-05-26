@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T15:33:24.295636+00:00",
   "updated_at": "2025-06-01T15:33:24.295636+00:00",
-  "slug": "juniper"
+  "slug": "juniper",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "opium"
+  ],
+  "related": [
+    "cyan-aqua",
+    "granny-smith",
+    "robins-egg-blue"
+  ],
+  "prev_slug": "jungle-mist",
+  "next_slug": "kabul"
 }

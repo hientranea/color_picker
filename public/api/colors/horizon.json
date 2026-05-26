@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:23:55.978846+00:00",
   "updated_at": "2025-06-01T15:23:55.978846+00:00",
-  "slug": "horizon"
+  "slug": "horizon",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "leather"
+  ],
+  "related": [
+    "elephant",
+    "venice-blue",
+    "lochmara"
+  ],
+  "prev_slug": "honey-flower",
+  "next_slug": "horses-neck"
 }

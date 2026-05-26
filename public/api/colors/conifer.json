@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T16:11:42.064035+00:00",
   "updated_at": "2025-06-01T16:11:42.064035+00:00",
-  "slug": "conifer"
+  "slug": "conifer",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "fuchsia-pink"
+  ],
+  "related": [
+    "atlantis",
+    "limed-ash",
+    "bud"
+  ],
+  "prev_slug": "congress-blue",
+  "next_slug": "contessa"
 }

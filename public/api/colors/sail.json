@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:19:43.442336+00:00",
   "updated_at": "2025-06-01T16:19:43.442336+00:00",
-  "slug": "sail"
+  "slug": "sail",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "malibu",
+    "wedgewood",
+    "bali-hai"
+  ],
+  "prev_slug": "sahara",
+  "next_slug": "salem"
 }

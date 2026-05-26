@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:04:54.99754+00:00",
   "updated_at": "2025-06-01T15:04:54.99754+00:00",
-  "slug": "clinker"
+  "slug": "clinker",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "firefly"
+  ],
+  "related": [
+    "squirrel",
+    "silk",
+    "morocco-brown"
+  ],
+  "prev_slug": "clay-creek",
+  "next_slug": "cloud"
 }

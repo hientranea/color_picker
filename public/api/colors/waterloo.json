@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T15:42:53.285901+00:00",
   "updated_at": "2025-06-01T15:42:53.285901+00:00",
-  "slug": "waterloo"
+  "slug": "waterloo",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "bazaar",
+    "laurel"
+  ],
+  "related": [
+    "comet",
+    "wistful",
+    "gun-powder"
+  ],
+  "prev_slug": "watercourse",
+  "next_slug": "wedgewood"
 }

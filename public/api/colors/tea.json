@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T16:25:15.273307+00:00",
   "updated_at": "2025-06-01T16:25:15.273307+00:00",
-  "slug": "tea"
+  "slug": "tea",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "cadet-blue"
+  ],
+  "related": [
+    "cola",
+    "saddle-brown",
+    "coffee"
+  ],
+  "prev_slug": "te-papa-green",
+  "next_slug": "teak"
 }

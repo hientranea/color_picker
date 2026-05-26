@@ -79,5 +79,18 @@
   },
   "created_at": "2025-06-01T15:13:43.35696+00:00",
   "updated_at": "2025-06-01T15:13:43.35696+00:00",
-  "slug": "mako"
+  "slug": "mako",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "fuscous-gray",
+    "nomad"
+  ],
+  "related": [
+    "biscay",
+    "catalina-blue",
+    "sapphire"
+  ],
+  "prev_slug": "makara",
+  "next_slug": "malachite"
 }

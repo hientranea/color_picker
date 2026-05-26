@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T14:53:27.252423+00:00",
   "updated_at": "2025-06-01T14:53:27.252423+00:00",
-  "slug": "te-papa-green"
+  "slug": "te-papa-green",
+  "hue": "teal",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "mint-tulip",
+    "ice-cold",
+    "tropical-rain-forest"
+  ],
+  "prev_slug": "tawny-port",
+  "next_slug": "tea"
 }

@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T14:38:55.840523+00:00",
   "updated_at": "2025-06-01T14:38:55.840523+00:00",
-  "slug": "jade"
+  "slug": "jade",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "shiraz"
+  ],
+  "related": [
+    "green-haze",
+    "holly",
+    "blue-smoke"
+  ],
+  "prev_slug": "jacksons-purple",
+  "next_slug": "jagged-ice"
 }

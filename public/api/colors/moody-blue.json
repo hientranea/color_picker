@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:45:28.057131+00:00",
   "updated_at": "2025-06-01T15:45:28.057131+00:00",
-  "slug": "moody-blue"
+  "slug": "moody-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "contessa"
+  ],
+  "related": [
+    "melrose",
+    "deep-koamaru",
+    "scampi"
+  ],
+  "prev_slug": "monza",
+  "next_slug": "morning-glory"
 }

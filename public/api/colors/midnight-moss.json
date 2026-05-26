@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T14:42:37.261047+00:00",
   "updated_at": "2025-06-01T14:42:37.261047+00:00",
-  "slug": "midnight-moss"
+  "slug": "midnight-moss",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "marzipan"
+  ],
+  "related": [
+    "deep-fir",
+    "forest-green",
+    "green"
+  ],
+  "prev_slug": "midnight-blue",
+  "next_slug": "mikado"
 }

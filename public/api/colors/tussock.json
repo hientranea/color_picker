@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T16:27:58.292499+00:00",
   "updated_at": "2025-06-01T16:27:58.292499+00:00",
-  "slug": "tussock"
+  "slug": "tussock",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "fountain-blue"
+  ],
+  "related": [
+    "barley-corn",
+    "antique-bronze",
+    "teak"
+  ],
+  "prev_slug": "tuscany",
+  "next_slug": "tyrian-purple"
 }

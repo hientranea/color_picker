@@ -72,5 +72,18 @@
   },
   "created_at": "2025-06-01T15:43:43.547851+00:00",
   "updated_at": "2025-06-01T15:43:43.547851+00:00",
-  "slug": "concord"
+  "slug": "concord",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "boulder",
+    "bombay"
+  ],
+  "related": [
+    "brown",
+    "crowshead",
+    "merlin"
+  ],
+  "prev_slug": "conch",
+  "next_slug": "congo-brown"
 }

@@ -80,5 +80,18 @@
   },
   "created_at": "2025-06-01T15:21:55.304103+00:00",
   "updated_at": "2025-06-01T15:21:55.304103+00:00",
-  "slug": "fuscous-gray"
+  "slug": "fuscous-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "abbey",
+    "zorba"
+  ],
+  "related": [
+    "gurkha",
+    "go-ben",
+    "taupe-gray"
+  ],
+  "prev_slug": "fun-green",
+  "next_slug": "fuzzy-wuzzy-brown"
 }

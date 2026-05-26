@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:01:10.074638+00:00",
   "updated_at": "2025-06-01T15:01:10.074638+00:00",
-  "slug": "spectra"
+  "slug": "spectra",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "mexican-red"
+  ],
+  "related": [
+    "sinbad",
+    "turquoise",
+    "jagged-ice"
+  ],
+  "prev_slug": "spanish-green",
+  "next_slug": "spice"
 }

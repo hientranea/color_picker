@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T15:42:24.714077+00:00",
   "updated_at": "2025-06-01T15:42:24.714077+00:00",
-  "slug": "red-beech"
+  "slug": "red-beech",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "regal-blue"
+  ],
+  "related": [
+    "desert",
+    "bull-shot",
+    "peru-tan"
+  ],
+  "prev_slug": "rebel",
+  "next_slug": "red-berry"
 }

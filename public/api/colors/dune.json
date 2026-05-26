@@ -83,5 +83,18 @@
   },
   "created_at": "2025-06-01T15:05:37.752218+00:00",
   "updated_at": "2025-06-01T15:05:37.752218+00:00",
-  "slug": "dune"
+  "slug": "dune",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "tuatara",
+    "shady-lady"
+  ],
+  "related": [
+    "pine-cone",
+    "bistre",
+    "walnut"
+  ],
+  "prev_slug": "dull-lavender",
+  "next_slug": "dusty-gray"
 }

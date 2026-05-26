@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T15:45:41.93784+00:00",
   "updated_at": "2025-06-01T15:45:41.93784+00:00",
-  "slug": "aquamarine"
+  "slug": "aquamarine",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "copperfield"
+  ],
+  "related": [
+    "shamrock",
+    "mineral-green",
+    "sherwood-green"
+  ],
+  "prev_slug": "aqua-island",
+  "next_slug": "aquamarine-blue"
 }

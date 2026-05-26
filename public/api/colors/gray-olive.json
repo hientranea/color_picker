@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:08:08.513915+00:00",
   "updated_at": "2025-06-01T16:08:08.513915+00:00",
-  "slug": "gray-olive"
+  "slug": "gray-olive",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "cascade"
+  ],
+  "related": [
+    "bronzetone",
+    "galliano",
+    "sundance"
+  ],
+  "prev_slug": "gray-nickel",
+  "next_slug": "gray-suit"
 }

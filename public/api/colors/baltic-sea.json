@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T14:58:35.640557+00:00",
   "updated_at": "2025-06-01T14:58:35.640557+00:00",
-  "slug": "baltic-sea"
+  "slug": "baltic-sea",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "conch"
+  ],
+  "related": [
+    "ship-gray",
+    "amethyst-smoke",
+    "lilac-bush"
+  ],
+  "prev_slug": "bali-hai",
+  "next_slug": "bandicoot"
 }

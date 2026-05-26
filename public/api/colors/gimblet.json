@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T16:19:22.824156+00:00",
   "updated_at": "2025-06-01T16:19:22.824156+00:00",
-  "slug": "gimblet"
+  "slug": "gimblet",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "tradewind"
+  ],
+  "related": [
+    "sycamore",
+    "kokoda",
+    "olivetone"
+  ],
+  "prev_slug": "gigas",
+  "next_slug": "glacier"
 }

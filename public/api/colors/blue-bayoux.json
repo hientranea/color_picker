@@ -78,5 +78,18 @@
   },
   "created_at": "2025-06-01T15:15:52.719538+00:00",
   "updated_at": "2025-06-01T15:15:52.719538+00:00",
-  "slug": "blue-bayoux"
+  "slug": "blue-bayoux",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "roman-coffee",
+    "mongoose"
+  ],
+  "related": [
+    "oslo-gray",
+    "hit-gray",
+    "rolling-stone"
+  ],
+  "prev_slug": "blue",
+  "next_slug": "blue-bell"
 }

@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:22:08.839319+00:00",
   "updated_at": "2025-06-01T15:22:08.839319+00:00",
-  "slug": "cioccolato"
+  "slug": "cioccolato",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "tarawera"
+  ],
+  "related": [
+    "piper",
+    "indian-tan",
+    "sambuca"
+  ],
+  "prev_slug": "cinnamon",
+  "next_slug": "citron"
 }

@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:22:50.669983+00:00",
   "updated_at": "2025-06-01T15:22:50.669983+00:00",
-  "slug": "saddle-brown"
+  "slug": "saddle-brown",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "deep-sea-green"
+  ],
+  "related": [
+    "cola",
+    "tea",
+    "armadillo"
+  ],
+  "prev_slug": "saddle",
+  "next_slug": "sage"
 }

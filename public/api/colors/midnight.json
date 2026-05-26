@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T14:39:45.428745+00:00",
   "updated_at": "2025-06-01T14:39:45.428745+00:00",
-  "slug": "midnight"
+  "slug": "midnight",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "bitter-lemon"
+  ],
+  "related": [
+    "rock-blue",
+    "blue-ribbon",
+    "bunker"
+  ],
+  "prev_slug": "mid-gray",
+  "next_slug": "midnight-blue"
 }

@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:24:37.251158+00:00",
   "updated_at": "2025-06-01T15:24:37.251158+00:00",
-  "slug": "redwood"
+  "slug": "redwood",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "blumine"
+  ],
+  "related": [
+    "eclipse",
+    "rock",
+    "quicksand"
+  ],
+  "prev_slug": "red-violet",
+  "next_slug": "reef"
 }

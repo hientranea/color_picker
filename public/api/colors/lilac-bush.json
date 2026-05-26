@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:59:26.312397+00:00",
   "updated_at": "2025-06-01T15:59:26.312397+00:00",
-  "slug": "lilac-bush"
+  "slug": "lilac-bush",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "olive-drab"
+  ],
+  "related": [
+    "purple-heart",
+    "daisy-bush",
+    "studio"
+  ],
+  "prev_slug": "lilac",
+  "next_slug": "lily"
 }

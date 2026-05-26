@@ -75,5 +75,19 @@
   },
   "created_at": "2025-06-01T15:25:40.775131+00:00",
   "updated_at": "2025-06-01T15:25:40.775131+00:00",
-  "slug": "mid-gray"
+  "slug": "mid-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "flint",
+    "granite-green",
+    "dawn"
+  ],
+  "related": [
+    "blue",
+    "blue-bell",
+    "charade"
+  ],
+  "prev_slug": "mexican-red",
+  "next_slug": "midnight"
 }

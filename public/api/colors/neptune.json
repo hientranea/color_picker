@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:44:19.269635+00:00",
   "updated_at": "2025-06-01T15:44:19.269635+00:00",
-  "slug": "neptune"
+  "slug": "neptune",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "old-rose"
+  ],
+  "related": [
+    "paradiso",
+    "atoll",
+    "blue-chill"
+  ],
+  "prev_slug": "nepal",
+  "next_slug": "nero"
 }

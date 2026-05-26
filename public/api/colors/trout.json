@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T15:16:42.896682+00:00",
   "updated_at": "2025-06-01T15:16:42.896682+00:00",
-  "slug": "trout"
+  "slug": "trout",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "zanah"
+  ],
+  "related": [
+    "royal-blue",
+    "wild-blue-yonder",
+    "resolution-blue"
+  ],
+  "prev_slug": "tropical-rain-forest",
+  "next_slug": "true-v"
 }

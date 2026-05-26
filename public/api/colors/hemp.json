@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:56:15.539477+00:00",
   "updated_at": "2025-06-01T15:56:15.539477+00:00",
-  "slug": "hemp"
+  "slug": "hemp",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "blue-smoke"
+  ],
+  "related": [
+    "metallic-copper",
+    "crail",
+    "burnt-umber"
+  ],
+  "prev_slug": "hemlock",
+  "next_slug": "hibiscus"
 }

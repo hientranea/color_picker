@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T14:50:47.802134+00:00",
   "updated_at": "2025-06-01T14:50:47.802134+00:00",
-  "slug": "deep-forest-green"
+  "slug": "deep-forest-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "thunderbird"
+  ],
+  "related": [
+    "reef",
+    "chalet-green",
+    "green-kelp"
+  ],
+  "prev_slug": "deep-fir",
+  "next_slug": "deep-koamaru"
 }

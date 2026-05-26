@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T15:23:12.419251+00:00",
   "updated_at": "2025-06-01T15:23:12.419251+00:00",
-  "slug": "hippie-blue"
+  "slug": "hippie-blue",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "matrix"
+  ],
+  "related": [
+    "smalt-blue",
+    "glacier",
+    "cerulean"
+  ],
+  "prev_slug": "himalaya",
+  "next_slug": "hippie-green"
 }

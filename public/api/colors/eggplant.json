@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T15:26:44.674767+00:00",
   "updated_at": "2025-06-01T15:26:44.674767+00:00",
-  "slug": "eggplant"
+  "slug": "eggplant",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "mineral-green",
+    "zanah"
+  ],
+  "related": [
+    "cannon-pink",
+    "cherub",
+    "rose-bud-cherry"
+  ],
+  "prev_slug": "edgewater",
+  "next_slug": "el-paso"
 }

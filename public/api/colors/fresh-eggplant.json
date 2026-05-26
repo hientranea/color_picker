@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T16:00:01.806399+00:00",
   "updated_at": "2025-06-01T16:00:01.806399+00:00",
-  "slug": "fresh-eggplant"
+  "slug": "fresh-eggplant",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "limeade"
+  ],
+  "related": [
+    "flirt",
+    "cardinal-pink",
+    "pompadour"
+  ],
+  "prev_slug": "french-gray",
+  "next_slug": "friar-gray"
 }

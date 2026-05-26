@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:37:59.159987+00:00",
   "updated_at": "2025-06-01T14:37:59.159987+00:00",
-  "slug": "allports"
+  "slug": "allports",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "tabasco"
+  ],
+  "related": [
+    "jelly-bean",
+    "teal-blue",
+    "seagull"
+  ],
+  "prev_slug": "algae-green",
+  "next_slug": "almond-frost"
 }

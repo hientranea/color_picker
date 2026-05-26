@@ -74,5 +74,18 @@
   },
   "created_at": "2025-06-01T15:30:28.88801+00:00",
   "updated_at": "2025-06-01T15:30:28.88801+00:00",
-  "slug": "ironside-gray"
+  "slug": "ironside-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "storm-dust",
+    "teak"
+  ],
+  "related": [
+    "chicago",
+    "husk",
+    "sundance"
+  ],
+  "prev_slug": "iroko",
+  "next_slug": "ironstone"
 }

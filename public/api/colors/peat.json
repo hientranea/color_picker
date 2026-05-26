@@ -83,5 +83,18 @@
   },
   "created_at": "2025-06-01T15:36:22.278043+00:00",
   "updated_at": "2025-06-01T15:36:22.278043+00:00",
-  "slug": "peat"
+  "slug": "peat",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "cutty-sark",
+    "coral-tree"
+  ],
+  "related": [
+    "crocodile",
+    "reef-gold",
+    "hokey-pokey"
+  ],
+  "prev_slug": "peanut",
+  "next_slug": "pelorous"
 }

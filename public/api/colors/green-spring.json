@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T16:19:29.877296+00:00",
   "updated_at": "2025-06-01T16:19:29.877296+00:00",
-  "slug": "green-spring"
+  "slug": "green-spring",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "pale-slate"
+  ],
+  "related": [
+    "sprout",
+    "green-kelp",
+    "marshland"
+  ],
+  "prev_slug": "green-smoke",
+  "next_slug": "green-vogue"
 }

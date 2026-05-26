@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:58:29.647111+00:00",
   "updated_at": "2025-06-01T15:58:29.647111+00:00",
-  "slug": "purple-mountains-majesty"
+  "slug": "purple-mountains-majesty",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "silver-tree"
+  ],
+  "related": [
+    "violet",
+    "amethyst",
+    "mobster"
+  ],
+  "prev_slug": "purple-heart",
+  "next_slug": "quicksand"
 }

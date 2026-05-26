@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T16:10:02.268925+00:00",
   "updated_at": "2025-06-01T16:10:02.268925+00:00",
-  "slug": "lipstick"
+  "slug": "lipstick",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "picton-blue"
+  ],
+  "related": [
+    "mulberry-wood",
+    "tyrian-purple",
+    "toledo"
+  ],
+  "prev_slug": "limed-spruce",
+  "next_slug": "lisbon-brown"
 }

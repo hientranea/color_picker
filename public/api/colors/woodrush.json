@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:01:39.019306+00:00",
   "updated_at": "2025-06-01T15:01:39.019306+00:00",
-  "slug": "woodrush"
+  "slug": "woodrush",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "mirage"
+  ],
+  "related": [
+    "bronze-olive",
+    "heathered-gray",
+    "yukon-gold"
+  ],
+  "prev_slug": "woodland",
+  "next_slug": "woodsmoke"
 }

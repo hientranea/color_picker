@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:36:00.058555+00:00",
   "updated_at": "2025-06-01T15:36:00.058555+00:00",
-  "slug": "studio"
+  "slug": "studio",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "driftwood"
+  ],
+  "related": [
+    "daisy-bush",
+    "tolopea",
+    "purple-heart"
+  ],
+  "prev_slug": "stromboli",
+  "next_slug": "submarine"
 }

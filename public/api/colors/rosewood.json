@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:28:44.402152+00:00",
   "updated_at": "2025-06-01T15:28:44.402152+00:00",
-  "slug": "rosewood"
+  "slug": "rosewood",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "watercourse"
+  ],
+  "related": [
+    "red-devil",
+    "bazaar",
+    "merlot"
+  ],
+  "prev_slug": "rose-of-sharon",
+  "next_slug": "roti"
 }

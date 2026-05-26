@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T15:47:16.229688+00:00",
   "updated_at": "2025-06-01T15:47:16.229688+00:00",
-  "slug": "nutmeg"
+  "slug": "nutmeg",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "ming"
+  ],
+  "related": [
+    "mule-fawn",
+    "peanut",
+    "hairy-heath"
+  ],
+  "prev_slug": "nugget",
+  "next_slug": "nutmeg-wood-finish"
 }

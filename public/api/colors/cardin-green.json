@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T14:40:02.341113+00:00",
   "updated_at": "2025-06-01T14:40:02.341113+00:00",
-  "slug": "cardin-green"
+  "slug": "cardin-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "monza"
+  ],
+  "related": [
+    "jewel",
+    "aero-blue",
+    "fun-green"
+  ],
+  "prev_slug": "cape-palliser",
+  "next_slug": "cardinal"
 }

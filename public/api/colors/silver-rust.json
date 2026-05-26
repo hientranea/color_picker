@@ -80,5 +80,18 @@
   },
   "created_at": "2025-06-01T16:32:20.649741+00:00",
   "updated_at": "2025-06-01T16:32:20.649741+00:00",
-  "slug": "silver-rust"
+  "slug": "silver-rust",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "powder-ash",
+    "french-gray"
+  ],
+  "related": [
+    "cape-palliser",
+    "copper-canyon",
+    "paarl"
+  ],
+  "prev_slug": "silver-chalice",
+  "next_slug": "silver-sand"
 }

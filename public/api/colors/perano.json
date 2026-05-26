@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:08:42.852241+00:00",
   "updated_at": "2025-06-01T16:08:42.852241+00:00",
-  "slug": "perano"
+  "slug": "perano",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "marzipan"
+  ],
+  "related": [
+    "ship-cove",
+    "chambray",
+    "periwinkle-gray"
+  ],
+  "prev_slug": "pelorous",
+  "next_slug": "periwinkle-gray"
 }

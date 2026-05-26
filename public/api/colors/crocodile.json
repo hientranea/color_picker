@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T15:37:40.21953+00:00",
   "updated_at": "2025-06-01T15:37:40.21953+00:00",
-  "slug": "crocodile"
+  "slug": "crocodile",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "cutty-sark",
+    "coriander"
+  ],
+  "related": [
+    "peat",
+    "reef-gold",
+    "hokey-pokey"
+  ],
+  "prev_slug": "crete",
+  "next_slug": "crown-of-thorns"
 }

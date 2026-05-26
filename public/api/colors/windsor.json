@@ -84,5 +84,17 @@
   },
   "created_at": "2025-06-01T15:07:39.815105+00:00",
   "updated_at": "2025-06-01T15:07:39.815105+00:00",
-  "slug": "windsor"
+  "slug": "windsor",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "red-beech"
+  ],
+  "related": [
+    "blue-diamond",
+    "jaguar",
+    "christalle"
+  ],
+  "prev_slug": "willow-grove",
+  "next_slug": "wine-berry"
 }

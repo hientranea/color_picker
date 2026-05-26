@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:55:19.745962+00:00",
   "updated_at": "2025-06-01T15:55:19.745962+00:00",
-  "slug": "nepal"
+  "slug": "nepal",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "oriental-pink"
+  ],
+  "related": [
+    "hoki",
+    "matisse",
+    "gull-gray"
+  ],
+  "prev_slug": "navy-blue",
+  "next_slug": "neptune"
 }

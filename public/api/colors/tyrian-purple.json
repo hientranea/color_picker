@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:29:41.698088+00:00",
   "updated_at": "2025-06-01T15:29:41.698088+00:00",
-  "slug": "tyrian-purple"
+  "slug": "tyrian-purple",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "fun-green"
+  ],
+  "related": [
+    "cosmic",
+    "lipstick",
+    "mulberry-wood"
+  ],
+  "prev_slug": "tussock",
+  "next_slug": "ultramarine"
 }

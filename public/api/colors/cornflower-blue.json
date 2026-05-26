@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:28:30.800169+00:00",
   "updated_at": "2025-06-01T15:28:30.800169+00:00",
-  "slug": "cornflower-blue"
+  "slug": "cornflower-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "copperfield"
+  ],
+  "related": [
+    "shuttle-gray",
+    "cadet-blue",
+    "st-tropaz"
+  ],
+  "prev_slug": "cornflower",
+  "next_slug": "cosmic"
 }

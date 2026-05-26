@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T16:12:10.520379+00:00",
   "updated_at": "2025-06-01T16:12:10.520379+00:00",
-  "slug": "moss-green"
+  "slug": "moss-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "light-wisteria"
+  ],
+  "related": [
+    "deep-fir",
+    "forest-green",
+    "green"
+  ],
+  "prev_slug": "mosque",
+  "next_slug": "mountain-meadow"
 }

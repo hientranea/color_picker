@@ -92,5 +92,19 @@
   },
   "created_at": "2025-06-01T15:33:17.291407+00:00",
   "updated_at": "2025-06-01T15:33:17.291407+00:00",
-  "slug": "dove-gray"
+  "slug": "dove-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "ghost",
+    "contessa",
+    "mantis"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "dorado",
+  "next_slug": "downriver"
 }

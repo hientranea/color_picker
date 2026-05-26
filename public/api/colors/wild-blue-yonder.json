@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:42:09.095025+00:00",
   "updated_at": "2025-06-01T15:42:09.095025+00:00",
-  "slug": "wild-blue-yonder"
+  "slug": "wild-blue-yonder",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "brandy-rose"
+  ],
+  "related": [
+    "bright-gray",
+    "royal-blue",
+    "trout"
+  ],
+  "prev_slug": "west-coast",
+  "next_slug": "wild-willow"
 }

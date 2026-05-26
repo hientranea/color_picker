@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T16:21:23.81553+00:00",
   "updated_at": "2025-06-01T16:21:23.81553+00:00",
-  "slug": "brandy-rose"
+  "slug": "brandy-rose",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "neptune"
+  ],
+  "related": [
+    "roof-terracotta",
+    "thunderbird",
+    "russett"
+  ],
+  "prev_slug": "bracken",
+  "next_slug": "breaker-bay"
 }

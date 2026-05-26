@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T14:56:58.393185+00:00",
   "updated_at": "2025-06-01T14:56:58.393185+00:00",
-  "slug": "plantation"
+  "slug": "plantation",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "turkish-rose"
+  ],
+  "related": [
+    "cape-cod",
+    "gable-green",
+    "persian-green"
+  ],
+  "prev_slug": "pizza",
+  "next_slug": "plum"
 }

@@ -84,5 +84,17 @@
   },
   "created_at": "2025-06-01T14:43:52.061599+00:00",
   "updated_at": "2025-06-01T14:43:52.061599+00:00",
-  "slug": "gossamer"
+  "slug": "gossamer",
+  "hue": "teal",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "carmine"
+  ],
+  "related": [
+    "observatory",
+    "puerto-rico",
+    "deep-sea"
+  ],
+  "prev_slug": "gordons-green",
+  "next_slug": "gothic"
 }

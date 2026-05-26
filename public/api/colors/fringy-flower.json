@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T16:15:22.721807+00:00",
   "updated_at": "2025-06-01T16:15:22.721807+00:00",
-  "slug": "fringy-flower"
+  "slug": "fringy-flower",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "goblin",
+    "aqua-forest",
+    "emerald"
+  ],
+  "prev_slug": "friar-gray",
+  "next_slug": "fruit-salad"
 }

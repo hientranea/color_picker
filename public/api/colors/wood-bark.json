@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T14:56:23.235658+00:00",
   "updated_at": "2025-06-01T14:56:23.235658+00:00",
-  "slug": "wood-bark"
+  "slug": "wood-bark",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "swamp"
+  ],
+  "related": [
+    "beaver",
+    "orange-roughy",
+    "brown-pod"
+  ],
+  "prev_slug": "wistful",
+  "next_slug": "woodland"
 }

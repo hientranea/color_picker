@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T15:29:14.107043+00:00",
   "updated_at": "2025-06-01T15:29:14.107043+00:00",
-  "slug": "willow-grove"
+  "slug": "willow-grove",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "old-lavender"
+  ],
+  "related": [
+    "seaweed",
+    "green-house",
+    "mallard"
+  ],
+  "prev_slug": "william",
+  "next_slug": "windsor"
 }

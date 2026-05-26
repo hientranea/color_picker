@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:32:55.269771+00:00",
   "updated_at": "2025-06-01T15:32:55.269771+00:00",
-  "slug": "turquoise-blue"
+  "slug": "turquoise-blue",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "contessa"
+  ],
+  "related": [
+    "blue-lagoon",
+    "powder-blue",
+    "half-baked"
+  ],
+  "prev_slug": "turquoise",
+  "next_slug": "turtle-green"
 }

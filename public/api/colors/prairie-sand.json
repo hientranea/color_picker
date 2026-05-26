@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:00:52.495918+00:00",
   "updated_at": "2025-06-01T16:00:52.495918+00:00",
-  "slug": "prairie-sand"
+  "slug": "prairie-sand",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "jelly-bean"
+  ],
+  "related": [
+    "kenyan-copper",
+    "redwood",
+    "eclipse"
+  ],
+  "prev_slug": "powder-blue",
+  "next_slug": "prussian-blue"
 }

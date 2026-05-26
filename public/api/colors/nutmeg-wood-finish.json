@@ -81,5 +81,18 @@
   },
   "created_at": "2025-06-01T15:30:50.530282+00:00",
   "updated_at": "2025-06-01T15:30:50.530282+00:00",
-  "slug": "nutmeg-wood-finish"
+  "slug": "nutmeg-wood-finish",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "mosque",
+    "mai-tai"
+  ],
+  "related": [
+    "bourbon",
+    "chelsea-gem",
+    "pumpkin-skin"
+  ],
+  "prev_slug": "nutmeg",
+  "next_slug": "observatory"
 }

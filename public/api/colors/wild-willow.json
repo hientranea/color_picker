@@ -81,5 +81,19 @@
   },
   "created_at": "2025-06-01T16:20:12.244161+00:00",
   "updated_at": "2025-06-01T16:20:12.244161+00:00",
-  "slug": "wild-willow"
+  "slug": "wild-willow",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "laser",
+    "neptune",
+    "amethyst"
+  ],
+  "related": [
+    "avocado",
+    "waiouru",
+    "verdun-green"
+  ],
+  "prev_slug": "wild-blue-yonder",
+  "next_slug": "william"
 }

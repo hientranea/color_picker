@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:06:51.146937+00:00",
   "updated_at": "2025-06-01T16:06:51.146937+00:00",
-  "slug": "luxor-gold"
+  "slug": "luxor-gold",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "keppel"
+  ],
+  "related": [
+    "corn-harvest",
+    "madras",
+    "yellow-metal"
+  ],
+  "prev_slug": "lunar-green",
+  "next_slug": "lynch"
 }

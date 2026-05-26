@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:16:06.98846+00:00",
   "updated_at": "2025-06-01T15:16:06.98846+00:00",
-  "slug": "bracken"
+  "slug": "bracken",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "blue-whale"
+  ],
+  "related": [
+    "reno-sand",
+    "indochine",
+    "natural-gray"
+  ],
+  "prev_slug": "bourbon",
+  "next_slug": "brandy-rose"
 }

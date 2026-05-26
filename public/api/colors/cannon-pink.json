@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:51:14.62434+00:00",
   "updated_at": "2025-06-01T15:51:14.62434+00:00",
-  "slug": "cannon-pink"
+  "slug": "cannon-pink",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "viridian"
+  ],
+  "related": [
+    "eggplant",
+    "rose-bud-cherry",
+    "cherub"
+  ],
+  "prev_slug": "cannon-black",
+  "next_slug": "cape-cod"
 }

@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T14:51:16.288787+00:00",
   "updated_at": "2025-06-01T14:51:16.288787+00:00",
-  "slug": "fun-blue"
+  "slug": "fun-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "mandalay"
+  ],
+  "related": [
+    "havelock-blue",
+    "oxford-blue",
+    "denim"
+  ],
+  "prev_slug": "fuchsia-pink",
+  "next_slug": "fun-green"
 }

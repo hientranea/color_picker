@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T16:10:16.386676+00:00",
   "updated_at": "2025-06-01T16:10:16.386676+00:00",
-  "slug": "sandrift"
+  "slug": "sandrift",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "wild-blue-yonder"
+  ],
+  "related": [
+    "black-marlin",
+    "rich-gold",
+    "pickled-bean"
+  ],
+  "prev_slug": "sandal",
+  "next_slug": "sandstone"
 }

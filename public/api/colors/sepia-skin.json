@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T16:02:32.866105+00:00",
   "updated_at": "2025-06-01T16:02:32.866105+00:00",
-  "slug": "sepia-skin"
+  "slug": "sepia-skin",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "chateau-green"
+  ],
+  "related": [
+    "kilamanjaro",
+    "americano",
+    "english-walnut"
+  ],
+  "prev_slug": "sepia-black",
+  "next_slug": "shadow"
 }

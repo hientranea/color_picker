@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:45:34.853417+00:00",
   "updated_at": "2025-06-01T15:45:34.853417+00:00",
-  "slug": "chartreuse"
+  "slug": "chartreuse",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "electric-violet"
+  ],
+  "related": [
+    "vida-loca",
+    "chelsea-cucumber",
+    "camouflage-green"
+  ],
+  "prev_slug": "charlotte",
+  "next_slug": "chateau-green"
 }

@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:33:52.444049+00:00",
   "updated_at": "2025-06-01T15:33:52.444049+00:00",
-  "slug": "pickled-bean"
+  "slug": "pickled-bean",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "green-pea"
+  ],
+  "related": [
+    "rich-gold",
+    "korma",
+    "oil"
+  ],
+  "prev_slug": "pewter",
+  "next_slug": "pickled-bluewood"
 }

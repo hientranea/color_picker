@@ -82,5 +82,18 @@
   },
   "created_at": "2025-06-01T15:48:14.544334+00:00",
   "updated_at": "2025-06-01T15:48:14.544334+00:00",
-  "slug": "shadow"
+  "slug": "shadow",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "blue-bayoux",
+    "coral-reef"
+  ],
+  "related": [
+    "arrowtown",
+    "deep-bronze",
+    "cloud"
+  ],
+  "prev_slug": "sepia-skin",
+  "next_slug": "shadow-green"
 }

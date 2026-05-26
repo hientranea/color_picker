@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T14:58:56.521537+00:00",
   "updated_at": "2025-06-01T14:58:56.521537+00:00",
-  "slug": "sepia-black"
+  "slug": "sepia-black",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "daintree"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "sepia",
+  "next_slug": "sepia-skin"
 }

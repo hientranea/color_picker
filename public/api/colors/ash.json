@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T16:29:05.800714+00:00",
   "updated_at": "2025-06-01T16:29:05.800714+00:00",
-  "slug": "ash"
+  "slug": "ash",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "powder-ash",
+    "chatelle"
+  ],
+  "related": [
+    "buddha-gold",
+    "bronze-olive",
+    "woodrush"
+  ],
+  "prev_slug": "arrowtown",
+  "next_slug": "asparagus"
 }

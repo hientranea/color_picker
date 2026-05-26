@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T14:39:55.239309+00:00",
   "updated_at": "2025-06-01T14:39:55.239309+00:00",
-  "slug": "daintree"
+  "slug": "daintree",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "sepia-black"
+  ],
+  "related": [
+    "blue-dianne",
+    "ziggurat",
+    "pacific-blue"
+  ],
+  "prev_slug": "cyprus",
+  "next_slug": "daisy-bush"
 }

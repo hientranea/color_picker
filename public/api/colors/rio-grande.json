@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T16:21:31.530136+00:00",
   "updated_at": "2025-06-01T16:21:31.530136+00:00",
-  "slug": "rio-grande"
+  "slug": "rio-grande",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "red-violet"
+  ],
+  "related": [
+    "bitter-lemon",
+    "pacifika",
+    "trendy-green"
+  ],
+  "prev_slug": "rich-gold",
+  "next_slug": "ripe-plum"
 }

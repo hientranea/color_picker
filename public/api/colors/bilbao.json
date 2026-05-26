@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:03:04.264162+00:00",
   "updated_at": "2025-06-01T15:03:04.264162+00:00",
-  "slug": "bilbao"
+  "slug": "bilbao",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "mojo"
+  ],
+  "related": [
+    "la-palma",
+    "pixie-green",
+    "palm-leaf"
+  ],
+  "prev_slug": "big-stone",
+  "next_slug": "biloba-flower"
 }

@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:35:44.176128+00:00",
   "updated_at": "2025-06-01T16:35:44.176128+00:00",
-  "slug": "cherub"
+  "slug": "cherub",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "iceberg"
+  ],
+  "related": [
+    "eggplant",
+    "disco",
+    "cannon-pink"
+  ],
+  "prev_slug": "cherrywood",
+  "next_slug": "chestnut"
 }

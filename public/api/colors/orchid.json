@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T16:33:53.290933+00:00",
   "updated_at": "2025-06-01T16:33:53.290933+00:00",
-  "slug": "orchid"
+  "slug": "orchid",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "aquamarine-blue"
+  ],
+  "related": [
+    "old-lavender",
+    "fedora",
+    "fuchsia-pink"
+  ],
+  "prev_slug": "orange-roughy",
+  "next_slug": "oregon"
 }

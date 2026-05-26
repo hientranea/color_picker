@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:07:11.307133+00:00",
   "updated_at": "2025-06-01T15:07:11.307133+00:00",
-  "slug": "jon"
+  "slug": "jon",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "te-papa-green"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "jewel",
+  "next_slug": "jordy-blue"
 }

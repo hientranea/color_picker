@@ -84,5 +84,17 @@
   },
   "created_at": "2025-06-01T16:00:08.997442+00:00",
   "updated_at": "2025-06-01T16:00:08.997442+00:00",
-  "slug": "violet-eggplant"
+  "slug": "violet-eggplant",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "forest-green"
+  ],
+  "related": [
+    "fuchsia-pink",
+    "lilac",
+    "mardi-gras"
+  ],
+  "prev_slug": "violet",
+  "next_slug": "viridian"
 }

@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:53:56.981563+00:00",
   "updated_at": "2025-06-01T15:53:56.981563+00:00",
-  "slug": "paprika"
+  "slug": "paprika",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "eucalyptus"
+  ],
+  "related": [
+    "tundora",
+    "emperor",
+    "maroon-flush"
+  ],
+  "prev_slug": "palm-leaf",
+  "next_slug": "paradiso"
 }

@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T16:24:47.4911+00:00",
   "updated_at": "2025-06-01T16:24:47.4911+00:00",
-  "slug": "tia-maria"
+  "slug": "tia-maria",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "robins-egg-blue"
+  ],
+  "related": [
+    "rust",
+    "cumin",
+    "nero"
+  ],
+  "prev_slug": "thunderbird",
+  "next_slug": "tiara"
 }

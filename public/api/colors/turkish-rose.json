@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:16:56.762226+00:00",
   "updated_at": "2025-06-01T16:16:56.762226+00:00",
-  "slug": "turkish-rose"
+  "slug": "turkish-rose",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "gulf-stream"
+  ],
+  "related": [
+    "burgundy",
+    "pink-swan",
+    "monarch"
+  ],
+  "prev_slug": "tundora",
+  "next_slug": "turmeric"
 }

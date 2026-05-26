@@ -79,5 +79,18 @@
   },
   "created_at": "2025-06-01T15:09:27.747838+00:00",
   "updated_at": "2025-06-01T15:09:27.747838+00:00",
-  "slug": "ship-gray"
+  "slug": "ship-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "cabbage-pont",
+    "gray-chateau"
+  ],
+  "related": [
+    "baltic-sea",
+    "amethyst-smoke",
+    "lilac-bush"
+  ],
+  "prev_slug": "ship-cove",
+  "next_slug": "shiraz"
 }

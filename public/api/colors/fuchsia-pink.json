@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T16:24:54.054939+00:00",
   "updated_at": "2025-06-01T16:24:54.054939+00:00",
-  "slug": "fuchsia-pink"
+  "slug": "fuchsia-pink",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "fern"
+  ],
+  "related": [
+    "lilac",
+    "violet-eggplant",
+    "mardi-gras"
+  ],
+  "prev_slug": "fuchsia-blue",
+  "next_slug": "fun-blue"
 }

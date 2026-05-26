@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T15:27:20.825715+00:00",
   "updated_at": "2025-06-01T15:27:20.825715+00:00",
-  "slug": "butterfly-bush"
+  "slug": "butterfly-bush",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "cape-palliser"
+  ],
+  "related": [
+    "topaz",
+    "deluge",
+    "gigas"
+  ],
+  "prev_slug": "buttered-rum",
+  "next_slug": "cab-sav"
 }

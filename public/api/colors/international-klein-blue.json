@@ -78,5 +78,17 @@
   },
   "created_at": "2025-05-18T14:02:33.740306+00:00",
   "updated_at": "2025-05-18T14:02:33.740306+00:00",
-  "slug": "international-klein-blue"
+  "slug": "international-klein-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "galliano"
+  ],
+  "related": [
+    "periwinkle-gray",
+    "shark",
+    "chambray"
+  ],
+  "prev_slug": "indochine",
+  "next_slug": "irish-coffee"
 }

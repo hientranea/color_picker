@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T16:16:31.700426+00:00",
   "updated_at": "2025-06-01T16:16:31.700426+00:00",
-  "slug": "well-read"
+  "slug": "well-read",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "pelorous"
+  ],
+  "related": [
+    "fuzzy-wuzzy-brown",
+    "black",
+    "boulder"
+  ],
+  "prev_slug": "wedgewood",
+  "next_slug": "west-coast"
 }

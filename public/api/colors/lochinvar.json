@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T14:59:37.572479+00:00",
   "updated_at": "2025-06-01T14:59:37.572479+00:00",
-  "slug": "lochinvar"
+  "slug": "lochinvar",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "sanguine-brown"
+  ],
+  "related": [
+    "eden",
+    "pine-green",
+    "tradewind"
+  ],
+  "prev_slug": "livid-brown",
+  "next_slug": "lochmara"
 }

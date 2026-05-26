@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:38:34.109523+00:00",
   "updated_at": "2025-06-01T14:38:34.109523+00:00",
-  "slug": "bondi-blue"
+  "slug": "bondi-blue",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "milano-red"
+  ],
+  "related": [
+    "firefly",
+    "charlotte",
+    "sky-blue"
+  ],
+  "prev_slug": "bombay",
+  "next_slug": "bordeaux"
 }

@@ -80,5 +80,18 @@
   },
   "created_at": "2025-06-01T16:04:05.941178+00:00",
   "updated_at": "2025-06-01T16:04:05.941178+00:00",
-  "slug": "hit-gray"
+  "slug": "hit-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "shady-lady",
+    "norway"
+  ],
+  "related": [
+    "oslo-gray",
+    "rolling-stone",
+    "blue-bayoux"
+  ],
+  "prev_slug": "hippie-green",
+  "next_slug": "hokey-pokey"
 }

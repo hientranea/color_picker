@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T15:16:57.303871+00:00",
   "updated_at": "2025-06-01T15:16:57.303871+00:00",
-  "slug": "nandor"
+  "slug": "nandor",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "turmeric"
+  ],
+  "related": [
+    "oxley",
+    "racing-green",
+    "padua"
+  ],
+  "prev_slug": "mulled-wine",
+  "next_slug": "napa"
 }

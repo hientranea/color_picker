@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:13:57.838423+00:00",
   "updated_at": "2025-06-01T15:13:57.838423+00:00",
-  "slug": "san-marino"
+  "slug": "san-marino",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "driftwood"
+  ],
+  "related": [
+    "azure",
+    "st-tropaz",
+    "shuttle-gray"
+  ],
+  "prev_slug": "san-juan",
+  "next_slug": "sand-dune"
 }

@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:23:19.81395+00:00",
   "updated_at": "2025-06-01T15:23:19.81395+00:00",
-  "slug": "wine-berry"
+  "slug": "wine-berry",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "green-pea"
+  ],
+  "related": [
+    "camelot",
+    "vin-rouge",
+    "black-rose"
+  ],
+  "prev_slug": "windsor",
+  "next_slug": "wisteria"
 }

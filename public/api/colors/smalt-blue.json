@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:20:53.10404+00:00",
   "updated_at": "2025-06-01T15:20:53.10404+00:00",
-  "slug": "smalt-blue"
+  "slug": "smalt-blue",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "au-chico"
+  ],
+  "related": [
+    "hippie-blue",
+    "glacier",
+    "cerulean"
+  ],
+  "prev_slug": "smalt",
+  "next_slug": "smoky"
 }

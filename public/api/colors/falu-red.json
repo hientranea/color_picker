@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:46:03.542175+00:00",
   "updated_at": "2025-06-01T15:46:03.542175+00:00",
-  "slug": "falu-red"
+  "slug": "falu-red",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "elm"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "falcon",
+  "next_slug": "fedora"
 }

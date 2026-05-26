@@ -80,5 +80,19 @@
   },
   "created_at": "2025-06-01T16:27:22.595151+00:00",
   "updated_at": "2025-06-01T16:27:22.595151+00:00",
-  "slug": "mist-gray"
+  "slug": "mist-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "silver-sand",
+    "pale-slate",
+    "friar-gray"
+  ],
+  "related": [
+    "delta",
+    "gray-nickel",
+    "olive"
+  ],
+  "prev_slug": "mirage",
+  "next_slug": "mobster"
 }

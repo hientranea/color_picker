@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T14:38:27.023866+00:00",
   "updated_at": "2025-06-01T14:38:27.023866+00:00",
-  "slug": "teal"
+  "slug": "teal",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "maroon"
+  ],
+  "related": [
+    "cyan-aqua",
+    "granny-smith",
+    "juniper"
+  ],
+  "prev_slug": "teak",
+  "next_slug": "teal-blue"
 }

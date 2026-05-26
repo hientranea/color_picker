@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:13:49.911304+00:00",
   "updated_at": "2025-06-01T16:13:49.911304+00:00",
-  "slug": "pigeon-post"
+  "slug": "pigeon-post",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "madison",
+    "smalt",
+    "tangaroa"
+  ],
+  "prev_slug": "picton-blue",
+  "next_slug": "pigment-indigo"
 }

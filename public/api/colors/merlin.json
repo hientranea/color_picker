@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:11:56.579932+00:00",
   "updated_at": "2025-06-01T15:11:56.579932+00:00",
-  "slug": "merlin"
+  "slug": "merlin",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "pumice"
+  ],
+  "related": [
+    "brown",
+    "concord",
+    "crowshead"
+  ],
+  "prev_slug": "melrose",
+  "next_slug": "merlot"
 }

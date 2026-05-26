@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T16:30:13.118137+00:00",
   "updated_at": "2025-06-01T16:30:13.118137+00:00",
-  "slug": "melrose"
+  "slug": "melrose",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "marzipan"
+  ],
+  "related": [
+    "moody-blue",
+    "deep-koamaru",
+    "scampi"
+  ],
+  "prev_slug": "melanzane",
+  "next_slug": "merlin"
 }

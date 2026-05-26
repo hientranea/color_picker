@@ -81,5 +81,18 @@
   },
   "created_at": "2025-06-01T16:22:21.555663+00:00",
   "updated_at": "2025-06-01T16:22:21.555663+00:00",
-  "slug": "chatelle"
+  "slug": "chatelle",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "ash",
+    "powder-ash"
+  ],
+  "related": [
+    "amethyst",
+    "mobster",
+    "rum"
+  ],
+  "prev_slug": "chateau-green",
+  "next_slug": "chathams-blue"
 }

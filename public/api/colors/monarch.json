@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:52:18.790079+00:00",
   "updated_at": "2025-06-01T15:52:18.790079+00:00",
-  "slug": "monarch"
+  "slug": "monarch",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "observatory"
+  ],
+  "related": [
+    "cab-sav",
+    "pink-swan",
+    "burgundy"
+  ],
+  "prev_slug": "mojo",
+  "next_slug": "mondo"
 }

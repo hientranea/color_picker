@@ -84,5 +84,17 @@
   },
   "created_at": "2025-06-01T14:36:39.950421+00:00",
   "updated_at": "2025-06-01T14:36:39.950421+00:00",
-  "slug": "deep-teal"
+  "slug": "deep-teal",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "chocolate"
+  ],
+  "related": [
+    "aqua-island",
+    "bright-turquoise",
+    "spectra"
+  ],
+  "prev_slug": "deep-sea-green",
+  "next_slug": "del-rio"
 }

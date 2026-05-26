@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:53:43.467288+00:00",
   "updated_at": "2025-06-01T15:53:43.467288+00:00",
-  "slug": "potters-clay"
+  "slug": "potters-clay",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "lochinvar"
+  ],
+  "related": [
+    "spice",
+    "brown-pod",
+    "antique-brass"
+  ],
+  "prev_slug": "portage",
+  "next_slug": "powder-ash"
 }

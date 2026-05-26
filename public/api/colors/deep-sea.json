@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:41:13.354769+00:00",
   "updated_at": "2025-06-01T14:41:13.354769+00:00",
-  "slug": "deep-sea"
+  "slug": "deep-sea",
+  "hue": "teal",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "red-devil"
+  ],
+  "related": [
+    "puerto-rico",
+    "gossamer",
+    "observatory"
+  ],
+  "prev_slug": "deep-sapphire",
+  "next_slug": "deep-sea-green"
 }

@@ -79,5 +79,18 @@
   },
   "created_at": "2025-06-01T15:17:11.353372+00:00",
   "updated_at": "2025-06-01T15:17:11.353372+00:00",
-  "slug": "abbey"
+  "slug": "abbey",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "cherub",
+    "dawn"
+  ],
+  "related": [
+    "waikawa-gray",
+    "deep-sapphire",
+    "sapphire"
+  ],
+  "prev_slug": null,
+  "next_slug": "acadia"
 }

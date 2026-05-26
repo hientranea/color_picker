@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T14:57:46.01846+00:00",
   "updated_at": "2025-06-01T14:57:46.01846+00:00",
-  "slug": "bastille"
+  "slug": "bastille",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "paris-white"
+  ],
+  "related": [
+    "jagger",
+    "blackcurrant",
+    "electric-violet"
+  ],
+  "prev_slug": "barossa",
+  "next_slug": "battleship-gray"
 }

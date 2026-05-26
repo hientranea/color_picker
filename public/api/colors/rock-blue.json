@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T16:02:54.951691+00:00",
   "updated_at": "2025-06-01T16:02:54.951691+00:00",
-  "slug": "rock-blue"
+  "slug": "rock-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "rodeo-dust"
+  ],
+  "related": [
+    "midnight",
+    "blue-ribbon",
+    "bunker"
+  ],
+  "prev_slug": "rock",
+  "next_slug": "rock-spray"
 }

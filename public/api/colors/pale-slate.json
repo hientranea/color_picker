@@ -77,5 +77,19 @@
   },
   "created_at": "2025-06-01T16:26:26.227682+00:00",
   "updated_at": "2025-06-01T16:26:26.227682+00:00",
-  "slug": "pale-slate"
+  "slug": "pale-slate",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "silver-sand",
+    "gray-nickel",
+    "pelorous"
+  ],
+  "related": [
+    "rose-bud-cherry",
+    "cannon-pink",
+    "eggplant"
+  ],
+  "prev_slug": "pale-sky",
+  "next_slug": "palm-green"
 }

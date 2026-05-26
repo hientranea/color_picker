@@ -77,5 +77,19 @@
   },
   "created_at": "2025-06-01T16:22:28.274908+00:00",
   "updated_at": "2025-06-01T16:22:28.274908+00:00",
-  "slug": "lavender-gray"
+  "slug": "lavender-gray",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "blossom",
+    "silver",
+    "bison-hide"
+  ],
+  "related": [
+    "ultramarine",
+    "deep-koamaru",
+    "ebony"
+  ],
+  "prev_slug": "lavender",
+  "next_slug": "lavender-purple"
 }

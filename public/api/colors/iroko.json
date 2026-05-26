@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:13:01.698494+00:00",
   "updated_at": "2025-06-01T15:13:01.698494+00:00",
-  "slug": "iroko"
+  "slug": "iroko",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "cello"
+  ],
+  "related": [
+    "judge-gray",
+    "jacko-bean",
+    "copper"
+  ],
+  "prev_slug": "irish-coffee",
+  "next_slug": "ironside-gray"
 }

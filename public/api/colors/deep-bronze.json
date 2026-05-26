@@ -81,5 +81,18 @@
   },
   "created_at": "2025-06-01T15:16:14.295797+00:00",
   "updated_at": "2025-06-01T15:16:14.295797+00:00",
-  "slug": "deep-bronze"
+  "slug": "deep-bronze",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "aqua-deep",
+    "sandal"
+  ],
+  "related": [
+    "arrowtown",
+    "shadow",
+    "kumera"
+  ],
+  "prev_slug": "deep-blue",
+  "next_slug": "deep-cerulean"
 }

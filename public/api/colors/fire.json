@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T16:09:03.870938+00:00",
   "updated_at": "2025-06-01T16:09:03.870938+00:00",
-  "slug": "fire"
+  "slug": "fire",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "endeavour"
+  ],
+  "related": [
+    "leather",
+    "roman-coffee",
+    "masala"
+  ],
+  "prev_slug": "fiord",
+  "next_slug": "firefly"
 }

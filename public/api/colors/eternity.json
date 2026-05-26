@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:54:23.204021+00:00",
   "updated_at": "2025-06-01T14:54:23.204021+00:00",
-  "slug": "eternity"
+  "slug": "eternity",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "vulcan"
+  ],
+  "related": [
+    "kumera",
+    "deep-bronze",
+    "arrowtown"
+  ],
+  "prev_slug": "espresso",
+  "next_slug": "eucalyptus"
 }

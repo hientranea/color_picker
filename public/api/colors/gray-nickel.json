@@ -80,5 +80,19 @@
   },
   "created_at": "2025-06-01T16:26:32.837171+00:00",
   "updated_at": "2025-06-01T16:26:32.837171+00:00",
-  "slug": "gray-nickel"
+  "slug": "gray-nickel",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "silver-sand",
+    "pale-slate",
+    "gray-nickel"
+  ],
+  "related": [
+    "delta",
+    "mist-gray",
+    "olive"
+  ],
+  "prev_slug": "gray-chateau",
+  "next_slug": "gray-olive"
 }

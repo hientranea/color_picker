@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:14:54.494453+00:00",
   "updated_at": "2025-06-01T15:14:54.494453+00:00",
-  "slug": "clairvoyant"
+  "slug": "clairvoyant",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "madang"
+  ],
+  "related": [
+    "london-hue",
+    "vivid-violet",
+    "trendy-pink"
+  ],
+  "prev_slug": "citrus",
+  "next_slug": "claret"
 }

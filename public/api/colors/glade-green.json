@@ -85,5 +85,17 @@
   },
   "created_at": "2025-06-01T15:26:59.273882+00:00",
   "updated_at": "2025-06-01T15:26:59.273882+00:00",
-  "slug": "glade-green"
+  "slug": "glade-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "falcon"
+  ],
+  "related": [
+    "gray-asparagus",
+    "san-felix",
+    "japanese-laurel"
+  ],
+  "prev_slug": "glacier",
+  "next_slug": "go-ben"
 }

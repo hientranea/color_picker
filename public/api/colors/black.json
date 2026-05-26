@@ -78,5 +78,18 @@
   },
   "created_at": "2025-05-18T14:01:30.619318+00:00",
   "updated_at": "2025-05-18T14:01:30.619318+00:00",
-  "slug": "black"
+  "slug": "black",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "iceberg",
+    "gray"
+  ],
+  "related": [
+    "boulder",
+    "bright-red",
+    "burnt-maroon"
+  ],
+  "prev_slug": "bitter-lemon",
+  "next_slug": "black-bean"
 }

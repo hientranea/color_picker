@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T15:48:38.071569+00:00",
   "updated_at": "2025-06-01T15:48:38.071569+00:00",
-  "slug": "chetwode-blue"
+  "slug": "chetwode-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "old-rose"
+  ],
+  "related": [
+    "arapawa",
+    "blue-haze",
+    "ebony"
+  ],
+  "prev_slug": "chestnut",
+  "next_slug": "chicago"
 }

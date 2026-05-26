@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T14:42:45.358053+00:00",
   "updated_at": "2025-06-01T14:42:45.358053+00:00",
-  "slug": "black-pearl"
+  "slug": "black-pearl",
+  "hue": "gray",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "marzipan"
+  ],
+  "related": [
+    "midnight-blue",
+    "science-blue",
+    "slate-gray"
+  ],
+  "prev_slug": "black-olive",
+  "next_slug": "black-rock"
 }

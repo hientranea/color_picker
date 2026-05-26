@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T14:47:05.314895+00:00",
   "updated_at": "2025-06-01T14:47:05.314895+00:00",
-  "slug": "black-rock"
+  "slug": "black-rock",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "las-palmas"
+  ],
+  "related": [
+    "smoky",
+    "gray-suit",
+    "dull-lavender"
+  ],
+  "prev_slug": "black-pearl",
+  "next_slug": "black-rose"
 }

@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:09:41.945894+00:00",
   "updated_at": "2025-06-01T15:09:41.945894+00:00",
-  "slug": "bronze"
+  "slug": "bronze",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "big-stone"
+  ],
+  "related": [
+    "rose-of-sharon",
+    "millbrook",
+    "oregon"
+  ],
+  "prev_slug": "bronco",
+  "next_slug": "bronze-olive"
 }

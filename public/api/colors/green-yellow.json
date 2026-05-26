@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T16:12:25.382788+00:00",
   "updated_at": "2025-06-01T16:12:25.382788+00:00",
-  "slug": "green-yellow"
+  "slug": "green-yellow",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "coral-red"
+  ],
+  "related": [
+    "sulu",
+    "schist",
+    "coriander"
+  ],
+  "prev_slug": "green-waterloo",
+  "next_slug": "guardsman-red"
 }

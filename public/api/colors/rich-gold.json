@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T16:06:58.123603+00:00",
   "updated_at": "2025-06-01T16:06:58.123603+00:00",
-  "slug": "rich-gold"
+  "slug": "rich-gold",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "endeavour"
+  ],
+  "related": [
+    "pickled-bean",
+    "korma",
+    "black-marlin"
+  ],
+  "prev_slug": "rhino",
+  "next_slug": "rio-grande"
 }

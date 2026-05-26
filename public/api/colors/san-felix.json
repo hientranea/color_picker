@@ -78,5 +78,18 @@
   },
   "created_at": "2025-06-07T08:16:41.53342+00:00",
   "updated_at": "2025-06-07T08:16:41.53342+00:00",
-  "slug": "san-felix"
+  "slug": "san-felix",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "clairvoyant",
+    "saratoga"
+  ],
+  "related": [
+    "japanese-laurel",
+    "gray-asparagus",
+    "glade-green"
+  ],
+  "prev_slug": "sambuca",
+  "next_slug": "san-juan"
 }

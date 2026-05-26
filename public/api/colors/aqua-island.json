@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:04:19.466315+00:00",
   "updated_at": "2025-06-01T16:04:19.466315+00:00",
-  "slug": "aqua-island"
+  "slug": "aqua-island",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "rodeo-dust"
+  ],
+  "related": [
+    "deep-teal",
+    "bright-turquoise",
+    "faded-jade"
+  ],
+  "prev_slug": "aqua-forest",
+  "next_slug": "aquamarine"
 }

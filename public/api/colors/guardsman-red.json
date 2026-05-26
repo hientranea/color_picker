@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:20:26.56497+00:00",
   "updated_at": "2025-06-01T16:20:26.56497+00:00",
-  "slug": "guardsman-red"
+  "slug": "guardsman-red",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "robins-egg-blue"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "green-yellow",
+  "next_slug": "gulf-blue"
 }

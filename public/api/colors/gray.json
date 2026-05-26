@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:46:46.5182+00:00",
   "updated_at": "2025-06-01T15:46:46.5182+00:00",
-  "slug": "gray"
+  "slug": "gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "gray"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "gravel",
+  "next_slug": "gray-asparagus"
 }

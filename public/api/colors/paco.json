@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:11:41.867669+00:00",
   "updated_at": "2025-06-01T15:11:41.867669+00:00",
-  "slug": "paco"
+  "slug": "paco",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "elephant"
+  ],
+  "related": [
+    "asphalt",
+    "copperfield",
+    "rust"
+  ],
+  "prev_slug": "pacifika",
+  "next_slug": "padua"
 }

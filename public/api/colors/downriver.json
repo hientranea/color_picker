@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:44:50.103305+00:00",
   "updated_at": "2025-06-01T14:44:50.103305+00:00",
-  "slug": "downriver"
+  "slug": "downriver",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "galliano"
+  ],
+  "related": [
+    "rhino",
+    "blue-zodiac",
+    "madison"
+  ],
+  "prev_slug": "dove-gray",
+  "next_slug": "downy"
 }

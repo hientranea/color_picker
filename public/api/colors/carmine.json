@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:58:08.767605+00:00",
   "updated_at": "2025-06-01T15:58:08.767605+00:00",
-  "slug": "carmine"
+  "slug": "carmine",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "gossamer"
+  ],
+  "related": [
+    "zambezi",
+    "spicy-pink",
+    "livid-brown"
+  ],
+  "prev_slug": "caribbean-green",
+  "next_slug": "carnaby-tan"
 }

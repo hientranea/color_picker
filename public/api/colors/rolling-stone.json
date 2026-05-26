@@ -79,5 +79,18 @@
   },
   "created_at": "2025-06-01T15:38:16.160166+00:00",
   "updated_at": "2025-06-01T15:38:16.160166+00:00",
-  "slug": "rolling-stone"
+  "slug": "rolling-stone",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "empress",
+    "friar-gray"
+  ],
+  "related": [
+    "hit-gray",
+    "oslo-gray",
+    "blue-bayoux"
+  ],
+  "prev_slug": "rodeo-dust",
+  "next_slug": "roman-coffee"
 }

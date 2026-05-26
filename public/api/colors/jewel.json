@@ -84,5 +84,17 @@
   },
   "created_at": "2025-06-01T14:48:39.31848+00:00",
   "updated_at": "2025-06-01T14:48:39.31848+00:00",
-  "slug": "jewel"
+  "slug": "jewel",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "cadillac"
+  ],
+  "related": [
+    "aero-blue",
+    "fun-green",
+    "silver-tree"
+  ],
+  "prev_slug": "jet-stream",
+  "next_slug": "jon"
 }

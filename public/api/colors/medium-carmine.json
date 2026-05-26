@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:12:51.369299+00:00",
   "updated_at": "2025-06-01T16:12:51.369299+00:00",
-  "slug": "medium-carmine"
+  "slug": "medium-carmine",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "boston-blue"
+  ],
+  "related": [
+    "dorado",
+    "apple-blossom",
+    "dark-burgundy"
+  ],
+  "prev_slug": "matterhorn",
+  "next_slug": "medium-purple"
 }

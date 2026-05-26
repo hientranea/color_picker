@@ -81,5 +81,18 @@
   },
   "created_at": "2025-06-01T16:25:55.817807+00:00",
   "updated_at": "2025-06-01T16:25:55.817807+00:00",
-  "slug": "pumice"
+  "slug": "pumice",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "gray-suit",
+    "delta"
+  ],
+  "related": [
+    "xanadu",
+    "palm-green",
+    "killarney"
+  ],
+  "prev_slug": "puerto-rico",
+  "next_slug": "pumpkin-skin"
 }

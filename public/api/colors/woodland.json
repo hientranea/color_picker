@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T15:18:15.684195+00:00",
   "updated_at": "2025-06-01T15:18:15.684195+00:00",
-  "slug": "woodland"
+  "slug": "woodland",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "turmeric"
+  ],
+  "related": [
+    "finch",
+    "bitter",
+    "verdun-green"
+  ],
+  "prev_slug": "wood-bark",
+  "next_slug": "woodrush"
 }

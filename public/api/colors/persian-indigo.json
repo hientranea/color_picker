@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:02:36.011831+00:00",
   "updated_at": "2025-06-01T15:02:36.011831+00:00",
-  "slug": "persian-indigo"
+  "slug": "persian-indigo",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "spicy-mustard"
+  ],
+  "related": [
+    "mulled-wine",
+    "haiti",
+    "fuchsia-blue"
+  ],
+  "prev_slug": "persian-green",
+  "next_slug": "persian-plum"
 }

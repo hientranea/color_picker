@@ -75,5 +75,18 @@
   },
   "created_at": "2025-06-01T15:11:06.230684+00:00",
   "updated_at": "2025-06-01T15:11:06.230684+00:00",
-  "slug": "thatch-green"
+  "slug": "thatch-green",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "paris-white",
+    "taupe-gray"
+  ],
+  "related": [
+    "pesto",
+    "costa-del-sol",
+    "camouflage"
+  ],
+  "prev_slug": "thatch",
+  "next_slug": "thunder"
 }

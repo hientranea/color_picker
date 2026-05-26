@@ -70,5 +70,17 @@
   },
   "created_at": "2025-06-01T14:43:38.327673+00:00",
   "updated_at": "2025-06-01T14:43:38.327673+00:00",
-  "slug": "catalina-blue"
+  "slug": "catalina-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "antique-bronze"
+  ],
+  "related": [
+    "mako",
+    "biscay",
+    "downriver"
+  ],
+  "prev_slug": "castro",
+  "next_slug": "cedar"
 }

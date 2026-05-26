@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:29:55.753869+00:00",
   "updated_at": "2025-06-01T15:29:55.753869+00:00",
-  "slug": "silver-tree"
+  "slug": "silver-tree",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "tapestry"
+  ],
+  "related": [
+    "aero-blue",
+    "fun-green",
+    "jewel"
+  ],
+  "prev_slug": "silver-sand",
+  "next_slug": "sinbad"
 }

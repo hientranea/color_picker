@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:53:22.331689+00:00",
   "updated_at": "2025-06-01T15:53:22.331689+00:00",
-  "slug": "riptide"
+  "slug": "riptide",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "light-wisteria"
+  ],
+  "related": [
+    "iceberg",
+    "elf-green",
+    "niagara"
+  ],
+  "prev_slug": "ripe-plum",
+  "next_slug": "river-bed"
 }

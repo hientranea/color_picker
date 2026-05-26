@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:29:06.626632+00:00",
   "updated_at": "2025-06-01T15:29:06.626632+00:00",
-  "slug": "fern-frond"
+  "slug": "fern-frond",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "blumine"
+  ],
+  "related": [
+    "las-palmas",
+    "green-smoke",
+    "bitter"
+  ],
+  "prev_slug": "fern",
+  "next_slug": "fern-green"
 }

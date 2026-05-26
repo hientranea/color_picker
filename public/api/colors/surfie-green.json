@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T14:46:51.198182+00:00",
   "updated_at": "2025-06-01T14:46:51.198182+00:00",
-  "slug": "surfie-green"
+  "slug": "surfie-green",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "dark-burgundy"
+  ],
+  "related": [
+    "cyan-aqua",
+    "granny-smith",
+    "juniper"
+  ],
+  "prev_slug": "surf",
+  "next_slug": "sushi"
 }

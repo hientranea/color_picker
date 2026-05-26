@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:17:46.241341+00:00",
   "updated_at": "2025-06-01T15:17:46.241341+00:00",
-  "slug": "livid-brown"
+  "slug": "livid-brown",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "plantation"
+  ],
+  "related": [
+    "carmine",
+    "zambezi",
+    "spicy-pink"
+  ],
+  "prev_slug": "lisbon-brown",
+  "next_slug": "lochinvar"
 }

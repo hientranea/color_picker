@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:53:08.421522+00:00",
   "updated_at": "2025-06-01T15:53:08.421522+00:00",
-  "slug": "envy"
+  "slug": "envy",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "zorba"
+  ],
+  "related": [
+    "de-york",
+    "fruit-salad",
+    "spanish-green"
+  ],
+  "prev_slug": "english-walnut",
+  "next_slug": "espresso"
 }

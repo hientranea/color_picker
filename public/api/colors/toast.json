@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T16:00:59.968298+00:00",
   "updated_at": "2025-06-01T16:00:59.968298+00:00",
-  "slug": "toast"
+  "slug": "toast",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "hoki"
+  ],
+  "related": [
+    "pueblo",
+    "cedar-wood-finish",
+    "rebel"
+  ],
+  "prev_slug": "timber-green",
+  "next_slug": "tobacco-brown"
 }

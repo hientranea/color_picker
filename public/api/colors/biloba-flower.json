@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:15:44.654578+00:00",
   "updated_at": "2025-06-01T16:15:44.654578+00:00",
-  "slug": "biloba-flower"
+  "slug": "biloba-flower",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "true-v",
+    "deep-blue",
+    "scarpa-flow"
+  ],
+  "prev_slug": "bilbao",
+  "next_slug": "birch"
 }

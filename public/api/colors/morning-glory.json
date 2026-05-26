@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T16:03:01.717003+00:00",
   "updated_at": "2025-06-01T16:03:01.717003+00:00",
-  "slug": "morning-glory"
+  "slug": "morning-glory",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "rodeo-dust"
+  ],
+  "related": [
+    "cyprus",
+    "swamp",
+    "mosque"
+  ],
+  "prev_slug": "moody-blue",
+  "next_slug": "morocco-brown"
 }

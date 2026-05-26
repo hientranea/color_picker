@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:02:00.512826+00:00",
   "updated_at": "2025-06-01T15:02:00.512826+00:00",
-  "slug": "eclipse"
+  "slug": "eclipse",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "timber-green"
+  ],
+  "related": [
+    "redwood",
+    "rock",
+    "quicksand"
+  ],
+  "prev_slug": "ebony-clay",
+  "next_slug": "eden"
 }

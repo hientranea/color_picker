@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:29:20.970911+00:00",
   "updated_at": "2025-06-01T15:29:20.970911+00:00",
-  "slug": "hoki"
+  "slug": "hoki",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "toast"
+  ],
+  "related": [
+    "matisse",
+    "nepal",
+    "gull-gray"
+  ],
+  "prev_slug": "hokey-pokey",
+  "next_slug": "holly"
 }

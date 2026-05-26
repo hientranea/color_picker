@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T16:03:51.26872+00:00",
   "updated_at": "2025-06-01T16:03:51.26872+00:00",
-  "slug": "tabasco"
+  "slug": "tabasco",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "blue-chill"
+  ],
+  "related": [
+    "burnt-umber",
+    "metallic-copper",
+    "hemp"
+  ],
+  "prev_slug": "sycamore",
+  "next_slug": "tall-poppy"
 }

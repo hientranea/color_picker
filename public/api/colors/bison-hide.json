@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T16:25:08.376197+00:00",
   "updated_at": "2025-06-01T16:25:08.376197+00:00",
-  "slug": "bison-hide"
+  "slug": "bison-hide",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "cadet-blue"
+  ],
+  "related": [
+    "brown-tumbleweed",
+    "mongoose",
+    "dawn"
+  ],
+  "prev_slug": "bismark",
+  "next_slug": "bistre"
 }

@@ -78,5 +78,18 @@
   },
   "created_at": "2025-06-01T14:55:05.371342+00:00",
   "updated_at": "2025-06-01T14:55:05.371342+00:00",
-  "slug": "log-cabin"
+  "slug": "log-cabin",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "shark",
+    "dawn"
+  ],
+  "related": [
+    "battleship-gray",
+    "olivine",
+    "christi"
+  ],
+  "prev_slug": "locust",
+  "next_slug": "logan"
 }

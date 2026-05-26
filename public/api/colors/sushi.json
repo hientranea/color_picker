@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T15:50:25.517596+00:00",
   "updated_at": "2025-06-01T15:50:25.517596+00:00",
-  "slug": "sushi"
+  "slug": "sushi",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "luxor-gold"
+  ],
+  "related": [
+    "turtle-green",
+    "olive-drab",
+    "clover"
+  ],
+  "prev_slug": "surfie-green",
+  "next_slug": "suva-gray"
 }

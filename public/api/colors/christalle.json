@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-07T08:17:32.98214+00:00",
   "updated_at": "2025-06-07T08:17:32.98214+00:00",
-  "slug": "christalle"
+  "slug": "christalle",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "indochine"
+  ],
+  "related": [
+    "blue-diamond",
+    "windsor",
+    "lavender-purple"
+  ],
+  "prev_slug": "chocolate",
+  "next_slug": "christi"
 }

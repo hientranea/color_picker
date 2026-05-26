@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:26:04.531751+00:00",
   "updated_at": "2025-06-01T16:26:04.531751+00:00",
-  "slug": "jagged-ice"
+  "slug": "jagged-ice",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "turquoise",
+    "eden",
+    "pine-green"
+  ],
+  "prev_slug": "jade",
+  "next_slug": "jagger"
 }

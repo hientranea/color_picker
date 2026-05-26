@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T16:25:37.262654+00:00",
   "updated_at": "2025-06-01T16:25:37.262654+00:00",
-  "slug": "sulu"
+  "slug": "sulu",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "orchid"
+  ],
+  "related": [
+    "green-yellow",
+    "black-olive",
+    "green-leaf"
+  ],
+  "prev_slug": "submarine",
+  "next_slug": "summer-green"
 }

@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:30:08.636883+00:00",
   "updated_at": "2025-06-01T15:30:08.636883+00:00",
-  "slug": "screamin-green"
+  "slug": "screamin-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "orchid"
+  ],
+  "related": [
+    "deep-fir",
+    "forest-green",
+    "green"
+  ],
+  "prev_slug": "scorpion",
+  "next_slug": "sea-green"
 }

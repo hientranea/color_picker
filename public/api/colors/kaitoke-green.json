@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T14:36:54.991185+00:00",
   "updated_at": "2025-06-01T14:36:54.991185+00:00",
-  "slug": "kaitoke-green"
+  "slug": "kaitoke-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "barossa"
+  ],
+  "related": [
+    "bush",
+    "powder-ash",
+    "county-green"
+  ],
+  "prev_slug": "kabul",
+  "next_slug": "kangaroo"
 }

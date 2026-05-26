@@ -75,5 +75,18 @@
   },
   "created_at": "2025-06-01T14:47:41.56224+00:00",
   "updated_at": "2025-06-01T14:47:41.56224+00:00",
-  "slug": "firefly"
+  "slug": "firefly",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "coffee-bean",
+    "donkey-brown"
+  ],
+  "related": [
+    "charlotte",
+    "bondi-blue",
+    "sky-blue"
+  ],
+  "prev_slug": "fire",
+  "next_slug": "flax-smoke"
 }

@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:32:05.227096+00:00",
   "updated_at": "2025-06-01T16:32:05.227096+00:00",
-  "slug": "sundance"
+  "slug": "sundance",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "indigo"
+  ],
+  "related": [
+    "husk",
+    "chicago",
+    "ironside-gray"
+  ],
+  "prev_slug": "summer-green",
+  "next_slug": "surf"
 }

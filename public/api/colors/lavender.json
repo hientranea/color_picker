@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:17:03.882707+00:00",
   "updated_at": "2025-06-01T16:17:03.882707+00:00",
-  "slug": "lavender"
+  "slug": "lavender",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "pine-glade"
+  ],
+  "related": [
+    "pigment-indigo",
+    "honey-flower",
+    "bleached-cedar"
+  ],
+  "prev_slug": "laurel",
+  "next_slug": "lavender-gray"
 }

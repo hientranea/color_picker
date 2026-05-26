@@ -74,5 +74,18 @@
   },
   "created_at": "2025-06-01T16:07:17.969613+00:00",
   "updated_at": "2025-06-01T16:07:17.969613+00:00",
-  "slug": "dusty-gray"
+  "slug": "dusty-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "pewter",
+    "shady-lady"
+  ],
+  "related": [
+    "temptress",
+    "pohutukawa",
+    "blossom"
+  ],
+  "prev_slug": "dune",
+  "next_slug": "eagle"
 }

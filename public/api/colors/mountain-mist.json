@@ -79,5 +79,19 @@
   },
   "created_at": "2025-06-01T15:58:01.720056+00:00",
   "updated_at": "2025-06-01T15:58:01.720056+00:00",
-  "slug": "mountain-mist"
+  "slug": "mountain-mist",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "mountain-mist",
+    "star-dust",
+    "oslo-gray"
+  ],
+  "related": [
+    "purple",
+    "light-wisteria",
+    "salt-box"
+  ],
+  "prev_slug": "mountain-meadow",
+  "next_slug": "mountbatten-pink"
 }

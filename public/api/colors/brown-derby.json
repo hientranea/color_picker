@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:15:30.248906+00:00",
   "updated_at": "2025-06-01T15:15:30.248906+00:00",
-  "slug": "brown-derby"
+  "slug": "brown-derby",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "elephant"
+  ],
+  "related": [
+    "deep-oak",
+    "rock-spray",
+    "almond-frost"
+  ],
+  "prev_slug": "brown-bramble",
+  "next_slug": "brown-pod"
 }

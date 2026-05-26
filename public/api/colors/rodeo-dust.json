@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T16:31:58.036171+00:00",
   "updated_at": "2025-06-01T16:31:58.036171+00:00",
-  "slug": "rodeo-dust"
+  "slug": "rodeo-dust",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "shadow-green"
+  ],
+  "related": [
+    "brown",
+    "concord",
+    "crowshead"
+  ],
+  "prev_slug": "rock-spray",
+  "next_slug": "rolling-stone"
 }

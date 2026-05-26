@@ -76,5 +76,17 @@
   },
   "created_at": "2025-05-18T14:01:50.75352+00:00",
   "updated_at": "2025-05-18T14:01:50.75352+00:00",
-  "slug": "blue"
+  "slug": "blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "bitter-lemon"
+  ],
+  "related": [
+    "blue-bell",
+    "charade",
+    "cinder"
+  ],
+  "prev_slug": "blossom",
+  "next_slug": "blue-bayoux"
 }

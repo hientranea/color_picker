@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T15:32:12.222971+00:00",
   "updated_at": "2025-06-01T15:32:12.222971+00:00",
-  "slug": "royal-purple"
+  "slug": "royal-purple",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "cape-palliser"
+  ],
+  "related": [
+    "cherry-pie",
+    "lavender-purple",
+    "christalle"
+  ],
+  "prev_slug": "royal-heath",
+  "next_slug": "rum"
 }

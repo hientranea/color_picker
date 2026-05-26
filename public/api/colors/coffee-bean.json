@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T14:58:28.410669+00:00",
   "updated_at": "2025-06-01T14:58:28.410669+00:00",
-  "slug": "coffee-bean"
+  "slug": "coffee-bean",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "bush"
+  ],
+  "related": [
+    "red-robin",
+    "mocha",
+    "cognac"
+  ],
+  "prev_slug": "coffee",
+  "next_slug": "cognac"
 }

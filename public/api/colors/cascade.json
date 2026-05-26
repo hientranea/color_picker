@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:53:15.521584+00:00",
   "updated_at": "2025-06-01T15:53:15.521584+00:00",
-  "slug": "cascade"
+  "slug": "cascade",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "zorba"
+  ],
+  "related": [
+    "gable-green",
+    "jet-stream",
+    "cape-cod"
+  ],
+  "prev_slug": "casal",
+  "next_slug": "casper"
 }

@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:17:39.28284+00:00",
   "updated_at": "2025-06-01T16:17:39.28284+00:00",
-  "slug": "hibiscus"
+  "slug": "hibiscus",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "acapulco"
+  ],
+  "related": [
+    "tapestry",
+    "black-rose",
+    "tawny-port"
+  ],
+  "prev_slug": "hemp",
+  "next_slug": "highland"
 }

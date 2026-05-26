@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:14:47.173281+00:00",
   "updated_at": "2025-06-01T16:14:47.173281+00:00",
-  "slug": "bright-red"
+  "slug": "bright-red",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "bondi-blue"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "burnt-maroon"
+  ],
+  "prev_slug": "bright-green",
+  "next_slug": "bright-turquoise"
 }

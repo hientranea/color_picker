@@ -81,5 +81,19 @@
   },
   "created_at": "2025-06-01T16:23:35.734214+00:00",
   "updated_at": "2025-06-01T16:23:35.734214+00:00",
-  "slug": "silver-sand"
+  "slug": "silver-sand",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "pale-slate",
+    "gray",
+    "cape-cod"
+  ],
+  "related": [
+    "picton-blue",
+    "bahama-blue",
+    "curious-blue"
+  ],
+  "prev_slug": "silver-rust",
+  "next_slug": "silver-tree"
 }

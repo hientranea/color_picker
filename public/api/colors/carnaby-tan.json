@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:24:23.634277+00:00",
   "updated_at": "2025-06-01T15:24:23.634277+00:00",
-  "slug": "carnaby-tan"
+  "slug": "carnaby-tan",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "deep-sea-green"
+  ],
+  "related": [
+    "dark-ebony",
+    "zorba",
+    "graphite"
+  ],
+  "prev_slug": "carmine",
+  "next_slug": "casal"
 }

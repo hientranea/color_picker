@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T14:58:13.697043+00:00",
   "updated_at": "2025-06-01T14:58:13.697043+00:00",
-  "slug": "jungle-green"
+  "slug": "jungle-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "well-read"
+  ],
+  "related": [
+    "acapulco",
+    "stromboli",
+    "mountain-meadow"
+  ],
+  "prev_slug": "jumbo",
+  "next_slug": "jungle-mist"
 }

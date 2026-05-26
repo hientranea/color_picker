@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:07:25.393469+00:00",
   "updated_at": "2025-06-01T15:07:25.393469+00:00",
-  "slug": "amazon"
+  "slug": "amazon",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "cosmic"
+  ],
+  "related": [
+    "english-holly",
+    "sea-green",
+    "bush"
+  ],
+  "prev_slug": "aluminium",
+  "next_slug": "americano"
 }

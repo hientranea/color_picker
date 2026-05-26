@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T16:22:42.39524+00:00",
   "updated_at": "2025-06-01T16:22:42.39524+00:00",
-  "slug": "clay-ash"
+  "slug": "clay-ash",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "silver-rust"
+  ],
+  "related": [
+    "camouflage-green",
+    "dell",
+    "black-forest"
+  ],
+  "prev_slug": "claret",
+  "next_slug": "clay-creek"
 }

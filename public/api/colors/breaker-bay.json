@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:25:12.035729+00:00",
   "updated_at": "2025-06-01T15:25:12.035729+00:00",
-  "slug": "breaker-bay"
+  "slug": "breaker-bay",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "au-chico"
+  ],
+  "related": [
+    "faded-jade",
+    "bright-turquoise",
+    "surfie-green"
+  ],
+  "prev_slug": "brandy-rose",
+  "next_slug": "brick-red"
 }

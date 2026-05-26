@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:35:09.758992+00:00",
   "updated_at": "2025-06-01T15:35:09.758992+00:00",
-  "slug": "antique-bronze"
+  "slug": "antique-bronze",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "mosque"
+  ],
+  "related": [
+    "teak",
+    "mandalay",
+    "tussock"
+  ],
+  "prev_slug": "antique-brass",
+  "next_slug": "apple"
 }

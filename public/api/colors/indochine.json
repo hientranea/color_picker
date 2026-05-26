@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T16:25:44.257387+00:00",
   "updated_at": "2025-06-01T16:25:44.257387+00:00",
-  "slug": "indochine"
+  "slug": "indochine",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "science-blue"
+  ],
+  "related": [
+    "reno-sand",
+    "natural-gray",
+    "bracken"
+  ],
+  "prev_slug": "indigo",
+  "next_slug": "international-klein-blue"
 }

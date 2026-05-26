@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:59:04.725709+00:00",
   "updated_at": "2025-06-01T15:59:04.725709+00:00",
-  "slug": "wisteria"
+  "slug": "wisteria",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "mantis"
+  ],
+  "related": [
+    "affair",
+    "grape",
+    "electric-violet"
+  ],
+  "prev_slug": "wine-berry",
+  "next_slug": "wistful"
 }

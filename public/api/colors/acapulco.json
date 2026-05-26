@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:44:12.11999+00:00",
   "updated_at": "2025-06-01T15:44:12.11999+00:00",
-  "slug": "acapulco"
+  "slug": "acapulco",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "turkish-rose"
+  ],
+  "related": [
+    "jungle-green",
+    "mountain-meadow",
+    "burnham"
+  ],
+  "prev_slug": "acadia",
+  "next_slug": "aero-blue"
 }

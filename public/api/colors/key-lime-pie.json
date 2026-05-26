@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:23:43.673761+00:00",
   "updated_at": "2025-06-01T16:23:43.673761+00:00",
-  "slug": "key-lime-pie"
+  "slug": "key-lime-pie",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "turquoise"
+  ],
+  "related": [
+    "crete",
+    "la-rioja",
+    "citron"
+  ],
+  "prev_slug": "keppel",
+  "next_slug": "kilamanjaro"
 }

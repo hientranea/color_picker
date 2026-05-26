@@ -80,5 +80,15 @@
   },
   "created_at": "2025-06-01T14:39:17.326757+00:00",
   "updated_at": "2025-06-01T14:39:17.326757+00:00",
-  "slug": "green"
+  "slug": "green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [],
+  "related": [
+    "deep-fir",
+    "forest-green",
+    "midnight-moss"
+  ],
+  "prev_slug": "gray-suit",
+  "next_slug": "green-haze"
 }

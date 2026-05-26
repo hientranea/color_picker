@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T14:42:09.555685+00:00",
   "updated_at": "2025-06-01T14:42:09.555685+00:00",
-  "slug": "cerulean"
+  "slug": "cerulean",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "rose-of-sharon"
+  ],
+  "related": [
+    "hippie-blue",
+    "daintree",
+    "smalt-blue"
+  ],
+  "prev_slug": "cement",
+  "next_slug": "cerulean-blue"
 }

@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:06:08.412436+00:00",
   "updated_at": "2025-06-01T16:06:08.412436+00:00",
-  "slug": "roof-terracotta"
+  "slug": "roof-terracotta",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "eastern-blue"
+  ],
+  "related": [
+    "thunderbird",
+    "brandy-rose",
+    "mojo"
+  ],
+  "prev_slug": "roman-coffee",
+  "next_slug": "rope"
 }

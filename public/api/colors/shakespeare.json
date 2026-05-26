@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T15:19:12.9415+00:00",
   "updated_at": "2025-06-01T15:19:12.9415+00:00",
-  "slug": "shakespeare"
+  "slug": "shakespeare",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "red-damask"
+  ],
+  "related": [
+    "boston-blue",
+    "gothic",
+    "calypso"
+  ],
+  "prev_slug": "shady-lady",
+  "next_slug": "shamrock"
 }

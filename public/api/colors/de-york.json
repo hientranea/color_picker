@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T15:42:16.950772+00:00",
   "updated_at": "2025-06-01T15:42:16.950772+00:00",
-  "slug": "de-york"
+  "slug": "de-york",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "old-rose"
+  ],
+  "related": [
+    "envy",
+    "fruit-salad",
+    "spanish-green"
+  ],
+  "prev_slug": "dawn",
+  "next_slug": "deep-blue"
 }

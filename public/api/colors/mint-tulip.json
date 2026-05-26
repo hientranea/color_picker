@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T16:27:36.686732+00:00",
   "updated_at": "2025-06-01T16:27:36.686732+00:00",
-  "slug": "mint-tulip"
+  "slug": "mint-tulip",
+  "hue": "teal",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "cherub"
+  ],
+  "related": [
+    "te-papa-green",
+    "ice-cold",
+    "tropical-rain-forest"
+  ],
+  "prev_slug": "mint-green",
+  "next_slug": "mirage"
 }

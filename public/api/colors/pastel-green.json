@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:40:08.593741+00:00",
   "updated_at": "2025-06-01T15:40:08.593741+00:00",
-  "slug": "pastel-green"
+  "slug": "pastel-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "orchid"
+  ],
+  "related": [
+    "deep-fir",
+    "forest-green",
+    "green"
+  ],
+  "prev_slug": "parsley",
+  "next_slug": "patina"
 }

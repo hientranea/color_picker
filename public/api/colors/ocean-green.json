@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:12:24.831496+00:00",
   "updated_at": "2025-06-01T15:12:24.831496+00:00",
-  "slug": "ocean-green"
+  "slug": "ocean-green",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "night-shadz"
+  ],
+  "related": [
+    "eucalyptus",
+    "vista-blue",
+    "silver-tree"
+  ],
+  "prev_slug": "observatory",
+  "next_slug": "oil"
 }

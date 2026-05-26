@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T15:48:45.660331+00:00",
   "updated_at": "2025-06-01T15:48:45.660331+00:00",
-  "slug": "bandicoot"
+  "slug": "bandicoot",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "blue-smoke"
+  ],
+  "related": [
+    "kokoda",
+    "gimblet",
+    "sycamore"
+  ],
+  "prev_slug": "baltic-sea",
+  "next_slug": "barley-corn"
 }

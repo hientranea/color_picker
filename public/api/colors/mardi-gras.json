@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:03:36.400404+00:00",
   "updated_at": "2025-06-01T15:03:36.400404+00:00",
-  "slug": "mardi-gras"
+  "slug": "mardi-gras",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "madras"
+  ],
+  "related": [
+    "fuchsia-pink",
+    "lilac",
+    "violet-eggplant"
+  ],
+  "prev_slug": "mantle",
+  "next_slug": "marigold"
 }

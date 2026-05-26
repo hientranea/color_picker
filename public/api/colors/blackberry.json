@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T15:17:18.19338+00:00",
   "updated_at": "2025-06-01T15:17:18.19338+00:00",
-  "slug": "blackberry"
+  "slug": "blackberry",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "crusoe"
+  ],
+  "related": [
+    "pompadour",
+    "flirt",
+    "lily"
+  ],
+  "prev_slug": "black-russian",
+  "next_slug": "blackcurrant"
 }

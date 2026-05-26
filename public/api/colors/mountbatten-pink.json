@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T16:00:38.845392+00:00",
   "updated_at": "2025-06-01T16:00:38.845392+00:00",
-  "slug": "mountbatten-pink"
+  "slug": "mountbatten-pink",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "laurel"
+  ],
+  "related": [
+    "medium-red-violet",
+    "thunder",
+    "red-violet"
+  ],
+  "prev_slug": "mountain-mist",
+  "next_slug": "muddy-waters"
 }

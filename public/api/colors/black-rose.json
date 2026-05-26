@@ -69,5 +69,17 @@
   },
   "created_at": "2025-06-01T15:30:15.17908+00:00",
   "updated_at": "2025-06-01T15:30:15.17908+00:00",
-  "slug": "black-rose"
+  "slug": "black-rose",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "fun-green"
+  ],
+  "related": [
+    "tapestry",
+    "camelot",
+    "wine-berry"
+  ],
+  "prev_slug": "black-rock",
+  "next_slug": "black-russian"
 }

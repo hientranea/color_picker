@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:00:45.876928+00:00",
   "updated_at": "2025-06-01T16:00:45.876928+00:00",
-  "slug": "blue-bell"
+  "slug": "blue-bell",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "oriental-pink"
+  ],
+  "related": [
+    "blue",
+    "charade",
+    "cinder"
+  ],
+  "prev_slug": "blue-bayoux",
+  "next_slug": "blue-charcoal"
 }

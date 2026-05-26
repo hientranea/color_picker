@@ -82,5 +82,17 @@
   },
   "created_at": "2025-06-01T15:26:52.053866+00:00",
   "updated_at": "2025-06-01T15:26:52.053866+00:00",
-  "slug": "costa-del-sol"
+  "slug": "costa-del-sol",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "spectra"
+  ],
+  "related": [
+    "pesto",
+    "thatch-green",
+    "camouflage"
+  ],
+  "prev_slug": "cosmic",
+  "next_slug": "county-green"
 }

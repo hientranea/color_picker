@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:42:31.781464+00:00",
   "updated_at": "2025-06-01T15:42:31.781464+00:00",
-  "slug": "cinnamon"
+  "slug": "cinnamon",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "pine-green"
+  ],
+  "related": [
+    "dallas",
+    "sandal",
+    "pumpkin-skin"
+  ],
+  "prev_slug": "cinder",
+  "next_slug": "cioccolato"
 }

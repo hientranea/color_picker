@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:53:01.525196+00:00",
   "updated_at": "2025-06-01T15:53:01.525196+00:00",
-  "slug": "portage"
+  "slug": "portage",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "oriental-pink"
+  ],
+  "related": [
+    "gulf-blue",
+    "torea-bay",
+    "bay-of-many"
+  ],
+  "prev_slug": "port-gore",
+  "next_slug": "potters-clay"
 }

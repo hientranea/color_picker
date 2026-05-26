@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:07:11.651527+00:00",
   "updated_at": "2025-06-01T16:07:11.651527+00:00",
-  "slug": "coral-tree"
+  "slug": "coral-tree",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "tradewind"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "coral-reef",
+  "next_slug": "corduroy"
 }

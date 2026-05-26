@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:39:13.023498+00:00",
   "updated_at": "2025-06-01T15:39:13.023498+00:00",
-  "slug": "lima"
+  "slug": "lima",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "red-violet"
+  ],
+  "related": [
+    "christi",
+    "green-leaf",
+    "black-olive"
+  ],
+  "prev_slug": "lily",
+  "next_slug": "lime"
 }

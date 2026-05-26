@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:40:51.229414+00:00",
   "updated_at": "2025-06-01T15:40:51.229414+00:00",
-  "slug": "ship-cove"
+  "slug": "ship-cove",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "mongoose"
+  ],
+  "related": [
+    "perano",
+    "chambray",
+    "periwinkle-gray"
+  ],
+  "prev_slug": "shingle-fawn",
+  "next_slug": "ship-gray"
 }

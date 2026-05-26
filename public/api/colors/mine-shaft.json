@@ -75,5 +75,18 @@
   },
   "created_at": "2025-06-01T15:02:49.694559+00:00",
   "updated_at": "2025-06-01T15:02:49.694559+00:00",
-  "slug": "mine-shaft"
+  "slug": "mine-shaft",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "zanah",
+    "star-dust"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "millbrook",
+  "next_slug": "mineral-green"
 }

@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T15:33:01.990426+00:00",
   "updated_at": "2025-06-01T15:33:01.990426+00:00",
-  "slug": "lonestar"
+  "slug": "lonestar",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "mosque"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "london-hue",
+  "next_slug": "lotus"
 }

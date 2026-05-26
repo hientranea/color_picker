@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:20:45.82602+00:00",
   "updated_at": "2025-06-01T15:20:45.82602+00:00",
-  "slug": "como"
+  "slug": "como",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "old-rose"
+  ],
+  "related": [
+    "algae-green",
+    "spring-green",
+    "everglade"
+  ],
+  "prev_slug": "comet",
+  "next_slug": "conch"
 }

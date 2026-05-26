@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:42:39.404982+00:00",
   "updated_at": "2025-06-01T15:42:39.404982+00:00",
-  "slug": "yukon-gold"
+  "slug": "yukon-gold",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "catalina-blue"
+  ],
+  "related": [
+    "heathered-gray",
+    "bronze-olive",
+    "woodrush"
+  ],
+  "prev_slug": "yellow-metal",
+  "next_slug": "zambezi"
 }

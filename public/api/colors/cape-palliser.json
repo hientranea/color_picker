@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T16:04:48.088002+00:00",
   "updated_at": "2025-06-01T16:04:48.088002+00:00",
-  "slug": "cape-palliser"
+  "slug": "cape-palliser",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "keppel"
+  ],
+  "related": [
+    "silver-rust",
+    "copper-canyon",
+    "paarl"
+  ],
+  "prev_slug": "cape-cod",
+  "next_slug": "cardin-green"
 }

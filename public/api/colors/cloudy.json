@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T16:11:14.001112+00:00",
   "updated_at": "2025-06-01T16:11:14.001112+00:00",
-  "slug": "cloudy"
+  "slug": "cloudy",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "pewter"
+  ],
+  "related": [
+    "mondo",
+    "schooner",
+    "cement"
+  ],
+  "prev_slug": "cloud-burst",
+  "next_slug": "clover"
 }

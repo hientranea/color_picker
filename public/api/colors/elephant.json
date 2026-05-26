@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:48:31.666944+00:00",
   "updated_at": "2025-06-01T14:48:31.666944+00:00",
-  "slug": "elephant"
+  "slug": "elephant",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "metallic-bronze"
+  ],
+  "related": [
+    "horizon",
+    "venice-blue",
+    "lochmara"
+  ],
+  "prev_slug": "electric-violet",
+  "next_slug": "elf-green"
 }

@@ -79,5 +79,18 @@
   },
   "created_at": "2025-06-01T15:08:24.082504+00:00",
   "updated_at": "2025-06-01T15:08:24.082504+00:00",
-  "slug": "cape-cod"
+  "slug": "cape-cod",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "masala",
+    "pale-slate"
+  ],
+  "related": [
+    "plantation",
+    "gable-green",
+    "cascade"
+  ],
+  "prev_slug": "cannon-pink",
+  "next_slug": "cape-palliser"
 }

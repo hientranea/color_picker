@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T14:54:30.448646+00:00",
   "updated_at": "2025-06-01T14:54:30.448646+00:00",
-  "slug": "deep-blue"
+  "slug": "deep-blue",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "limeade"
+  ],
+  "related": [
+    "true-v",
+    "biloba-flower",
+    "scarpa-flow"
+  ],
+  "prev_slug": "de-york",
+  "next_slug": "deep-bronze"
 }

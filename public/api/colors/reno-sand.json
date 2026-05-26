@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T16:07:05.08811+00:00",
   "updated_at": "2025-06-01T16:07:05.08811+00:00",
-  "slug": "reno-sand"
+  "slug": "reno-sand",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "tory-blue"
+  ],
+  "related": [
+    "indochine",
+    "natural-gray",
+    "bracken"
+  ],
+  "prev_slug": "regent-st-blue",
+  "next_slug": "resolution-blue"
 }

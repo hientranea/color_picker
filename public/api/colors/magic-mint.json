@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T16:09:55.546286+00:00",
   "updated_at": "2025-06-01T16:09:55.546286+00:00",
-  "slug": "magic-mint"
+  "slug": "magic-mint",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "paris-white",
+    "edgewater",
+    "salem"
+  ],
+  "prev_slug": "madras",
+  "next_slug": "mahogany"
 }

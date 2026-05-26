@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:02:43.077139+00:00",
   "updated_at": "2025-06-01T15:02:43.077139+00:00",
-  "slug": "blackcurrant"
+  "slug": "blackcurrant",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "teak"
+  ],
+  "related": [
+    "bastille",
+    "jagger",
+    "electric-violet"
+  ],
+  "prev_slug": "blackberry",
+  "next_slug": "bleached-cedar"
 }

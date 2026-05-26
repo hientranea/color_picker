@@ -79,5 +79,19 @@
   },
   "created_at": "2025-06-01T14:54:44.60957+00:00",
   "updated_at": "2025-06-01T14:54:44.60957+00:00",
-  "slug": "mallard"
+  "slug": "mallard",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "celtic",
+    "kumera",
+    "cocoa-brown"
+  ],
+  "related": [
+    "bright-green",
+    "gordons-green",
+    "chalet-green"
+  ],
+  "prev_slug": "malibu",
+  "next_slug": "malta"
 }

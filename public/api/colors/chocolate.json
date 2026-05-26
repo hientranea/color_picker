@@ -78,5 +78,18 @@
   },
   "created_at": "2025-06-01T15:04:48.481083+00:00",
   "updated_at": "2025-06-01T15:04:48.481083+00:00",
-  "slug": "chocolate"
+  "slug": "chocolate",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "tiber",
+    "ferra"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "chinook",
+  "next_slug": "christalle"
 }

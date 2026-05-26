@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T16:30:06.434756+00:00",
   "updated_at": "2025-06-01T16:30:06.434756+00:00",
-  "slug": "coral-reef"
+  "slug": "coral-reef",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "rock-blue"
+  ],
+  "related": [
+    "buttered-rum",
+    "hot-toddy",
+    "horses-neck"
+  ],
+  "prev_slug": "coral-red",
+  "next_slug": "coral-tree"
 }

@@ -75,5 +75,18 @@
   },
   "created_at": "2025-06-01T16:05:25.86846+00:00",
   "updated_at": "2025-06-01T16:05:25.86846+00:00",
-  "slug": "delta"
+  "slug": "delta",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "pewter",
+    "ironside-gray"
+  ],
+  "related": [
+    "gray-nickel",
+    "mist-gray",
+    "olive"
+  ],
+  "prev_slug": "dell",
+  "next_slug": "deluge"
 }

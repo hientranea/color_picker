@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T14:49:07.302066+00:00",
   "updated_at": "2025-06-01T14:49:07.302066+00:00",
-  "slug": "parsley"
+  "slug": "parsley",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "copperfield"
+  ],
+  "related": [
+    "fern",
+    "madang",
+    "laurel"
+  ],
+  "prev_slug": "paris-white",
+  "next_slug": "pastel-green"
 }

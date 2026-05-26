@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:00:42.508512+00:00",
   "updated_at": "2025-06-01T15:00:42.508512+00:00",
-  "slug": "scooter"
+  "slug": "scooter",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "flush-mahogany"
+  ],
+  "related": [
+    "ming",
+    "viking",
+    "jungle-mist"
+  ],
+  "prev_slug": "science-blue",
+  "next_slug": "scorpion"
 }

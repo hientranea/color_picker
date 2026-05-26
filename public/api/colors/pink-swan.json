@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:23:00.42374+00:00",
   "updated_at": "2025-06-01T16:23:00.42374+00:00",
-  "slug": "pink-swan"
+  "slug": "pink-swan",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "green-spring"
+  ],
+  "related": [
+    "burgundy",
+    "turkish-rose",
+    "monarch"
+  ],
+  "prev_slug": "pine-tree",
+  "next_slug": "piper"
 }

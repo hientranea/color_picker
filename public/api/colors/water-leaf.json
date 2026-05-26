@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:04:26.779045+00:00",
   "updated_at": "2025-06-01T16:04:26.779045+00:00",
-  "slug": "water-leaf"
+  "slug": "water-leaf",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "keppel",
+    "riptide",
+    "iceberg"
+  ],
+  "prev_slug": "wasabi",
+  "next_slug": "watercourse"
 }

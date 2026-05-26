@@ -70,5 +70,17 @@
   },
   "created_at": "2025-06-01T16:03:29.31613+00:00",
   "updated_at": "2025-06-01T16:03:29.31613+00:00",
-  "slug": "santas-gray"
+  "slug": "santas-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "martini"
+  ],
+  "related": [
+    "gun-powder",
+    "wistful",
+    "comet"
+  ],
+  "prev_slug": "sanguine-brown",
+  "next_slug": "sapphire"
 }

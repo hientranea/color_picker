@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:57:12.384791+00:00",
   "updated_at": "2025-06-01T15:57:12.384791+00:00",
-  "slug": "medium-purple"
+  "slug": "medium-purple",
+  "hue": "purple",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "olive-drab"
+  ],
+  "related": [
+    "paris-m",
+    "fuchsia-blue",
+    "meteorite"
+  ],
+  "prev_slug": "medium-carmine",
+  "next_slug": "medium-red-violet"
 }

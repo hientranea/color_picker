@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T15:26:30.519646+00:00",
   "updated_at": "2025-06-01T15:26:30.519646+00:00",
-  "slug": "danube"
+  "slug": "danube",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "antique-brass"
+  ],
+  "related": [
+    "oxford-blue",
+    "fun-blue",
+    "havelock-blue"
+  ],
+  "prev_slug": "dallas",
+  "next_slug": "dark-blue"
 }

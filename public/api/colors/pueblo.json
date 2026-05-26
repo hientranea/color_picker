@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-07T08:17:55.316613+00:00",
   "updated_at": "2025-06-07T08:17:55.316613+00:00",
-  "slug": "pueblo"
+  "slug": "pueblo",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "genoa"
+  ],
+  "related": [
+    "toast",
+    "cedar-wood-finish",
+    "rebel"
+  ],
+  "prev_slug": "prussian-blue",
+  "next_slug": "puerto-rico"
 }

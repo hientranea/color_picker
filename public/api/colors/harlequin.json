@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T15:10:38.255108+00:00",
   "updated_at": "2025-06-01T15:10:38.255108+00:00",
-  "slug": "harlequin"
+  "slug": "harlequin",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "fuchsia-pink"
+  ],
+  "related": [
+    "fern-green",
+    "feijoa",
+    "pale-leaf"
+  ],
+  "prev_slug": "half-baked",
+  "next_slug": "havelock-blue"
 }

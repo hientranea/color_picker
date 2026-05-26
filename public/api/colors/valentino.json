@@ -83,5 +83,17 @@
   },
   "created_at": "2025-06-01T15:03:44.241722+00:00",
   "updated_at": "2025-06-01T15:03:44.241722+00:00",
-  "slug": "valentino"
+  "slug": "valentino",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "galliano"
+  ],
+  "related": [
+    "bossanova",
+    "seance",
+    "ripe-plum"
+  ],
+  "prev_slug": "ultramarine",
+  "next_slug": "valhalla"
 }

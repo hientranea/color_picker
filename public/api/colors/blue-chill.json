@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T14:46:58.208601+00:00",
   "updated_at": "2025-06-01T14:46:58.208601+00:00",
-  "slug": "blue-chill"
+  "slug": "blue-chill",
+  "hue": "teal",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "tamarillo"
+  ],
+  "related": [
+    "atoll",
+    "paradiso",
+    "neptune"
+  ],
+  "prev_slug": "blue-charcoal",
+  "next_slug": "blue-diamond"
 }

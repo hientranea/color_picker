@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T14:56:50.702182+00:00",
   "updated_at": "2025-06-01T14:56:50.702182+00:00",
-  "slug": "bay-of-many"
+  "slug": "bay-of-many",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "pesto"
+  ],
+  "related": [
+    "torea-bay",
+    "gulf-blue",
+    "indigo"
+  ],
+  "prev_slug": "bay-leaf",
+  "next_slug": "bazaar"
 }

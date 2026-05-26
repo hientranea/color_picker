@@ -81,5 +81,17 @@
   },
   "created_at": "2025-06-01T16:31:14.49065+00:00",
   "updated_at": "2025-06-01T16:31:14.49065+00:00",
-  "slug": "lily"
+  "slug": "lily",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "shadow-green"
+  ],
+  "related": [
+    "blackberry",
+    "strikemaster",
+    "pompadour"
+  ],
+  "prev_slug": "lilac-bush",
+  "next_slug": "lima"
 }

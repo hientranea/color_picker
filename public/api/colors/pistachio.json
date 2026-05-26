@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T16:02:03.939301+00:00",
   "updated_at": "2025-06-01T16:02:03.939301+00:00",
-  "slug": "pistachio"
+  "slug": "pistachio",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "pizza"
+  ],
+  "related": [
+    "lemon-grass",
+    "bahia",
+    "citrus"
+  ],
+  "prev_slug": "pirate-gold",
+  "next_slug": "pixie-green"
 }

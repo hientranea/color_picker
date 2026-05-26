@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T14:49:00.341998+00:00",
   "updated_at": "2025-06-01T14:49:00.341998+00:00",
-  "slug": "blue-zodiac"
+  "slug": "blue-zodiac",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "punga"
+  ],
+  "related": [
+    "rhino",
+    "downriver",
+    "madison"
+  ],
+  "prev_slug": "blue-whale",
+  "next_slug": "blumine"
 }

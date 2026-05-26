@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:39:40.284169+00:00",
   "updated_at": "2025-06-01T15:39:40.284169+00:00",
-  "slug": "walnut"
+  "slug": "walnut",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "elm"
+  ],
+  "related": [
+    "bistre",
+    "dune",
+    "pine-cone"
+  ],
+  "prev_slug": "waiouru",
+  "next_slug": "wasabi"
 }

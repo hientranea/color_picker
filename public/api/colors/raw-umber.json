@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:37:25.544255+00:00",
   "updated_at": "2025-06-01T15:37:25.544255+00:00",
-  "slug": "raw-umber"
+  "slug": "raw-umber",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "atoll"
+  ],
+  "related": [
+    "driftwood",
+    "stonewall",
+    "makara"
+  ],
+  "prev_slug": "raven",
+  "next_slug": "rebel"
 }

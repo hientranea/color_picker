@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:25:19.763701+00:00",
   "updated_at": "2025-06-01T15:25:19.763701+00:00",
-  "slug": "kabul"
+  "slug": "kabul",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "river-bed"
+  ],
+  "related": [
+    "asphalt",
+    "paco",
+    "copperfield"
+  ],
+  "prev_slug": "juniper",
+  "next_slug": "kaitoke-green"
 }

@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:54:10.378587+00:00",
   "updated_at": "2025-06-01T15:54:10.378587+00:00",
-  "slug": "tosca"
+  "slug": "tosca",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "lochinvar"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "tory-blue",
+  "next_slug": "tower-gray"
 }

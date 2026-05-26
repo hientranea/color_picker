@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:19:47.405859+00:00",
   "updated_at": "2025-06-01T15:19:47.405859+00:00",
-  "slug": "fruit-salad"
+  "slug": "fruit-salad",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "strikemaster"
+  ],
+  "related": [
+    "spanish-green",
+    "envy",
+    "de-york"
+  ],
+  "prev_slug": "fringy-flower",
+  "next_slug": "fuchsia-blue"
 }

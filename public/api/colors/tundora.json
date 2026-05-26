@@ -73,5 +73,18 @@
   },
   "created_at": "2025-06-01T15:16:28.678765+00:00",
   "updated_at": "2025-06-01T15:16:28.678765+00:00",
-  "slug": "tundora"
+  "slug": "tundora",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "gravel",
+    "green-spring"
+  ],
+  "related": [
+    "paprika",
+    "maroon-flush",
+    "shiraz"
+  ],
+  "prev_slug": "tuna",
+  "next_slug": "turkish-rose"
 }

@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:38:37.494338+00:00",
   "updated_at": "2025-06-01T15:38:37.494338+00:00",
-  "slug": "mantis"
+  "slug": "mantis",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "old-rose"
+  ],
+  "related": [
+    "apple",
+    "axolotl",
+    "hippie-green"
+  ],
+  "prev_slug": "mandalay",
+  "next_slug": "mantle"
 }

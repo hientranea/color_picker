@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T16:09:48.270601+00:00",
   "updated_at": "2025-06-01T16:09:48.270601+00:00",
-  "slug": "regent-st-blue"
+  "slug": "regent-st-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "blossom"
+  ],
+  "related": [
+    "botticelli",
+    "anakiwa",
+    "deep-cerulean"
+  ],
+  "prev_slug": "regent-gray",
+  "next_slug": "reno-sand"
 }

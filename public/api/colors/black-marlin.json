@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:09:21.03106+00:00",
   "updated_at": "2025-06-01T15:09:21.03106+00:00",
-  "slug": "black-marlin"
+  "slug": "black-marlin",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "big-stone"
+  ],
+  "related": [
+    "sandrift",
+    "rich-gold",
+    "pickled-bean"
+  ],
+  "prev_slug": "black-forest",
+  "next_slug": "black-olive"
 }

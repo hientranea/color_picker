@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:35:38.466732+00:00",
   "updated_at": "2025-06-01T15:35:38.466732+00:00",
-  "slug": "cedar-wood-finish"
+  "slug": "cedar-wood-finish",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "blue-stone"
+  ],
+  "related": [
+    "pueblo",
+    "toast",
+    "rebel"
+  ],
+  "prev_slug": "cedar",
+  "next_slug": "celadon"
 }

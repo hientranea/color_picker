@@ -77,5 +77,18 @@
   },
   "created_at": "2025-06-01T15:32:19.694863+00:00",
   "updated_at": "2025-06-01T15:32:19.694863+00:00",
-  "slug": "shingle-fawn"
+  "slug": "shingle-fawn",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "killarney",
+    "kangaroo"
+  ],
+  "related": [
+    "sepia",
+    "brown",
+    "concord"
+  ],
+  "prev_slug": "sherwood-green",
+  "next_slug": "ship-cove"
 }

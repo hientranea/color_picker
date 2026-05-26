@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T14:51:58.821843+00:00",
   "updated_at": "2025-06-01T14:51:58.821843+00:00",
-  "slug": "acadia"
+  "slug": "acadia",
+  "hue": "gray",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "blue-charcoal"
+  ],
+  "related": [
+    "marigold",
+    "horses-neck",
+    "buttered-rum"
+  ],
+  "prev_slug": "abbey",
+  "next_slug": "acapulco"
 }

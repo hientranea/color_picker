@@ -79,5 +79,18 @@
   },
   "created_at": "2025-06-01T14:58:42.841303+00:00",
   "updated_at": "2025-06-01T14:58:42.841303+00:00",
-  "slug": "turtle-green"
+  "slug": "turtle-green",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "brown-tumbleweed",
+    "medium-carmine"
+  ],
+  "related": [
+    "sushi",
+    "clover",
+    "limeade"
+  ],
+  "prev_slug": "turquoise-blue",
+  "next_slug": "tuscany"
 }

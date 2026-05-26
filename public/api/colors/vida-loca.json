@@ -77,5 +77,17 @@
   },
   "created_at": "2025-06-01T15:22:02.128888+00:00",
   "updated_at": "2025-06-01T15:22:02.128888+00:00",
-  "slug": "vida-loca"
+  "slug": "vida-loca",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "disco"
+  ],
+  "related": [
+    "chartreuse",
+    "chelsea-cucumber",
+    "camouflage-green"
+  ],
+  "prev_slug": "victoria",
+  "next_slug": "viking"
 }

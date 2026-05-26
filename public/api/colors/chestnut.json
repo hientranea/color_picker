@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T16:19:50.837491+00:00",
   "updated_at": "2025-06-01T16:19:50.837491+00:00",
-  "slug": "chestnut"
+  "slug": "chestnut",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "fountain-blue"
+  ],
+  "related": [
+    "au-chico",
+    "cocoa-brown",
+    "sanguine-brown"
+  ],
+  "prev_slug": "cherub",
+  "next_slug": "chetwode-blue"
 }

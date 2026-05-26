@@ -67,5 +67,17 @@
   },
   "created_at": "2025-06-01T14:37:38.704625+00:00",
   "updated_at": "2025-06-01T14:37:38.704625+00:00",
-  "slug": "science-blue"
+  "slug": "science-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "indochine"
+  ],
+  "related": [
+    "black-pearl",
+    "midnight-blue",
+    "slate-gray"
+  ],
+  "prev_slug": "schooner",
+  "next_slug": "scooter"
 }

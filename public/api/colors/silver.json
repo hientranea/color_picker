@@ -75,5 +75,18 @@
   },
   "created_at": "2025-06-01T16:24:25.581662+00:00",
   "updated_at": "2025-06-01T16:24:25.581662+00:00",
-  "slug": "silver"
+  "slug": "silver",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "silver",
+    "cape-cod"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "silk",
+  "next_slug": "silver-chalice"
 }

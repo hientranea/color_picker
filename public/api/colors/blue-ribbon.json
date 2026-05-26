@@ -73,5 +73,17 @@
   },
   "created_at": "2025-06-01T14:37:45.394594+00:00",
   "updated_at": "2025-06-01T14:37:45.394594+00:00",
-  "slug": "blue-ribbon"
+  "slug": "blue-ribbon",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "galliano"
+  ],
+  "related": [
+    "bunker",
+    "mariner",
+    "tory-blue"
+  ],
+  "prev_slug": "blue-marguerite",
+  "next_slug": "blue-smoke"
 }

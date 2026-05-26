@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T14:55:26.576363+00:00",
   "updated_at": "2025-06-01T14:55:26.576363+00:00",
-  "slug": "graphite"
+  "slug": "graphite",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "black-pearl"
+  ],
+  "related": [
+    "brown",
+    "concord",
+    "crowshead"
+  ],
+  "prev_slug": "grape",
+  "next_slug": "gravel"
 }

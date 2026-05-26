@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:08:52.899853+00:00",
   "updated_at": "2025-06-01T15:08:52.899853+00:00",
-  "slug": "goblin"
+  "slug": "goblin",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "cannon-pink"
+  ],
+  "related": [
+    "fringy-flower",
+    "aqua-forest",
+    "emerald"
+  ],
+  "prev_slug": "go-ben",
+  "next_slug": "golden-grass"
 }

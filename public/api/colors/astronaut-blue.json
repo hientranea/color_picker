@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T14:40:17.219107+00:00",
   "updated_at": "2025-06-01T14:40:17.219107+00:00",
-  "slug": "astronaut-blue"
+  "slug": "astronaut-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "brown-bramble"
+  ],
+  "related": [
+    "chathams-blue",
+    "limed-spruce",
+    "lochmara"
+  ],
+  "prev_slug": "astronaut",
+  "next_slug": "atlantis"
 }

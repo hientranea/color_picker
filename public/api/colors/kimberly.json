@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T15:37:32.60593+00:00",
   "updated_at": "2025-06-01T15:37:32.60593+00:00",
-  "slug": "kimberly"
+  "slug": "kimberly",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "coral-tree"
+  ],
+  "related": [
+    "jumbo",
+    "blue-violet",
+    "port-gore"
+  ],
+  "prev_slug": "killarney",
+  "next_slug": "kingfisher-daisy"
 }

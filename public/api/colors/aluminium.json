@@ -74,5 +74,19 @@
   },
   "created_at": "2025-06-01T16:08:15.337816+00:00",
   "updated_at": "2025-06-01T16:08:15.337816+00:00",
-  "slug": "aluminium"
+  "slug": "aluminium",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "silver-chalice",
+    "spun-pearl",
+    "silk"
+  ],
+  "related": [
+    "astronaut",
+    "bright-gray",
+    "bombay"
+  ],
+  "prev_slug": "alpine",
+  "next_slug": "amazon"
 }

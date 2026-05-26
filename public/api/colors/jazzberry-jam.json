@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T16:05:47.11534+00:00",
   "updated_at": "2025-06-01T16:05:47.11534+00:00",
-  "slug": "jazzberry-jam"
+  "slug": "jazzberry-jam",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "jade"
+  ],
+  "related": [
+    "mulberry",
+    "toledo",
+    "royal-heath"
+  ],
+  "prev_slug": "japanese-maple",
+  "next_slug": "jelly-bean"
 }

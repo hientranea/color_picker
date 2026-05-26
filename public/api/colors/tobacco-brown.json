@@ -79,5 +79,18 @@
   },
   "created_at": "2025-06-01T15:36:07.058669+00:00",
   "updated_at": "2025-06-01T15:36:07.058669+00:00",
-  "slug": "tobacco-brown"
+  "slug": "tobacco-brown",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "amazon",
+    "smoky"
+  ],
+  "related": [
+    "bronco",
+    "domino",
+    "bourbon"
+  ],
+  "prev_slug": "toast",
+  "next_slug": "toledo"
 }

@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T14:52:33.338053+00:00",
   "updated_at": "2025-06-01T14:52:33.338053+00:00",
-  "slug": "rangoon-green"
+  "slug": "rangoon-green",
+  "hue": "green",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "iceberg"
+  ],
+  "related": [
+    "eagle",
+    "kangaroo",
+    "wasabi"
+  ],
+  "prev_slug": "rangitoto",
+  "next_slug": "raven"
 }

@@ -79,5 +79,18 @@
   },
   "created_at": "2025-06-01T14:56:30.033677+00:00",
   "updated_at": "2025-06-01T14:56:30.033677+00:00",
-  "slug": "gondola"
+  "slug": "gondola",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "firefly",
+    "flint"
+  ],
+  "related": [
+    "black",
+    "boulder",
+    "bright-red"
+  ],
+  "prev_slug": "golden-grass",
+  "next_slug": "gordons-green"
 }

@@ -81,5 +81,18 @@
   },
   "created_at": "2025-06-01T15:21:20.652945+00:00",
   "updated_at": "2025-06-01T15:21:20.652945+00:00",
-  "slug": "voodoo"
+  "slug": "voodoo",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "dusty-gray",
+    "fuscous-gray"
+  ],
+  "related": [
+    "mortar",
+    "mardi-gras",
+    "fuchsia-pink"
+  ],
+  "prev_slug": "vivid-violet",
+  "next_slug": "vulcan"
 }

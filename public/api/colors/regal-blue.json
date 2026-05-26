@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T14:40:24.287155+00:00",
   "updated_at": "2025-06-01T14:40:24.287155+00:00",
-  "slug": "regal-blue"
+  "slug": "regal-blue",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "nutmeg-wood-finish"
+  ],
+  "related": [
+    "prussian-blue",
+    "nevada",
+    "blue-whale"
+  ],
+  "prev_slug": "reef-gold",
+  "next_slug": "regent-gray"
 }

@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:06:20.661552+00:00",
   "updated_at": "2025-06-01T15:06:20.661552+00:00",
-  "slug": "sambuca"
+  "slug": "sambuca",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "bottle-green"
+  ],
+  "related": [
+    "indian-tan",
+    "vesuvius",
+    "cioccolato"
+  ],
+  "prev_slug": "salt-box",
+  "next_slug": "san-felix"
 }

@@ -72,5 +72,17 @@
   },
   "created_at": "2025-06-01T15:48:06.909763+00:00",
   "updated_at": "2025-06-01T15:48:06.909763+00:00",
-  "slug": "merlot"
+  "slug": "merlot",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "elm"
+  ],
+  "related": [
+    "rosewood",
+    "sangria",
+    "red-devil"
+  ],
+  "prev_slug": "merlin",
+  "next_slug": "metallic-bronze"
 }

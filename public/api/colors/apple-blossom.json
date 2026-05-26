@@ -80,5 +80,17 @@
   },
   "created_at": "2025-06-01T16:12:59.243458+00:00",
   "updated_at": "2025-06-01T16:12:59.243458+00:00",
-  "slug": "apple-blossom"
+  "slug": "apple-blossom",
+  "hue": "red",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "puerto-rico"
+  ],
+  "related": [
+    "dorado",
+    "medium-carmine",
+    "dark-burgundy"
+  ],
+  "prev_slug": "apple",
+  "next_slug": "aqua-deep"
 }

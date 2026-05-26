@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T16:31:43.400807+00:00",
   "updated_at": "2025-06-01T16:31:43.400807+00:00",
-  "slug": "pizza"
+  "slug": "pizza",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "denim"
+  ],
+  "related": [
+    "hot-toddy",
+    "coral-reef",
+    "buttered-rum"
+  ],
+  "prev_slug": "pixie-green",
+  "next_slug": "plantation"
 }

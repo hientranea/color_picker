@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:13:22.022625+00:00",
   "updated_at": "2025-06-01T15:13:22.022625+00:00",
-  "slug": "green-leaf"
+  "slug": "green-leaf",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "cafe-royale"
+  ],
+  "related": [
+    "black-olive",
+    "lima",
+    "christi"
+  ],
+  "prev_slug": "green-kelp",
+  "next_slug": "green-pea"
 }

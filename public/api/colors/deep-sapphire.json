@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T14:44:28.642198+00:00",
   "updated_at": "2025-06-01T14:44:28.642198+00:00",
-  "slug": "deep-sapphire"
+  "slug": "deep-sapphire",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "antique-bronze"
+  ],
+  "related": [
+    "sapphire",
+    "waikawa-gray",
+    "biscay"
+  ],
+  "prev_slug": "deep-oak",
+  "next_slug": "deep-sea"
 }

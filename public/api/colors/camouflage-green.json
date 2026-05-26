@@ -71,5 +71,17 @@
   },
   "created_at": "2025-06-01T15:40:37.206837+00:00",
   "updated_at": "2025-06-01T15:40:37.206837+00:00",
-  "slug": "camouflage-green"
+  "slug": "camouflage-green",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "waterloo"
+  ],
+  "related": [
+    "clay-ash",
+    "chelsea-cucumber",
+    "dell"
+  ],
+  "prev_slug": "camouflage",
+  "next_slug": "cannon-black"
 }

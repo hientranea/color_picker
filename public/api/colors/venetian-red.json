@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T15:36:56.990558+00:00",
   "updated_at": "2025-06-01T15:36:56.990558+00:00",
-  "slug": "venetian-red"
+  "slug": "venetian-red",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "atoll"
+  ],
+  "related": [
+    "bazaar",
+    "red-devil",
+    "cowboy"
+  ],
+  "prev_slug": "van-cleef",
+  "next_slug": "venice-blue"
 }

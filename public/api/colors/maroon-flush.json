@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T16:26:11.824256+00:00",
   "updated_at": "2025-06-01T16:26:11.824256+00:00",
-  "slug": "maroon-flush"
+  "slug": "maroon-flush",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "shamrock"
+  ],
+  "related": [
+    "shiraz",
+    "tundora",
+    "turkish-rose"
+  ],
+  "prev_slug": "maroon",
+  "next_slug": "maroon-oak"
 }

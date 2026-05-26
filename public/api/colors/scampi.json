@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T15:30:21.898215+00:00",
   "updated_at": "2025-06-01T15:30:21.898215+00:00",
-  "slug": "scampi"
+  "slug": "scampi",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "coral-tree"
+  ],
+  "related": [
+    "port-gore",
+    "melrose",
+    "moody-blue"
+  ],
+  "prev_slug": "saratoga",
+  "next_slug": "scarlet-gum"
 }

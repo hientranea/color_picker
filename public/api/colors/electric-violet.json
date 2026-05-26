@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T15:52:11.967499+00:00",
   "updated_at": "2025-06-01T15:52:11.967499+00:00",
-  "slug": "electric-violet"
+  "slug": "electric-violet",
+  "hue": "purple",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "coral-red"
+  ],
+  "related": [
+    "grape",
+    "jagger",
+    "bastille"
+  ],
+  "prev_slug": "el-salva",
+  "next_slug": "elephant"
 }

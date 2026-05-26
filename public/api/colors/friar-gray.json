@@ -76,5 +76,18 @@
   },
   "created_at": "2025-06-01T15:46:31.762714+00:00",
   "updated_at": "2025-06-01T15:46:31.762714+00:00",
-  "slug": "friar-gray"
+  "slug": "friar-gray",
+  "hue": "gray",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "jumbo",
+    "cherub"
+  ],
+  "related": [
+    "golden-grass",
+    "punga",
+    "pizza"
+  ],
+  "prev_slug": "fresh-eggplant",
+  "next_slug": "fringy-flower"
 }

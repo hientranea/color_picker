@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T16:26:40.262516+00:00",
   "updated_at": "2025-06-01T16:26:40.262516+00:00",
-  "slug": "periwinkle-gray"
+  "slug": "periwinkle-gray",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "zanah"
+  ],
+  "related": [
+    "shark",
+    "chambray",
+    "perano"
+  ],
+  "prev_slug": "perano",
+  "next_slug": "persian-blue"
 }

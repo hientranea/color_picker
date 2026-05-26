@@ -78,5 +78,18 @@
   },
   "created_at": "2025-06-01T14:49:50.539685+00:00",
   "updated_at": "2025-06-01T14:49:50.539685+00:00",
-  "slug": "mirage"
+  "slug": "mirage",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "zeus",
+    "conch"
+  ],
+  "related": [
+    "vulcan",
+    "bunting",
+    "persian-blue"
+  ],
+  "prev_slug": "mint-tulip",
+  "next_slug": "mist-gray"
 }

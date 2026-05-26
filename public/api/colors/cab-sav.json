@@ -79,5 +79,17 @@
   },
   "created_at": "2025-06-01T15:17:25.306398+00:00",
   "updated_at": "2025-06-01T15:17:25.306398+00:00",
-  "slug": "cab-sav"
+  "slug": "cab-sav",
+  "hue": "brown",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "te-papa-green"
+  ],
+  "related": [
+    "monarch",
+    "blossom",
+    "pink-swan"
+  ],
+  "prev_slug": "butterfly-bush",
+  "next_slug": "cabbage-pont"
 }

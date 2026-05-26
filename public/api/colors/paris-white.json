@@ -80,5 +80,19 @@
   },
   "created_at": "2025-06-01T16:33:03.096738+00:00",
   "updated_at": "2025-06-01T16:33:03.096738+00:00",
-  "slug": "paris-white"
+  "slug": "paris-white",
+  "hue": "green",
+  "temperature": "neutral",
+  "complementary_slugs": [
+    "ghost",
+    "conch",
+    "shark"
+  ],
+  "related": [
+    "edgewater",
+    "magic-mint",
+    "salem"
+  ],
+  "prev_slug": "paris-m",
+  "next_slug": "parsley"
 }

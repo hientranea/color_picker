@@ -76,5 +76,17 @@
   },
   "created_at": "2025-06-01T16:26:19.241534+00:00",
   "updated_at": "2025-06-01T16:26:19.241534+00:00",
-  "slug": "indian-khaki"
+  "slug": "indian-khaki",
+  "hue": "orange",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "nepal"
+  ],
+  "related": [
+    "karaka",
+    "nomad",
+    "zeus"
+  ],
+  "prev_slug": "inch-worm",
+  "next_slug": "indian-tan"
 }

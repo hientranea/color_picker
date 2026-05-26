@@ -75,5 +75,17 @@
   },
   "created_at": "2025-06-01T14:50:55.368577+00:00",
   "updated_at": "2025-06-01T14:50:55.368577+00:00",
-  "slug": "blumine"
+  "slug": "blumine",
+  "hue": "blue",
+  "temperature": "cool",
+  "complementary_slugs": [
+    "peanut"
+  ],
+  "related": [
+    "cornflower",
+    "curious-blue",
+    "bahama-blue"
+  ],
+  "prev_slug": "blue-zodiac",
+  "next_slug": "blush"
 }

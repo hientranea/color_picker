@@ -78,5 +78,17 @@
   },
   "created_at": "2025-06-01T15:25:27.112936+00:00",
   "updated_at": "2025-06-01T15:25:27.112936+00:00",
-  "slug": "hemlock"
+  "slug": "hemlock",
+  "hue": "yellow",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "yellow-green"
+  ],
+  "related": [
+    "olivetone",
+    "sycamore",
+    "olive-green"
+  ],
+  "prev_slug": "heavy-metal",
+  "next_slug": "hemp"
 }

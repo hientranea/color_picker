@@ -74,5 +74,17 @@
   },
   "created_at": "2025-06-01T16:04:41.239293+00:00",
   "updated_at": "2025-06-01T16:04:41.239293+00:00",
-  "slug": "rouge"
+  "slug": "rouge",
+  "hue": "pink",
+  "temperature": "warm",
+  "complementary_slugs": [
+    "ocean-green"
+  ],
+  "related": [
+    "siren",
+    "tawny-port",
+    "pale-slate"
+  ],
+  "prev_slug": "roti",
+  "next_slug": "royal-blue"
 }
