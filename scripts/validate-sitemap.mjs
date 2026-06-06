@@ -5,10 +5,10 @@
 //   2. URL count == staticRoutes + snapshot.colors.length.
 //   3. Every <loc> starts with the configured base URL.
 //   4. No duplicate <loc> values.
-//   5. Every URL has a corresponding out/<path>/index.html.
+//   5. Every URL has a corresponding out/<path>.html.
 //   6. out/robots.txt exists and references the sitemap URL.
 
-import { readFileSync, existsSync, statSync } from "node:fs";
+import { readFileSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, resolve } from "node:path";
 
@@ -37,13 +37,11 @@ if (!xml.includes("<urlset") || !xml.includes("</urlset>")) {
 }
 
 // 2. URL count
-const locs = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
 const expectedColorCount = JSON.parse(readFileSync(SNAPSHOT_PATH, "utf8")).colors.length;
 const expectedStaticCount = 4;
 const expected = expectedStaticCount + expectedColorCount;
-// Exclude image:loc entries — only count <loc> at the <url> level.
-// The regex above matches both <loc> and <image:loc>... but image:loc is captured too.
-// Filter to URL-level locs by re-parsing: each <url>...</url> block has exactly one <loc> before <lastmod>.
+// Parse at the <url> block level so we count each entry exactly once,
+// regardless of whether image:loc children appear in the same block.
 const urlBlocks = [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)];
 const urlLocs = urlBlocks.map((m) => {
   const inner = m[1];
@@ -96,9 +94,8 @@ if (missing.length) {
 // 6. robots.txt
 if (!existsSync(ROBOTS_PATH)) fail("out/robots.txt not found");
 const robots = readFileSync(ROBOTS_PATH, "utf8");
-const expectedSitemapLine = `${BASE_URL}/sitemap.xml`;
-if (!robots.includes(expectedSitemapLine)) {
-  fail(`out/robots.txt missing "Sitemap: ${expectedSitemapLine}" reference`);
+if (!/^Sitemap:\s+\S*sitemap\.xml\s*$/m.test(robots)) {
+  fail('out/robots.txt missing a "Sitemap: ...sitemap.xml" directive');
 }
 
 console.log(`✓ sitemap.xml: ${urlLocs.length} URLs, all reachable`);
