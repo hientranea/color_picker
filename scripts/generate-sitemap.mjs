@@ -46,7 +46,7 @@ const colorRoutes = snapshot.colors.map((c) => ({
 }));
 
 function urlEntry(route, lastmod) {
-  const loc = `${BASE_URL}${route.path === "/" ? "/" : route.path}`;
+  const loc = `${BASE_URL}${route.path === "/" ? "" : route.path}`;
   const imageBlocks = route.images
     .map(
       (img) =>
