@@ -14,14 +14,14 @@ Tied to spec: `docs/superpowers/specs/2026-06-06-seo-audit-design.md`.
 
 - In GSC → Sitemaps, submit the path `sitemap.xml` (relative — GSC prepends the property URL).
 - Expected first-fetch result: **Success**, **Discovered URLs ≈ 1004** (4 static + 1000 colors). The number tracks the snapshot, so it will grow as colors are added.
-- Re-submission is automatic on each Google crawl. You only need to manually re-submit if the URL count drops unexpectedly or GSC reports a fetch error.
+- Google re-crawls the submitted sitemap URL on its own schedule; no manual re-submission is needed per deploy. You only need to manually re-submit if the URL count drops unexpectedly or GSC reports a fetch error.
 
 ## 3. Indexing verification (post-deploy)
 
-After each release deploy, spot-check via GSC → URL Inspection:
+After each release deploy, check **all three** of the following via GSC → URL Inspection:
 - `https://colorone.site/`
 - `https://colorone.site/colors`
-- One random `https://colorone.site/colors/<slug>` (pick from the snapshot)
+- One random `https://colorone.site/colors/<slug>` — e.g., run `jq -r '.colors[].slug' app/colors/data/colors.snapshot.json | shuf -n 1` and submit that URL.
 
 Acceptable states:
 - **URL is on Google** — fully indexed.
@@ -37,7 +37,7 @@ Once per release cycle, check GSC → Pages report. These four failure modes can
 
 - **Soft 404** — Google fetched the page and decided it has no real content. In our codebase, this means a color page rendered with empty or placeholder snapshot data. Check `app/colors/data/colors.snapshot.json` for the offending slug.
 - **Duplicate without user-selected canonical** — Google picked a different URL as canonical than we declared. Means the `<link rel="canonical">` tag is missing on that page, or points at a URL Google considers a duplicate of another. Check `app/colors/[color_name]/page.tsx` (or the relevant route's `Metadata` export).
-- **Blocked by robots.txt** — `public/robots.txt` regressed. The current file allows everything except `/api/`; if you see this error on any non-`/api/` URL, the file was edited.
+- **Blocked by robots.txt** — `public/robots.txt` regressed. The current file allows all paths except `/api/` for `User-agent: *` (it also adds crawl-delay rules for `AhrefsBot` and `SemrushBot`, which do not affect Googlebot). If you see this error on any non-`/api/` URL, the file was edited.
 - **Page with redirect** — Google followed a redirect chain instead of indexing the URL directly. Most likely cause: trailing-slash drift between sitemap (no trailing slash) and emitted HTML (`<path>/index.html`). Confirm the sitemap and the canonical tags use the same form.
 
 ## 5. Out of scope
