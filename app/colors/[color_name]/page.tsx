@@ -57,6 +57,9 @@ export async function generateMetadata({
     title: data.seo_meta.title,
     description: data.seo_meta.description,
     keywords: keywords.join(", "),
+    alternates: {
+      canonical: `/colors/${colorSlug}`,
+    },
     openGraph: {
       title: data.seo_meta.title,
       description: data.seo_meta.description,

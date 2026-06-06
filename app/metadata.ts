@@ -28,4 +28,7 @@ export const metadata: Metadata = {
       "Professional color picking and palette management for creative professionals.",
     images: ["/hero-tool.png"],
   },
+  alternates: {
+    canonical: "/",
+  },
 };

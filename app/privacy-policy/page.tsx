@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: "Privacy Policy | ColorOne - Canvas Creative",
   description:
     "Privacy Policy for ColorOne - Canvas Creative, detailing how we collect, use, and protect your information.",
+  alternates: {
+    canonical: "/privacy-policy",
+  },
 };
 
 export default function PrivacyPolicyPage() {

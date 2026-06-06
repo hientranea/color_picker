@@ -9,6 +9,9 @@ export const metadata: Metadata = {
     "Explore the psychology and meaning behind colors. Learn how different colors affect emotions and discover perfect color combinations for your designs.",
   keywords:
     "color meanings, color psychology, color theory, web design colors, emotional impact of colors, color palette generator",
+  alternates: {
+    canonical: "/colors",
+  },
 };
 
 export default async function ColorsIndexPage() {
