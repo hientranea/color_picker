@@ -4,12 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "pnpm run snapshot:colors && node scripts/generate-sitemap.mjs && next build && node scripts/validate-sitemap.mjs",
     "start": "next start",
     "lint": "next lint",
-    "snapshot:colors": "node scripts/snapshot-colors.mjs",
-    "prebuild": "pnpm run snapshot:colors && node scripts/generate-sitemap.mjs",
-    "postbuild": "node scripts/validate-sitemap.mjs"
+    "snapshot:colors": "node scripts/snapshot-colors.mjs"
   },
   "dependencies": {
     "@supabase/auth-helpers-nextjs": "^0.10.0",
